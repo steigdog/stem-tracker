@@ -1,1 +1,3319 @@
-{"generated_at": null, "last_collect": null, "last_verify": null, "sources_monitored": 8, "count": 0, "listings": []}
+{
+  "generated_at": "2026-10-27T22:49:32+00:00",
+  "last_collect": "2026-10-27T22:49:32+00:00",
+  "last_verify": null,
+  "sources_monitored": 8,
+  "count": 62,
+  "listings": [
+    {
+      "id": "2602a48d3d23",
+      "organization": "Johnson & Johnson",
+      "title": "Environmental, Health & Safety (EHS) Summer Intern",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Civil/Environmental",
+        "Environmental Science",
+        "Engineering-Industrial",
+        "Engineering-Chemical",
+        "Engineering-Mechanical",
+        "Public Health"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$27.00-$43.50 per hour (also listed as $23.50-$52.50 per hour)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2026-11-08",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Environmental--Health---Safety--EHS--Summer-Intern_R-104149-1",
+      "summary": "Support the EHS department at a Cincinnati MedTech manufacturing and research site with safety projects, data collection, inspections, document organization, and employee engagement activities.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:09+00:00",
+      "last_updated": "2026-10-27T22:48:09+00:00",
+      "last_verified": "2026-10-27T22:48:09+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Environmental--Health---Safety--EHS--Summer-Intern_R-104149-1"
+        }
+      ]
+    },
+    {
+      "id": "7a96a219968d",
+      "organization": "Johnson & Johnson (Ethicon, Inc.)",
+      "title": "R&D Engineer Intern WCH",
+      "locations": [
+        "Raritan, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Materials Science",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-08-31",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Intern-WCH_R-103053",
+      "summary": "Summer 2027 R&D intern supporting wound closure product development, testing and characterizing prototype medical devices, machining builds, documentation, and surgeon Voice-of-Customer labs.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:49:28+00:00",
+      "last_updated": "2026-10-27T22:49:28+00:00",
+      "last_verified": "2026-10-27T22:49:28+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Intern-WCH_R-103053"
+        }
+      ]
+    },
+    {
+      "id": "ed236bedc458",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Proteins DDS Co-Op",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Electrical",
+        "Engineering-Chemical",
+        "Biology",
+        "Engineering-Industrial",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-DDS-Co-Op_R-104175-1",
+      "summary": "Six-month co-op supporting design, testing, and characterization of drug delivery systems, combination products, and medical devices, including test methods, fixtures, and data analysis.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:16+00:00",
+      "last_updated": "2026-10-27T22:48:16+00:00",
+      "last_verified": "2026-10-27T22:48:16+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-DDS-Co-Op_R-104175-1"
+        }
+      ]
+    },
+    {
+      "id": "1596edc66d25",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Proteins Cell Line Engineering Co-Op",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-Cell-Line-Engineering-Co-Op_R-098568",
+      "summary": "Six-month co-op investigating stress and secretory pathways in CHO cells to improve biotherapeutic protein expression using cell culture and molecular biology techniques.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:20+00:00",
+      "last_updated": "2026-10-27T22:48:20+00:00",
+      "last_verified": "2026-10-27T22:48:20+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-Cell-Line-Engineering-Co-Op_R-098568"
+        }
+      ]
+    },
+    {
+      "id": "b6d64174efac",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Proteins CEAS Automation Co-Op",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Electrical",
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580",
+      "summary": "Six-month co-op developing Python-based modular laboratory automation scheduling software, integrating instruments and robotics for large molecule biotherapeutic development workflows.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:24+00:00",
+      "last_updated": "2026-10-27T22:48:24+00:00",
+      "last_verified": "2026-10-27T22:48:24+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580"
+        }
+      ]
+    },
+    {
+      "id": "355a3c923297",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Proteins CEAS Co-Op",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Co-Op_R-104194",
+      "summary": "Six-month full-time co-op supporting CHO cell line engineering, proteomics, metabolomics, LC-MS/MS analytics, and assay automation for biologics development and manufacturing.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:28+00:00",
+      "last_updated": "2026-10-27T22:48:28+00:00",
+      "last_verified": "2026-10-27T22:48:28+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Co-Op_R-104194"
+        }
+      ]
+    },
+    {
+      "id": "b1018a006c5f",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Proteins API USP Co-Op",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-API-USP-Co-Op_R-104181",
+      "summary": "Six-month co-op supporting upstream process development for CHO mammalian cell culture, bioreactor studies, dynamic feeding strategies, process modeling, and data analytics.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:32+00:00",
+      "last_updated": "2026-10-27T22:48:32+00:00",
+      "last_verified": "2026-10-27T22:48:32+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-API-USP-Co-Op_R-104181"
+        }
+      ]
+    },
+    {
+      "id": "835c1c43a03b",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Digital Ops & Strat Co-Op",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Digital-Ops---Strat-Co-Op_R-098540",
+      "summary": "Six-month on-site co-op applying spectroscopy, PAT, multivariate modeling, and Python data science to bioprocess analytics in cross-functional teams.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:36+00:00",
+      "last_updated": "2026-10-27T22:48:36+00:00",
+      "last_verified": "2026-10-27T22:48:36+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Digital-Ops---Strat-Co-Op_R-098540"
+        }
+      ]
+    },
+    {
+      "id": "c2ceae20a598",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Proteins API DSP HTPD Co-Op",
+      "locations": [
+        "Malvern, PA",
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Chemistry",
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-API-DSP-HTPD-Co-Op_R-104168",
+      "summary": "Six-month full-time co-op supporting high-throughput process development, protein purification, chromatography, bioconjugation, automation, and data analysis for biologics development.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:40+00:00",
+      "last_updated": "2026-10-27T22:48:40+00:00",
+      "last_verified": "2026-10-27T22:48:40+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-API-DSP-HTPD-Co-Op_R-104168"
+        }
+      ]
+    },
+    {
+      "id": "f894b7bf3f67",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Proteins AD BMD Co-Op",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Pharmaceutical Sciences",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-AD-BMD-Co-Op_R-104436-1",
+      "summary": "Six-month on-site co-op supporting bioassay method development, cell line characterization, HCP characterization, and Fc effector function assays for antibody therapeutics.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:44+00:00",
+      "last_updated": "2026-10-27T22:48:44+00:00",
+      "last_verified": "2026-10-27T22:48:44+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-AD-BMD-Co-Op_R-104436-1"
+        }
+      ]
+    },
+    {
+      "id": "70a342e86948",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Proteins Development Material Sciences Co-Op",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-Development-Material-Sciences-Co-Op_R-098610",
+      "summary": "Six-month co-op developing automated sample preparation methods for LC-MS testing of cell culture media and bioreactor samples, supporting analytical method development and data analysis.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:48+00:00",
+      "last_updated": "2026-10-27T22:48:48+00:00",
+      "last_verified": "2026-10-27T22:48:48+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-Development-Material-Sciences-Co-Op_R-098610"
+        }
+      ]
+    },
+    {
+      "id": "949e540433e4",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Bus Ops Co-Op",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Chemistry",
+        "Pharmaceutical Sciences",
+        "Engineering-Industrial",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Bus-Ops-Co-Op_R-104440",
+      "summary": "Six-month co-op supporting business operations, budget and capital tracking, data analytics, dashboard development, and process improvement within J&J Innovative Medicine's Cell & Gene Therapy and Protein Development.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:53+00:00",
+      "last_updated": "2026-10-27T22:48:53+00:00",
+      "last_verified": "2026-10-27T22:48:53+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Bus-Ops-Co-Op_R-104440"
+        }
+      ]
+    },
+    {
+      "id": "501ed1a7059b",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Clinical Supply Chain Planning Co-Op",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Pharmaceutical Sciences",
+        "Biology",
+        "Chemistry",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Clinical-Supply-Chain-Planning-Co-Op_R-098331",
+      "summary": "Six-month co-op supporting clinical supply chain planning, leading SAP planning data clean-up and validation, and driving process improvements within R&D drug development.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:48:57+00:00",
+      "last_updated": "2026-10-27T22:48:57+00:00",
+      "last_verified": "2026-10-27T22:48:57+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Clinical-Supply-Chain-Planning-Co-Op_R-098331"
+        }
+      ]
+    },
+    {
+      "id": "898ec37dae0d",
+      "organization": "Johnson & Johnson",
+      "title": "TDS CGT-Viral Vector Development Co-Op",
+      "locations": [
+        "Malvern, PA",
+        "Spring House, PA",
+        "San Diego, CA"
+      ],
+      "states": [
+        "PA",
+        "CA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Biomedical",
+        "Pharmaceutical Sciences",
+        "Biochemistry",
+        "Chemistry",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50 hr to $52.50 hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Viral-Vector-Development-Co-Op_R-104407",
+      "summary": "Six-month co-op supporting upstream and downstream viral vector process development for cell and gene therapies, including experiments, DoE, data analysis, and documentation.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:49:02+00:00",
+      "last_updated": "2026-10-27T22:49:02+00:00",
+      "last_verified": "2026-10-27T22:49:02+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Viral-Vector-Development-Co-Op_R-104407"
+        }
+      ]
+    },
+    {
+      "id": "e4727417aaa5",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Clinical Operations Co-Op",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Clinical-Operations-Co-Op_R-098557",
+      "summary": "Six-month co-op supporting Pilot Plant and manufacturing operations, NPI technology transfers, capital projects, continuous improvement, and experimental data analysis in Malvern, PA.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:49:05+00:00",
+      "last_updated": "2026-10-27T22:49:05+00:00",
+      "last_verified": "2026-10-27T22:49:05+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Clinical-Operations-Co-Op_R-098557"
+        }
+      ]
+    },
+    {
+      "id": "cb7f39d8663a",
+      "organization": "Johnson & Johnson",
+      "title": "TDS CGT-Cell Development Co-Op",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Pharmaceutical Sciences",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-CGT-Cell-Development-Co-Op_R-104293",
+      "summary": "Six-month co-op supporting CAR-T cell therapy process development, focusing on cryopreservation, cell culture, PBMC isolation, and data analysis.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:49:09+00:00",
+      "last_updated": "2026-10-27T22:49:09+00:00",
+      "last_verified": "2026-10-27T22:49:09+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-CGT-Cell-Development-Co-Op_R-104293"
+        }
+      ]
+    },
+    {
+      "id": "0c36faebc5e3",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Digital Ops & Strat Intern",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Digital-Ops---Strat-Intern_R-098544",
+      "summary": "Co-op supporting bioprocess advanced analytics, spectroscopy-based Process Analytical Technology, multivariate modeling, and data science for bioproduction at J&J Innovative Medicine.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:49:13+00:00",
+      "last_updated": "2026-10-27T22:49:13+00:00",
+      "last_verified": "2026-10-27T22:49:13+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Digital-Ops---Strat-Intern_R-098544"
+        }
+      ]
+    },
+    {
+      "id": "52b587c2de05",
+      "organization": "Johnson & Johnson",
+      "title": "Immunology Medical Affairs Clinical Project Scientist Internship",
+      "locations": [
+        "Horsham, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Pharmaceutical Sciences",
+        "Public Health"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Immunology-Medical-Affairs-Clinical-Project-Scientist-Internship_R-102793",
+      "summary": "Intern supports investigator-initiated, collaborative, and company-sponsored immunology studies with the US Medical Affairs clinical project scientist team, culminating in a presentation to senior leadership.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:49:19+00:00",
+      "last_updated": "2026-10-27T22:49:19+00:00",
+      "last_verified": "2026-10-27T22:49:19+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Immunology-Medical-Affairs-Clinical-Project-Scientist-Internship_R-102793"
+        }
+      ]
+    },
+    {
+      "id": "bd49700e88f1",
+      "organization": "Johnson & Johnson",
+      "title": "Research & Development Intern",
+      "locations": [
+        "Irvine, California"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$27.00/hr to $61.00/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Research---Development-Intern_R-104120",
+      "summary": "Support Biosense Webster project teams developing electrophysiology catheters and systems, including design, requirements, test method development, and verification and validation testing.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:49:24+00:00",
+      "last_updated": "2026-10-27T22:49:24+00:00",
+      "last_verified": "2026-10-27T22:49:24+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Research---Development-Intern_R-104120"
+        }
+      ]
+    },
+    {
+      "id": "9bd3e6be36a3",
+      "organization": "Johnson & Johnson",
+      "title": "Laboratory Automation Systems Intern",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027",
+      "summary": "Inventory and document laboratory automation systems at the Spring House campus, organize technical information, and identify LLM use cases for automation knowledge management, May-August 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:49:32+00:00",
+      "last_updated": "2026-10-27T22:49:32+00:00",
+      "last_verified": "2026-10-27T22:49:32+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027"
+        }
+      ]
+    },
+    {
+      "id": "8ef3f8e7e4b9",
+      "organization": "Moderna",
+      "title": "Intern, Biometrics",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Public Health"
+      ],
+      "class_years": [
+        "Graduate student",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865",
+      "summary": "Summer intern developing AI/ML, LLM, and agentic solutions for clinical data analysis, statistical programming, and workflow automation on Moderna's biometrics team.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:43:49+00:00",
+      "last_updated": "2026-10-27T22:43:49+00:00",
+      "last_verified": "2026-10-27T22:43:49+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865"
+        }
+      ]
+    },
+    {
+      "id": "63d77a379606",
+      "organization": "Moderna",
+      "title": "Intern, Biobanking",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Chemistry"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Intern--Biobanking_R19852",
+      "summary": "Full-time lab-based co-op supporting biospecimen receipt, storage, tracking via LIMS, automation workflows, and sample reconciliation for Moderna's Biobank Operations team, January to June 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:43:53+00:00",
+      "last_updated": "2026-10-27T22:43:53+00:00",
+      "last_verified": "2026-10-27T22:43:53+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Intern--Biobanking_R19852"
+        }
+      ]
+    },
+    {
+      "id": "8e541c017bd5",
+      "organization": "Moderna",
+      "title": "Intern, Biospecimen Logistics",
+      "locations": [
+        "Princeton, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Princeton-New-Jersey/Intern--Biospecimen-Logistics_R19854",
+      "summary": "Summer 2027 intern supporting Moderna's Global Biospecimen Logistics team with clinical kitting operations, SharePoint maintenance, data reporting, process improvement, and generative AI applications.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:43:57+00:00",
+      "last_updated": "2026-10-27T22:43:57+00:00",
+      "last_verified": "2026-10-27T22:43:57+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Princeton-New-Jersey/Intern--Biospecimen-Logistics_R19854"
+        }
+      ]
+    },
+    {
+      "id": "fcf152e9b805",
+      "organization": "Moderna",
+      "title": "Intern, Oncology Biostatistics",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Oncology-Biostatistics_R19867-1",
+      "summary": "Graduate intern works with a senior statistician on clinical trial and data analytics research, implementing simulations and presenting results, in Moderna's Biostatistics and Programming team.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:00+00:00",
+      "last_updated": "2026-10-27T22:44:00+00:00",
+      "last_verified": "2026-10-27T22:44:00+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Oncology-Biostatistics_R19867-1"
+        }
+      ]
+    },
+    {
+      "id": "fed1fdfd83e2",
+      "organization": "Moderna",
+      "title": "Intern, Infectious Disease Epidemiology",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Infectious-Disease-Epidemiology_R19878",
+      "summary": "PhD/ScD intern conducting epidemiologic analyses on infectious disease burden to support Moderna's vaccine development programs, communicating findings to cross-functional teams.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:08+00:00",
+      "last_updated": "2026-10-27T22:44:08+00:00",
+      "last_verified": "2026-10-27T22:44:08+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Infectious-Disease-Epidemiology_R19878"
+        }
+      ]
+    },
+    {
+      "id": "8cddfdc9a5a9",
+      "organization": "Moderna",
+      "title": "2027 Intern, Data Management",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Public Health",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--Data-Management_R20100",
+      "summary": "Support Data Management Leads with clinical data review, documentation, testing, reconciliation, and quality control across the clinical study lifecycle, January 19 to June 25, 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:12+00:00",
+      "last_updated": "2026-10-27T22:44:12+00:00",
+      "last_verified": "2026-10-27T22:44:12+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--Data-Management_R20100"
+        }
+      ]
+    },
+    {
+      "id": "05cfd5b53c23",
+      "organization": "Moderna",
+      "title": "Intern, CMC Development (Summer 2027)",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Biochemistry",
+        "Public Health",
+        "Mathematics & Statistics",
+        "Biology",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Intern--CMC-Development--Summer-2027-_R19683",
+      "summary": "Summer intern on CMC Development teams designing manufacturing processes for mRNA medicines, including mRNA synthesis, lipid nanoparticle assembly, formulation, scale-up, and process control experiments.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:17+00:00",
+      "last_updated": "2026-10-27T22:44:17+00:00",
+      "last_verified": "2026-10-27T22:44:17+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Intern--CMC-Development--Summer-2027-_R19683"
+        }
+      ]
+    },
+    {
+      "id": "75a2af996fbf",
+      "organization": "Moderna",
+      "title": "Intern, Applied Technologies (Summer 2027)",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Biology",
+        "Engineering-Mechanical",
+        "Engineering-Electrical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734",
+      "summary": "Support design, development, and testing of laboratory automation, robotics, and software systems for Moderna's Technical Development, analyzing data and presenting findings.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:21+00:00",
+      "last_updated": "2026-10-27T22:44:21+00:00",
+      "last_verified": "2026-10-27T22:44:21+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734"
+        }
+      ]
+    },
+    {
+      "id": "f8b4f2a349ba",
+      "organization": "Moderna",
+      "title": "Intern, Global Safety Epidemiology, Infectious Rare Disease",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Global-Safety-Epidemiology--Infectious-Rare-Disease_R19876",
+      "summary": "PhD/ScD epidemiology intern conducting epidemiologic research for vaccine safety monitoring, signal evaluation, and pharmacovigilance, presenting findings from a safety-related project.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:25+00:00",
+      "last_updated": "2026-10-27T22:44:25+00:00",
+      "last_verified": "2026-10-27T22:44:25+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Global-Safety-Epidemiology--Infectious-Rare-Disease_R19876"
+        }
+      ]
+    },
+    {
+      "id": "bf9d0d145eff",
+      "organization": "Moderna",
+      "title": "Co-Op, CMC Development (Spring 2027)",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Biochemistry",
+        "Public Health",
+        "Mathematics & Statistics",
+        "Biology",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--CMC-Development--Spring-2027-_R19684",
+      "summary": "Co-op on CMC Development teams designing manufacturing processes for mRNA medicines, including mRNA synthesis, lipid nanoparticle assembly, formulation, scale-up, and process control strategies.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:30+00:00",
+      "last_updated": "2026-10-27T22:44:30+00:00",
+      "last_verified": "2026-10-27T22:44:30+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--CMC-Development--Spring-2027-_R19684"
+        }
+      ]
+    },
+    {
+      "id": "7bc55a235307",
+      "organization": "Moderna",
+      "title": "Co-Op, Applied Technologies (Spring 2027)",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Electrical",
+        "Engineering-Industrial",
+        "Biology"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Applied-Technologies--Spring-2027-_R19735",
+      "summary": "Co-op supporting design, development, and testing of laboratory automation, robotics, and software systems for CMC Development, January 18 to June 25, 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:34+00:00",
+      "last_updated": "2026-10-27T22:44:34+00:00",
+      "last_verified": "2026-10-27T22:44:34+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Applied-Technologies--Spring-2027-_R19735"
+        }
+      ]
+    },
+    {
+      "id": "35e462a0823d",
+      "organization": "Moderna",
+      "title": "Co-Op, Bioanalytics",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Biochemistry",
+        "Public Health",
+        "Mathematics & Statistics",
+        "Biology",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Bioanalytics_R19859",
+      "summary": "Co-op supporting QC review of bioanalytical and molecular assay data (LC-MS, LBA, RT-qPCR) for data integrity and GLP/GcLP compliance, January 18 to June 25, 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:38+00:00",
+      "last_updated": "2026-10-27T22:44:54+00:00",
+      "last_verified": "2026-10-27T22:44:38+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Bioanalytics_R19859"
+        },
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Bioanalytics_R19882"
+        }
+      ]
+    },
+    {
+      "id": "cd49029dcf57",
+      "organization": "Moderna",
+      "title": "Co-Op, Biometrics",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Public Health"
+      ],
+      "class_years": [
+        "Graduate student",
+        "Senior",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Biometrics_R19864",
+      "summary": "Develop and evaluate AI/ML, LLM, and agentic solutions for clinical data analysis, statistical programming, and workflow automation with Moderna's Statistical Innovation & Data Analytics team.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:42+00:00",
+      "last_updated": "2026-10-27T22:44:42+00:00",
+      "last_verified": "2026-10-27T22:44:42+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Biometrics_R19864"
+        }
+      ]
+    },
+    {
+      "id": "33fb38d2650e",
+      "organization": "Moderna",
+      "title": "Co-Op, Bacteriology",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring",
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Bacteriology_R19883",
+      "summary": "Six-month co-op (Jan 18 to June 25, 2027) on Moderna's Bacterial Immunology team, executing and optimizing antibody binding and functional bacterial assays for mRNA vaccine programs.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:46+00:00",
+      "last_updated": "2026-10-27T22:44:46+00:00",
+      "last_verified": "2026-10-27T22:44:46+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Bacteriology_R19883"
+        }
+      ]
+    },
+    {
+      "id": "5523e32555bf",
+      "organization": "Moderna",
+      "title": "Co-Op, Clinical Cytometry",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Clinical-Cytometry_R19860",
+      "summary": "Co-op in Moderna's Flow Cytometry Group performing high-parameter intracellular cytokine staining assays, PBMC donor screening, stability studies, and spectral cytometry data analysis from January to June 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:50+00:00",
+      "last_updated": "2026-10-27T22:44:50+00:00",
+      "last_verified": "2026-10-27T22:44:50+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Clinical-Cytometry_R19860"
+        }
+      ]
+    },
+    {
+      "id": "0debbf442844",
+      "organization": "Moderna",
+      "title": "Co-Op, Research Engineering and AI Integration",
+      "locations": [
+        "Cambridge, Massachusetts"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring",
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Mechanical",
+        "Engineering-Electrical",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Engineering-and-AI-Integration_R19893",
+      "summary": "Co-op on Moderna's Research team designing, testing, and integrating automated systems and technologies for drug development and manufacturing, January 18 to June 25, 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:44:58+00:00",
+      "last_updated": "2026-10-27T22:44:58+00:00",
+      "last_verified": "2026-10-27T22:44:58+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Engineering-and-AI-Integration_R19893"
+        }
+      ]
+    },
+    {
+      "id": "db13df5563ca",
+      "organization": "Moderna",
+      "title": "Co-Op, Platform Biology Integration",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Platform-Biology-Integration_R19890",
+      "summary": "Co-op optimizing and standardizing NGS library preparation workflows to characterize and screen mRNA designs, including automation compatibility, quality control, and protocol development.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:01+00:00",
+      "last_updated": "2026-10-27T22:45:01+00:00",
+      "last_verified": "2026-10-27T22:45:01+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Platform-Biology-Integration_R19890"
+        }
+      ]
+    },
+    {
+      "id": "7898ca4e9517",
+      "organization": "Moderna",
+      "title": "Co-Op, Immuno-Oncology Research",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Immuno-Oncology-Research_R19897",
+      "summary": "Full-time co-op using cell and molecular biology techniques such as cell culture, ELISA/MSD, and flow cytometry to support development of mRNA-based cancer immunotherapies.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:05+00:00",
+      "last_updated": "2026-10-27T22:45:05+00:00",
+      "last_verified": "2026-10-27T22:45:05+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Immuno-Oncology-Research_R19897"
+        }
+      ]
+    },
+    {
+      "id": "54fe3f6db891",
+      "organization": "Moderna",
+      "title": "Co-Op, Development Resource Management",
+      "locations": [
+        "Cambridge, Massachusetts"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Development-Resource-Management_R19871",
+      "summary": "Full-time co-op (Jan–Jun 2027) supporting resource planning across Moderna Development through analyses, reporting, data validation, UAT, and documentation of a Resource Management business solution.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:09+00:00",
+      "last_updated": "2026-10-27T22:45:09+00:00",
+      "last_verified": "2026-10-27T22:45:09+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Development-Resource-Management_R19871"
+        }
+      ]
+    },
+    {
+      "id": "83b1488f3841",
+      "organization": "Moderna",
+      "title": "Co-Op, Immuno-Assays and CBA",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Immuno-Assays-and-CBA_R19861",
+      "summary": "Support Moderna's Clinical Biomarker Laboratory immunoassay group with ligand-binding assay development, MSD-based immunoassays, reagent preparation, and data analysis in a regulated bioanalytical lab.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:13+00:00",
+      "last_updated": "2026-10-27T22:45:13+00:00",
+      "last_verified": "2026-10-27T22:45:13+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Immuno-Assays-and-CBA_R19861"
+        }
+      ]
+    },
+    {
+      "id": "168faece4c6c",
+      "organization": "Moderna",
+      "title": "Co-Op, Biobanking",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Chemistry"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Biobanking_R19853",
+      "summary": "Full-time co-op (Jan 18 - Jun 25, 2027) supporting Biobank Operations with biospecimen handling, LIMS sample tracking, and automation workflows in a regulated lab.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:17+00:00",
+      "last_updated": "2026-10-27T22:45:17+00:00",
+      "last_verified": "2026-10-27T22:45:17+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Biobanking_R19853"
+        }
+      ]
+    },
+    {
+      "id": "21f95c78806d",
+      "organization": "Moderna",
+      "title": "Co-Op, Protein Design",
+      "locations": [
+        "Cambridge, Massachusetts",
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Protein-Design_R19884",
+      "summary": "Full-time structural biology co-op supporting X-ray crystallography, protein preparation, structure modeling, and lab robotics at Moderna's Norwood site, January to June 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:21+00:00",
+      "last_updated": "2026-10-27T22:45:21+00:00",
+      "last_verified": "2026-10-27T22:45:21+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Protein-Design_R19884"
+        }
+      ]
+    },
+    {
+      "id": "7e2230e07d0c",
+      "organization": "Moderna",
+      "title": "Co-Op, Compliance and Data QC",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Compliance-and-Data-QC_R19862",
+      "summary": "Support laboratory compliance, documentation review, training records, and audit readiness in Moderna's GCLP clinical laboratory in Norwood, MA, from January to June 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:24+00:00",
+      "last_updated": "2026-10-27T22:45:24+00:00",
+      "last_verified": "2026-10-27T22:45:24+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Compliance-and-Data-QC_R19862"
+        }
+      ]
+    },
+    {
+      "id": "b0bcd31d5559",
+      "organization": "Moderna",
+      "title": "Co-Op, Bioanalytical and Molecular Assays",
+      "locations": [
+        "Norwood, Massachusetts"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring",
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biochemistry",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Bioanalytical-and-Molecular-Assays_R19857",
+      "summary": "Co-op student supports bioanalytical LC-MS/MS sample preparation, analysis, method development, and regulated documentation for clinical programs from January to June 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:28+00:00",
+      "last_updated": "2026-10-27T22:45:28+00:00",
+      "last_verified": "2026-10-27T22:45:28+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Bioanalytical-and-Molecular-Assays_R19857"
+        }
+      ]
+    },
+    {
+      "id": "5d3dbfa1d8da",
+      "organization": "Moderna",
+      "title": "Co-Op, Clinical Biomarker Biostatistics",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Public Health",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Clinical-Biomarker-Biostatistics_R19869",
+      "summary": "PhD biostatistics co-op developing causal inference and statistical methods to evaluate biomarkers as correlates of protection and surrogate endpoints for mRNA vaccines and therapeutics.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:32+00:00",
+      "last_updated": "2026-10-27T22:45:32+00:00",
+      "last_verified": "2026-10-27T22:45:32+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Clinical-Biomarker-Biostatistics_R19869"
+        }
+      ]
+    },
+    {
+      "id": "a31625add1bb",
+      "organization": "Moderna",
+      "title": "Co-Op, In Vitro Biology",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Biomedical",
+        "Biochemistry",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--In-Vitro-Biology_R19885-1",
+      "summary": "Full-time co-op (Jan 18-Jun 25, 2027) developing and optimizing plate-based cell assays and microscopy workflows to evaluate novel drug delivery technologies.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:36+00:00",
+      "last_updated": "2026-10-27T22:45:36+00:00",
+      "last_verified": "2026-10-27T22:45:36+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--In-Vitro-Biology_R19885-1"
+        }
+      ]
+    },
+    {
+      "id": "b2809aee31b9",
+      "organization": "Moderna",
+      "title": "Co-Op, Research Analytics",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Analytics_R19899",
+      "summary": "Full-time winter-spring co-op developing, optimizing, and miniaturizing a multiplex Luminex immunoassay for preclinical antibody-binding assessment and comparing it with an established 384-well ELISA.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:47+00:00",
+      "last_updated": "2026-10-27T22:45:47+00:00",
+      "last_verified": "2026-10-27T22:45:47+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Analytics_R19899"
+        }
+      ]
+    },
+    {
+      "id": "aab3f51f10b9",
+      "organization": "Moderna",
+      "title": "Co-Op, Facilities, Plant & Project Engineering",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Mechanical",
+        "Engineering-Electrical",
+        "Engineering-Industrial",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Facilities--Plant---Project-Engineering_R19952",
+      "summary": "Winter/spring co-op (Jan 18–Jun 25, 2027) supporting engineering, facilities, maintenance, and digital engineering projects in Moderna's GMP manufacturing environment.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:45:51+00:00",
+      "last_updated": "2026-10-27T22:45:51+00:00",
+      "last_verified": "2026-10-27T22:45:51+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Facilities--Plant---Project-Engineering_R19952"
+        }
+      ]
+    },
+    {
+      "id": "b983cf972387",
+      "organization": "Moderna",
+      "title": "Co-Op, Business Operations & Operational Excellence",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Industrial",
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Business-Operations---Operational-Excellence_R19950-1",
+      "summary": "Full-time co-op (Jan 18–Jun 25, 2027) supporting CMC Operations with operational analytics, KPIs, dashboards, Lean continuous improvement, and AI-enabled solutions across manufacturing and supply chain.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:46:00+00:00",
+      "last_updated": "2026-10-27T22:46:00+00:00",
+      "last_verified": "2026-10-27T22:46:00+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Business-Operations---Operational-Excellence_R19950-1"
+        }
+      ]
+    },
+    {
+      "id": "889a2948cc10",
+      "organization": "Moderna",
+      "title": "Co-Op, Automation, Digital Manufacturing & Controls",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Automation--Digital-Manufacturing---Controls_R19951",
+      "summary": "Winter/spring co-op supporting automation, controls, manufacturing data systems, dashboards, integrations, and GMP validation activities for Moderna's manufacturing operations from January to June 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:46:04+00:00",
+      "last_updated": "2026-10-27T22:46:04+00:00",
+      "last_verified": "2026-10-27T22:46:04+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Automation--Digital-Manufacturing---Controls_R19951"
+        }
+      ]
+    },
+    {
+      "id": "e87dcb8fc927",
+      "organization": "Moderna",
+      "title": "Co-Op, Biopharmaceutical Manufacturing Operations",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biochemistry",
+        "Biology",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Biopharmaceutical-Manufacturing-Operations_R19953-1",
+      "summary": "Support DNA manufacturing operations at Moderna's Norwood site through GxP documentation lifecycle management and continuous improvement initiatives, January 18 to June 25, 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:46:08+00:00",
+      "last_updated": "2026-10-27T22:46:08+00:00",
+      "last_verified": "2026-10-27T22:46:08+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Biopharmaceutical-Manufacturing-Operations_R19953-1"
+        }
+      ]
+    },
+    {
+      "id": "e25f45ec9b4f",
+      "organization": "Moderna",
+      "title": "Co-Op, Process Engineering, CQV & Manufacturing Engineering",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Mechanical",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Process-Engineering--CQV---Manufacturing-Engineering_R19956",
+      "summary": "Winter/spring co-op (Jan 18 – Jun 25, 2027) supporting process engineering, commissioning, qualification, validation, and manufacturing engineering for cGMP mRNA manufacturing equipment at Moderna's Norwood site.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:46:12+00:00",
+      "last_updated": "2026-10-27T22:46:12+00:00",
+      "last_verified": "2026-10-27T22:46:12+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Process-Engineering--CQV---Manufacturing-Engineering_R19956"
+        }
+      ]
+    },
+    {
+      "id": "5e5fe37eca63",
+      "organization": "Moderna",
+      "title": "Co-Op, Supply Chain & Logistics",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Industrial",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Supply-Chain---Logistics_R19949",
+      "summary": "Winter/spring co-op supporting supply planning, master data management, logistics engineering, and global logistics projects through data analysis, process mapping, and continuous improvement initiatives.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:46:16+00:00",
+      "last_updated": "2026-10-27T22:46:16+00:00",
+      "last_verified": "2026-10-27T22:46:16+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Supply-Chain---Logistics_R19949"
+        }
+      ]
+    },
+    {
+      "id": "d39fa1ec5a4d",
+      "organization": "Moderna",
+      "title": "2027 Co-Op, PTE",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--PTE_R20085",
+      "summary": "Support digital enablement, process mapping, and controlled document (SOP/WI) development within Moderna's Development Process, Training & Execution team from January to June 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-27T22:46:20+00:00",
+      "last_updated": "2026-10-27T22:46:20+00:00",
+      "last_verified": "2026-10-27T22:46:20+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--PTE_R20085"
+        }
+      ]
+    },
+    {
+      "id": "0ddbe8e2a97c",
+      "organization": "SpaceX",
+      "title": "Spring 2027 Civil Engineering Internship",
+      "locations": [
+        "Flexible - Any SpaceX Site",
+        "Hawthorne, CA",
+        "Cape Canaveral, FL",
+        "Starbase, TX"
+      ],
+      "states": [
+        "CA",
+        "FL",
+        "TX"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Civil/Environmental"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$28.00/hour (Freshman/Sophomore); $30.00/hour (Junior/Senior)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
+      "summary": "Civil/structural engineering intern helping design, build, activate, and maintain SpaceX's advanced facilities and infrastructure with multi-disciplinary engineering teams for at least 12 weeks.",
+      "org_size": "Large employer",
+      "sector": "Aerospace & Defense",
+      "first_seen": "2026-10-27T22:42:54+00:00",
+      "last_updated": "2026-10-27T22:42:54+00:00",
+      "last_verified": "2026-10-27T22:42:54+00:00",
+      "sources": [
+        "SpaceX"
+      ],
+      "links": [
+        {
+          "source": "SpaceX",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002"
+        }
+      ]
+    },
+    {
+      "id": "80ec499dfbed",
+      "organization": "SpaceX",
+      "title": "Spring 2027 Engineering Internship/Co-op",
+      "locations": [
+        "Bastrop, TX",
+        "Bloomfield, CT",
+        "Brownsville, TX",
+        "Cape Canaveral, FL",
+        "Hawthorne (Los Angeles), CA",
+        "Irvine, CA",
+        "Long Beach, CA",
+        "McGregor (Waco), TX",
+        "Palo Alto, CA",
+        "Redmond (Seattle), WA",
+        "Vandenberg, CA",
+        "Woodinville, WA"
+      ],
+      "states": [
+        "TX",
+        "CT",
+        "FL",
+        "CA",
+        "WA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$28.00/hour (Freshman/Sophomore); $30.00/hour (Junior/Senior)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002",
+      "summary": "Full-time, onsite engineering internship/co-op for at least 12 weeks on SpaceX design, manufacturing, and operations teams across programs like Dragon, Falcon, Starship, and Starlink.",
+      "org_size": "Large employer",
+      "sector": "Aerospace & Defense",
+      "first_seen": "2026-10-27T22:42:58+00:00",
+      "last_updated": "2026-10-27T22:42:58+00:00",
+      "last_verified": "2026-10-27T22:42:58+00:00",
+      "sources": [
+        "SpaceX"
+      ],
+      "links": [
+        {
+          "source": "SpaceX",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002"
+        }
+      ]
+    },
+    {
+      "id": "cadd0eddd689",
+      "organization": "SpaceX",
+      "title": "Spring 2027 Graduate Engineer Internship/Co-op",
+      "locations": [
+        "Bastrop, TX",
+        "Bloomfield, CT",
+        "Brownsville, TX",
+        "Cape Canaveral, FL",
+        "Hawthorne, CA",
+        "Irvine, CA",
+        "Long Beach, CA",
+        "McGregor, TX",
+        "Palo Alto, CA",
+        "Redmond, WA",
+        "Vandenberg, CA",
+        "Woodinville, WA"
+      ],
+      "states": [
+        "TX",
+        "CT",
+        "FL",
+        "CA",
+        "WA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$83,200/year (Bachelor's); $91,000/year (Master's); $100,100/year (PhD)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002",
+      "summary": "Graduate engineering intern working on design, manufacturing, and operations teams solving aerospace challenges across SpaceX programs like Dragon, Falcon, Starship, and Starlink.",
+      "org_size": "Large employer",
+      "sector": "Aerospace & Defense",
+      "first_seen": "2026-10-27T22:43:07+00:00",
+      "last_updated": "2026-10-27T22:43:07+00:00",
+      "last_verified": "2026-10-27T22:43:07+00:00",
+      "sources": [
+        "SpaceX"
+      ],
+      "links": [
+        {
+          "source": "SpaceX",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002"
+        }
+      ]
+    },
+    {
+      "id": "26ff23609bed",
+      "organization": "SpaceX",
+      "title": "Spring 2027 Silicon Engineering Internship/Co-op",
+      "locations": [
+        "Irvine, CA",
+        "Palo Alto, CA",
+        "Redmond (Seattle), WA"
+      ],
+      "states": [
+        "CA",
+        "WA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$30.00-$40.00/hour depending on academic level",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002",
+      "summary": "Silicon hardware engineering intern working with cross-disciplinary teams on SpaceX's custom in-house chips and hardware deployed on-orbit, covering design, validation, and ASIC implementation.",
+      "org_size": "Large employer",
+      "sector": "Aerospace & Defense",
+      "first_seen": "2026-10-27T22:43:11+00:00",
+      "last_updated": "2026-10-27T22:43:11+00:00",
+      "last_verified": "2026-10-27T22:43:11+00:00",
+      "sources": [
+        "SpaceX"
+      ],
+      "links": [
+        {
+          "source": "SpaceX",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002"
+        }
+      ]
+    },
+    {
+      "id": "8a4f07ca9e6d",
+      "organization": "SpaceX",
+      "title": "Summer 2027 Civil Engineering Internship",
+      "locations": [
+        "Hawthorne, CA",
+        "Cape Canaveral, FL",
+        "Starbase, TX"
+      ],
+      "states": [
+        "CA",
+        "FL",
+        "TX"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Civil/Environmental"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$28.00/hour (Freshman/Sophomore); $30.00/hour (Junior/Senior)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002",
+      "summary": "Civil/structural engineering intern helping design, build, activate, and maintain SpaceX's advanced facilities and infrastructure with a multidisciplinary engineering team.",
+      "org_size": "Large employer",
+      "sector": "Aerospace & Defense",
+      "first_seen": "2026-10-27T22:43:28+00:00",
+      "last_updated": "2026-10-27T22:43:28+00:00",
+      "last_verified": "2026-10-27T22:43:28+00:00",
+      "sources": [
+        "SpaceX"
+      ],
+      "links": [
+        {
+          "source": "SpaceX",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002"
+        }
+      ]
+    },
+    {
+      "id": "75897f6db630",
+      "organization": "SpaceX",
+      "title": "Summer 2027 Engineering Internship/Co-op",
+      "locations": [
+        "Bastrop, TX",
+        "Bloomfield, CT",
+        "Brownsville, TX",
+        "Cape Canaveral, FL",
+        "Hawthorne (Los Angeles), CA",
+        "Irvine, CA",
+        "Long Beach, CA",
+        "McGregor (Waco), TX",
+        "Palo Alto, CA",
+        "Redmond (Seattle), WA",
+        "Vandenberg, CA",
+        "Woodinville, WA"
+      ],
+      "states": [
+        "TX",
+        "CT",
+        "FL",
+        "CA",
+        "WA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$28.00/hour (Freshman/Sophomore); $30.00/hour (Junior/Senior)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002",
+      "summary": "Full-time, onsite 12+ week summer engineering internship on design, manufacturing, and operations teams across SpaceX programs like Dragon, Falcon, Starship, and Starlink.",
+      "org_size": "Large employer",
+      "sector": "Aerospace & Defense",
+      "first_seen": "2026-10-27T22:43:33+00:00",
+      "last_updated": "2026-10-27T22:43:33+00:00",
+      "last_verified": "2026-10-27T22:43:33+00:00",
+      "sources": [
+        "SpaceX"
+      ],
+      "links": [
+        {
+          "source": "SpaceX",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002"
+        }
+      ]
+    },
+    {
+      "id": "7474703bc3fb",
+      "organization": "SpaceX",
+      "title": "Summer 2027 Graduate Engineer Internship/Co-op",
+      "locations": [
+        "Bastrop, TX",
+        "Bloomfield, CT",
+        "Brownsville, TX",
+        "Cape Canaveral, FL",
+        "Hawthorne (Los Angeles), CA",
+        "Irvine, CA",
+        "Long Beach, CA",
+        "McGregor (Waco), TX",
+        "Palo Alto, CA",
+        "Redmond (Seattle), WA",
+        "Vandenberg, CA",
+        "Woodinville, WA"
+      ],
+      "states": [
+        "TX",
+        "CT",
+        "FL",
+        "CA",
+        "WA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$83,200.00/year (Bachelor's); $91,000.00/year (Master's); $100,100.00/year (PhD)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002",
+      "summary": "Graduate engineering interns work on design, manufacturing, and operations teams solving real aerospace challenges across SpaceX programs like Falcon, Dragon, Starship, and Starlink.",
+      "org_size": "Large employer",
+      "sector": "Aerospace & Defense",
+      "first_seen": "2026-10-27T22:43:37+00:00",
+      "last_updated": "2026-10-27T22:43:37+00:00",
+      "last_verified": "2026-10-27T22:43:37+00:00",
+      "sources": [
+        "SpaceX"
+      ],
+      "links": [
+        {
+          "source": "SpaceX",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002"
+        }
+      ]
+    },
+    {
+      "id": "72b8d80259b8",
+      "organization": "SpaceX",
+      "title": "Summer 2027 Silicon Engineering Internship/Co-op",
+      "locations": [
+        "Irvine, CA",
+        "Palo Alto, CA",
+        "Redmond (Seattle), WA"
+      ],
+      "states": [
+        "CA",
+        "WA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$30.00-$40.00/hour depending on academic level",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002",
+      "summary": "Silicon engineering interns work with mentors and cross-disciplinary teams on custom in-house chips and hardware deployed on-orbit, spanning design, verification, and ASIC implementation.",
+      "org_size": "Large employer",
+      "sector": "Aerospace & Defense",
+      "first_seen": "2026-10-27T22:43:41+00:00",
+      "last_updated": "2026-10-27T22:43:41+00:00",
+      "last_verified": "2026-10-27T22:43:41+00:00",
+      "sources": [
+        "SpaceX"
+      ],
+      "links": [
+        {
+          "source": "SpaceX",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002"
+        }
+      ]
+    }
+  ]
+}

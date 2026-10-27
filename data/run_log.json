@@ -1,0 +1,173 @@
+[
+  {
+    "kind": "requests",
+    "started": "2026-10-27T22:36:37+00:00",
+    "finished": "2026-10-27T22:36:38+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-10-27T22:36:38+00:00",
+    "finished": "2026-10-27T22:49:32+00:00",
+    "sources": {
+      "Pfizer": {
+        "found": 7,
+        "read": 7,
+        "added": 0,
+        "updated": 0,
+        "skipped": 7,
+        "status": "ok",
+        "note": ""
+      },
+      "SpaceX": {
+        "found": 57,
+        "read": 57,
+        "added": 8,
+        "updated": 0,
+        "skipped": 49,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 39,
+        "read": 39,
+        "added": 34,
+        "updated": 1,
+        "skipped": 4,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 24,
+        "read": 24,
+        "added": 0,
+        "updated": 0,
+        "skipped": 24,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 79,
+        "read": 21,
+        "added": 20,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 555,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "SpaceX - Spring 2027 Civil Engineering Internship",
+      "SpaceX - Spring 2027 Engineering Internship/Co-op",
+      "SpaceX - Spring 2027 Graduate Engineer Internship/Co-op",
+      "SpaceX - Spring 2027 Silicon Engineering Internship/Co-op",
+      "SpaceX - Summer 2027 Civil Engineering Internship",
+      "SpaceX - Summer 2027 Engineering Internship/Co-op",
+      "SpaceX - Summer 2027 Graduate Engineer Internship/Co-op",
+      "SpaceX - Summer 2027 Silicon Engineering Internship/Co-op",
+      "Moderna - Intern, Biometrics",
+      "Moderna - Intern, Biobanking",
+      "Moderna - Intern, Biospecimen Logistics",
+      "Moderna - Intern, Oncology Biostatistics",
+      "Moderna - Intern, Infectious Disease Epidemiology",
+      "Moderna - 2027 Intern, Data Management",
+      "Moderna - Intern, CMC Development (Summer 2027)",
+      "Moderna - Intern, Applied Technologies (Summer 2027)",
+      "Moderna - Intern, Global Safety Epidemiology, Infectious Rare Disease",
+      "Moderna - Co-Op, CMC Development (Spring 2027)",
+      "Moderna - Co-Op, Applied Technologies (Spring 2027)",
+      "Moderna - Co-Op, Bioanalytics",
+      "Moderna - Co-Op, Biometrics",
+      "Moderna - Co-Op, Bacteriology",
+      "Moderna - Co-Op, Clinical Cytometry",
+      "Moderna - Co-Op, Research Engineering and AI Integration",
+      "Moderna - Co-Op, Platform Biology Integration",
+      "Moderna - Co-Op, Immuno-Oncology Research",
+      "Moderna - Co-Op, Development Resource Management",
+      "Moderna - Co-Op, Immuno-Assays and CBA",
+      "Moderna - Co-Op, Biobanking",
+      "Moderna - Co-Op, Protein Design",
+      "Moderna - Co-Op, Compliance and Data QC",
+      "Moderna - Co-Op, Bioanalytical and Molecular Assays",
+      "Moderna - Co-Op, Clinical Biomarker Biostatistics",
+      "Moderna - Co-Op, In Vitro Biology",
+      "Moderna - Co-Op, Research Analytics",
+      "Moderna - Co-Op, Facilities, Plant & Project Engineering",
+      "Moderna - Co-Op, Business Operations & Operational Excellence",
+      "Moderna - Co-Op, Automation, Digital Manufacturing & Controls",
+      "Moderna - Co-Op, Biopharmaceutical Manufacturing Operations",
+      "Moderna - Co-Op, Process Engineering, CQV & Manufacturing Engineering",
+      "Moderna - Co-Op, Supply Chain & Logistics",
+      "Moderna - 2027 Co-Op, PTE",
+      "Johnson & Johnson - Environmental, Health & Safety (EHS) Summer Intern",
+      "Johnson & Johnson - TDS Proteins DDS Co-Op",
+      "Johnson & Johnson - TDS Proteins Cell Line Engineering Co-Op",
+      "Johnson & Johnson - TDS Proteins CEAS Automation Co-Op",
+      "Johnson & Johnson - TDS Proteins CEAS Co-Op",
+      "Johnson & Johnson - TDS Proteins API USP Co-Op",
+      "Johnson & Johnson - TDS Digital Ops & Strat Co-Op",
+      "Johnson & Johnson - TDS Proteins API DSP HTPD Co-Op",
+      "Johnson & Johnson - TDS Proteins AD BMD Co-Op",
+      "Johnson & Johnson - TDS Proteins Development Material Sciences Co-Op",
+      "Johnson & Johnson - TDS Bus Ops Co-Op",
+      "Johnson & Johnson - TDS Clinical Supply Chain Planning Co-Op",
+      "Johnson & Johnson - TDS CGT-Viral Vector Development Co-Op",
+      "Johnson & Johnson - TDS Clinical Operations Co-Op",
+      "Johnson & Johnson - TDS CGT-Cell Development Co-Op",
+      "Johnson & Johnson - TDS Digital Ops & Strat Intern",
+      "Johnson & Johnson - Immunology Medical Affairs Clinical Project Scientist Internship",
+      "Johnson & Johnson - Research & Development Intern",
+      "Johnson & Johnson (Ethicon, Inc.) - R&D Engineer Intern WCH",
+      "Johnson & Johnson - Laboratory Automation Systems Intern"
+    ],
+    "updated": [
+      "Moderna - Co-Op, Bioanalytics"
+    ],
+    "removed": [],
+    "failed": [],
+    "warnings": [
+      "98 postings waiting for the next run (max_extractions_per_run reached)"
+    ],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 356398,
+      "output_tokens": 49703,
+      "cache_read_input_tokens": 556664,
+      "calls": 150
+    }
+  }
+]
