@@ -1,0 +1,165 @@
+# ---------------------------------------------------------------------------
+# Large employers with established internship programs.
+#
+# To add a company, copy one block and edit it. Fields:
+#   name        Display name on the board.
+#   enabled     true = collected every run. Start small, flip more on later.
+#   sector      Used by the board's preset pages. One of:
+#               Biotech/Pharma, Aerospace & Defense, Medical Devices,
+#               Chemicals & Materials, Energy, Other Industry
+#   careers_url The public careers page. Used for ATS auto-detection.
+#   ats         Which applicant tracking system serves the jobs:
+#               workday | greenhouse | lever | icims | auto
+#               "auto" = the agent fetches careers_url, works out the ATS, and
+#               caches the answer in data/ats_cache.json.
+#   ats_config  Only needed when ats is not "auto" (copy from a working entry):
+#     workday:    host, tenant, site   (from https://HOST/wday/cxs/TENANT/SITE/jobs)
+#     greenhouse: board                (from boards.greenhouse.io/BOARD)
+#     lever:      company              (from jobs.lever.co/COMPANY)
+#     icims:      portal               (from https://PORTAL.icims.com)
+#   search_prefix  Optional word added in front of each Workday search term,
+#               for shared portals (e.g. Genentech jobs live on Roche's site).
+#
+# Entries marked "verified" had their ATS endpoint confirmed in October 2026.
+# ---------------------------------------------------------------------------
+
+companies:
+  # ----- Enabled for the first version (5 companies) -----
+  - name: Pfizer
+    enabled: true
+    sector: Biotech/Pharma
+    careers_url: https://www.pfizer.com/about/careers
+    ats: workday            # verified
+    ats_config: {host: pfizer.wd1.myworkdayjobs.com, tenant: pfizer, site: PfizerCareers}
+
+  - name: Moderna
+    enabled: true
+    sector: Biotech/Pharma
+    careers_url: https://www.modernatx.com/careers
+    ats: workday            # verified
+    ats_config: {host: modernatx.wd1.myworkdayjobs.com, tenant: modernatx, site: M_tx}
+
+  - name: Johnson & Johnson
+    enabled: true
+    sector: Biotech/Pharma
+    careers_url: https://www.careers.jnj.com
+    ats: workday            # verified
+    ats_config: {host: jj.wd5.myworkdayjobs.com, tenant: jj, site: JJ}
+
+  - name: SpaceX
+    enabled: true
+    sector: Aerospace & Defense
+    careers_url: https://www.spacex.com/careers
+    ats: greenhouse         # verified
+    ats_config: {board: spacex}
+
+  - name: Boeing
+    enabled: true
+    sector: Aerospace & Defense
+    careers_url: https://jobs.boeing.com
+    ats: workday            # verified
+    ats_config: {host: boeing.wd1.myworkdayjobs.com, tenant: boeing, site: EXTERNAL_CAREERS}
+
+  # ----- Ready to enable (ATS endpoint verified) -----
+  - name: Merck
+    enabled: false
+    sector: Biotech/Pharma
+    careers_url: https://jobs.merck.com
+    ats: workday            # verified
+    ats_config: {host: msd.wd5.myworkdayjobs.com, tenant: msd, site: SearchJobs}
+
+  - name: Genentech
+    enabled: false
+    sector: Biotech/Pharma
+    careers_url: https://careers.gene.com
+    ats: workday            # verified (Roche group portal)
+    ats_config: {host: roche.wd3.myworkdayjobs.com, tenant: roche, site: roche-ext}
+    search_prefix: Genentech
+
+  - name: Amgen
+    enabled: false
+    sector: Biotech/Pharma
+    careers_url: https://careers.amgen.com
+    ats: workday            # verified
+    ats_config: {host: amgen.wd1.myworkdayjobs.com, tenant: amgen, site: Careers}
+
+  - name: Northrop Grumman
+    enabled: false
+    sector: Aerospace & Defense
+    careers_url: https://www.northropgrumman.com/careers
+    ats: workday            # verified
+    ats_config: {host: ngc.wd1.myworkdayjobs.com, tenant: ngc, site: Northrop_Grumman_External_Site}
+
+  - name: RTX (Raytheon)
+    enabled: false
+    sector: Aerospace & Defense
+    careers_url: https://careers.rtx.com
+    ats: workday            # verified
+    ats_config: {host: globalhr.wd5.myworkdayjobs.com, tenant: globalhr, site: REC_RTX_Ext_Gateway}
+
+  - name: GE Aerospace
+    enabled: false
+    sector: Aerospace & Defense
+    careers_url: https://careers.geaerospace.com
+    ats: workday            # verified
+    ats_config: {host: geaerospace.wd5.myworkdayjobs.com, tenant: geaerospace, site: GE_ExternalSite}
+
+  - name: Blue Origin
+    enabled: false
+    sector: Aerospace & Defense
+    careers_url: https://www.blueorigin.com/careers
+    ats: workday            # verified
+    ats_config: {host: blueorigin.wd5.myworkdayjobs.com, tenant: blueorigin, site: BlueOrigin}
+
+  - name: Medtronic
+    enabled: false
+    sector: Medical Devices
+    careers_url: https://www.medtronic.com/careers
+    ats: workday            # verified
+    ats_config: {host: medtronic.wd1.myworkdayjobs.com, tenant: medtronic, site: MedtronicCareers}
+
+  - name: Thermo Fisher Scientific
+    enabled: false
+    sector: Biotech/Pharma
+    careers_url: https://jobs.thermofisher.com
+    ats: workday            # verified
+    ats_config: {host: thermofisher.wd5.myworkdayjobs.com, tenant: thermofisher, site: ThermoFisherCareers}
+
+  - name: Regeneron
+    enabled: false
+    sector: Biotech/Pharma
+    careers_url: https://careers.regeneron.com
+    ats: workday            # verified
+    ats_config: {host: regeneron.wd1.myworkdayjobs.com, tenant: regeneron, site: Careers}
+
+  - name: 3M
+    enabled: false
+    sector: Chemicals & Materials
+    careers_url: https://www.3m.com/3M/en_US/careers-us/
+    ats: workday            # verified
+    ats_config: {host: 3m.wd1.myworkdayjobs.com, tenant: 3m, site: Search}
+
+  # ----- Need ATS detection or a new adapter (see README "Next steps") -----
+  - name: Lockheed Martin
+    enabled: false
+    sector: Aerospace & Defense
+    careers_url: https://www.lockheedmartinjobs.com
+    ats: auto               # custom careers site; likely needs its own adapter
+
+  - name: Eli Lilly
+    enabled: false
+    sector: Biotech/Pharma
+    careers_url: https://careers.lilly.com
+    ats: auto
+
+  - name: AbbVie
+    enabled: false
+    sector: Biotech/Pharma
+    careers_url: https://careers.abbvie.com
+    ats: auto
+
+  - name: Dow
+    enabled: false
+    sector: Chemicals & Materials
+    careers_url: https://corporate.dow.com/en-us/careers.html
+    ats: auto

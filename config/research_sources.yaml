@@ -1,0 +1,88 @@
+# ---------------------------------------------------------------------------
+# Research programs, government programs and smaller opportunities.
+#
+# Source types (each has an adapter in agent/sources/):
+#   pathways_directory  Pathways to Science program search (hundreds of
+#                       programs, including many NSF REU sites).
+#   program_page        A single web page describing one program (or a few
+#                       sessions of it). The LLM reads the page and extracts
+#                       records. Good for national labs, NASA, university
+#                       summer programs. Discovered sources use this type.
+#   usajobs             USAJobs official API, student/internship hiring path.
+#                       Needs a free API key (see README).
+#
+# Common fields:
+#   name, enabled, type, url
+#   opportunity_type  Default type if the page doesn't make it clear.
+#   sector            For the board's preset pages:
+#                     Academic Research, Government / National Lab
+#   max_new_per_run   (directory sources) how many new program pages to read
+#                     per run; the rest are picked up on later runs.
+#   refresh_days      Re-read a known page this often to catch changes.
+# ---------------------------------------------------------------------------
+
+sources:
+  # ----- Enabled for the first version (3 sources) -----
+  - name: Pathways to Science
+    enabled: true
+    type: pathways_directory
+    # Undergraduate + summer research search. The agent walks the A-Z pages.
+    url: "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y"
+    opportunity_type: REU
+    sector: Academic Research
+    max_new_per_run: 40
+    refresh_days: 14
+
+  - name: DOE SULI (Science Undergraduate Laboratory Internships)
+    enabled: true
+    type: program_page
+    url: https://science.osti.gov/wdts/suli
+    organization: U.S. Department of Energy (national laboratories)
+    opportunity_type: National Lab
+    sector: Government / National Lab
+    refresh_days: 3
+
+  - name: NASA Internships
+    enabled: true
+    type: program_page
+    url: https://intern.nasa.gov/
+    organization: NASA
+    opportunity_type: Government Program
+    sector: Government / National Lab
+    refresh_days: 3
+
+  # ----- Ready to enable -----
+  - name: USAJobs student internships
+    enabled: false          # turn on after adding the USAJOBS_API_KEY secret
+    type: usajobs
+    keyword: "intern"
+    opportunity_type: Government Program
+    sector: Government / National Lab
+
+  - name: DOE CCI (Community College Internships)
+    enabled: false
+    type: program_page
+    url: https://science.osti.gov/wdts/cci
+    organization: U.S. Department of Energy (national laboratories)
+    opportunity_type: National Lab
+    sector: Government / National Lab
+    refresh_days: 7
+
+  # ----- Blocked for automated access (Oct 2026) -----
+  # These sites return a bot challenge (NSF) or HTTP 403 (NIH) to scripts.
+  # The agent does not try to get around that. Many NSF REU sites are already
+  # listed on Pathways to Science, which covers most of the gap.
+  - name: NSF REU Sites directory
+    enabled: false
+    type: program_page
+    url: https://www.nsf.gov/crssprgm/reu/reu_search.jsp
+    opportunity_type: REU
+    sector: Academic Research
+
+  - name: NIH Summer Internship Program
+    enabled: false
+    type: program_page
+    url: https://www.training.nih.gov/research-training/pb/sip/
+    organization: National Institutes of Health
+    opportunity_type: Government Program
+    sector: Government / National Lab

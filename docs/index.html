@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>STEM Opportunity Board</title>
+  <meta name="description" content="Internships, co-ops, REUs and research programs for US STEM undergraduates, updated automatically every day.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a href="#/board" class="brand">STEM Opportunity Board</a>
+      <nav class="tabs" id="tabs">
+        <a href="#/board" data-route="board">All listings</a>
+        <a href="#/view/biotech-summer" data-route="view/biotech-summer">Biotech/Pharma Summer</a>
+        <a href="#/view/aerospace" data-route="view/aerospace">Aerospace &amp; Defense</a>
+        <a href="#/view/reu" data-route="view/reu">REUs</a>
+        <a href="#/view/gov-labs" data-route="view/gov-labs">National Labs &amp; Gov</a>
+        <a href="#/tracker" data-route="tracker">My Applications <span class="pill" id="tracker-count">0</span></a>
+        <a href="#/request" data-route="request">Request a company</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- ============ BOARD (also used for preset views) ============ -->
+    <section id="page-board" class="page">
+      <div class="view-intro" id="view-intro" hidden></div>
+      <div class="stats" id="stats"></div>
+
+      <div class="board-layout">
+        <aside class="filters" id="filters">
+          <div class="filters-head">
+            <h2>Filters</h2>
+            <button class="link-btn" id="reset-filters" type="button">Reset</button>
+          </div>
+          <label>Keyword
+            <input type="search" id="f-q" placeholder="e.g. vaccine, propulsion, CRISPR">
+          </label>
+          <label>Major <select id="f-major"></select></label>
+          <label>Opportunity type <select id="f-type"></select></label>
+          <label>Season <select id="f-season"></select></label>
+          <label>Organization size <select id="f-size"></select></label>
+          <label>State <select id="f-state"></select></label>
+          <label>Class year <select id="f-year"></select></label>
+          <label class="check"><input type="checkbox" id="f-paid"> Paid only</label>
+          <label class="check"><input type="checkbox" id="f-housing"> Housing provided</label>
+          <label class="check"><input type="checkbox" id="f-nocitizen"> No citizenship requirement stated</label>
+          <p class="hint">Blank fields mean the posting didn't say. Always confirm details on the original posting.</p>
+        </aside>
+
+        <div class="results">
+          <div class="results-bar">
+            <span id="result-count"></span>
+            <button class="btn small ghost show-mobile" id="toggle-filters" type="button">Filters</button>
+          </div>
+          <div class="table-wrap">
+            <table class="listings" id="listings-table">
+              <thead>
+                <tr>
+                  <th class="col-save"><span class="sr">Save</span></th>
+                  <th data-sort="organization">Organization</th>
+                  <th data-sort="title">Role / program</th>
+                  <th data-sort="opportunity_type">Type</th>
+                  <th data-sort="seasons">Season</th>
+                  <th data-sort="location">Location</th>
+                  <th data-sort="pay">Pay</th>
+                  <th data-sort="deadline" class="sorted-asc">Deadline</th>
+                  <th>Notes</th>
+                </tr>
+              </thead>
+              <tbody id="listings-body"></tbody>
+            </table>
+          </div>
+          <div class="more-row"><button class="btn ghost" id="show-more" type="button" hidden>Show more</button></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ MY APPLICATIONS ============ -->
+    <section id="page-tracker" class="page" hidden>
+      <div class="tracker-head">
+        <h1>My Applications</h1>
+        <div class="tracker-actions">
+          <button class="btn" id="add-custom" type="button">+ Add custom entry</button>
+          <button class="btn ghost" id="export-json" type="button">Export JSON</button>
+          <label class="btn ghost file-btn">Import JSON <input type="file" id="import-json" accept="application/json"></label>
+        </div>
+      </div>
+      <p class="hint">Saved in this browser only. Export a backup now and then, or to move to another device.</p>
+      <div class="summary" id="tracker-summary"></div>
+      <form class="card custom-form" id="custom-form" hidden>
+        <h2>Add a custom entry</h2>
+        <div class="grid2">
+          <label>Organization <input name="organization" required></label>
+          <label>Role / program <input name="title" required></label>
+          <label>Deadline <input type="date" name="deadline"></label>
+          <label>Link <input type="url" name="apply_url" placeholder="https://"></label>
+        </div>
+        <div class="form-actions">
+          <button class="btn" type="submit">Add</button>
+          <button class="btn ghost" type="button" id="cancel-custom">Cancel</button>
+        </div>
+      </form>
+      <div class="stage-filter" id="stage-filter"></div>
+      <div id="tracker-list"></div>
+    </section>
+
+    <!-- ============ REQUEST A COMPANY ============ -->
+    <section id="page-request" class="page" hidden>
+      <div class="card narrow">
+        <h1>Request a company or program</h1>
+        <p>Know an employer or program that should be on the board? The collection agent reads requests on its next daily run, works out how the company posts jobs, and adds it automatically when it can.</p>
+        <form id="request-form">
+          <label>Company or program name <input name="company" required></label>
+          <label>Careers or program page (optional, helps a lot) <input name="careers_url" type="url" placeholder="https://"></label>
+          <label>Sector
+            <select name="sector">
+              <option>Biotech/Pharma</option><option>Aerospace &amp; Defense</option><option>Medical Devices</option>
+              <option>Chemicals &amp; Materials</option><option>Energy</option><option>Academic Research</option>
+              <option>Government / National Lab</option><option selected>Other Industry</option>
+            </select>
+          </label>
+          <label>Notes (optional) <textarea name="notes" rows="3"></textarea></label>
+          <button class="btn" type="submit">Submit request</button>
+          <p class="hint" id="request-hint">Submitting opens a pre-filled GitHub issue in a new tab (needs a free GitHub account).</p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap site-footer">
+    Listings are collected automatically from employer job systems and program pages, checked nightly, and removed when the posting goes offline or the deadline passes.
+    <span id="footer-updated"></span>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+  <script src="tracker.js"></script>
+</body>
+</html>

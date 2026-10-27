@@ -1,0 +1,100 @@
+# ---------------------------------------------------------------------------
+# Global settings for the collection agent.
+# Everything here is safe to edit; no code changes needed.
+# ---------------------------------------------------------------------------
+
+llm:
+  # Model used to turn raw postings into structured records.
+  # claude-opus-5-5 is the most accurate. To cut API cost by roughly 40x,
+  # change this to claude-haiku-5-5 (see "API cost" in the README).
+  model: claude-opus-5-5
+  # Extraction is a simple reading task, so "low" effort is enough and keeps
+  # token use down. Options: low, medium, high.
+  effort: low
+  # Hard cap on how many postings are sent to the LLM in one run. Anything over
+  # the cap waits for the next run. This is your cost safety valve.
+  max_extractions_per_run: 150
+  # Characters of posting text sent to the LLM (long descriptions are trimmed
+  # from the end, where boilerplate EEO text usually lives).
+  max_input_chars: 12000
+
+http:
+  # Identifies the bot to site owners. Put your repo URL here once it exists.
+  user_agent: "STEMOpportunityTracker/0.1 (+https://github.com/steigdog/stem-tracker)"
+  # Minimum seconds between two requests to the same host.
+  min_delay_seconds: 1.5
+  timeout_seconds: 30
+  retries: 2
+
+collection:
+  # Titles must match at least one of these (case-insensitive regex) to count
+  # as an internship / co-op / early-career role.
+  include_title_patterns:
+    - '\bintern(ship)?s?\b'
+    - '\bco-?op\b'
+    - '\bco op\b'
+    - '\bsummer (student|associate|analyst|research)'
+    - '\bstudent\b'
+    - '\bundergrad'
+    - '\bapprentice'
+    - '\bnew grad'
+    - '\bearly career\b'
+    - '\bentry[- ]level\b'
+    - '\b(university|college) (graduate|program|hire)'
+    - '\brecent graduate'
+    - '\bfellow(ship)?\b'
+  # Titles matching any of these are skipped even if they matched above.
+  exclude_title_patterns:
+    - '\binternal\b'
+    - '\binternational\b'
+    - '\b(senior|sr\.?|principal|staff|director|manager|lead)\b'
+    - '\bpostdoc'
+    - '\b(marketing|sales|finance|accounting|legal|human resources|hr|communications|tax|audit)\b'
+  # Workday search terms (Workday's search is fuzzy, so titles are filtered again).
+  workday_search_terms: ["intern", "co-op", "internship"]
+  # Max result pages (20 jobs each) per Workday search term.
+  workday_max_pages: 8
+  # Drop records whose extracted majors don't include any major in
+  # config/majors.yaml (e.g. pure software or business roles).
+  require_relevant_major: true
+  # Drop roles located only outside the US (keeps remote roles and roles
+  # whose location isn't stated).
+  us_only: true
+  # Re-read a known company posting this often to pick up edits.
+  ats_refresh_days: 7
+  # How many sources to fetch at the same time (each host still gets one
+  # request at a time, so this stays polite).
+  parallel_sources: 4
+
+verification:
+  # A listing is removed after this many consecutive nightly checks in which
+  # every one of its postings returned "gone" (HTTP 404/410 or a "no longer
+  # available" page). Network errors never count as "gone".
+  gone_checks_before_removal: 1
+  # Phrases that mean a posting page is dead even if it returns HTTP 200.
+  dead_page_phrases:
+    - "no longer available"
+    - "no longer accepting applications"
+    - "position has been filled"
+    - "this job has expired"
+    - "job you are looking for is no longer"
+    - "page not found"
+
+health:
+  # A source is flagged "possibly broken" when it returns zero results but its
+  # median over the last N runs was above zero.
+  history_runs: 5
+
+discovery:
+  # Weekly web search for new STEM internship programs (uses Claude's web
+  # search tool; about $0.01 per search plus tokens).
+  enabled: true
+  max_searches_per_run: 6
+  max_new_sources_per_run: 10
+  queries:
+    - "summer undergraduate research program 2027 biology chemistry stipend housing"
+    - "paid summer internship 2027 undergraduate chemical engineering biotech"
+    - "REU 2027 materials science physics undergraduate application deadline"
+    - "aerospace engineering undergraduate internship program 2027 application"
+    - "public health summer research program undergraduates 2027"
+    - "national laboratory undergraduate internship 2027 environmental science"

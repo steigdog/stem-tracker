@@ -1,0 +1,46 @@
+# ---------------------------------------------------------------------------
+# The fixed list of majors shown on the board.
+#
+# The LLM may only answer with names from this list. The keywords are used
+#   (1) as hints in the LLM prompt, and
+#   (2) by the keyword fallback when no API key is set.
+# Add a major by adding a new entry; add synonyms by extending keywords.
+# ---------------------------------------------------------------------------
+
+majors:
+  Biology:
+    [biology, cell biology, molecular biology, microbiology, genetics, genomics, immunology,
+     life science, life sciences, biological sciences, virology, ecology, zoology, botany, cancer biology]
+  Biochemistry:
+    [biochemistry, biochemical, structural biology, protein, biophysics]
+  Chemistry:
+    [chemistry, chemical sciences, organic chemistry, analytical chemistry, medicinal chemistry, synthetic chemistry]
+  Neuroscience:
+    [neuroscience, neurobiology, cognitive science]
+  Pharmaceutical Sciences:
+    [pharmaceutical sciences, pharmacology, pharmacy, pharmaceutics, toxicology, drug development, formulation]
+  Engineering-Chemical:
+    [chemical engineering, process engineering, bioprocess, biochemical engineering]
+  Engineering-Biomedical:
+    [biomedical engineering, bioengineering, biological engineering, medical device]
+  Engineering-Mechanical:
+    [mechanical engineering, mechanical, mechatronics, thermal, manufacturing engineering]
+  Engineering-Aerospace:
+    [aerospace engineering, aeronautical, astronautical, aerospace, propulsion, avionics, flight]
+  Engineering-Electrical:
+    [electrical engineering, computer engineering, electronics, rf engineering, power systems]
+  Engineering-Civil/Environmental:
+    [civil engineering, environmental engineering, structural engineering, water resources]
+  Engineering-Industrial:
+    [industrial engineering, systems engineering, operations research, supply chain engineering, quality engineering]
+  Materials Science:
+    [materials science, materials engineering, metallurgy, polymer, ceramics, nanotechnology]
+  Environmental Science:
+    [environmental science, earth science, geology, geoscience, oceanography, atmospheric science,
+     climate, hydrology, marine science, sustainability, ecology and evolution]
+  Physics:
+    [physics, astronomy, astrophysics, optics, photonics, applied physics, nuclear]
+  Public Health:
+    [public health, epidemiology, biostatistics, global health, health sciences, health policy, community health]
+  Mathematics & Statistics:
+    [mathematics, applied mathematics, statistics, data science, computational biology, bioinformatics]
