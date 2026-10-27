@@ -1,0 +1,38 @@
+# Nightly link check: confirms every active listing's posting is still online
+# and removes listings whose posting is gone or whose deadline has passed.
+# Uses no API key (plain HTTP checks only), so it costs nothing.
+name: Verify links
+
+on:
+  schedule:
+    - cron: "0 7 * * *"       # every day at 07:00 UTC (2-3am US Eastern)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m agent.run verify
+      - name: Commit updated data
+        run: |
+          git config user.name "stem-tracker-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data docs/data
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "data: nightly link check $(date -u +%Y-%m-%d)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
