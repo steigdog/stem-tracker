@@ -1,0 +1,61 @@
+# Daily collection run: process company requests, pull new listings, and
+# (on Sundays) search the web for new program sources. Commits the updated
+# JSON files back to the repository, which redeploys the website.
+name: Collect listings
+
+on:
+  schedule:
+    - cron: "0 11 * * *"      # every day at 11:00 UTC (6-7am US Eastern)
+  workflow_dispatch:           # adds a "Run workflow" button on the Actions tab
+    inputs:
+      discover:
+        description: "Also search the web for new program sources"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write              # commit updated data files
+  issues: write                # comment on / close company-request issues
+
+concurrency:
+  group: data-writes           # never run at the same time as the verify job
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Process "Request a company" submissions
+        run: python -m agent.run requests
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Collect listings
+        run: |
+          if [ "$(date -u +%u)" = "7" ] || [ "${{ inputs.discover }}" = "true" ]; then
+            python -m agent.run collect --discover
+          else
+            python -m agent.run collect
+          fi
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "stem-tracker-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data docs/data
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "data: daily collection $(date -u +%Y-%m-%d)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
