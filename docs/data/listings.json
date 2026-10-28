@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T13:50:29+00:00",
-  "last_collect": "2026-10-27T22:49:32+00:00",
+  "generated_at": "2026-10-28T17:02:49+00:00",
+  "last_collect": "2026-10-28T17:02:49+00:00",
   "last_verify": "2026-10-28T13:50:29+00:00",
   "sources_monitored": 8,
-  "count": 62,
+  "count": 140,
   "listings": [
     {
       "id": "2602a48d3d23",
@@ -61,6 +61,800 @@
       ]
     },
     {
+      "id": "eaa2a5f9f3e8",
+      "organization": "Johnson & Johnson",
+      "title": "IDAR Summer Intern (EASE)",
+      "locations": [
+        "Raritan, NJ",
+        "Titusville, NJ",
+        "Spring House, PA"
+      ],
+      "states": [
+        "NJ",
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.5,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2026-11-09",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328",
+      "summary": "Summer intern supporting data analytics, systems, automation, and AI initiatives for clinical trial processes within J&J Innovative Medicine's IDAR EASE function.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:27+00:00",
+      "last_updated": "2026-10-28T17:00:27+00:00",
+      "last_verified": "2026-10-28T17:00:27+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328"
+        }
+      ]
+    },
+    {
+      "id": "39b95baac68e",
+      "organization": "Johnson & Johnson",
+      "title": "IDAR Summer Intern (RMW)",
+      "locations": [
+        "Spring House, PA",
+        "Raritan, NJ",
+        "Titusville, NJ"
+      ],
+      "states": [
+        "PA",
+        "NJ"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Public Health"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.5,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2026-11-09",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/IDAR-Summer-Intern--RMW-_R-104610",
+      "summary": "Support Regulatory Medical Writing by helping prepare and review clinical and regulatory documents such as protocols, study reports, and investigator's brochures in pharmaceutical R&D.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:01+00:00",
+      "last_updated": "2026-10-28T17:01:01+00:00",
+      "last_verified": "2026-10-28T17:01:01+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/IDAR-Summer-Intern--RMW-_R-104610"
+        }
+      ]
+    },
+    {
+      "id": "4c19a72d5444",
+      "organization": "Johnson & Johnson",
+      "title": "IDAR Summer Intern (C&SP)",
+      "locations": [
+        "Raritan, NJ",
+        "Titusville, NJ",
+        "Spring House, PA"
+      ],
+      "states": [
+        "NJ",
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Engineering-Biomedical",
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.5,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": false,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2026-11-09",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--C-SP-_R-103534",
+      "summary": "12-week summer internship in Clinical & Statistical Programming developing AI-enabled solutions, data analytics, automation, and SharePoint/Power BI digital workplace tools supporting clinical development.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:06+00:00",
+      "last_updated": "2026-10-28T17:01:06+00:00",
+      "last_verified": "2026-10-28T17:01:06+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--C-SP-_R-103534"
+        }
+      ]
+    },
+    {
+      "id": "9061e9ea9fe9",
+      "organization": "Johnson & Johnson",
+      "title": "IDAR Summer Intern (DM CM)",
+      "locations": [
+        "Spring House, PA",
+        "Raritan, NJ",
+        "Titusville, NJ"
+      ],
+      "states": [
+        "PA",
+        "NJ"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.5,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2026-11-09",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/IDAR-Summer-Intern--DM-CM-_R-102616",
+      "summary": "12-week summer internship supporting clinical data management and EDC data acquisition activities for clinical trials within J&J Innovative Medicine Global Development.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:10+00:00",
+      "last_updated": "2026-10-28T17:01:10+00:00",
+      "last_verified": "2026-10-28T17:01:10+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/IDAR-Summer-Intern--DM-CM-_R-102616"
+        }
+      ]
+    },
+    {
+      "id": "00ba09a46272",
+      "organization": "Johnson & Johnson",
+      "title": "J&J IM North America Operations Intern",
+      "locations": [
+        "Titusville, NJ",
+        "Horsham, PA",
+        "Washington, DC"
+      ],
+      "states": [
+        "NJ",
+        "PA",
+        "DC"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Pharmaceutical Sciences",
+        "Public Health",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": false,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2026-12-02",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/J-J-IM-North-America-Operations-Intern_R-099364",
+      "summary": "10-12 week 2027 summer internship with J&J Innovative Medicine North America Operations delivering business insights, strategy recommendations, and project management across commercial and policy groups.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:52+00:00",
+      "last_updated": "2026-10-28T17:01:52+00:00",
+      "last_verified": "2026-10-28T17:01:52+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/J-J-IM-North-America-Operations-Intern_R-099364"
+        }
+      ]
+    },
+    {
+      "id": "62afb6750378",
+      "organization": "Vanderbilt University",
+      "title": "Paid Rosetta Commons Research Experience for Undergraduates",
+      "locations": [
+        "Nashville, TN"
+      ],
+      "states": [
+        "TN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biochemistry",
+        "Engineering-Chemical",
+        "Physics",
+        "Engineering-Electrical",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://www.rosettacommons.org/about/intern",
+      "summary": "Undergraduates attend Rosetta Code School, then conduct 8 weeks of computational protein modeling and design research, presenting at the Rosetta Conference.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:02+00:00",
+      "last_updated": "2026-10-28T16:58:02+00:00",
+      "last_verified": "2026-10-28T16:58:02+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.rosettacommons.org/about/intern"
+        }
+      ]
+    },
+    {
+      "id": "2df52050abcd",
+      "organization": "Bermuda Institute of Ocean Sciences (BIOS)",
+      "title": "Fall Semester Student Research Experiences for Undergraduates in Oceanography and Marine Science at BIOS (NSF-REU)",
+      "locations": [
+        "Hamilton, Bermuda"
+      ],
+      "states": [],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Fall"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biochemistry",
+        "Mathematics & Statistics",
+        "Biology",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-05-31",
+      "rolling": null,
+      "apply_url": "http://www.bios.edu/education/reu",
+      "summary": "Undergraduates conduct mentored oceanography and marine science research projects at BIOS over a 12-week fall semester, with presentations, workshops, field excursions, and possible research cruise.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:32+00:00",
+      "last_updated": "2026-10-28T16:58:32+00:00",
+      "last_verified": "2026-10-28T16:58:32+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.bios.edu/education/reu"
+        }
+      ]
+    },
+    {
+      "id": "4dcde8f894c5",
+      "organization": "Johnson & Johnson",
+      "title": "Beatbox Electrical Engineering Co-op",
+      "locations": [
+        "Danvers, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-06-25",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679",
+      "summary": "Support design, development, testing, and documentation of electronic hardware, including schematic design, PCB development, prototype testing, and troubleshooting, from January to June 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:40+00:00",
+      "last_updated": "2026-10-28T17:01:40+00:00",
+      "last_verified": "2026-10-28T17:01:40+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679"
+        }
+      ]
+    },
+    {
+      "id": "3aac7fddd122",
+      "organization": "Johnson & Johnson",
+      "title": "Software Test Engineering Co-op (RLM)",
+      "locations": [
+        "Danvers, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-06-25",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669",
+      "summary": "Develop and execute automated Pytest-based end-to-end tests for Abiomed medical device software, design test plans, track defects, and participate in code reviews.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:44+00:00",
+      "last_updated": "2026-10-28T17:01:44+00:00",
+      "last_verified": "2026-10-28T17:01:44+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669"
+        }
+      ]
+    },
+    {
+      "id": "8b6f448c2146",
+      "organization": "Johnson & Johnson",
+      "title": "Product Management Co-Op, Patient Management Solutions",
+      "locations": [
+        "Danvers, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Fall"
+      ],
+      "majors": [
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-06-25",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757",
+      "summary": "Support product management for Impella heart pump capital equipment and digital technologies through customer insight generation, VOC synthesis, competitive analysis, and roadmap development.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:48+00:00",
+      "last_updated": "2026-10-28T17:01:48+00:00",
+      "last_verified": "2026-10-28T17:01:48+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757"
+        }
+      ]
+    },
+    {
+      "id": "f2fba0cd92d5",
+      "organization": "Johnson & Johnson",
+      "title": "DQE Co-Op",
+      "locations": [
+        "Raynham, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "Co-op",
+      "seasons": [],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-06-30",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/DQE-Co-Op_R-106713-1",
+      "summary": "Support design quality engineering for orthopedic, digital health, navigation, and surgical robotics medical devices, including V&V, risk management, test protocols, and data analysis.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:03+00:00",
+      "last_updated": "2026-10-28T16:59:03+00:00",
+      "last_verified": "2026-10-28T16:59:03+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/DQE-Co-Op_R-106713-1"
+        }
+      ]
+    },
+    {
+      "id": "e3ee46ceeedd",
+      "organization": "Johnson & Johnson",
+      "title": "Statistics & Decision Sciences Summer Interns 2027",
+      "locations": [
+        "Raritan, NJ",
+        "Titusville, NJ",
+        "Spring House, PA",
+        "La Jolla, CA"
+      ],
+      "states": [
+        "NJ",
+        "PA",
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Public Health"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-08-13",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Statistics---Decision-Sciences-Summer-Interns-2027_R-103411",
+      "summary": "Graduate statistics interns apply statistical modeling, data visualization, simulation, and software development to support drug development decisions across J&J R&D programs.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:54+00:00",
+      "last_updated": "2026-10-28T17:00:54+00:00",
+      "last_verified": "2026-10-28T17:00:54+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Statistics---Decision-Sciences-Summer-Interns-2027_R-103411"
+        }
+      ]
+    },
+    {
+      "id": "3760a583c5fe",
+      "organization": "Johnson & Johnson",
+      "title": "2027 GD (U.S.) Summer Intern",
+      "locations": [
+        "Titusville, NJ",
+        "Raritan, NJ",
+        "Spring House, PA"
+      ],
+      "states": [
+        "NJ",
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics",
+        "Engineering-Mechanical",
+        "Engineering-Biomedical",
+        "Engineering-Industrial",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Chemical"
+      ],
+      "class_years": [],
+      "min_gpa": 3.5,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": false,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-08-13",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME-2027-GD--US--Summer-Intern_R-102105",
+      "summary": "12-week hybrid summer internship in J&J Innovative Medicine Global Development supporting clinical drug development, trial management, data analytics, project management, and related functions.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:14+00:00",
+      "last_updated": "2026-10-28T17:01:14+00:00",
+      "last_verified": "2026-10-28T17:01:14+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME-2027-GD--US--Summer-Intern_R-102105"
+        }
+      ]
+    },
+    {
+      "id": "8c40fb6d6f35",
+      "organization": "Johnson & Johnson",
+      "title": "Design and Development Co-Op, Summer 2027",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Mechanical",
+        "Engineering-Biomedical",
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-08-13",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op--Summer-2027_R-096727",
+      "summary": "R&D design and development co-op in J&J MedTech (Ethicon) performing testing, CAD design, simulation, and lab validation to support surgical device product design.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:02:15+00:00",
+      "last_updated": "2026-10-28T17:02:15+00:00",
+      "last_verified": "2026-10-28T17:02:15+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op--Summer-2027_R-096727"
+        }
+      ]
+    },
+    {
+      "id": "587f42982752",
+      "organization": "Johnson & Johnson",
+      "title": "R&D Device Engineer Summer Intern",
+      "locations": [
+        "Raritan, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Mechanical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-08-16",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Device-Engineer-Summer-Intern_R-103642",
+      "summary": "Summer R&D device engineering intern performing mechanical and lab testing, CAD modeling, prototype building, and design control documentation for medical devices.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:29+00:00",
+      "last_updated": "2026-10-28T16:59:29+00:00",
+      "last_verified": "2026-10-28T16:59:29+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Device-Engineer-Summer-Intern_R-103642"
+        }
+      ]
+    },
+    {
       "id": "7a96a219968d",
       "organization": "Johnson & Johnson (Ethicon, Inc.)",
       "title": "R&D Engineer Intern WCH",
@@ -110,6 +904,1294 @@
         {
           "source": "Johnson & Johnson",
           "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Intern-WCH_R-103053"
+        }
+      ]
+    },
+    {
+      "id": "2b346107ab1d",
+      "organization": "Johnson & Johnson",
+      "title": "Strategic Business Operations Summer Intern",
+      "locations": [
+        "Titusville, NJ",
+        "Raritan, NJ",
+        "Spring House, PA"
+      ],
+      "states": [
+        "NJ",
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Neuroscience",
+        "Engineering-Mechanical",
+        "Engineering-Biomedical",
+        "Engineering-Industrial",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Chemical",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 2.8,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-09-30",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Strategic-Business-Operations-Summer-Intern_R-103514",
+      "summary": "Support project management, operations strategy, budgeting, and continuous improvement initiatives across J&J Innovative Medicine pharmaceutical R&D during a summer 2027 hybrid internship.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:16+00:00",
+      "last_updated": "2026-10-28T17:00:16+00:00",
+      "last_verified": "2026-10-28T17:00:16+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Strategic-Business-Operations-Summer-Intern_R-103514"
+        }
+      ]
+    },
+    {
+      "id": "fd8b34ab46f0",
+      "organization": "Acoustical Society of America",
+      "title": "Summer Undergraduate Research or Internship Experience in Acoustics (SURIEA)",
+      "locations": [
+        "Melville, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Engineering-Biomedical",
+        "Environmental Science",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Minimum stipend of $5000",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://acousticalsociety.org/suriea/",
+      "summary": "A 10-week paid summer undergraduate research or internship program in acoustics, including support to attend an upcoming ASA meeting.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:56:22+00:00",
+      "last_updated": "2026-10-28T16:56:22+00:00",
+      "last_verified": "2026-10-28T16:56:22+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://acousticalsociety.org/suriea/"
+        }
+      ]
+    },
+    {
+      "id": "fb60a7015a57",
+      "organization": "Agnes Scott College",
+      "title": "The STEM Scholars Program",
+      "locations": [
+        "Decatur, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Biology",
+        "Chemistry",
+        "Neuroscience",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$1600.00 (4-week projects); $3200.00 (8-week projects); $3500.00 (10-week projects)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.agnesscott.edu/science-center-for-women/mentored-research/stem-scholars-program.html",
+      "summary": "Full-time summer research mentored by Agnes Scott College or ARCHE faculty in astrophysics, physics, biology, chemistry, neuroscience, engineering, mathematics, and related fields.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:56:26+00:00",
+      "last_updated": "2026-10-28T16:56:26+00:00",
+      "last_verified": "2026-10-28T16:56:26+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.agnesscott.edu/science-center-for-women/mentored-research/stem-scholars-program.html"
+        }
+      ]
+    },
+    {
+      "id": "1609786f6fd2",
+      "organization": "American Association for the Advancement of Science (AAAS)",
+      "title": "Entry Point! Program for Students with Disabilities",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.aaas.org/programs/entry-point",
+      "summary": "Recruits, screens, and refers STEM students with disabilities to company and university partners for 10-week summer internships or co-ops, with support and mentoring.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:56:55+00:00",
+      "last_updated": "2026-10-28T16:56:55+00:00",
+      "last_verified": "2026-10-28T16:56:55+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.aaas.org/programs/entry-point"
+        }
+      ]
+    },
+    {
+      "id": "7c400ac523b1",
+      "organization": "American Association of Physicists in Medicine (AAPM)",
+      "title": "AAPM Summer Undergraduate Fellowship Program",
+      "locations": [
+        "Alexandria, VA"
+      ],
+      "states": [
+        "VA"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Biomedical",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://aapm.secure-platform.com/gaf/page/SFP",
+      "summary": "10-week summer fellowship where undergraduates perform medical physics research or assist with clinical service under a mentor at a U.S. or Canadian institution.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:01+00:00",
+      "last_updated": "2026-10-28T16:57:01+00:00",
+      "last_verified": "2026-10-28T16:57:01+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://aapm.secure-platform.com/gaf/page/SFP"
+        }
+      ]
+    },
+    {
+      "id": "93b028f34755",
+      "organization": "American Association of Physicists in Medicine (AAPM)",
+      "title": "DREAM (Diversity Recruitment through Education and Mentoring) Summer Fellowship Program",
+      "locations": [
+        "Alexandria, VA"
+      ],
+      "states": [
+        "VA"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Physics",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://aapm.secure-platform.com/gaf/page/DREAM",
+      "summary": "A 10-week summer medical physics research fellowship where undergraduates choose a mentor at a U.S. or Canadian institution, aimed at increasing diversity in the field.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:05+00:00",
+      "last_updated": "2026-10-28T16:57:05+00:00",
+      "last_verified": "2026-10-28T16:57:05+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://aapm.secure-platform.com/gaf/page/DREAM"
+        }
+      ]
+    },
+    {
+      "id": "26471d79cdc5",
+      "organization": "American Gastroenterological Association",
+      "title": "Aman Armaan Ahmed Family Summer Undergraduate Research Fellowships (SURF) for Success Program",
+      "locations": [
+        "Bethesda, MD"
+      ],
+      "states": [
+        "MD"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Mathematics & Statistics",
+        "Public Health",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://gastro.org/research-and-awards/apply-for-awards/award/aga-aman-armaan-ahmed-family-summer-undergraduate-research-fellowship-surf/",
+      "summary": "Ten-week summer fellowship for underrepresented undergraduates to conduct digestive disease research mentored by gastroenterology and hepatology investigators, with stipend and travel/meal funding.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:09+00:00",
+      "last_updated": "2026-10-28T16:57:09+00:00",
+      "last_verified": "2026-10-28T16:57:09+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://gastro.org/research-and-awards/apply-for-awards/award/aga-aman-armaan-ahmed-family-summer-undergraduate-research-fellowship-surf/"
+        }
+      ]
+    },
+    {
+      "id": "c63dafec45eb",
+      "organization": "American Institute of Physics (AIP)",
+      "title": "Society of Physics Students Summer Internship Program",
+      "locations": [
+        "College Park, MD",
+        "Washington, DC"
+      ],
+      "states": [
+        "MD",
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.spsnational.org/programs/internships",
+      "summary": "10-week paid internship placing undergraduate physics students in science research, education, and policy roles with organizations in the Washington, DC area.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:12+00:00",
+      "last_updated": "2026-10-28T16:57:12+00:00",
+      "last_verified": "2026-10-28T16:57:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.spsnational.org/programs/internships"
+        }
+      ]
+    },
+    {
+      "id": "b64be235a473",
+      "organization": "American Museum of Natural History",
+      "title": "REU in Astrophysics, Earth and Planetary Science",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "approximately $5,100 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.amnh.org/our-research/richard-gilder-graduate-school/academics-and-research/fellowship-and-grant-opportunities/undergraduate-fellowships",
+      "summary": "NSF-funded summer research in astrophysics and Earth and planetary sciences at AMNH's Division of Physical Sciences in collaboration with CUNY.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:19+00:00",
+      "last_updated": "2026-10-28T16:57:19+00:00",
+      "last_verified": "2026-10-28T16:57:19+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.amnh.org/our-research/richard-gilder-graduate-school/academics-and-research/fellowship-and-grant-opportunities/undergraduate-fellowships"
+        }
+      ]
+    },
+    {
+      "id": "4c9e07b7c4e6",
+      "organization": "American Museum of Natural History",
+      "title": "REU in Evolutionary Biology",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5000 traineeship stipend plus per diem for housing and meals, relocation expenses, and transportation subsidies",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.amnh.org/our-research/richard-gilder-graduate-school/academics-and-research/fellowship-and-grant-opportunities/undergraduate-fellowships/reu-biology-program",
+      "summary": "Ten-week NSF-funded summer research with museum curators in systematics and evolutionary biology, spanning paleontology, genomics, population biology, conservation biology, and phylogenetics.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:25+00:00",
+      "last_updated": "2026-10-28T16:57:25+00:00",
+      "last_verified": "2026-10-28T16:57:25+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.amnh.org/our-research/richard-gilder-graduate-school/academics-and-research/fellowship-and-grant-opportunities/undergraduate-fellowships/reu-biology-program"
+        }
+      ]
+    },
+    {
+      "id": "4a91344f2c2a",
+      "organization": "American Physiological Society",
+      "title": "APS Undergraduate Summer Research Fellowship (UGSRF)",
+      "locations": [
+        "Bethesda, MD"
+      ],
+      "states": [
+        "MD"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Neuroscience",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.physiology.org/ugsrf",
+      "summary": "8-10 week hands-on physiology research fellowship in the lab of an established APS member researcher, with travel funding to attend the American Physiology Summit.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:28+00:00",
+      "last_updated": "2026-10-28T16:57:28+00:00",
+      "last_verified": "2026-10-28T16:57:28+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.physiology.org/ugsrf"
+        }
+      ]
+    },
+    {
+      "id": "a9174fc336ee",
+      "organization": "American Society for Engineering Education (ASEE)",
+      "title": "Naval Research Laboratory (NRL) Summer Internship Program for HBCU/MI Undergraduate Students",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Mathematics & Statistics",
+        "Environmental Science"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": "US citizen only",
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://twc.edu/programs/department-of-navy-internship-program",
+      "summary": "A 10-week summer research internship at the Naval Research Laboratory in Washington DC for HBCU/MI undergraduates, with mentor-planned STEM research projects.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:34+00:00",
+      "last_updated": "2026-10-28T16:57:34+00:00",
+      "last_verified": "2026-10-28T16:57:34+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://twc.edu/programs/department-of-navy-internship-program"
+        }
+      ]
+    },
+    {
+      "id": "b275fc9cab98",
+      "organization": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+      "title": "Katz and Manne Research Institute Summer Scholars Program",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "Clinical/Hospital Research",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Biomedical",
+        "Neuroscience",
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://research.luriechildrens.org/en/research-resources/office-of-research-development/research-advancement/katz-and-manne-research-institute-summer-scholars-program/",
+      "summary": "Undergraduates spend eight paid weeks doing hands-on research with a faculty mentor focused on children's health, plus weekly seminars on posters and career development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:42+00:00",
+      "last_updated": "2026-10-28T16:57:42+00:00",
+      "last_verified": "2026-10-28T16:57:42+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://research.luriechildrens.org/en/research-resources/office-of-research-development/research-advancement/katz-and-manne-research-institute-summer-scholars-program/"
+        }
+      ]
+    },
+    {
+      "id": "a680c3091c67",
+      "organization": "Appleton-Whittell Research Ranch of the National Audubon Society",
+      "title": "Appleton-Whittell Research Ranch of the National Audubon Society Research Fellowship",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "states": [
+        "AZ"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.audubon.org/southwest/projects/appleton-whittell-research-ranch-fellowship-program",
+      "summary": "Annual fellowship supporting young scientists conducting research on grassland conservation, species of conservation need, ecosystem restoration, natural history, climate change impacts, and community engagement.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:52+00:00",
+      "last_updated": "2026-10-28T16:57:52+00:00",
+      "last_verified": "2026-10-28T16:57:52+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.audubon.org/southwest/projects/appleton-whittell-research-ranch-fellowship-program"
+        }
+      ]
+    },
+    {
+      "id": "8006d78035f9",
+      "organization": "Arizona State University",
+      "title": "FORCE High Pressure Summer School",
+      "locations": [
+        "Tempe, AZ"
+      ],
+      "states": [
+        "AZ"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$4000 stipend for six weeks",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://force.asu.edu/high-pressure-summer-school/",
+      "summary": "Six-week summer school introducing undergraduates to high pressure research through lectures, experiments, analytical instrument tutorials, science communication, and weekly Arizona field trips.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:58+00:00",
+      "last_updated": "2026-10-28T16:57:58+00:00",
+      "last_verified": "2026-10-28T16:57:58+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://force.asu.edu/high-pressure-summer-school/"
+        }
+      ]
+    },
+    {
+      "id": "b2f1cfde3265",
+      "organization": "Auburn University",
+      "title": "Collaborative Approaches Among Scientists and Engineers (CASE) REU",
+      "locations": [
+        "Auburn, AL"
+      ],
+      "states": [
+        "AL"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biology",
+        "Physics",
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Aerospace",
+        "Engineering-Electrical",
+        "Engineering-Civil/Environmental",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend plus $1,500 food stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://auburn.edu/cosam/departments/diversity/reu.htm",
+      "summary": "10-week NSF REU where undergraduates conduct cross-disciplinary field and laboratory research projects co-mentored by faculty from two distinct STEM disciplines at Auburn University.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:06+00:00",
+      "last_updated": "2026-10-28T16:58:06+00:00",
+      "last_verified": "2026-10-28T16:58:06+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://auburn.edu/cosam/departments/diversity/reu.htm"
+        }
+      ]
+    },
+    {
+      "id": "dfca39b0ba53",
+      "organization": "Baylor College of Medicine",
+      "title": "The Summer Undergraduate Research Training (SMART) Program",
+      "locations": [
+        "Houston, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology",
+        "Neuroscience",
+        "Mathematics & Statistics",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "approximately $5,000",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.bcm.edu/smart",
+      "summary": "Nine-week paid summer biomedical research program for undergraduates at Baylor College of Medicine with seminars, GRE prep workshops, and career development activities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:18+00:00",
+      "last_updated": "2026-10-28T16:58:18+00:00",
+      "last_verified": "2026-10-28T16:58:18+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.bcm.edu/smart"
+        }
+      ]
+    },
+    {
+      "id": "f4a2605411e0",
+      "organization": "Baylor University",
+      "title": "The Center for Astrophysics, Space Physics, and Engineering Research (CASPER) Summer Programs",
+      "locations": [
+        "Waco, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": "$5000 stipend, $1000 housing allowance and $400 toward travel expenses",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.baylor.edu/CASPER/index.php?id=74374",
+      "summary": "Ten-week NSF REU where undergraduates conduct theoretical or experimental research in astrophysics, plasma physics, space physics, and related areas with Baylor faculty.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:21+00:00",
+      "last_updated": "2026-10-28T16:58:21+00:00",
+      "last_verified": "2026-10-28T16:58:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.baylor.edu/CASPER/index.php?id=74374"
+        }
+      ]
+    },
+    {
+      "id": "543e3728bbb7",
+      "organization": "Bigelow Laboratory for Ocean Sciences",
+      "title": "Gulf of Maine and the World Ocean REU",
+      "locations": [
+        "West Boothbay Harbor, ME"
+      ],
+      "states": [
+        "ME"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.bigelow.org/education/reu/",
+      "summary": "Ten-week NSF-funded summer REU where undergraduates conduct independent ocean science research with a Bigelow scientist mentor, culminating in a poster and symposium talk.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:35+00:00",
+      "last_updated": "2026-10-28T16:58:35+00:00",
+      "last_verified": "2026-10-28T16:58:35+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.bigelow.org/education/reu/"
+        }
+      ]
+    },
+    {
+      "id": "96fa87dcb618",
+      "organization": "Bird Conservation Oregon",
+      "title": "Sallinger Summer Fellowship: Bird and Wildlife Conservation",
+      "locations": [
+        "Portland, OR"
+      ],
+      "states": [
+        "OR"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$8000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.birdconservationoregon.org/conservation-fellowship",
+      "summary": "Summer fellowship for emerging conservationists aged 18-25 to work on research, habitat restoration, or advocacy related to conservation of birds, wildlife, and habitats.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:38+00:00",
+      "last_updated": "2026-10-28T16:58:38+00:00",
+      "last_verified": "2026-10-28T16:58:38+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.birdconservationoregon.org/conservation-fellowship"
+        }
+      ]
+    },
+    {
+      "id": "8191016d97eb",
+      "organization": "Blue Ocean Society for Marine Conservation",
+      "title": "Whale Research and Marine Science Education Internships",
+      "locations": [
+        "Hampton, NH"
+      ],
+      "states": [
+        "NH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.blueoceansociety.org/internships/",
+      "summary": "Interns collect whale data aboard a whale watch vessel or educate the public and care for aquatic animals at the Blue Ocean Discovery Center on Hampton Beach.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:42+00:00",
+      "last_updated": "2026-10-28T16:58:42+00:00",
+      "last_verified": "2026-10-28T16:58:42+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.blueoceansociety.org/internships/"
+        }
+      ]
+    },
+    {
+      "id": "931eab7e4e63",
+      "organization": "Boise State University",
+      "title": "REU Site: Materials for Society",
+      "locations": [
+        "Boise, ID"
+      ],
+      "states": [
+        "ID"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.google.com/boisestate.edu/reu-site-materials-for-society/",
+      "summary": "NSF-funded summer REU where undergraduates do interdisciplinary team research on materials for society and present results at the annual summer research conference.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:49+00:00",
+      "last_updated": "2026-10-28T16:58:49+00:00",
+      "last_verified": "2026-10-28T16:58:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sites.google.com/boisestate.edu/reu-site-materials-for-society/"
+        }
+      ]
+    },
+    {
+      "id": "8544bb4177c2",
+      "organization": "Duke University",
+      "title": "APSA Ralph Bunche Summer Institute",
+      "locations": [
+        "Durham, NC"
+      ],
+      "states": [
+        "NC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.apsanet.org/rbsi",
+      "summary": "Five-week intensive summer program at Duke introducing undergraduates to doctoral study in political science through research methods coursework, workshops, and a research paper.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:31+00:00",
+      "last_updated": "2026-10-28T16:57:31+00:00",
+      "last_verified": "2026-10-28T16:57:31+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.apsanet.org/rbsi"
+        }
+      ]
+    },
+    {
+      "id": "b56283a84a09",
+      "organization": "Idaho National Laboratory (INL)",
+      "title": "DOE CINR Research for Undergraduates (REU)",
+      "locations": [
+        "Boise, Idaho"
+      ],
+      "states": [
+        "ID"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$700 weekly stipend; $1,200 meal allowance; up to $1,000 travel support",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.boisestate.edu/coen-smsl/openings/",
+      "summary": "Nine-week summer internship with Idaho National Laboratory and Boise State on nanoparticle synthesis, ink preparation, printer operation, and materials characterization.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:45+00:00",
+      "last_updated": "2026-10-28T16:58:45+00:00",
+      "last_verified": "2026-10-28T16:58:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.boisestate.edu/coen-smsl/openings/"
         }
       ]
     },
@@ -1108,6 +3190,1428 @@
         {
           "source": "Johnson & Johnson",
           "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027"
+        }
+      ]
+    },
+    {
+      "id": "99e655c98769",
+      "organization": "Johnson & Johnson",
+      "title": "AI/ML/Data Science Intern",
+      "locations": [
+        "Zug, Switzerland",
+        "Boston, MA",
+        "High Wycombe, Buckinghamshire, United Kingdom",
+        "New York, NY",
+        "Barcelona, Spain",
+        "Madrid, Spain",
+        "Spring House, PA",
+        "New Brunswick, NJ",
+        "Leiden, Netherlands"
+      ],
+      "states": [
+        "MA",
+        "NY",
+        "PA",
+        "NJ"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Mathematics & Statistics",
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697",
+      "summary": "Graduate intern on J&J's Computer Vision team developing AI/ML and multimodal models for medical imaging and video, and interviewing clinical staff on AI use cases.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:07+00:00",
+      "last_updated": "2026-10-28T16:59:07+00:00",
+      "last_verified": "2026-10-28T16:59:07+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697"
+        }
+      ]
+    },
+    {
+      "id": "4d5ab6330401",
+      "organization": "Johnson & Johnson",
+      "title": "Laboratory Digital Twin Intern",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Mechanical",
+        "Engineering-Civil/Environmental",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Digital-Twin-Intern_R-103046",
+      "summary": "Support development of 2D/3D digital twin representations of 400,000 sq ft of laboratory space at Spring House, plus real estate project coordination and data analysis.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:10+00:00",
+      "last_updated": "2026-10-28T16:59:10+00:00",
+      "last_verified": "2026-10-28T16:59:10+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Digital-Twin-Intern_R-103046"
+        }
+      ]
+    },
+    {
+      "id": "36f197e1d61a",
+      "organization": "Johnson & Johnson",
+      "title": "Med Affairs Autoantibody Summer Intern",
+      "locations": [
+        "Horsham, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Pharmaceutical Sciences",
+        "Public Health"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Med-Affairs-Autoantibody-Summer-Intern_R-104121",
+      "summary": "Support Immunology Medical Affairs with abstracts, posters, medical writing QC, publication plan visuals, and project tracking for the Field Based Medical Science Liaison group.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:18+00:00",
+      "last_updated": "2026-10-28T16:59:18+00:00",
+      "last_verified": "2026-10-28T16:59:18+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Med-Affairs-Autoantibody-Summer-Intern_R-104121"
+        }
+      ]
+    },
+    {
+      "id": "bde5a9e311ed",
+      "organization": "Johnson & Johnson",
+      "title": "TDQ Intern",
+      "locations": [
+        "Raritan, NJ",
+        "Horsham, PA"
+      ],
+      "states": [
+        "NJ",
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Intern_R-098463",
+      "summary": "Summer 2027 intern in MedTech Technology and Digital Quality analyzing business processes and data, building dashboards, automating workflows with Python/R/SQL, and supporting AI validation activities.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:26+00:00",
+      "last_updated": "2026-10-28T16:59:26+00:00",
+      "last_verified": "2026-10-28T16:59:26+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Intern_R-098463"
+        }
+      ]
+    },
+    {
+      "id": "7ef647ccddda",
+      "organization": "Johnson & Johnson",
+      "title": "IMM Medical Affairs Summer Intern",
+      "locations": [
+        "Horsham, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Pharmaceutical Sciences",
+        "Public Health"
+      ],
+      "class_years": [
+        "Graduate student",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/IMM-Medical-Affairs-Summer-Intern_R-104420",
+      "summary": "Intern with the US Immunology Dermatology MSL team supporting scientific resources, congress planning, insights analysis, literature surveillance, and a capstone project from mid-May to late August 2027.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:37+00:00",
+      "last_updated": "2026-10-28T16:59:37+00:00",
+      "last_verified": "2026-10-28T16:59:37+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/IMM-Medical-Affairs-Summer-Intern_R-104420"
+        }
+      ]
+    },
+    {
+      "id": "8fcbaddc4a3d",
+      "organization": "Johnson & Johnson",
+      "title": "TDS Lab Automation Co-Op",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring",
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Lab-Automation-Co-Op_R-098640",
+      "summary": "Six-month co-op building pre-clinical drug product capabilities through PAT tool integration, lab experimentation, process development, automation, robotics, and computational modeling.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:44+00:00",
+      "last_updated": "2026-10-28T16:59:44+00:00",
+      "last_verified": "2026-10-28T16:59:44+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Lab-Automation-Co-Op_R-098640"
+        }
+      ]
+    },
+    {
+      "id": "89ca27509179",
+      "organization": "Johnson & Johnson",
+      "title": "US Medical Affairs GI Summer Intern",
+      "locations": [
+        "Horsham, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Pharmaceutical Sciences",
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/US-Medical-Affairs-GI-Summer-Intern_R-104355-1",
+      "summary": "Support J&J's Gastroenterology Medical Affairs team with study start-up, publications for sponsored studies, and team meetings related to inflammatory bowel disease products.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:56+00:00",
+      "last_updated": "2026-10-28T16:59:56+00:00",
+      "last_verified": "2026-10-28T16:59:56+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/US-Medical-Affairs-GI-Summer-Intern_R-104355-1"
+        }
+      ]
+    },
+    {
+      "id": "f95863c056df",
+      "organization": "Johnson & Johnson",
+      "title": "Associate Clinical Account Specialist (ACAS) Intern (Summer 2027)",
+      "locations": [
+        "Irvine, CA",
+        "Toledo, OH",
+        "Richmond, VA",
+        "Cleveland, OH",
+        "Connecticut",
+        "North Dakota"
+      ],
+      "states": [
+        "CA",
+        "OH",
+        "VA",
+        "CT",
+        "ND"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Chemistry",
+        "Materials Science",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Engineering-Aerospace",
+        "Public Health",
+        "Mathematics & Statistics",
+        "Pharmaceutical Sciences",
+        "Physics"
+      ],
+      "class_years": [
+        "Junior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$29 - $34/hour",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Associate-Clinical-Account-Specialist--ACAS--Intern--Summer-2027-_R-104405",
+      "summary": "Eight-week electrophysiology internship supporting projects in simulated 3D cardiac arrhythmia mapping, ablation biophysics, product introduction, therapy advancement, and clinical EP lab operations.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:01+00:00",
+      "last_updated": "2026-10-28T17:00:01+00:00",
+      "last_verified": "2026-10-28T17:00:01+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Associate-Clinical-Account-Specialist--ACAS--Intern--Summer-2027-_R-104405"
+        }
+      ]
+    },
+    {
+      "id": "7e914d3304fe",
+      "organization": "Johnson & Johnson",
+      "title": "Epidemiology Summer Intern 2027",
+      "locations": [
+        "Raritan, NJ",
+        "Horsham, PA"
+      ],
+      "states": [
+        "NJ",
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": 3.75,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Epidemiology-Summer-Intern-2027_R-103539",
+      "summary": "Support the oncology epidemiology team with study proposals, protocols, feasibility assessments, literature reviews, database analyses, and disease natural history research for new medications.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:05+00:00",
+      "last_updated": "2026-10-28T17:00:05+00:00",
+      "last_verified": "2026-10-28T17:00:05+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Epidemiology-Summer-Intern-2027_R-103539"
+        }
+      ]
+    },
+    {
+      "id": "6cb14733fdb4",
+      "organization": "Johnson & Johnson",
+      "title": "Discovery Medicinal Chemistry Internship",
+      "locations": [
+        "San Diego, CA",
+        "La Jolla, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$27.00/hr to $61.00/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Discovery-Medicinal-Chemistry-Internship_R-104156-1",
+      "summary": "Summer intern in the Discovery Chemistry group synthesizing, purifying, and characterizing novel drug-like compounds and presenting at project team meetings alongside a J&J scientist.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:09+00:00",
+      "last_updated": "2026-10-28T17:00:09+00:00",
+      "last_verified": "2026-10-28T17:00:09+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Discovery-Medicinal-Chemistry-Internship_R-104156-1"
+        }
+      ]
+    },
+    {
+      "id": "8e4cbe062e1a",
+      "organization": "Johnson & Johnson",
+      "title": "Oncology Discovery Scientist Intern",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Discovery-Scientist-Intern_R-099898",
+      "summary": "Summer 2027 oncology discovery intern conducting experimental research on disease biology, novel drug targets, and mechanisms of action, presenting a poster at J&J's intern symposium.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:20+00:00",
+      "last_updated": "2026-10-28T17:00:20+00:00",
+      "last_verified": "2026-10-28T17:00:20+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Discovery-Scientist-Intern_R-099898"
+        }
+      ]
+    },
+    {
+      "id": "51b12af0357d",
+      "organization": "Johnson & Johnson",
+      "title": "Oncology Clinical Scientist Intern",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Clinical-Scientist-Intern_R-099892",
+      "summary": "Twelve-week summer 2027 oncology R&D internship conducting mentored research on disease biology and drug targets, presenting results at a global intern research symposium.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:23+00:00",
+      "last_updated": "2026-10-28T17:00:23+00:00",
+      "last_verified": "2026-10-28T17:00:23+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Clinical-Scientist-Intern_R-099892"
+        }
+      ]
+    },
+    {
+      "id": "f3f90f01918d",
+      "organization": "Johnson & Johnson",
+      "title": "Oncology TR Scientist Intern",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-TR-Scientist-Intern_R-099901",
+      "summary": "Summer 2027 intern on J&J's oncology translational research team supporting biomarker, precision medicine, and computational omics research for clinical trials, culminating in a symposium poster.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:31+00:00",
+      "last_updated": "2026-10-28T17:00:31+00:00",
+      "last_verified": "2026-10-28T17:00:31+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-TR-Scientist-Intern_R-099901"
+        }
+      ]
+    },
+    {
+      "id": "dfc39d20cfcb",
+      "organization": "Johnson & Johnson",
+      "title": "Onco Drug-Device Combo Products Intern",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Chemical",
+        "Materials Science",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Onco-Drug-Device-Combo-Products-Intern_R-102873",
+      "summary": "Summer intern supporting oncology R&D on drug-device combination products through benchtop device testing, placebo formulation development, mechanical characterization, and data analysis.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:35+00:00",
+      "last_updated": "2026-10-28T17:00:35+00:00",
+      "last_verified": "2026-10-28T17:00:35+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Onco-Drug-Device-Combo-Products-Intern_R-102873"
+        }
+      ]
+    },
+    {
+      "id": "28fb0d8d20bc",
+      "organization": "Johnson & Johnson",
+      "title": "Oncology CPP Scientist Intern",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Pharmaceutical Sciences",
+        "Public Health"
+      ],
+      "class_years": [
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-CPP-Scientist-Intern_R-104472",
+      "summary": "Summer intern supporting oncology drug development through clinical pharmacology and pharmacometrics work, including PK and PK/PD analyses, literature review, and presenting a research poster.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:39+00:00",
+      "last_updated": "2026-10-28T17:00:39+00:00",
+      "last_verified": "2026-10-28T17:00:39+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-CPP-Scientist-Intern_R-104472"
+        }
+      ]
+    },
+    {
+      "id": "cc6b5063751d",
+      "organization": "Johnson & Johnson",
+      "title": "Oncology Preclinical Safety & TS Intern",
+      "locations": [
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Preclinical-Safety---TS-Intern_R-104474",
+      "summary": "Summer 2027 intern supporting oncology nonclinical safety strategy, interpreting toxicology, pathology and translational data, and presenting a final project within J&J's Preclinical Safety & Translational Sciences team.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:43+00:00",
+      "last_updated": "2026-10-28T17:00:43+00:00",
+      "last_verified": "2026-10-28T17:00:43+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Preclinical-Safety---TS-Intern_R-104474"
+        }
+      ]
+    },
+    {
+      "id": "a787118a58b7",
+      "organization": "Johnson & Johnson",
+      "title": "Oncology Global Medical Safety Intern",
+      "locations": [
+        "Horsham, PA",
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Global-Medical-Safety-Intern_R-104471",
+      "summary": "Summer 2027 intern supporting oncology drug safety surveillance, Periodic Safety Review and signal management meetings, global submissions, and presenting a research poster at J&J's intern symposium.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:47+00:00",
+      "last_updated": "2026-10-28T17:00:47+00:00",
+      "last_verified": "2026-10-28T17:00:47+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Global-Medical-Safety-Intern_R-104471"
+        }
+      ]
+    },
+    {
+      "id": "faf61cf81d0a",
+      "organization": "Johnson & Johnson",
+      "title": "Oncology Medical Affairs Intern",
+      "locations": [
+        "Horsham, PA",
+        "Spring House, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Medical-Affairs-Intern_R-104473",
+      "summary": "Summer 2027 intern supporting the Oncology Medical Affairs team with training programs, clinical learning strategy, product launch education, and a research poster at an intern symposium.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:00:50+00:00",
+      "last_updated": "2026-10-28T17:00:50+00:00",
+      "last_verified": "2026-10-28T17:00:50+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Medical-Affairs-Intern_R-104473"
+        }
+      ]
+    },
+    {
+      "id": "a97b6c62ffda",
+      "organization": "Johnson & Johnson",
+      "title": "GTO Manufacturing Engineering Co-op, Summer 2027",
+      "locations": [
+        "Cornelia, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Mechanical",
+        "Engineering-Chemical",
+        "Engineering-Electrical",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371",
+      "summary": "Manufacturing engineering co-op at Ethicon supporting production of adhesives, polymer resins, extrudate, and needles through problem solving, documentation, and continuous improvement projects.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:21+00:00",
+      "last_updated": "2026-10-28T17:01:21+00:00",
+      "last_verified": "2026-10-28T17:01:21+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371"
+        }
+      ]
+    },
+    {
+      "id": "ffe384492b03",
+      "organization": "Johnson & Johnson",
+      "title": "GTO Manufacturing Engineering Co-Op",
+      "locations": [
+        "Cornelia, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Mechanical",
+        "Engineering-Chemical",
+        "Engineering-Electrical",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898",
+      "summary": "Manufacturing engineering co-op at Ethicon solving chemical, electrical, and mechanical operating problems and implementing continuous improvement projects in adhesives, polymer, extrusion, and needle manufacturing.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:25+00:00",
+      "last_updated": "2026-10-28T17:01:25+00:00",
+      "last_verified": "2026-10-28T17:01:25+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898"
+        }
+      ]
+    },
+    {
+      "id": "7625220cb70f",
+      "organization": "Johnson & Johnson",
+      "title": "2027 Jax R&D Internship (STEM, Eng/Chem)",
+      "locations": [
+        "Jacksonville, FL"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Materials Science",
+        "Chemistry",
+        "Biochemistry",
+        "Biology",
+        "Public Health"
+      ],
+      "class_years": [],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/XMLNAME-2027-Jax-R-D-Internship--STEM--Eng-Chem-_R-099052",
+      "summary": "Summer R&D intern with J&J MedTech Vision working with scientists and engineers on eye health product research, process development, testing, and equipment development.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:29+00:00",
+      "last_updated": "2026-10-28T17:01:29+00:00",
+      "last_verified": "2026-10-28T17:01:29+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/XMLNAME-2027-Jax-R-D-Internship--STEM--Eng-Chem-_R-099052"
+        }
+      ]
+    },
+    {
+      "id": "8bfb01456442",
+      "organization": "Johnson & Johnson",
+      "title": "Global Market Access Summer Associate",
+      "locations": [
+        "Raritan, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": "Remote",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$34/hour - $52.50/hour",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Global-Market-Access-Summer-Associate_R-101873",
+      "summary": "Remote 12-week summer 2027 internship supporting Global Market Access projects in health economics, pricing, patient reported outcomes, or access policy for J&J Innovative Medicine.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:01:33+00:00",
+      "last_updated": "2026-10-28T17:01:33+00:00",
+      "last_verified": "2026-10-28T17:01:33+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Global-Market-Access-Summer-Associate_R-101873"
+        }
+      ]
+    },
+    {
+      "id": "425d66801901",
+      "organization": "Johnson & Johnson",
+      "title": "Research & Development Leadership Development Program (RDLDP)- Summer 2027 Internship",
+      "locations": [
+        "Santa Clara, CA",
+        "Jacksonville, FL",
+        "Raritan, NJ",
+        "Cincinnati, OH",
+        "Redwood City, CA",
+        "Irvine, CA"
+      ],
+      "states": [
+        "CA",
+        "FL",
+        "NJ",
+        "OH"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Materials Science",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$26/hr (Sophomore), $28/hr (Junior), $29/hr (Senior), $34/hr (Post-Graduate), $38/hr (Software Eng w/ 2 years exp post grad), $52.50 (PhD). Robotics/Data Science Majors: $28/hr (Sophomore), $31/hr (Junior), $34/hr (Senior), $40.50/hr (Post-Graduate), $52.",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Research---Development-Leadership-Development-Program--RDLDP---Summer-2027-Internship_R-096476",
+      "summary": "12-week summer MedTech R&D internship for engineering master's students introducing R&D platforms with classroom training, serving as a pipeline to the full-time R&D Leadership Development Program.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:02:24+00:00",
+      "last_updated": "2026-10-28T17:02:24+00:00",
+      "last_verified": "2026-10-28T17:02:24+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Research---Development-Leadership-Development-Program--RDLDP---Summer-2027-Internship_R-096476"
+        }
+      ]
+    },
+    {
+      "id": "f65a69aa5f4d",
+      "organization": "Johnson & Johnson",
+      "title": "Electrophysiology Clinical Specialty Internship Program – Lima, Peru",
+      "locations": [
+        "Lima, Peru"
+      ],
+      "states": [],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [],
+      "majors": [
+        "Engineering-Biomedical"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "S/ 1,200 monthly",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Lima-Peru/Healthcare-Technology-Internship-Program----Lima--Per--eic-_R-093409-1",
+      "summary": "Part-time educational internship in J&J MedTech's electrophysiology business, observing clinical procedures, learning the CARTO system, and the Clinical Account Specialist role.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T17:02:38+00:00",
+      "last_updated": "2026-10-28T17:02:38+00:00",
+      "last_verified": "2026-10-28T17:02:38+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Lima-Peru/Healthcare-Technology-Internship-Program----Lima--Per--eic-_R-093409-1"
+        }
+      ]
+    },
+    {
+      "id": "54dea9e70594",
+      "organization": "Johnson & Johnson (DePuy Synthes)",
+      "title": "Production Planning Co-Op Spring 2027",
+      "locations": [
+        "Warsaw, IN"
+      ],
+      "states": [
+        "IN"
+      ],
+      "remote": null,
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Industrial"
+      ],
+      "class_years": [],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Warsaw-Indiana-United-States-of-America/Production-Planning-Co-Op-Spring-2027_R-096903",
+      "summary": "Support DePuy Synthes production planning team with scheduling, work orders, inventory review, SAP data checks, and planning metrics in a manufacturing setting.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:15+00:00",
+      "last_updated": "2026-10-28T16:59:15+00:00",
+      "last_verified": "2026-10-28T16:59:15+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Warsaw-Indiana-United-States-of-America/Production-Planning-Co-Op-Spring-2027_R-096903"
+        }
+      ]
+    },
+    {
+      "id": "c7c744d1e1eb",
+      "organization": "Johnson & Johnson (DePuy Synthes)",
+      "title": "R&D Engineering Co-Op",
+      "locations": [
+        "Palm Beach Gardens, FL"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": null,
+      "opportunity_type": "Co-op",
+      "seasons": [],
+      "majors": [
+        "Engineering-Mechanical",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Palm-Beach-Gardens-Florida-United-States-of-America/R-D-Engineering-Co-Op_R-106168",
+      "summary": "Partner with engineers to research, design, test, and evaluate electro-mechanical surgical power tools, attachments, and cutting instruments in DePuy Synthes' Velys Power Tools group.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-28T16:59:33+00:00",
+      "last_updated": "2026-10-28T16:59:33+00:00",
+      "last_verified": "2026-10-28T16:59:33+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Palm-Beach-Gardens-Florida-United-States-of-America/R-D-Engineering-Co-Op_R-106168"
+        }
+      ]
+    },
+    {
+      "id": "2ca5658c26ad",
+      "organization": "Lamont-Doherty Earth Observatory, Columbia University",
+      "title": "Earth Intern Program",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Ten-week stipend of $6000",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://lamont.columbia.edu/education-outreach/student-summer-opportunities-intern-programs",
+      "summary": "Summer research in Earth and ocean sciences for Columbia and Barnard undergraduates, with a hands-on project supervised by an LDEO-affiliated scientist plus lectures and fieldtrips.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:12+00:00",
+      "last_updated": "2026-10-28T16:58:12+00:00",
+      "last_verified": "2026-10-28T16:58:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://lamont.columbia.edu/education-outreach/student-summer-opportunities-intern-programs"
         }
       ]
     },
@@ -2829,6 +6333,59 @@
       ]
     },
     {
+      "id": "d71ff6fb7bd8",
+      "organization": "NSF Center for Computer Assisted Synthesis (C-CAS)",
+      "title": "NSF Center for Computer Assisted Synthesis (C-CAS) Summer Undergraduate Research Fellowship",
+      "locations": [
+        "Walla Walla, WA"
+      ],
+      "states": [
+        "WA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Engineering-Chemical",
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend over 10 weeks plus $3,000 housing allowance",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ccas.nd.edu/outreach/surf-program/",
+      "summary": "Full-time 10-week summer research in organic synthesis, computational chemistry, and AI/ML in a C-CAS faculty lab at a partner university, mentored by a PhD student or postdoc.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:38+00:00",
+      "last_updated": "2026-10-28T16:57:38+00:00",
+      "last_verified": "2026-10-28T16:57:38+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ccas.nd.edu/outreach/surf-program/"
+        }
+      ]
+    },
+    {
       "id": "0ddbe8e2a97c",
       "organization": "SpaceX",
       "title": "Spring 2027 Civil Engineering Internship",
@@ -3312,6 +6869,613 @@
         {
           "source": "SpaceX",
           "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002"
+        }
+      ]
+    },
+    {
+      "id": "3df0d497019b",
+      "organization": "Universities Space Research Association (USRA)",
+      "title": "Air Force Research Laboratory (AFRL) Scholars Program",
+      "locations": [
+        "Columbia, MD",
+        "Kirtland AFB, Albuquerque, NM",
+        "Eglin AFB, Valparaiso, FL",
+        "Air Force Maui Optical and Supercomputing Site (AMOS), Maui, HI"
+      ],
+      "states": [
+        "MD",
+        "NM",
+        "FL",
+        "HI"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [],
+      "majors": [
+        "Engineering-Aerospace",
+        "Biology",
+        "Environmental Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "High school",
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://afrlscholars.usra.edu/scholarsprogram/",
+      "summary": "Paid STEM internships at AFRL sites across the US where students gain degree-relevant experience supporting AFRL operations and DoD missions.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:56:40+00:00",
+      "last_updated": "2026-10-28T16:56:40+00:00",
+      "last_verified": "2026-10-28T16:56:40+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://afrlscholars.usra.edu/scholarsprogram/"
+        }
+      ]
+    },
+    {
+      "id": "5116ccb8d01a",
+      "organization": "University of Alabama, Birmingham",
+      "title": "International Space Weather Camp (ISWC)",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "states": [
+        "AL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Engineering-Aerospace",
+        "Mathematics & Statistics",
+        "Physics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://alabamaphysics.com/international-space-weather-camp/",
+      "summary": "Multi-week camp of lectures, hands-on projects, experiments, and excursions on space weather, solar, plasma, and heliospheric physics with students from Alabama, Germany, and South Africa.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:56:45+00:00",
+      "last_updated": "2026-10-28T16:56:45+00:00",
+      "last_verified": "2026-10-28T16:56:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://alabamaphysics.com/international-space-weather-camp/"
+        }
+      ]
+    },
+    {
+      "id": "702f204eb73a",
+      "organization": "University of Alaska, Anchorage",
+      "title": "Alaska Sea Grant Community Engaged Fellowship",
+      "locations": [
+        "Anchorage, AK"
+      ],
+      "states": [
+        "AK"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,500 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://alaskaseagrant.org/education/awards-fellowships/community-engaged-fellowship/",
+      "summary": "Ten-week summer fellowship where students work with a mentor on a community-engaged project addressing a coastal or marine issue, supporting Alaska Sea Grant's conservation work.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:56:52+00:00",
+      "last_updated": "2026-10-28T16:56:52+00:00",
+      "last_verified": "2026-10-28T16:56:52+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://alaskaseagrant.org/education/awards-fellowships/community-engaged-fellowship/"
+        }
+      ]
+    },
+    {
+      "id": "177258fe50a7",
+      "organization": "University of Arkansas",
+      "title": "STEPS Research Experience for Undergraduates and Research Experience for Future Farmers",
+      "locations": [
+        "Fayetteville, AR"
+      ],
+      "states": [
+        "AR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Materials Science",
+        "Biochemistry",
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://steps-center.org/reu/",
+      "summary": "Ten-week summer REU on phosphorus sustainability with a boot-camp orientation, independent research projects with STEPS mentors, a cohort convergence project, and a Future Farmers track.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:48+00:00",
+      "last_updated": "2026-10-28T16:57:48+00:00",
+      "last_verified": "2026-10-28T16:57:48+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://steps-center.org/reu/"
+        }
+      ]
+    },
+    {
+      "id": "ebb9e9388abd",
+      "organization": "University of California, Berkeley",
+      "title": "Center for OLDest Ice EXploration (COLDEX) REU",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://coldex.org/reu",
+      "summary": "Undergraduates work with ice core scientists in a COLDEX lab for 10 weeks on research about finding Antarctica's oldest ice and Earth's climate history.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:16+00:00",
+      "last_updated": "2026-10-28T16:57:16+00:00",
+      "last_verified": "2026-10-28T16:57:16+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://coldex.org/reu"
+        }
+      ]
+    },
+    {
+      "id": "d25e87cbba5f",
+      "organization": "University of California, Davis",
+      "title": "Maternal Child Health Careers/Research Initiatives for Student Enhancement-Undergraduate Program (MCHC-RISE-UP)",
+      "locations": [
+        "Davis, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": 2.7,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$3,000 stipend (8-week program at UC Davis)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.kennedykrieger.org/training/programs/center-for-diversity-in-public-health-leadership-training/mchc-rise-up",
+      "summary": "Summer public health leadership program offering clinical, research, and community engagement experiences focused on maternal and child health and reducing health disparities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:56:18+00:00",
+      "last_updated": "2026-10-28T16:56:18+00:00",
+      "last_verified": "2026-10-28T16:56:18+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.kennedykrieger.org/training/programs/center-for-diversity-in-public-health-leadership-training/mchc-rise-up"
+        }
+      ]
+    },
+    {
+      "id": "ee6cfd9a0bb1",
+      "organization": "University of Michigan",
+      "title": "Paid Summer Research Opportunity in Time-Domain Astronomy (RENEW-Midwest)",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [
+        "High school",
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 summer stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ben.edu/renew-midwest-program/",
+      "summary": "10-week summer research detecting kilonova events in large astronomical surveys using Python data analysis, with faculty mentoring from Benedictine and University of Michigan.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:24+00:00",
+      "last_updated": "2026-10-28T16:58:24+00:00",
+      "last_verified": "2026-10-28T16:58:24+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ben.edu/renew-midwest-program/"
+        }
+      ]
+    },
+    {
+      "id": "42ca589b7bcb",
+      "organization": "Washington University",
+      "title": "The Amgen Scholars Program",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "states": [
+        "MO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Biomedical",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://amgenscholars.com/university/university-of-california-los-angeles/",
+      "summary": "Ten-week full-time summer lab research with faculty mentors, plus weekly seminars, graduate school preparation, and a final research paper and poster presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:15+00:00",
+      "last_updated": "2026-10-28T16:58:15+00:00",
+      "last_verified": "2026-10-28T16:58:15+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://amgenscholars.com/university/university-of-california-los-angeles/"
+        }
+      ]
+    },
+    {
+      "id": "4fe59cb43967",
+      "organization": "Western Kentucky University",
+      "title": "IRES: Development of the Neutron Optics Parity and Time Violation Experiment in Japan",
+      "locations": [
+        "Bowling Green, KY",
+        "Nagoya University, Japan"
+      ],
+      "states": [
+        "KY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://pa.as.uky.edu/ires",
+      "summary": "Summer research internship at Nagoya University, Japan, developing hardware for the NOPTREX experiment investigating matter/antimatter asymmetry, with academic-year training beforehand.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:28+00:00",
+      "last_updated": "2026-10-28T16:58:28+00:00",
+      "last_verified": "2026-10-28T16:58:28+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://pa.as.uky.edu/ires"
+        }
+      ]
+    },
+    {
+      "id": "de7bddb8ce60",
+      "organization": "Xavier University of Louisiana",
+      "title": "STEM Summer Scholars Institute (SSI)",
+      "locations": [
+        "New Orleans, LA"
+      ],
+      "states": [
+        "LA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Neuroscience",
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 stipend, plus room and board",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://graduate.indiana.edu/funding-professional-dev/undergrad-research/stem.html",
+      "summary": "Eight-week summer program at IU Bloomington and IUPUI where scholars from IU and partner MSIs conduct research with faculty, plus colloquia, technical writing, and GRE preparation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:56:49+00:00",
+      "last_updated": "2026-10-28T16:56:49+00:00",
+      "last_verified": "2026-10-28T16:56:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://graduate.indiana.edu/funding-professional-dev/undergrad-research/stem.html"
+        }
+      ]
+    },
+    {
+      "id": "79b7ef82cb9e",
+      "organization": "Yale University",
+      "title": "NSF Center for Genetically Encoded Materials Summer Undergraduate Research Program (C-GEM SURP)",
+      "locations": [
+        "New Haven, CT",
+        "Berkeley",
+        "Cornell",
+        "Georgia Tech",
+        "University of Minnesota",
+        "Boston College"
+      ],
+      "states": [
+        "CT"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biology",
+        "Biochemistry",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://gem-net.net/join/undergrads/",
+      "summary": "10-week summer program where undergraduates conduct individual research at the chemistry-biology interface in C-GEM faculty labs, with mentorship and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:52+00:00",
+      "last_updated": "2026-10-28T16:58:52+00:00",
+      "last_verified": "2026-10-28T16:58:52+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://gem-net.net/join/undergrads/"
         }
       ]
     }
