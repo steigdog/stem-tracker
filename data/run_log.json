@@ -408,5 +408,59 @@
       "cache_read_input_tokens": 381072,
       "calls": 103
     }
+  },
+  {
+    "kind": "verify",
+    "started": "2026-10-29T13:56:10+00:00",
+    "finished": "2026-10-29T13:59:41+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 8,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 35,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 60,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 2,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 38,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {},
+    "checks": {
+      "live": 139,
+      "gone": 0,
+      "error": 2
+    }
   }
 ]
