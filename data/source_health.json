@@ -1,33 +1,41 @@
 {
   "Pfizer": [
     7,
-    10
+    10,
+    7
   ],
   "SpaceX": [
     57,
+    55,
     55
   ],
   "Moderna": [
     39,
-    39
+    39,
+    40
   ],
   "DOE SULI (Science Undergraduate Laboratory Internships)": [
+    1,
     1,
     1
   ],
   "NASA Internships": [
     1,
+    1,
     1
   ],
   "Boeing": [
     24,
+    26,
     26
   ],
   "Johnson & Johnson": [
     79,
-    74
+    74,
+    78
   ],
   "Pathways to Science": [
+    555,
     555,
     555
   ]

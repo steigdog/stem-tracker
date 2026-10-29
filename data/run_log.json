@@ -462,5 +462,149 @@
       "gone": 0,
       "error": 2
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-10-29T17:11:28+00:00",
+    "finished": "2026-10-29T17:11:28+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-10-29T17:11:28+00:00",
+    "finished": "2026-10-29T17:17:08+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 55,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 40,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 26,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 7,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 78,
+        "read": 6,
+        "added": 1,
+        "updated": 0,
+        "skipped": 5,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 555,
+        "read": 40,
+        "added": 38,
+        "updated": 0,
+        "skipped": 2,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "Johnson & Johnson - Electrical Engineering Intern - Robotics R&D",
+      "University of Michigan - CELL-MET REU Program - University of Michigan",
+      "Boston University - NSF REU Site in Integrated Nanomanufacturing",
+      "Boston University - NSF REU Site in Translational Biophotonics",
+      "Boston University - Program in Mathematics for Young Scientists (PROMYS) - Summer Math Counselor Opportunity",
+      "Boston University - Summer Institute for Training in Biostatistics (SIBS)",
+      "Boston University - Summer Undergraduate Research Fellowship (SURF)",
+      "Boyce Thompson Institute for Plant Research - Boyce Thompson Institute for Plant Research, Bioinformatics REU",
+      "Boyce Thompson Institute for Plant Research / Cornell University - Boyce Thompson Institute for Plant Research, CROPPS Programmable Plant Systems REU",
+      "Boyce Thompson Institute for Plant Research (Cornell University) - Plant Genome Research Program Summer Internship",
+      "Brandeis University - REU in Materials Research Science and Engineering Center (MRSEC)",
+      "Brandeis University - Summer REU Program in Cell and Molecular Visualization",
+      "Brigham and Women's Hospital - Summer Training in Academic Research and Scholarship (STARS) Program",
+      "Brigham Young University - BYU Physics REU",
+      "Broad Institute of MIT and Harvard - Broad Summer Research Program (BSRP)",
+      "Brown University - Carney Summer Scholars in Computational Neuroscience",
+      "Buck Institute for Research on Aging - Buck Institute Summer Scholars Program",
+      "California Academy of Sciences - Summer Systematics Institute (SSI) REU",
+      "California Institute of Technology - Amgen Scholars Program at Cal Tech",
+      "California Institute of Technology - LIGO Summer Undergraduate Research Program",
+      "California State University, Monterey Bay - Monterey Bay Regional Ocean Science Research Experience for Undergraduates",
+      "Princeton University - Research Experience for Undergraduates in Materials Science (PCCM)",
+      "California State University, San Bernardino - REU in Geometry and Knot Theory",
+      "University of North Dakota - Genes & The Environment: REU for Undergrads from Rural and Tribal Colleges",
+      "University of Pittsburgh - Carnegie Mellon - University of Pittsburgh Joint Summer Undergraduate Program in Computational Neuroscience",
+      "Carnegie Mellon University - Data Analytics for Science Immersion Experience",
+      "University of Pittsburgh - Research Experience for Undergraduates in Human-Computer Interaction",
+      "Carnegie Mellon University - Robotics & Intelligent System Scholars (RISS) Robotics Institute",
+      "Case Western Reserve University - CanSUR Program",
+      "Case Western Reserve University - Summer Undergraduate Research in Pharmacology",
+      "Center for Disease Control (CDC) - CDC Undergraduate Public Health Scholars (CUPS) Program and the Dr. James A. Ferguson Emerging Infectious Diseases RISE Fellowship (Ferguson Fellowship)",
+      "University of New Mexico - Undergraduate Pipeline Network: Summer Research Experience",
+      "University of Minnesota - Paid summer REU internship: Prairie Ecology in western MN",
+      "Chicago Botanic Garden - Plant Biology & Conservation Research Experiences for Undergraduates (REU) Program: From Genes to Ecosystems",
+      "Center for Injury Research and Prevention, Children's Hospital of Philadelphia - Injury Science Research Experience for Undergraduates (REU)",
+      "City University of New York (CUNY), Brooklyn College - Brooklyn College Psychology and Neuroscience REU Program",
+      "University of Georgia - Hands-on research in Genomics and Computational Biology",
+      "Clarkson University - Aquatic Science, Engineering, and Technology (ASET) REU program",
+      "Clarkson University - NSF REU on High Performance Computing with Engineering Applications"
+    ],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 74495,
+      "output_tokens": 16520,
+      "cache_read_input_tokens": 171856,
+      "calls": 47
+    }
   }
 ]

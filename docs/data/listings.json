@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T13:59:41+00:00",
-  "last_collect": "2026-10-28T17:02:49+00:00",
+  "generated_at": "2026-10-29T17:17:08+00:00",
+  "last_collect": "2026-10-29T17:17:08+00:00",
   "last_verify": "2026-10-29T13:59:41+00:00",
   "sources_monitored": 8,
-  "count": 140,
+  "count": 179,
   "listings": [
     {
       "id": "2602a48d3d23",
@@ -340,6 +340,61 @@
       ]
     },
     {
+      "id": "ab275dec1a88",
+      "organization": "Buck Institute for Research on Aging",
+      "title": "Buck Institute Summer Scholars Program",
+      "locations": [
+        "Novato, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": "Total Stipend range of $4,000 to $5,000",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://www.buckinstitute.org/education-training/undergraduate-postbacc/",
+      "summary": "Undergraduates conduct mentored biomedical research on molecular and biological drivers of aging and age-related diseases, with training in scientific communication and presentations.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:26+00:00",
+      "last_updated": "2026-10-29T17:15:26+00:00",
+      "last_verified": "2026-10-29T17:15:26+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.buckinstitute.org/education-training/undergraduate-postbacc/"
+        }
+      ]
+    },
+    {
       "id": "62afb6750378",
       "organization": "Vanderbilt University",
       "title": "Paid Rosetta Commons Research Experience for Undergraduates",
@@ -391,6 +446,224 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.rosettacommons.org/about/intern"
+        }
+      ]
+    },
+    {
+      "id": "ecc5054339ce",
+      "organization": "Clarkson University",
+      "title": "Aquatic Science, Engineering, and Technology (ASET) REU program",
+      "locations": [
+        "Potsdam, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Environmental Science",
+        "Biology",
+        "Engineering-Civil/Environmental",
+        "Materials Science",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-15",
+      "rolling": null,
+      "apply_url": "https://www.clarkson.edu/academics/research/research-experience-undergraduate-students/aset-research-experience-undergrads-reu",
+      "summary": "10-week summer research program where undergraduates conduct independent aquatic science and engineering projects focused on the Great Lakes and Hudson River basin with faculty advisors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:17:04+00:00",
+      "last_updated": "2026-10-29T17:17:04+00:00",
+      "last_verified": "2026-10-29T17:17:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.clarkson.edu/academics/research/research-experience-undergraduate-students/aset-research-experience-undergrads-reu"
+        }
+      ]
+    },
+    {
+      "id": "609137e20a34",
+      "organization": "Carnegie Mellon University",
+      "title": "Data Analytics for Science Immersion Experience",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology",
+        "Chemistry",
+        "Materials Science",
+        "Mathematics & Statistics",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-03-08",
+      "rolling": null,
+      "apply_url": "https://www.cmu.edu/mcs/academics/undergrad/dasie",
+      "summary": "Fully funded weeklong program introducing undergraduates to data-enabled science through sessions with CMU MCS faculty and Pittsburgh Supercomputing Center contributors, plus group activities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:19+00:00",
+      "last_updated": "2026-10-29T17:16:19+00:00",
+      "last_verified": "2026-10-29T17:16:19+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.cmu.edu/mcs/academics/undergrad/dasie"
+        }
+      ]
+    },
+    {
+      "id": "7f00c5233b18",
+      "organization": "University of Michigan",
+      "title": "CELL-MET REU Program - University of Michigan",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Biology",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 stipend over 10 weeks",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-03-15",
+      "rolling": null,
+      "apply_url": "https://www.bu.edu/photonics-programs/reu/",
+      "summary": "Ten-week summer research in tissue mechanics and biomaterials focused on cardiac tissue engineering at the NSF CELL-MET Engineering Research Center.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:14:28+00:00",
+      "last_updated": "2026-10-29T17:14:28+00:00",
+      "last_verified": "2026-10-29T17:14:28+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.bu.edu/photonics-programs/reu/"
+        }
+      ]
+    },
+    {
+      "id": "07a9c11c4b76",
+      "organization": "Boston University",
+      "title": "Summer Undergraduate Research Fellowship (SURF)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-04-01",
+      "rolling": null,
+      "apply_url": "https://www.bu.edu/surf/",
+      "summary": "Ten-week full-time summer research with a BU faculty member in biology, biochemistry, genetics, or environmental sciences, with weekly seminars and a final presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:14:48+00:00",
+      "last_updated": "2026-10-29T17:14:48+00:00",
+      "last_verified": "2026-10-29T17:14:48+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.bu.edu/surf/"
         }
       ]
     },
@@ -2089,6 +2362,1396 @@
         {
           "source": "Pathways to Science",
           "url": "https://sites.google.com/boisestate.edu/reu-site-materials-for-society/"
+        }
+      ]
+    },
+    {
+      "id": "35463ed1bd3d",
+      "organization": "Boston University",
+      "title": "NSF REU Site in Integrated Nanomanufacturing",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.bu.edu/photonics-programs/reu/",
+      "summary": "Undergraduates conduct mentored research on nanoscale structures, devices, and systems, fabricating devices and engineering materials with training in photolithography, 3D printing, and electron microscopy.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:14:32+00:00",
+      "last_updated": "2026-10-29T17:14:32+00:00",
+      "last_verified": "2026-10-29T17:14:32+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.bu.edu/photonics-programs/reu/"
+        }
+      ]
+    },
+    {
+      "id": "a8f098b97474",
+      "organization": "Boston University",
+      "title": "NSF REU Site in Translational Biophotonics",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Biology",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Physics",
+        "Biochemistry",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.bu.edu/photonics-programs/reu/programs/",
+      "summary": "Undergraduates develop biophotonic and optical technologies to sense disease-related properties of molecules, cells, and tissues, while training in translation, entrepreneurship, communication, and ethics.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:14:36+00:00",
+      "last_updated": "2026-10-29T17:14:36+00:00",
+      "last_verified": "2026-10-29T17:14:36+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.bu.edu/photonics-programs/reu/programs/"
+        }
+      ]
+    },
+    {
+      "id": "67d7ec0f3a72",
+      "organization": "Boston University",
+      "title": "Program in Mathematics for Young Scientists (PROMYS) - Summer Math Counselor Opportunity",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,500 stipend plus free room and board",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://promys.org/programs/promys/for-counselors/",
+      "summary": "Undergraduate counselors mentor mathematically ambitious high school students while studying advanced mathematics through seminars, faculty interaction, and organizing their own mini-courses.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:14:39+00:00",
+      "last_updated": "2026-10-29T17:14:39+00:00",
+      "last_verified": "2026-10-29T17:14:39+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://promys.org/programs/promys/for-counselors/"
+        }
+      ]
+    },
+    {
+      "id": "314cd6ae6fb9",
+      "organization": "Boston University",
+      "title": "Summer Institute for Training in Biostatistics (SIBS)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biology",
+        "Public Health"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.bu.edu/sph/academics/departments/biostatistics/summer-institute-for-training-in-biostatistics/",
+      "summary": "Six-week summer program where undergraduates learn applied biostatistics from faculty and work hands-on with real NHLBI-funded study data while earning college credit.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:14:43+00:00",
+      "last_updated": "2026-10-29T17:14:43+00:00",
+      "last_verified": "2026-10-29T17:14:43+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.bu.edu/sph/academics/departments/biostatistics/summer-institute-for-training-in-biostatistics/"
+        }
+      ]
+    },
+    {
+      "id": "fec366937471",
+      "organization": "Boyce Thompson Institute for Plant Research",
+      "title": "Boyce Thompson Institute for Plant Research, Bioinformatics REU",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biology",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://btiscience.org/education-outreach/research-internships/",
+      "summary": "Undergraduates analyze large-scale omics data and develop computational bioinformatics tools on independent projects with BTI scientists at Cornell, plus seminars and a symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:14:51+00:00",
+      "last_updated": "2026-10-29T17:14:51+00:00",
+      "last_verified": "2026-10-29T17:14:51+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://btiscience.org/education-outreach/research-internships/"
+        }
+      ]
+    },
+    {
+      "id": "3efdeba47e0f",
+      "organization": "Boyce Thompson Institute for Plant Research (Cornell University)",
+      "title": "Plant Genome Research Program Summer Internship",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://btiscience.org/education-outreach/research-internships/",
+      "summary": "Undergraduates conduct independent plant genomics research projects in BTI labs, learning molecular biology techniques and bioinformatics tools, attending seminars, and presenting at a symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:14:57+00:00",
+      "last_updated": "2026-10-29T17:14:57+00:00",
+      "last_verified": "2026-10-29T17:14:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://btiscience.org/education-outreach/research-internships/"
+        }
+      ]
+    },
+    {
+      "id": "f3f67bc3ae8b",
+      "organization": "Boyce Thompson Institute for Plant Research / Cornell University",
+      "title": "Boyce Thompson Institute for Plant Research, CROPPS Programmable Plant Systems REU",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics",
+        "Environmental Science",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://btiscience.org/education-outreach/research-internships/",
+      "summary": "Summer undergraduates conduct independent projects with interdisciplinary teams developing technologies for human-plant communication using synthetic biology, nanotechnology, optics, and computing.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:14:54+00:00",
+      "last_updated": "2026-10-29T17:14:54+00:00",
+      "last_verified": "2026-10-29T17:14:54+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://btiscience.org/education-outreach/research-internships/"
+        }
+      ]
+    },
+    {
+      "id": "51034cb82323",
+      "organization": "Brandeis University",
+      "title": "REU in Materials Research Science and Engineering Center (MRSEC)",
+      "locations": [
+        "Waltham, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.brandeis.edu/mrsec/education/reuoverview.html",
+      "summary": "Ten-week summer hands-on research program in Brandeis MRSEC materials laboratories with faculty mentoring, professional development, and a final poster presentation at SciFest.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:00+00:00",
+      "last_updated": "2026-10-29T17:15:00+00:00",
+      "last_verified": "2026-10-29T17:15:00+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.brandeis.edu/mrsec/education/reuoverview.html"
+        }
+      ]
+    },
+    {
+      "id": "13e2f60a18d9",
+      "organization": "Brandeis University",
+      "title": "Summer REU Program in Cell and Molecular Visualization",
+      "locations": [
+        "Waltham, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5500 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.brandeis.edu/mrsec/education/undergraduates/reu.html",
+      "summary": "10-week NSF-funded REU where students conduct independent biological sciences research with a faculty mentor, attend seminars, write a synopsis, and present at a capstone symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:04+00:00",
+      "last_updated": "2026-10-29T17:15:04+00:00",
+      "last_verified": "2026-10-29T17:15:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.brandeis.edu/mrsec/education/undergraduates/reu.html"
+        }
+      ]
+    },
+    {
+      "id": "02a99db5fc0b",
+      "organization": "Brigham Young University",
+      "title": "BYU Physics REU",
+      "locations": [
+        "Provo, UT"
+      ],
+      "states": [
+        "UT"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend plus food stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://reu.byu.edu",
+      "summary": "NSF-funded summer undergraduate research in BYU physics and astronomy, including optics, plasmas, thin films, acoustics, computer modeling, theory, and astronomy.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:13+00:00",
+      "last_updated": "2026-10-29T17:15:13+00:00",
+      "last_verified": "2026-10-29T17:15:13+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://reu.byu.edu"
+        }
+      ]
+    },
+    {
+      "id": "28de9d04eb4e",
+      "organization": "Brigham and Women's Hospital",
+      "title": "Summer Training in Academic Research and Scholarship (STARS) Program",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "Clinical/Hospital Research",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cdi.brighamandwomens.org/bwh-stars-program/",
+      "summary": "8-week summer program for underrepresented in medicine students offering hands-on research training in BWH and Harvard Medical School labs, clinical shadowing, and professional development seminars.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:10+00:00",
+      "last_updated": "2026-10-29T17:15:10+00:00",
+      "last_verified": "2026-10-29T17:15:10+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cdi.brighamandwomens.org/bwh-stars-program/"
+        }
+      ]
+    },
+    {
+      "id": "47626cc5f680",
+      "organization": "Broad Institute of MIT and Harvard",
+      "title": "Broad Summer Research Program (BSRP)",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Neuroscience",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.broadinstitute.org/bsrp/broad-summer-research-program-bsrp",
+      "summary": "Nine-week summer program where undergraduates perform original computational or experimental genomics-related research in Broad labs and present oral and poster presentations.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:18+00:00",
+      "last_updated": "2026-10-29T17:15:18+00:00",
+      "last_verified": "2026-10-29T17:15:18+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.broadinstitute.org/bsrp/broad-summer-research-program-bsrp"
+        }
+      ]
+    },
+    {
+      "id": "bb68b5d51928",
+      "organization": "Brown University",
+      "title": "Carney Summer Scholars in Computational Neuroscience",
+      "locations": [
+        "Providence, RI"
+      ],
+      "states": [
+        "RI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://carney.brown.edu/education-training/undergraduate/carney-summer-scholars",
+      "summary": "Nine-week summer program where undergraduates conduct computational neuroscience research projects in Brown labs, build coding skills, and present posters at The Leadership Alliance National Symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:22+00:00",
+      "last_updated": "2026-10-29T17:15:22+00:00",
+      "last_verified": "2026-10-29T17:15:22+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://carney.brown.edu/education-training/undergraduate/carney-summer-scholars"
+        }
+      ]
+    },
+    {
+      "id": "bd3531fbd369",
+      "organization": "California Academy of Sciences",
+      "title": "Summer Systematics Institute (SSI) REU",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,400 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.calacademy.org/summer-systematics-institute",
+      "summary": "Nine-week paid museum-based research internship in systematics, phylogenetics, and biodiversity, with a curriculum and science communication activities at the California Academy of Sciences.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:29+00:00",
+      "last_updated": "2026-10-29T17:15:29+00:00",
+      "last_verified": "2026-10-29T17:15:29+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.calacademy.org/summer-systematics-institute"
+        }
+      ]
+    },
+    {
+      "id": "e6dfacad6025",
+      "organization": "California Institute of Technology",
+      "title": "Amgen Scholars Program at Cal Tech",
+      "locations": [
+        "Pasadena, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Chemistry",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,620 stipend for the ten-week period",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://amgenscholars.com/university/caltech/",
+      "summary": "Ten-week research program at Caltech where undergraduates conduct biology, chemistry, and bio-technical research with faculty mentors, plus seminars and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:38+00:00",
+      "last_updated": "2026-10-29T17:15:38+00:00",
+      "last_verified": "2026-10-29T17:15:38+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://amgenscholars.com/university/caltech/"
+        }
+      ]
+    },
+    {
+      "id": "d0c9ec17fe44",
+      "organization": "California Institute of Technology",
+      "title": "LIGO Summer Undergraduate Research Program",
+      "locations": [
+        "Pasadena, CA",
+        "Hanford, WA",
+        "Livingston Parish, LA"
+      ],
+      "states": [
+        "CA",
+        "WA",
+        "LA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Mathematics & Statistics",
+        "Engineering-Mechanical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml",
+      "summary": "Undergraduates conduct summer research on gravitational-wave detection with LIGO, including laser, optical, electronic, mechanical systems, software, and astrophysical source modeling.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:46+00:00",
+      "last_updated": "2026-10-29T17:15:46+00:00",
+      "last_verified": "2026-10-29T17:15:46+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml"
+        }
+      ]
+    },
+    {
+      "id": "2b411569c625",
+      "organization": "California State University, Monterey Bay",
+      "title": "Monterey Bay Regional Ocean Science Research Experience for Undergraduates",
+      "locations": [
+        "Moss Landing, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://csumb.edu/marinescience/research/research-experiences-for-undergraduates/",
+      "summary": "A 10-week NSF-funded summer REU where students conduct independent ocean science research with a mentor at Monterey Bay partner institutions, plus professional development workshops and a symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:53+00:00",
+      "last_updated": "2026-10-29T17:15:53+00:00",
+      "last_verified": "2026-10-29T17:15:53+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://csumb.edu/marinescience/research/research-experiences-for-undergraduates/"
+        }
+      ]
+    },
+    {
+      "id": "24c947860356",
+      "organization": "California State University, San Bernardino",
+      "title": "REU in Geometry and Knot Theory",
+      "locations": [
+        "San Bernardino, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.google.com/csusb.edu/reuatcsusb/home",
+      "summary": "NSF-funded on-campus summer research program where undergraduates pursue research in Geometry or Knot Theory guided by faculty advisors after an introductory week.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:00+00:00",
+      "last_updated": "2026-10-29T17:16:00+00:00",
+      "last_verified": "2026-10-29T17:16:00+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sites.google.com/csusb.edu/reuatcsusb/home"
+        }
+      ]
+    },
+    {
+      "id": "d363d586a376",
+      "organization": "Carnegie Mellon University",
+      "title": "Robotics & Intelligent System Scholars (RISS) Robotics Institute",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Materials Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$7,200 support for each participant",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://riss.ri.cmu.edu/",
+      "summary": "Ten-week NSF-funded summer REU where undergraduates conduct hands-on robotics research at CMU's Robotics Institute on projects addressing societal challenges, with presentations and graduate school guidance.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:27+00:00",
+      "last_updated": "2026-10-29T17:16:27+00:00",
+      "last_verified": "2026-10-29T17:16:27+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://riss.ri.cmu.edu/"
+        }
+      ]
+    },
+    {
+      "id": "5b4b4e509dbb",
+      "organization": "Case Western Reserve University",
+      "title": "CanSUR Program",
+      "locations": [
+        "Cleveland, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology",
+        "Chemistry",
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://case.edu/cancer/training-education/cansur",
+      "summary": "NIH-funded 10-week summer program where undergraduates conduct cancer research in labs with Case Comprehensive Cancer Center researchers in Cleveland.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:30+00:00",
+      "last_updated": "2026-10-29T17:16:30+00:00",
+      "last_verified": "2026-10-29T17:16:30+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://case.edu/cancer/training-education/cansur"
+        }
+      ]
+    },
+    {
+      "id": "d6f0a88a5764",
+      "organization": "Case Western Reserve University",
+      "title": "Summer Undergraduate Research in Pharmacology",
+      "locations": [
+        "Cleveland, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biology",
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://case.edu/medicine/pharmacology/education-training/summer-undergraduate-research-program",
+      "summary": "A 10-week summer program in Case Western's Department of Pharmacology introducing rising juniors and seniors to basic laboratory research in biomedical sciences.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:34+00:00",
+      "last_updated": "2026-10-29T17:16:34+00:00",
+      "last_verified": "2026-10-29T17:16:34+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://case.edu/medicine/pharmacology/education-training/summer-undergraduate-research-program"
+        }
+      ]
+    },
+    {
+      "id": "334c054b9a85",
+      "organization": "Center for Disease Control (CDC)",
+      "title": "CDC Undergraduate Public Health Scholars (CUPS) Program and the Dr. James A. Ferguson Emerging Infectious Diseases RISE Fellowship (Ferguson Fellowship)",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [],
+      "majors": [
+        "Public Health",
+        "Engineering-Biomedical",
+        "Biology"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.cdc.gov/minority-health/student-programs/internships-fellowships.html",
+      "summary": "Public health internships at CDC partner institutions providing undergraduates real-world public health workplace experience to increase interest in minority health and health professions.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:38+00:00",
+      "last_updated": "2026-10-29T17:16:38+00:00",
+      "last_verified": "2026-10-29T17:16:38+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.cdc.gov/minority-health/student-programs/internships-fellowships.html"
+        }
+      ]
+    },
+    {
+      "id": "7adc3efc5134",
+      "organization": "Center for Injury Research and Prevention, Children's Hospital of Philadelphia",
+      "title": "Injury Science Research Experience for Undergraduates (REU)",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Public Health",
+        "Mathematics & Statistics",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://injury.research.chop.edu/training-opportunities/reu#.WCym99gzWot",
+      "summary": "Undergraduates conduct mentored interdisciplinary research on the causes and consequences of child and adolescent injury, helping develop evidence-based prevention products, programs, and policies.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:53+00:00",
+      "last_updated": "2026-10-29T17:16:53+00:00",
+      "last_verified": "2026-10-29T17:16:53+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://injury.research.chop.edu/training-opportunities/reu#.WCym99gzWot"
+        }
+      ]
+    },
+    {
+      "id": "1618653dcaec",
+      "organization": "Chicago Botanic Garden",
+      "title": "Plant Biology & Conservation Research Experiences for Undergraduates (REU) Program: From Genes to Ecosystems",
+      "locations": [
+        "Evanston, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ChicagoBotanic-PlantBio",
+      "summary": "Undergraduates conduct original research in plant biology and conservation, present at a research symposium, and join professional development workshops and field trips.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:49+00:00",
+      "last_updated": "2026-10-29T17:16:49+00:00",
+      "last_verified": "2026-10-29T17:16:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ChicagoBotanic-PlantBio"
+        }
+      ]
+    },
+    {
+      "id": "70923be6a70c",
+      "organization": "City University of New York (CUNY), Brooklyn College",
+      "title": "Brooklyn College Psychology and Neuroscience REU Program",
+      "locations": [
+        "Brooklyn, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.brooklyn.edu/psychology/undergraduate/reu/",
+      "summary": "A 15-week NSF-funded program of mentored research in clinical, cognitive, and behavioral neuroscience, culminating in a first-authored poster at Brooklyn College's Science Day.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:56+00:00",
+      "last_updated": "2026-10-29T17:16:56+00:00",
+      "last_verified": "2026-10-29T17:16:56+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.brooklyn.edu/psychology/undergraduate/reu/"
+        }
+      ]
+    },
+    {
+      "id": "38413bc8e5ce",
+      "organization": "Clarkson University",
+      "title": "NSF REU on High Performance Computing with Engineering Applications",
+      "locations": [
+        "Potsdam, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Engineering-Chemical",
+        "Engineering-Civil/Environmental",
+        "Engineering-Electrical",
+        "Mathematics & Statistics",
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 Research Stipend; $120 Food Stipend per week; Up to $600 as Moving Support",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://reu-hpc.clarkson.edu/",
+      "summary": "Ten-week summer research experience in high performance computing on engineering application projects spanning aeronautical, chemical, civil, electrical engineering and applied mathematics.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:17:08+00:00",
+      "last_updated": "2026-10-29T17:17:08+00:00",
+      "last_verified": "2026-10-29T17:17:08+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://reu-hpc.clarkson.edu/"
         }
       ]
     },
@@ -4468,6 +6131,59 @@
       ]
     },
     {
+      "id": "7708fb4dd7c5",
+      "organization": "Johnson & Johnson",
+      "title": "Electrical Engineering Intern - Robotics R&D",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical",
+        "Engineering-Biomedical",
+        "Engineering-Mechanical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Sophomore $32/hr, Junior $35.50/hr, Senior $39/hr, Master's degree $46.50/hr, PhD degree $61/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
+      "summary": "Design, prototype, test, and integrate multi-layer PCBAs for surgical robotic platforms, working with multidisciplinary engineering teams in Robotics R&D.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-29T17:14:08+00:00",
+      "last_updated": "2026-10-29T17:14:08+00:00",
+      "last_verified": "2026-10-29T17:14:08+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1"
+        }
+      ]
+    },
+    {
       "id": "54dea9e70594",
       "organization": "Johnson & Johnson (DePuy Synthes)",
       "title": "Production Planning Co-Op Spring 2027",
@@ -6386,6 +8102,66 @@
       ]
     },
     {
+      "id": "2d14e547f6bd",
+      "organization": "Princeton University",
+      "title": "Research Experience for Undergraduates in Materials Science (PCCM)",
+      "locations": [
+        "Princeton, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Materials Science",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Aerospace",
+        "Engineering-Civil/Environmental"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://pccm.princeton.edu/reu",
+      "summary": "Nine-week NSF-funded REU where undergraduates join ongoing faculty materials science and engineering research at Princeton, with short courses, seminars, and lab visits.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:57+00:00",
+      "last_updated": "2026-10-29T17:15:57+00:00",
+      "last_verified": "2026-10-29T17:15:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://pccm.princeton.edu/reu"
+        }
+      ]
+    },
+    {
       "id": "0ddbe8e2a97c",
       "organization": "SpaceX",
       "title": "Spring 2027 Civil Engineering Internship",
@@ -7207,6 +8983,57 @@
       ]
     },
     {
+      "id": "5bea500a61dd",
+      "organization": "University of Georgia",
+      "title": "Hands-on research in Genomics and Computational Biology",
+      "locations": [
+        "Athens, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.bmb.uga.edu/fungal-genomics-and-computational-biology",
+      "summary": "Ten-week NSF-funded summer program where undergraduates take group genomics and computational labs, then conduct independent research projects with faculty mentors and present posters.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:17:00+00:00",
+      "last_updated": "2026-10-29T17:17:00+00:00",
+      "last_verified": "2026-10-29T17:17:00+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.bmb.uga.edu/fungal-genomics-and-computational-biology"
+        }
+      ]
+    },
+    {
       "id": "ee6cfd9a0bb1",
       "organization": "University of Michigan",
       "title": "Paid Summer Research Opportunity in Time-Domain Astronomy (RENEW-Midwest)",
@@ -7257,6 +9084,274 @@
         {
           "source": "Pathways to Science",
           "url": "https://ben.edu/renew-midwest-program/"
+        }
+      ]
+    },
+    {
+      "id": "0e6b31fb3cdd",
+      "organization": "University of Minnesota",
+      "title": "Paid summer REU internship: Prairie Ecology in western MN",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$640/week stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://echinaceaproject.org/?s=REU",
+      "summary": "Conduct field research on purple coneflower ecology and evolution in fragmented Minnesota tallgrass prairie, including an independent project on plant ecology, pollination, evolution, statistics, or conservation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:45+00:00",
+      "last_updated": "2026-10-29T17:16:45+00:00",
+      "last_verified": "2026-10-29T17:16:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://echinaceaproject.org/?s=REU"
+        }
+      ]
+    },
+    {
+      "id": "168aa12387e3",
+      "organization": "University of New Mexico",
+      "title": "Undergraduate Pipeline Network: Summer Research Experience",
+      "locations": [
+        "Albuquerque, NM"
+      ],
+      "states": [
+        "NM"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Public Health"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Summer experience package worth approximately $5,000 (stipend, some meals, activity fees)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://hsc.unm.edu/research/brep/undergraduate/upn/index.html",
+      "summary": "Ten-week full-time faculty-mentored research in areas such as infectious disease, neuroscience, cancer biology, toxicology, cardiovascular disease, and health disparities, culminating in a poster session.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:42+00:00",
+      "last_updated": "2026-10-29T17:16:42+00:00",
+      "last_verified": "2026-10-29T17:16:42+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://hsc.unm.edu/research/brep/undergraduate/upn/index.html"
+        }
+      ]
+    },
+    {
+      "id": "e76e0847c0eb",
+      "organization": "University of North Dakota",
+      "title": "Genes & The Environment: REU for Undergrads from Rural and Tribal Colleges",
+      "locations": [
+        "Grand Forks, ND"
+      ],
+      "states": [
+        "ND"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Neuroscience",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 salary/stipend; room and board up to $2,000; travel up to $750",
+      "paid": true,
+      "housing": true,
+      "letters_required": 2,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://med.und.edu/education-training/biomedical-sciences/reu/index.html",
+      "summary": "NSF-funded 10-week summer REU where students conduct gene regulation research in labs, training in molecular biology, genomics, and bioinformatics, and present at a public symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:05+00:00",
+      "last_updated": "2026-10-29T17:16:05+00:00",
+      "last_verified": "2026-10-29T17:16:05+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://med.und.edu/education-training/biomedical-sciences/reu/index.html"
+        }
+      ]
+    },
+    {
+      "id": "25c187bb142d",
+      "organization": "University of Pittsburgh",
+      "title": "Carnegie Mellon - University of Pittsburgh Joint Summer Undergraduate Program in Computational Neuroscience",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Biology",
+        "Engineering-Electrical",
+        "Mathematics & Statistics",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4500 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.cmu.edu/ni/academics/undergraduate-training/summer-ugrad-comp-neuro.html",
+      "summary": "NIH-sponsored summer research training in computational neuroscience at the Neuroscience Institute in Pittsburgh, with stipend, travel, and dormitory housing.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:09+00:00",
+      "last_updated": "2026-10-29T17:16:09+00:00",
+      "last_verified": "2026-10-29T17:16:09+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.cmu.edu/ni/academics/undergraduate-training/summer-ugrad-comp-neuro.html"
+        }
+      ]
+    },
+    {
+      "id": "07073a0feb16",
+      "organization": "University of Pittsburgh",
+      "title": "Research Experience for Undergraduates in Human-Computer Interaction",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Engineering-Biomedical",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.hcii.cmu.edu/summer-research-program",
+      "summary": "NSF-funded undergraduate research in rehabilitation engineering, assistive technology, and quality of life technology through a CMU and University of Pittsburgh partnership.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:23+00:00",
+      "last_updated": "2026-10-29T17:16:23+00:00",
+      "last_verified": "2026-10-29T17:16:23+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.hcii.cmu.edu/summer-research-program"
         }
       ]
     },
