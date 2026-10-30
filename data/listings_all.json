@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_collect": "2026-10-29T17:17:08+00:00",
+    "last_collect": "2026-10-30T16:57:40+00:00",
     "sources_monitored": 8,
     "last_verify": "2026-10-30T13:53:23+00:00"
   },
@@ -67,7 +67,7 @@
             "kind": "api404",
             "api": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8636143002"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:42:54+00:00",
           "last_read": "2026-10-27T22:42:54+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -148,7 +148,7 @@
             "kind": "api404",
             "api": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8616338002"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:42:58+00:00",
           "last_read": "2026-10-27T22:42:58+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -227,7 +227,7 @@
             "kind": "api404",
             "api": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8621749002"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:43:07+00:00",
           "last_read": "2026-10-27T22:43:07+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -296,7 +296,7 @@
             "kind": "api404",
             "api": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8636134002"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:43:11+00:00",
           "last_read": "2026-10-27T22:43:11+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -366,7 +366,7 @@
             "kind": "api404",
             "api": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8636144002"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:43:28+00:00",
           "last_read": "2026-10-27T22:43:28+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -447,7 +447,7 @@
             "kind": "api404",
             "api": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8621740002"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:43:33+00:00",
           "last_read": "2026-10-27T22:43:33+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -526,7 +526,7 @@
             "kind": "api404",
             "api": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8621753002"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:43:37+00:00",
           "last_read": "2026-10-27T22:43:37+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -595,7 +595,7 @@
             "kind": "api404",
             "api": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8621763002"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:43:41+00:00",
           "last_read": "2026-10-27T22:43:41+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -660,7 +660,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:43:49+00:00",
           "last_read": "2026-10-27T22:43:49+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -722,7 +722,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Intern--Biobanking_R19852"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:43:53+00:00",
           "last_read": "2026-10-27T22:43:53+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -782,7 +782,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Princeton-New-Jersey/Intern--Biospecimen-Logistics_R19854"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:43:57+00:00",
           "last_read": "2026-10-27T22:43:57+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -845,7 +845,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Intern--Oncology-Biostatistics_R19867-1"
           },
-          "last_seen": "2026-10-29T17:13:55+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:00+00:00",
           "last_read": "2026-10-27T22:44:00+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -907,7 +907,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Intern--Infectious-Disease-Epidemiology_R19878"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:08+00:00",
           "last_read": "2026-10-27T22:44:08+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -971,7 +971,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--Data-Management_R20100"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:12+00:00",
           "last_read": "2026-10-27T22:44:12+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1040,7 +1040,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Intern--CMC-Development--Summer-2027-_R19683"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:17+00:00",
           "last_read": "2026-10-27T22:44:17+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1110,7 +1110,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:21+00:00",
           "last_read": "2026-10-27T22:44:21+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1172,7 +1172,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Intern--Global-Safety-Epidemiology--Infectious-Rare-Disease_R19876"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:25+00:00",
           "last_read": "2026-10-27T22:44:25+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1241,7 +1241,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--CMC-Development--Spring-2027-_R19684"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:30+00:00",
           "last_read": "2026-10-27T22:44:30+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1307,7 +1307,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Applied-Technologies--Spring-2027-_R19735"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:34+00:00",
           "last_read": "2026-10-27T22:44:34+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1376,7 +1376,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Bioanalytics_R19859"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:38+00:00",
           "last_read": "2026-10-27T22:44:38+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1394,7 +1394,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Bioanalytics_R19882"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:54+00:00",
           "last_read": "2026-10-27T22:44:54+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1459,7 +1459,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Biometrics_R19864"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:42+00:00",
           "last_read": "2026-10-27T22:44:42+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1526,7 +1526,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Bacteriology_R19883"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:46+00:00",
           "last_read": "2026-10-27T22:44:46+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1590,7 +1590,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Clinical-Cytometry_R19860"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:50+00:00",
           "last_read": "2026-10-27T22:44:50+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1655,7 +1655,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Engineering-and-AI-Integration_R19893"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:44:58+00:00",
           "last_read": "2026-10-27T22:44:58+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1718,7 +1718,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Platform-Biology-Integration_R19890"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:01+00:00",
           "last_read": "2026-10-27T22:45:01+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1782,7 +1782,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Immuno-Oncology-Research_R19897"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:05+00:00",
           "last_read": "2026-10-27T22:45:05+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1845,7 +1845,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Development-Resource-Management_R19871"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:09+00:00",
           "last_read": "2026-10-27T22:45:09+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1907,7 +1907,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Immuno-Assays-and-CBA_R19861"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:13+00:00",
           "last_read": "2026-10-27T22:45:13+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -1969,7 +1969,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Biobanking_R19853"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:17+00:00",
           "last_read": "2026-10-27T22:45:17+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2034,7 +2034,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Protein-Design_R19884"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:21+00:00",
           "last_read": "2026-10-27T22:45:21+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2098,7 +2098,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Compliance-and-Data-QC_R19862"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:24+00:00",
           "last_read": "2026-10-27T22:45:24+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2163,7 +2163,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Bioanalytical-and-Molecular-Assays_R19857"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:28+00:00",
           "last_read": "2026-10-27T22:45:28+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2226,7 +2226,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Clinical-Biomarker-Biostatistics_R19869"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:32+00:00",
           "last_read": "2026-10-27T22:45:32+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2291,7 +2291,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--In-Vitro-Biology_R19885-1"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:36+00:00",
           "last_read": "2026-10-27T22:45:36+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2355,7 +2355,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Analytics_R19899"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:47+00:00",
           "last_read": "2026-10-27T22:45:47+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2421,7 +2421,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Facilities--Plant---Project-Engineering_R19952"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:45:51+00:00",
           "last_read": "2026-10-27T22:45:51+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2486,7 +2486,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Business-Operations---Operational-Excellence_R19950-1"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:46:00+00:00",
           "last_read": "2026-10-27T22:46:00+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2548,7 +2548,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Automation--Digital-Manufacturing---Controls_R19951"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:46:04+00:00",
           "last_read": "2026-10-27T22:46:04+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2613,7 +2613,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Biopharmaceutical-Manufacturing-Operations_R19953-1"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:46:08+00:00",
           "last_read": "2026-10-27T22:46:08+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2677,7 +2677,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Process-Engineering--CQV---Manufacturing-Engineering_R19956"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:46:12+00:00",
           "last_read": "2026-10-27T22:46:12+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2740,7 +2740,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Norwood-Massachusetts/Co-Op--Supply-Chain---Logistics_R19949"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:46:16+00:00",
           "last_read": "2026-10-27T22:46:16+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2802,7 +2802,7 @@
             "kind": "workday",
             "api": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--PTE_R20085"
           },
-          "last_seen": "2026-10-29T17:14:03+00:00",
+          "last_seen": "2026-10-30T16:54:34+00:00",
           "first_seen": "2026-10-27T22:46:20+00:00",
           "last_read": "2026-10-27T22:46:20+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2871,7 +2871,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Cincinnati-Ohio-United-States-of-America/Environmental--Health---Safety--EHS--Summer-Intern_R-104149-1"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:48:09+00:00",
           "last_read": "2026-10-27T22:48:09+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -2942,7 +2942,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-DDS-Co-Op_R-104175-1"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:48:16+00:00",
           "last_read": "2026-10-27T22:48:16+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3012,7 +3012,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-Cell-Line-Engineering-Co-Op_R-098568"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:48:20+00:00",
           "last_read": "2026-10-27T22:48:20+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3084,7 +3084,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:48:24+00:00",
           "last_read": "2026-10-27T22:48:24+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3295,7 +3295,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Digital-Ops---Strat-Co-Op_R-098540"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:48:36+00:00",
           "last_read": "2026-10-27T22:48:36+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3367,7 +3367,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-API-DSP-HTPD-Co-Op_R-104168"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:48:40+00:00",
           "last_read": "2026-10-27T22:48:40+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3501,7 +3501,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Proteins-Development-Material-Sciences-Co-Op_R-098610"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:48:48+00:00",
           "last_read": "2026-10-27T22:48:48+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3573,7 +3573,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Bus-Ops-Co-Op_R-104440"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:48:53+00:00",
           "last_read": "2026-10-27T22:48:53+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3642,7 +3642,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Clinical-Supply-Chain-Planning-Co-Op_R-098331"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:48:57+00:00",
           "last_read": "2026-10-27T22:48:57+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3715,7 +3715,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Viral-Vector-Development-Co-Op_R-104407"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:49:02+00:00",
           "last_read": "2026-10-27T22:49:02+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3781,7 +3781,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Clinical-Operations-Co-Op_R-098557"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:49:05+00:00",
           "last_read": "2026-10-27T22:49:05+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3851,7 +3851,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-CGT-Cell-Development-Co-Op_R-104293"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:49:09+00:00",
           "last_read": "2026-10-27T22:49:09+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -3990,7 +3990,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Horsham-Pennsylvania-United-States-of-America/Immunology-Medical-Affairs-Clinical-Project-Scientist-Internship_R-102793"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:49:19+00:00",
           "last_read": "2026-10-27T22:49:19+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4054,7 +4054,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Irvine-California-United-States-of-America/Research---Development-Intern_R-104120"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:49:24+00:00",
           "last_read": "2026-10-27T22:49:24+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4121,7 +4121,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Intern-WCH_R-103053"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:49:28+00:00",
           "last_read": "2026-10-27T22:49:28+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4188,7 +4188,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-27T22:49:32+00:00",
           "last_read": "2026-10-27T22:49:32+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4256,7 +4256,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-KennedyKriegerInst-RISEUP",
             "must_contain": "Maternal Child Health Careers/Research I"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:56:18+00:00",
           "last_read": "2026-10-28T16:56:18+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4327,7 +4327,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AcoustSocAmerica-SURIEA",
             "must_contain": "Summer Undergraduate Research or Interns"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:56:22+00:00",
           "last_read": "2026-10-28T16:56:22+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4397,7 +4397,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AgnesScott-STEMScholars",
             "must_contain": "The STEM Scholars Program"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:56:26+00:00",
           "last_read": "2026-10-28T16:56:26+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4476,7 +4476,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AirForceResearchLab-Scholars",
             "must_contain": "Air Force Research Laboratory (AFRL) Sch"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:56:40+00:00",
           "last_read": "2026-10-28T16:56:40+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4541,7 +4541,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UAlabamaHuntsville-JSWSC",
             "must_contain": "International Space Weather Camp (ISWC)"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:56:45+00:00",
           "last_read": "2026-10-28T16:56:45+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4611,7 +4611,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-IndianaU-HBCU-STEM",
             "must_contain": "STEM Summer Scholars Institute (SSI)"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:56:49+00:00",
           "last_read": "2026-10-28T16:56:49+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4680,7 +4680,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UAlaskaFairbanks-CommFell",
             "must_contain": "Alaska Sea Grant Community Engaged Fello"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:56:52+00:00",
           "last_read": "2026-10-28T16:56:52+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4747,7 +4747,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AAAS-EntryPoint",
             "must_contain": "Entry Point! Program for Students with D"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:56:55+00:00",
           "last_read": "2026-10-28T16:56:55+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4812,7 +4812,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AmericanAssocPhysicistsMed-Fell",
             "must_contain": "AAPM Summer Undergraduate Fellowship Pro"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:01+00:00",
           "last_read": "2026-10-28T16:57:01+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4877,7 +4877,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AmericanAssocPhysicistsMed-DREAM",
             "must_contain": "DREAM (Diversity Recruitment through Edu"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:05+00:00",
           "last_read": "2026-10-28T16:57:05+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -4946,7 +4946,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AmericanGastroAssoc-DigestiveDisease",
             "must_contain": "Aman Armaan Ahmed Family Summer Undergra"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:09+00:00",
           "last_read": "2026-10-28T16:57:09+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5014,7 +5014,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AmerInstPhysics-Intern",
             "must_contain": "Society of Physics Students Summer Inter"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:12+00:00",
           "last_read": "2026-10-28T16:57:12+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5085,7 +5085,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-OregonStateU-COLDEX",
             "must_contain": "Center for OLDest Ice EXploration (COLDE"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:16+00:00",
           "last_read": "2026-10-28T16:57:16+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5152,7 +5152,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AMNH-PhysicalSci",
             "must_contain": "REU in Astrophysics, Earth and Planetary"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:19+00:00",
           "last_read": "2026-10-28T16:57:19+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5218,7 +5218,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AMNH-EvolutionaryBio",
             "must_contain": "REU in Evolutionary Biology"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:25+00:00",
           "last_read": "2026-10-28T16:57:25+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5286,7 +5286,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-APS-UGSRF",
             "must_contain": "APS Undergraduate Summer Research Fellow"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:28+00:00",
           "last_read": "2026-10-28T16:57:28+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5349,7 +5349,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AmericanPoliticalSciAssoc-RalphBunche",
             "must_contain": "APSA Ralph Bunche Summer Institute"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:31+00:00",
           "last_read": "2026-10-28T16:57:31+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5415,7 +5415,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ASEE-NavalResearchLab",
             "must_contain": "Naval Research Laboratory (NRL) Summer I"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:34+00:00",
           "last_read": "2026-10-28T16:57:34+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5483,7 +5483,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UNotreDame-CCAS",
             "must_contain": "NSF Center for Computer Assisted Synthes"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:38+00:00",
           "last_read": "2026-10-28T16:57:38+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5552,7 +5552,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AnnRobertLurieChildHospChicago-KatzManne",
             "must_contain": "Katz and Manne Research Institute Summer"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:42+00:00",
           "last_read": "2026-10-28T16:57:42+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5624,7 +5624,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-NorthCarolinaState-FutureFarmers",
             "must_contain": "STEPS Research Experience for Undergradu"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:48+00:00",
           "last_read": "2026-10-28T16:57:48+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5692,7 +5692,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=OPP-AppletonWhittellResRanch-Birds",
             "must_contain": "Appleton-Whittell Research Ranch of the "
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:52+00:00",
           "last_read": "2026-10-28T16:57:52+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5761,7 +5761,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ArizonaStateU-FORCE",
             "must_contain": "FORCE High Pressure Summer School"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:57:58+00:00",
           "last_read": "2026-10-28T16:57:58+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5831,7 +5831,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-JohnsHopkins-Rosetta",
             "must_contain": "Paid Rosetta Commons Research Experience"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:02+00:00",
           "last_read": "2026-10-28T16:58:02+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5906,7 +5906,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-AuburnU-CASE",
             "must_contain": "Collaborative Approaches Among Scientist"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:06+00:00",
           "last_read": "2026-10-28T16:58:06+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -5974,7 +5974,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Columbia-LDEOSummerIntern",
             "must_contain": "LDEO Summer Internship Program for Under"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:12+00:00",
           "last_read": "2026-10-28T16:58:12+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6040,7 +6040,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UCLA-AmgenScholars",
             "must_contain": "The Amgen Scholars Program"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:15+00:00",
           "last_read": "2026-10-28T16:58:15+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6110,7 +6110,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BaylorCollegeMed-SMART",
             "must_contain": "The Summer Undergraduate Research Traini"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:18+00:00",
           "last_read": "2026-10-28T16:58:18+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6176,7 +6176,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Baylor-CASPER",
             "must_contain": "The Center for Astrophysics, Space Physi"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:21+00:00",
           "last_read": "2026-10-28T16:58:21+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6245,7 +6245,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=UDG-BenedictineU-RENEW",
             "must_contain": "Paid Summer Research Opportunity in Time"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:24+00:00",
           "last_read": "2026-10-28T16:58:24+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6314,7 +6314,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UKentucky-IRESJapan",
             "must_contain": "IRES: Development of the Neutron Optics "
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:28+00:00",
           "last_read": "2026-10-28T16:58:28+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6382,7 +6382,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BermudaBioStation-MarineSci",
             "must_contain": "Fall Semester Student Research Experienc"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:32+00:00",
           "last_read": "2026-10-28T16:58:32+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6451,7 +6451,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Bigelow-OceanSciences",
             "must_contain": "Gulf of Maine and the World Ocean REU"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:35+00:00",
           "last_read": "2026-10-28T16:58:35+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6520,7 +6520,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=FEL-BirdConservationOregon-Sallinger",
             "must_contain": "Sallinger Summer Fellowship: Bird and Wi"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:38+00:00",
           "last_read": "2026-10-28T16:58:38+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6588,7 +6588,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BlueOcean-WhaleResearchEd",
             "must_contain": "Whale Research and Marine Science Educat"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:42+00:00",
           "last_read": "2026-10-28T16:58:42+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6658,7 +6658,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BoiseStateU-CINR",
             "must_contain": "DOE CINR Research for Undergraduates (RE"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:45+00:00",
           "last_read": "2026-10-28T16:58:45+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6730,7 +6730,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BoiseStateU-MaterialsSoc",
             "must_contain": "REU Site: Materials for Society"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:49+00:00",
           "last_read": "2026-10-28T16:58:49+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -6804,7 +6804,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-C-GEM-SURP",
             "must_contain": "NSF Center for Genetically Encoded Mater"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-28T16:58:52+00:00",
           "last_read": "2026-10-28T16:58:52+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -7004,7 +7004,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697"
           },
-          "last_seen": "2026-10-29T17:14:23+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T16:59:07+00:00",
           "last_read": "2026-10-28T16:59:07+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -7071,7 +7071,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Digital-Twin-Intern_R-103046"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T16:59:10+00:00",
           "last_read": "2026-10-28T16:59:10+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -7267,7 +7267,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Co-Op_R-098461"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T16:59:22+00:00",
           "last_read": "2026-10-28T16:59:22+00:00",
           "last_verified": "2026-10-28T16:59:22+00:00",
@@ -7334,7 +7334,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Intern_R-098463"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T16:59:26+00:00",
           "last_read": "2026-10-28T16:59:26+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -7596,7 +7596,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-Lab-Automation-Co-Op_R-098640"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T16:59:44+00:00",
           "last_read": "2026-10-28T16:59:44+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -7748,7 +7748,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Irvine-California-United-States-of-America/Associate-Clinical-Account-Specialist--ACAS--Intern--Summer-2027-_R-104405"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:01+00:00",
           "last_read": "2026-10-28T17:00:01+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -7954,7 +7954,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Titusville-New-Jersey-United-States-of-America/Strategic-Business-Operations-Summer-Intern_R-103514"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:16+00:00",
           "last_read": "2026-10-28T17:00:16+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8020,7 +8020,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Discovery-Scientist-Intern_R-099898"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:20+00:00",
           "last_read": "2026-10-28T17:00:20+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8086,7 +8086,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Clinical-Scientist-Intern_R-099892"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:23+00:00",
           "last_read": "2026-10-28T17:00:23+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8154,7 +8154,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:27+00:00",
           "last_read": "2026-10-28T17:00:27+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8219,7 +8219,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-TR-Scientist-Intern_R-099901"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:31+00:00",
           "last_read": "2026-10-28T17:00:31+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8287,7 +8287,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Cambridge-Massachusetts-United-States-of-America/Onco-Drug-Device-Combo-Products-Intern_R-102873"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:35+00:00",
           "last_read": "2026-10-28T17:00:35+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8353,7 +8353,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-CPP-Scientist-Intern_R-104472"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:39+00:00",
           "last_read": "2026-10-28T17:00:39+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8416,7 +8416,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Preclinical-Safety---TS-Intern_R-104474"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:43+00:00",
           "last_read": "2026-10-28T17:00:43+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8480,7 +8480,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Global-Medical-Safety-Intern_R-104471"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:47+00:00",
           "last_read": "2026-10-28T17:00:47+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8544,7 +8544,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Medical-Affairs-Intern_R-104473"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:50+00:00",
           "last_read": "2026-10-28T17:00:50+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8612,7 +8612,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Raritan-New-Jersey-United-States-of-America/Statistics---Decision-Sciences-Summer-Interns-2027_R-103411"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:00:54+00:00",
           "last_read": "2026-10-28T17:00:54+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8681,7 +8681,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/IDAR-Summer-Intern--RMW-_R-104610"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:01+00:00",
           "last_read": "2026-10-28T17:01:01+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8751,7 +8751,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--C-SP-_R-103534"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:06+00:00",
           "last_read": "2026-10-28T17:01:06+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8823,7 +8823,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/IDAR-Summer-Intern--DM-CM-_R-102616"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:10+00:00",
           "last_read": "2026-10-28T17:01:10+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8897,7 +8897,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME-2027-GD--US--Summer-Intern_R-102105"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:14+00:00",
           "last_read": "2026-10-28T17:01:14+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -8965,7 +8965,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:21+00:00",
           "last_read": "2026-10-28T17:01:21+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9097,7 +9097,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Jacksonville-Florida-United-States-of-America/XMLNAME-2027-Jax-R-D-Internship--STEM--Eng-Chem-_R-099052"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:29+00:00",
           "last_read": "2026-10-28T17:01:29+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9160,7 +9160,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Raritan-New-Jersey-United-States-of-America/Global-Market-Access-Summer-Associate_R-101873"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:33+00:00",
           "last_read": "2026-10-28T17:01:33+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9222,7 +9222,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:40+00:00",
           "last_read": "2026-10-28T17:01:40+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9286,7 +9286,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:44+00:00",
           "last_read": "2026-10-28T17:01:44+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9418,7 +9418,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Titusville-New-Jersey-United-States-of-America/J-J-IM-North-America-Operations-Intern_R-099364"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:52+00:00",
           "last_read": "2026-10-28T17:01:52+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9491,7 +9491,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Clinical-Pharmacology-and-Pharmacometrics-Intern---Summer-2027_R-098266"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:01:57+00:00",
           "last_read": "2026-10-28T17:01:57+00:00",
           "last_verified": "2026-10-28T17:01:57+00:00",
@@ -9558,7 +9558,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op--Summer-2027_R-096727"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:02:15+00:00",
           "last_read": "2026-10-28T17:02:15+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9633,7 +9633,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Santa-Clara-California-United-States-of-America/Research---Development-Leadership-Development-Program--RDLDP---Summer-2027-Internship_R-096476"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:02:24+00:00",
           "last_read": "2026-10-28T17:02:24+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9700,7 +9700,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op-Spring-2027_R-095696"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:02:28+00:00",
           "last_read": "2026-10-28T17:02:28+00:00",
           "last_verified": "2026-10-28T17:02:28+00:00",
@@ -9756,7 +9756,7 @@
             "kind": "workday",
             "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Lima-Peru/Healthcare-Technology-Internship-Program----Lima--Per--eic-_R-093409-1"
           },
-          "last_seen": "2026-10-29T17:14:25+00:00",
+          "last_seen": "2026-10-30T16:54:57+00:00",
           "first_seen": "2026-10-28T17:02:38+00:00",
           "last_read": "2026-10-28T17:02:38+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9890,7 +9890,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UMichigan-CELLMET",
             "must_contain": "CELL-MET REU Program - University of Mic"
           },
-          "last_seen": "2026-10-29T17:14:28+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:14:28+00:00",
           "last_read": "2026-10-29T17:14:28+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -9961,7 +9961,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BostonU-NanoManuf",
             "must_contain": "NSF REU Site in Integrated Nanomanufactu"
           },
-          "last_seen": "2026-10-29T17:14:32+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:14:32+00:00",
           "last_read": "2026-10-29T17:14:32+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10033,7 +10033,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BostonU-Biophotonics",
             "must_contain": "NSF REU Site in Translational Biophotoni"
           },
-          "last_seen": "2026-10-29T17:14:36+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:14:36+00:00",
           "last_read": "2026-10-29T17:14:36+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10099,7 +10099,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BostonU-PROMYSCounselor",
             "must_contain": "Program in Mathematics for Young Scienti"
           },
-          "last_seen": "2026-10-29T17:14:39+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:14:39+00:00",
           "last_read": "2026-10-29T17:14:39+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10162,7 +10162,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BostonU-SIBS",
             "must_contain": "Summer Institute for Training in Biostat"
           },
-          "last_seen": "2026-10-29T17:14:43+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:14:43+00:00",
           "last_read": "2026-10-29T17:14:43+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10229,7 +10229,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BostonU-SURF",
             "must_contain": "Summer Undergraduate Research Fellowship"
           },
-          "last_seen": "2026-10-29T17:14:48+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:14:48+00:00",
           "last_read": "2026-10-29T17:14:48+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10298,7 +10298,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Cornell-Bioinformatics ",
             "must_contain": "Boyce Thompson Institute for Plant Resea"
           },
-          "last_seen": "2026-10-29T17:14:51+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:14:51+00:00",
           "last_read": "2026-10-29T17:14:51+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10370,7 +10370,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Cornell-ProgramPlantSys",
             "must_contain": "Boyce Thompson Institute for Plant Resea"
           },
-          "last_seen": "2026-10-29T17:14:54+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:14:54+00:00",
           "last_read": "2026-10-29T17:14:54+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10440,7 +10440,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Cornell-PlantGenome",
             "must_contain": "Boyce Thompson Institute for Plant Resea"
           },
-          "last_seen": "2026-10-29T17:14:57+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:14:57+00:00",
           "last_read": "2026-10-29T17:14:57+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10510,7 +10510,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Brandeis-MRSEC",
             "must_contain": "REU in Materials Research Science and En"
           },
-          "last_seen": "2026-10-29T17:15:00+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:00+00:00",
           "last_read": "2026-10-29T17:15:00+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10577,7 +10577,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Brandeis-CellMolVisual",
             "must_contain": "Summer REU Program in Cell and Molecular"
           },
-          "last_seen": "2026-10-29T17:15:04+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:04+00:00",
           "last_read": "2026-10-29T17:15:04+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10645,7 +10645,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BrighamandWomensHarvardMed-STARS",
             "must_contain": "Summer Training in Academic Research and"
           },
-          "last_seen": "2026-10-29T17:15:10+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:10+00:00",
           "last_read": "2026-10-29T17:15:10+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10711,7 +10711,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BrighamYoung-Physics",
             "must_contain": "BYU Physics REU and RET"
           },
-          "last_seen": "2026-10-29T17:15:13+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:13+00:00",
           "last_read": "2026-10-29T17:15:13+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10779,7 +10779,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BroadInstMITHarvard-BSRP",
             "must_contain": "Broad Summer Research Program (BSRP)"
           },
-          "last_seen": "2026-10-29T17:15:18+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:18+00:00",
           "last_read": "2026-10-29T17:15:18+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10845,7 +10845,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Brown-CarneyNeuro",
             "must_contain": "Carney Summer Scholars in Computational "
           },
-          "last_seen": "2026-10-29T17:15:22+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:22+00:00",
           "last_read": "2026-10-29T17:15:22+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10915,7 +10915,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-BuckInstAging-Internship",
             "must_contain": "Buck Institute Summer Scholars Program"
           },
-          "last_seen": "2026-10-29T17:15:26+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:26+00:00",
           "last_read": "2026-10-29T17:15:26+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -10983,7 +10983,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CAAcademyofSci-SystemicBio",
             "must_contain": "Summer Systematics Institute (SSI) REU"
           },
-          "last_seen": "2026-10-29T17:15:29+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:29+00:00",
           "last_read": "2026-10-29T17:15:29+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11054,7 +11054,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CalTech-AmgenScholar",
             "must_contain": "Amgen Scholars Program at Cal Tech"
           },
-          "last_seen": "2026-10-29T17:15:38+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:38+00:00",
           "last_read": "2026-10-29T17:15:38+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11128,7 +11128,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CalTech-LIGO",
             "must_contain": "Undergraduate Research at LIGO"
           },
-          "last_seen": "2026-10-29T17:15:46+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:46+00:00",
           "last_read": "2026-10-29T17:15:46+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11192,7 +11192,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CalStateUMonterey-OceanSc",
             "must_contain": "Monterey Bay Regional Ocean Science Rese"
           },
-          "last_seen": "2026-10-29T17:15:53+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:53+00:00",
           "last_read": "2026-10-29T17:15:53+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11267,7 +11267,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Princeton-MaterialsSci",
             "must_contain": "Research Experience for Undergraduates i"
           },
-          "last_seen": "2026-10-29T17:15:57+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:15:57+00:00",
           "last_read": "2026-10-29T17:15:57+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11332,7 +11332,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CalStateUSanBernadino-GeometryKnotTh",
             "must_contain": "REU in Geometry and Knot Theory"
           },
-          "last_seen": "2026-10-29T17:16:00+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:00+00:00",
           "last_read": "2026-10-29T17:16:00+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11400,7 +11400,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UNorthDakota-Neurosci",
             "must_contain": "Genes & The Environment:  REU for Underg"
           },
-          "last_seen": "2026-10-29T17:16:05+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:05+00:00",
           "last_read": "2026-10-29T17:16:05+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11468,7 +11468,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CarnegieMellon-CompNeuro",
             "must_contain": "Carnegie Mellon - University of Pittsbur"
           },
-          "last_seen": "2026-10-29T17:16:09+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:09+00:00",
           "last_read": "2026-10-29T17:16:09+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11542,7 +11542,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=OPP-CarnegieMellonU-DataAnalytics",
             "must_contain": "Data Analytics for Science Immersion Exp"
           },
-          "last_seen": "2026-10-29T17:16:19+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:19+00:00",
           "last_read": "2026-10-29T17:16:19+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11612,7 +11612,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CarnegieMellon-QualityOfLifeTech",
             "must_contain": "Research Experience for Undergraduates i"
           },
-          "last_seen": "2026-10-29T17:16:23+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:23+00:00",
           "last_read": "2026-10-29T17:16:23+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11682,7 +11682,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CarnegieMellon-RoboticsRISS",
             "must_contain": "Robotics & Intelligent System Scholars ("
           },
-          "last_seen": "2026-10-29T17:16:27+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:27+00:00",
           "last_read": "2026-10-29T17:16:27+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11753,7 +11753,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CaseWestern-CanSUR",
             "must_contain": "CanSUR Program"
           },
-          "last_seen": "2026-10-29T17:16:30+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:30+00:00",
           "last_read": "2026-10-29T17:16:30+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11822,7 +11822,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CaseWestern-Pharmacology",
             "must_contain": "Summer Undergraduate Research in Pharmac"
           },
-          "last_seen": "2026-10-29T17:16:34+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:34+00:00",
           "last_read": "2026-10-29T17:16:34+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11883,7 +11883,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CDC-StudentTraining",
             "must_contain": "CDC Undergraduate Public Health Scholars"
           },
-          "last_seen": "2026-10-29T17:16:38+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:38+00:00",
           "last_read": "2026-10-29T17:16:38+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -11951,7 +11951,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UNewMexico-PipelineNet",
             "must_contain": "Undergraduate Pipeline Network: Summer R"
           },
-          "last_seen": "2026-10-29T17:16:42+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:42+00:00",
           "last_read": "2026-10-29T17:16:42+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -12020,7 +12020,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ChicagoBotanic-Echinacea",
             "must_contain": "Paid summer REU internship: Prairie Ecol"
           },
-          "last_seen": "2026-10-29T17:16:45+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:45+00:00",
           "last_read": "2026-10-29T17:16:45+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -12088,7 +12088,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ChicagoBotanic-PlantBio",
             "must_contain": "Plant Biology & Conservation Research Ex"
           },
-          "last_seen": "2026-10-29T17:16:49+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:49+00:00",
           "last_read": "2026-10-29T17:16:49+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -12159,7 +12159,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ChildrensHospitalPhil-CIRPInjuryScience",
             "must_contain": "Injury Science Research Experience for U"
           },
-          "last_seen": "2026-10-29T17:16:53+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:53+00:00",
           "last_read": "2026-10-29T17:16:53+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -12224,7 +12224,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CUNYBrooklynCollege-Neuroscience",
             "must_contain": "Brooklyn College Psychology and Neurosci"
           },
-          "last_seen": "2026-10-29T17:16:56+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:16:56+00:00",
           "last_read": "2026-10-29T17:16:56+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -12290,7 +12290,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UGeorgia-Genetics",
             "must_contain": "Hands-on research in Genomics and Comput"
           },
-          "last_seen": "2026-10-29T17:17:00+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:17:00+00:00",
           "last_read": "2026-10-29T17:17:00+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -12360,7 +12360,7 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Clarkson-ASET",
             "must_contain": "Aquatic Science, Engineering, and Techno"
           },
-          "last_seen": "2026-10-29T17:17:04+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:17:04+00:00",
           "last_read": "2026-10-29T17:17:04+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
@@ -12435,10 +12435,2696 @@
             "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Clarkson-HighPerfComput",
             "must_contain": "NSF REU on High Performance Computing wi"
           },
-          "last_seen": "2026-10-29T17:17:08+00:00",
+          "last_seen": "2026-10-30T16:55:06+00:00",
           "first_seen": "2026-10-29T17:17:08+00:00",
           "last_read": "2026-10-29T17:17:08+00:00",
           "last_verified": "2026-10-30T13:53:23+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "b23c24daef66": {
+      "id": "b23c24daef66",
+      "organization": "Johnson & Johnson",
+      "title": "DePuy Synthes Supply Chain Engineering Co-Op",
+      "locations": [
+        "Raynham, MA",
+        "Bridgewater, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 2.8,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$27.00-$43.50/hour",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/DePuy-Synthes-Supply-Chain-Engineering-Co-Op_R-098770-1",
+      "summary": "Spring 2027 co-op supporting operations, manufacturing process, project, continuous improvement, and manufacturing systems engineering at DePuy Synthes' orthopedic medical device facility in Raynham.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-30T16:54:44+00:00",
+      "last_updated": "2026-10-30T16:54:44+00:00",
+      "last_verified": "2026-10-30T16:54:44+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Johnson & Johnson::/job/Raynham-Massachusetts-United-States-of-America/DePuy-Synthes-Supply-Chain-Engineering-Co-Op_R-098770-1",
+          "sub_id": "Johnson & Johnson::/job/Raynham-Massachusetts-United-States-of-America/DePuy-Synthes-Supply-Chain-Engineering-Co-Op_R-098770-1",
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/DePuy-Synthes-Supply-Chain-Engineering-Co-Op_R-098770-1",
+          "source_url": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs",
+          "text_hash": "8c3e39db7e31eb4f",
+          "check": {
+            "kind": "workday",
+            "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Raynham-Massachusetts-United-States-of-America/DePuy-Synthes-Supply-Chain-Engineering-Co-Op_R-098770-1"
+          },
+          "last_seen": "2026-10-30T16:54:44+00:00",
+          "first_seen": "2026-10-30T16:54:44+00:00",
+          "last_read": "2026-10-30T16:54:44+00:00",
+          "last_verified": "2026-10-30T16:54:44+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "dc6c3b6e5378": {
+      "id": "dc6c3b6e5378",
+      "organization": "Johnson & Johnson",
+      "title": "R&D Co-Op",
+      "locations": [
+        "Irving, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Mechanical",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370",
+      "summary": "Spring 2027 R&D engineering co-op designing, prototyping in SolidWorks, and testing breast implant and tissue expander technologies with J&J MedTech's Aesthetics & Reconstruction unit.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-10-30T16:54:55+00:00",
+      "last_updated": "2026-10-30T16:54:55+00:00",
+      "last_verified": "2026-10-30T16:54:55+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Johnson & Johnson::/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370",
+          "sub_id": "Johnson & Johnson::/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370",
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370",
+          "source_url": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs",
+          "text_hash": "02c65b9e2cfe74bb",
+          "check": {
+            "kind": "workday",
+            "api": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370"
+          },
+          "last_seen": "2026-10-30T16:54:55+00:00",
+          "first_seen": "2026-10-30T16:54:55+00:00",
+          "last_read": "2026-10-30T16:54:55+00:00",
+          "last_verified": "2026-10-30T16:54:55+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "d7519ac2f222": {
+      "id": "d7519ac2f222",
+      "organization": "Clarkson University",
+      "title": "NSF REU Site: High Performance Computing with Engineering Applications",
+      "locations": [
+        "Potsdam, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Mathematics & Statistics",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Engineering-Civil/Environmental",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://reu-hpc.clarkson.edu/#:~:text=The%20Clarkson%20University%20REU%20site%20focuses%20on,*%20**Stipend**%20*%20**Food%20stipend**%20*%20**Housing**",
+      "summary": "Ten-week summer research on high performance computing projects with engineering applications, including training in mathematical modeling, algorithm development, and parallel programming.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:11+00:00",
+      "last_updated": "2026-10-30T16:55:11+00:00",
+      "last_verified": "2026-10-30T16:55:11+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-ClarksonU-HighPerfComputing",
+          "sub_id": "Pathways to Science::SUM-ClarksonU-HighPerfComputing",
+          "source": "Pathways to Science",
+          "url": "http://reu-hpc.clarkson.edu/#:~:text=The%20Clarkson%20University%20REU%20site%20focuses%20on,*%20**Stipend**%20*%20**Food%20stipend**%20*%20**Housing**",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "6100f3d8af10c79e",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ClarksonU-HighPerfComputing",
+            "must_contain": "NSF REU Site: High Performance Computing"
+          },
+          "last_seen": "2026-10-30T16:55:11+00:00",
+          "first_seen": "2026-10-30T16:55:11+00:00",
+          "last_read": "2026-10-30T16:55:11+00:00",
+          "last_verified": "2026-10-30T16:55:11+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "254873554f4a": {
+      "id": "254873554f4a",
+      "organization": "Coe College",
+      "title": "Coe College REU/RET program",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "states": [
+        "IA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Biology",
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,092 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.coe.edu/academics/coe-difference-centers-and-programs/nsf-research-experiences",
+      "summary": "Undergraduate research projects at Coe College focused on spectroscopy across STEM disciplines, with stipend, free on-campus housing, and travel funds.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:18+00:00",
+      "last_updated": "2026-10-30T16:55:18+00:00",
+      "last_verified": "2026-10-30T16:55:18+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-CoeCollege-STEMwRET",
+          "sub_id": "Pathways to Science::SUM-CoeCollege-STEMwRET",
+          "source": "Pathways to Science",
+          "url": "https://www.coe.edu/academics/coe-difference-centers-and-programs/nsf-research-experiences",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "dae21b2a77d5e3d1",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-CoeCollege-STEMwRET",
+            "must_contain": "Coe College REU/RET program"
+          },
+          "last_seen": "2026-10-30T16:55:18+00:00",
+          "first_seen": "2026-10-30T16:55:18+00:00",
+          "last_read": "2026-10-30T16:55:18+00:00",
+          "last_verified": "2026-10-30T16:55:18+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "867b8d62685f": {
+      "id": "867b8d62685f",
+      "organization": "Cold Spring Harbor Laboratory",
+      "title": "Summer Research in Bioinformatics and Computational Biology",
+      "locations": [
+        "Cold Spring Harbor, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Neuroscience",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.cshl.edu/education/undergraduate-research-program/",
+      "summary": "Ten-week summer program where undergraduates conduct research in CSHL labs in molecular biology, cancer, genetics, neuroscience, plant or quantitative biology, with workshops and a closing symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:21+00:00",
+      "last_updated": "2026-10-30T16:55:21+00:00",
+      "last_verified": "2026-10-30T16:55:21+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-ColdSpringsLab-Bioinformatics",
+          "sub_id": "Pathways to Science::SUM-ColdSpringsLab-Bioinformatics",
+          "source": "Pathways to Science",
+          "url": "https://www.cshl.edu/education/undergraduate-research-program/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "367b20191a449cb1",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ColdSpringsLab-Bioinformatics",
+            "must_contain": "Summer Research in Bioinformatics and Co"
+          },
+          "last_seen": "2026-10-30T16:55:21+00:00",
+          "first_seen": "2026-10-30T16:55:21+00:00",
+          "last_read": "2026-10-30T16:55:21+00:00",
+          "last_verified": "2026-10-30T16:55:21+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "514af9e94483": {
+      "id": "514af9e94483",
+      "organization": "Wesleyan University",
+      "title": "Keck Northeast Astronomy Consortium",
+      "locations": [
+        "Middletown, CT"
+      ],
+      "states": [
+        "CT"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.knac.org",
+      "summary": "Summer astronomy research for undergraduates working with faculty at one of eight consortium campuses, targeting students with limited astronomy research access.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:25+00:00",
+      "last_updated": "2026-10-30T16:55:25+00:00",
+      "last_verified": "2026-10-30T16:55:25+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-KECK-AstronomyConsortium",
+          "sub_id": "Pathways to Science::SUM-KECK-AstronomyConsortium",
+          "source": "Pathways to Science",
+          "url": "http://www.knac.org",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "17e5dbac69b139ee",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-KECK-AstronomyConsortium",
+            "must_contain": "Keck Northeast Astronomy Consortium"
+          },
+          "last_seen": "2026-10-30T16:55:25+00:00",
+          "first_seen": "2026-10-30T16:55:25+00:00",
+          "last_read": "2026-10-30T16:55:25+00:00",
+          "last_verified": "2026-10-30T16:55:25+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "7a5550ade4d4": {
+      "id": "7a5550ade4d4",
+      "organization": "Colorado State University",
+      "title": "Summer Program in Molecular Biosciences",
+      "locations": [
+        "Fort Collins, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Neuroscience"
+      ],
+      "class_years": [],
+      "min_gpa": 3.2,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,000 stipend, $1,700 for food, up to $600 travel",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.bmb.colostate.edu/reu-program-description/",
+      "summary": "Ten-week NSF-funded summer research in a faculty lab on biochemistry and molecular biology topics, ending with a poster mini-symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:28+00:00",
+      "last_updated": "2026-10-30T16:55:28+00:00",
+      "last_verified": "2026-10-30T16:55:28+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-ColoradoState-MolecularBiosci",
+          "sub_id": "Pathways to Science::SUM-ColoradoState-MolecularBiosci",
+          "source": "Pathways to Science",
+          "url": "https://www.bmb.colostate.edu/reu-program-description/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "3598c72d7e4d469e",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ColoradoState-MolecularBiosci",
+            "must_contain": "Summer Program in Molecular Biosciences"
+          },
+          "last_seen": "2026-10-30T16:55:28+00:00",
+          "first_seen": "2026-10-30T16:55:28+00:00",
+          "last_read": "2026-10-30T16:55:28+00:00",
+          "last_verified": "2026-10-30T16:55:28+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "6a7002cca7d6": {
+      "id": "6a7002cca7d6",
+      "organization": "University of California, Berkeley",
+      "title": "Ultra Intense Lasers and High Field Photonics Research Experience for Undergraduates",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://lasers.colostate.edu/research-experience-for-undergraduate-students/",
+      "summary": "NSF-funded REU where undergraduates join interdisciplinary research projects on extreme ultraviolet (EUV) laser science and technology and its applications.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:32+00:00",
+      "last_updated": "2026-10-30T16:55:32+00:00",
+      "last_verified": "2026-10-30T16:55:32+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-ColoradoState-SUVTech",
+          "sub_id": "Pathways to Science::SUM-ColoradoState-SUVTech",
+          "source": "Pathways to Science",
+          "url": "http://lasers.colostate.edu/research-experience-for-undergraduate-students/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "2ac5bf72b202a063",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ColoradoState-SUVTech",
+            "must_contain": "Ultra Intense Lasers and High Field Phot"
+          },
+          "last_seen": "2026-10-30T16:55:32+00:00",
+          "first_seen": "2026-10-30T16:55:32+00:00",
+          "last_read": "2026-10-30T16:55:32+00:00",
+          "last_verified": "2026-10-30T16:55:32+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "94f04ae80ba4": {
+      "id": "94f04ae80ba4",
+      "organization": "Columbia University",
+      "title": "Columbia University and Amazon Summer Undergraduate Research Experience (SURE) Program",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$600 weekly stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.engineering.columbia.edu/about/engineering-community-engagement/hallmark-programs/sure-program",
+      "summary": "A 10-week summer engineering research program at Columbia University in partnership with Amazon, with faculty and industry mentoring and a final research symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:37+00:00",
+      "last_updated": "2026-10-30T16:55:37+00:00",
+      "last_verified": "2026-10-30T16:55:37+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-ColumbiaU-SURE",
+          "sub_id": "Pathways to Science::SUM-ColumbiaU-SURE",
+          "source": "Pathways to Science",
+          "url": "https://www.engineering.columbia.edu/about/engineering-community-engagement/hallmark-programs/sure-program",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "5a750f876b8845a8",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ColumbiaU-SURE",
+            "must_contain": "Columbia University and Amazon Summer Un"
+          },
+          "last_seen": "2026-10-30T16:55:37+00:00",
+          "first_seen": "2026-10-30T16:55:37+00:00",
+          "last_read": "2026-10-30T16:55:37+00:00",
+          "last_verified": "2026-10-30T16:55:37+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "7fd3f9634f77": {
+      "id": "7fd3f9634f77",
+      "organization": "Columbia University",
+      "title": "Nevis Labs Experimental High-Energy Physics REU",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.nevis.columbia.edu/~reu/",
+      "summary": "Ten-week NSF REU where undergraduates join experimental high-energy particle and astroparticle physics groups at Nevis Labs, completing a supervised research project, report, and presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:40+00:00",
+      "last_updated": "2026-10-30T16:55:40+00:00",
+      "last_verified": "2026-10-30T16:55:40+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Columbia-NevisLabPhysics",
+          "sub_id": "Pathways to Science::SUM-Columbia-NevisLabPhysics",
+          "source": "Pathways to Science",
+          "url": "http://www.nevis.columbia.edu/~reu/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "b01e25e004d371aa",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Columbia-NevisLabPhysics",
+            "must_contain": "Nevis Labs Experimental High-Energy Phys"
+          },
+          "last_seen": "2026-10-30T16:55:40+00:00",
+          "first_seen": "2026-10-30T16:55:40+00:00",
+          "last_read": "2026-10-30T16:55:40+00:00",
+          "last_verified": "2026-10-30T16:55:40+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "2f3b945355cd": {
+      "id": "2f3b945355cd",
+      "organization": "Columbia University",
+      "title": "Research Program for Undergraduates in Materials Research",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mrsec.columbia.edu/reu",
+      "summary": "NSF-funded undergraduate research on building higher dimensional materials from 2D layered materials like graphene and molecular superatoms, with workshops, seminars, and a final symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:44+00:00",
+      "last_updated": "2026-10-30T16:55:44+00:00",
+      "last_verified": "2026-10-30T16:55:44+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Columbia-Nanocenter",
+          "sub_id": "Pathways to Science::SUM-Columbia-Nanocenter",
+          "source": "Pathways to Science",
+          "url": "https://mrsec.columbia.edu/reu",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "56591249fa94a58f",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Columbia-Nanocenter",
+            "must_contain": "Research Program for Undergraduates in M"
+          },
+          "last_seen": "2026-10-30T16:55:44+00:00",
+          "first_seen": "2026-10-30T16:55:44+00:00",
+          "last_read": "2026-10-30T16:55:44+00:00",
+          "last_verified": "2026-10-30T16:55:44+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "79e3fb79fa29": {
+      "id": "79e3fb79fa29",
+      "organization": "Columbia University",
+      "title": "Summer Opportunities: Intern Programs for Undergraduates",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Ten-week stipend of $6000",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://lamont.columbia.edu/education-outreach/student-summer-opportunities-SSFRP",
+      "summary": "Ten-week NSF-funded summer research program where undergraduates conduct hands-on Earth, ocean, atmospheric, and environmental science projects under Columbia-affiliated scientists.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:47+00:00",
+      "last_updated": "2026-10-30T16:55:47+00:00",
+      "last_verified": "2026-10-30T16:55:47+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::HSC-ColumbiaU-SSFRP",
+          "sub_id": "Pathways to Science::HSC-ColumbiaU-SSFRP",
+          "source": "Pathways to Science",
+          "url": "https://lamont.columbia.edu/education-outreach/student-summer-opportunities-SSFRP",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "b33f08f7205f0b3d",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=HSC-ColumbiaU-SSFRP",
+            "must_contain": "Summer Opportunities: Intern Programs fo"
+          },
+          "last_seen": "2026-10-30T16:55:47+00:00",
+          "first_seen": "2026-10-30T16:55:47+00:00",
+          "last_read": "2026-10-30T16:55:47+00:00",
+          "last_verified": "2026-10-30T16:55:47+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "8c9f2c91808a": {
+      "id": "8c9f2c91808a",
+      "organization": "Columbia University - Irving Institute for Cancer Dynamics",
+      "title": "Summer Research Program (SRP) for Undergraduates at the Irving Institute for Cancer Dynamics",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biology",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cancerdynamics.columbia.edu/summer-research-internship",
+      "summary": "Ten-week full-time summer research project mentored by an IICD researcher at the interface of mathematical sciences and cancer research, plus seminars and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:51+00:00",
+      "last_updated": "2026-10-30T16:55:51+00:00",
+      "last_verified": "2026-10-30T16:55:51+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-ColumbiaU-IrvingCancerDyn",
+          "sub_id": "Pathways to Science::SUM-ColumbiaU-IrvingCancerDyn",
+          "source": "Pathways to Science",
+          "url": "https://cancerdynamics.columbia.edu/summer-research-internship",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "b08efe1aa2ff5e6b",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ColumbiaU-IrvingCancerDyn",
+            "must_contain": "Summer Research Program (SRP) for Underg"
+          },
+          "last_seen": "2026-10-30T16:55:51+00:00",
+          "first_seen": "2026-10-30T16:55:51+00:00",
+          "last_read": "2026-10-30T16:55:51+00:00",
+          "last_verified": "2026-10-30T16:55:51+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "a5975359981e": {
+      "id": "a5975359981e",
+      "organization": "Columbia University",
+      "title": "Summer Undergraduate Research Opportunity with The Artificial and Natural Intelligence Institute (ARNI)",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://arni-institute.org/summer-research-opportunity-2026/",
+      "summary": "10-week summer lab research program at Columbia's ARNI at the intersection of artificial intelligence, cognitive science, and neuroscience, with mentoring and a closing symposium presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:55:54+00:00",
+      "last_updated": "2026-10-30T16:55:54+00:00",
+      "last_verified": "2026-10-30T16:55:54+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-ColumbiaU-ARNI",
+          "sub_id": "Pathways to Science::SUM-ColumbiaU-ARNI",
+          "source": "Pathways to Science",
+          "url": "https://arni-institute.org/summer-research-opportunity-2026/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "910e0fa12ff46ef6",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ColumbiaU-ARNI",
+            "must_contain": "Summer Undergraduate Research Opportunit"
+          },
+          "last_seen": "2026-10-30T16:55:54+00:00",
+          "first_seen": "2026-10-30T16:55:54+00:00",
+          "last_read": "2026-10-30T16:55:54+00:00",
+          "last_verified": "2026-10-30T16:55:54+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "72ee87bb8156": {
+      "id": "72ee87bb8156",
+      "organization": "Cornell University",
+      "title": "CorGGLE (Cornell Geopaths Geoscience Learning Ecosystem)",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Physics",
+        "Chemistry",
+        "Mathematics & Statistics",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.coecis.cornell.edu/eascorggle/",
+      "summary": "Paid 9-week NSF-funded summer internship where non-geoscience students conduct geoscience research with Cornell faculty, present work, and explore geoscience careers.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:01+00:00",
+      "last_updated": "2026-10-30T16:56:01+00:00",
+      "last_verified": "2026-10-30T16:56:01+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::UDG-Cornell-CorGGLE",
+          "sub_id": "Pathways to Science::UDG-Cornell-CorGGLE",
+          "source": "Pathways to Science",
+          "url": "https://sites.coecis.cornell.edu/eascorggle/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "b5a7160e4525aabc",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=UDG-Cornell-CorGGLE",
+            "must_contain": "CorGGLE (Cornell Geopaths Geoscience Lea"
+          },
+          "last_seen": "2026-10-30T16:56:01+00:00",
+          "first_seen": "2026-10-30T16:56:01+00:00",
+          "last_read": "2026-10-30T16:56:01+00:00",
+          "last_verified": "2026-10-30T16:56:01+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "10484157efc4": {
+      "id": "10484157efc4",
+      "organization": "Cornell University",
+      "title": "Cornell Laboratory for Accelerator-based Sciences and Education REU (CLASSE)",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.classe.cornell.edu/StudentOpportunities/ReuProgram.html",
+      "summary": "NSF-funded summer REU where undergraduates conduct accelerator-physics and X-ray science research at CLASSE, with seminars, lectures, facility tours, and a final research presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:05+00:00",
+      "last_updated": "2026-10-30T16:56:05+00:00",
+      "last_verified": "2026-10-30T16:56:05+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Cornell-ParticlePhysics",
+          "sub_id": "Pathways to Science::SUM-Cornell-ParticlePhysics",
+          "source": "Pathways to Science",
+          "url": "https://www.classe.cornell.edu/StudentOpportunities/ReuProgram.html",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "7a07d818b8727419",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Cornell-ParticlePhysics",
+            "must_contain": "Cornell Laboratory for Accelerator-based"
+          },
+          "last_seen": "2026-10-30T16:56:05+00:00",
+          "first_seen": "2026-10-30T16:56:05+00:00",
+          "last_read": "2026-10-30T16:56:05+00:00",
+          "last_verified": "2026-10-30T16:56:05+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "69fdfc7b2570": {
+      "id": "69fdfc7b2570",
+      "organization": "Cornell University",
+      "title": "Cornell NanoScale Facility Research Experiences for Undergraduates (CNF REU) Program",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Biology",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.cnf.cornell.edu/education/reu",
+      "summary": "Ten-week summer program where interns learn hands-on nanofabrication, train on nanofab tools, and conduct interdisciplinary nanoscale research with Cornell faculty and CNF staff.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:09+00:00",
+      "last_updated": "2026-10-30T16:56:09+00:00",
+      "last_verified": "2026-10-30T16:56:09+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Cornell-NanoscaleFac",
+          "sub_id": "Pathways to Science::SUM-Cornell-NanoscaleFac",
+          "source": "Pathways to Science",
+          "url": "https://www.cnf.cornell.edu/education/reu",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "de070c5587267205",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Cornell-NanoscaleFac",
+            "must_contain": "Cornell NanoScale Facility Research Expe"
+          },
+          "last_seen": "2026-10-30T16:56:09+00:00",
+          "first_seen": "2026-10-30T16:56:09+00:00",
+          "last_read": "2026-10-30T16:56:09+00:00",
+          "last_verified": "2026-10-30T16:56:09+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "2b6fa71b9631": {
+      "id": "2b6fa71b9631",
+      "organization": "Cornell University",
+      "title": "MBG-REU: Summer Research Experiences for Undergraduate: Molecular Biology and Genetics of Cell Signaling",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,500 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cals.cornell.edu/molecular-biology-genetics/academics/undergraduate/summer-research-experience-undergraduates-reu-program",
+      "summary": "Ten-week NSF-funded summer research program for ten undergraduates in molecular biology and genetics of cell signaling at Cornell University.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:13+00:00",
+      "last_updated": "2026-10-30T16:56:13+00:00",
+      "last_verified": "2026-10-30T16:56:13+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Cornell-MBGCellSignal",
+          "sub_id": "Pathways to Science::SUM-Cornell-MBGCellSignal",
+          "source": "Pathways to Science",
+          "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/undergraduate/summer-research-experience-undergraduates-reu-program",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "c60f733ae5e204cf",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Cornell-MBGCellSignal",
+            "must_contain": "MBG-REU: Summer Research Experiences for"
+          },
+          "last_seen": "2026-10-30T16:56:13+00:00",
+          "first_seen": "2026-10-30T16:56:13+00:00",
+          "last_read": "2026-10-30T16:56:13+00:00",
+          "last_verified": "2026-10-30T16:56:13+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "e82cc039fd80": {
+      "id": "e82cc039fd80",
+      "organization": "University of California, Irvine",
+      "title": "NextGenPop - Undergraduate Program in Population Research",
+      "locations": [
+        "Durham, North Carolina"
+      ],
+      "states": [
+        "NC"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Public Health",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://nextgenpop.org/",
+      "summary": "Two-week summer population research training at Duke University followed by monthly virtual workshops and a presentation opportunity at the PAA Annual Meeting.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:16+00:00",
+      "last_updated": "2026-10-30T16:56:16+00:00",
+      "last_verified": "2026-10-30T16:56:16+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-UWisconsinMadison-NextGenPop",
+          "sub_id": "Pathways to Science::SUM-UWisconsinMadison-NextGenPop",
+          "source": "Pathways to Science",
+          "url": "https://nextgenpop.org/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "fa22a0120ddc0bef",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UWisconsinMadison-NextGenPop",
+            "must_contain": "NextGenPop - Undergraduate Program in Po"
+          },
+          "last_seen": "2026-10-30T16:56:16+00:00",
+          "first_seen": "2026-10-30T16:56:16+00:00",
+          "last_read": "2026-10-30T16:56:16+00:00",
+          "last_verified": "2026-10-30T16:56:16+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "b8102393cbd5": {
+      "id": "b8102393cbd5",
+      "organization": "Cornell University",
+      "title": "Research Experiences for Undergraduates Program in Astrophysics and Planetary Science",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$7,000 stipend for ten weeks, plus $1,250 for housing and meals and up to $800 travel",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://astro.cornell.edu/undergraduate-research",
+      "summary": "Ten-week NSF REU where undergraduates conduct individual research with Cornell faculty in planetary science, astrobiology, exoplanets, astronomy, and astronomical instrumentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:22+00:00",
+      "last_updated": "2026-10-30T16:56:22+00:00",
+      "last_verified": "2026-10-30T16:56:22+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Cornell-Astronomy",
+          "sub_id": "Pathways to Science::SUM-Cornell-Astronomy",
+          "source": "Pathways to Science",
+          "url": "https://astro.cornell.edu/undergraduate-research",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "2b1fa962d6918fdc",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Cornell-Astronomy",
+            "must_contain": "Research Experiences for Undergraduates "
+          },
+          "last_seen": "2026-10-30T16:56:22+00:00",
+          "first_seen": "2026-10-30T16:56:22+00:00",
+          "last_read": "2026-10-30T16:56:22+00:00",
+          "last_verified": "2026-10-30T16:56:22+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "d16ab6d6cdc7": {
+      "id": "d16ab6d6cdc7",
+      "organization": "Shoals Marine Laboratory (University of New Hampshire / Cornell University)",
+      "title": "Undergrad Internships at Shoals Marine Laboratory",
+      "locations": [
+        "Appledore Island, Isles of Shoals, Maine",
+        "Durham, NH"
+      ],
+      "states": [
+        "ME",
+        "NH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.shoalsmarinelaboratory.org/student-research-internships",
+      "summary": "Undergraduate summer interns work with mentors and SML scientists on research in areas like seabird ornithology, intertidal ecology, seal population studies, ecological genomics, and outreach.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:26+00:00",
+      "last_updated": "2026-10-30T16:56:26+00:00",
+      "last_verified": "2026-10-30T16:56:26+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Cornell-Shoals",
+          "sub_id": "Pathways to Science::SUM-Cornell-Shoals",
+          "source": "Pathways to Science",
+          "url": "http://www.shoalsmarinelaboratory.org/student-research-internships",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "7b160516f3a30de4",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Cornell-Shoals",
+            "must_contain": "Undergrad Internships at Shoals Marine L"
+          },
+          "last_seen": "2026-10-30T16:56:26+00:00",
+          "first_seen": "2026-10-30T16:56:26+00:00",
+          "last_read": "2026-10-30T16:56:26+00:00",
+          "last_verified": "2026-10-30T16:56:26+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "bd08489942a5": {
+      "id": "bd08489942a5",
+      "organization": "Cornell University",
+      "title": "Weill Cornell IMSD Program",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Public Health",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://gradschool.weill.cornell.edu/WCGSIMSD",
+      "summary": "NIH-funded initiative training PhD students at Weill Cornell for biomedical research careers, with near-peer mentorship and academic and professional enrichment.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:29+00:00",
+      "last_updated": "2026-10-30T16:56:29+00:00",
+      "last_verified": "2026-10-30T16:56:29+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Cornell-AccessProgram",
+          "sub_id": "Pathways to Science::SUM-Cornell-AccessProgram",
+          "source": "Pathways to Science",
+          "url": "https://gradschool.weill.cornell.edu/WCGSIMSD",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "d0a6aca22ff2ac37",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Cornell-AccessProgram",
+            "must_contain": "Weill Cornell IMSD Program"
+          },
+          "last_seen": "2026-10-30T16:56:29+00:00",
+          "first_seen": "2026-10-30T16:56:29+00:00",
+          "last_read": "2026-10-30T16:56:29+00:00",
+          "last_verified": "2026-10-30T16:56:29+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "b5d04fda9738": {
+      "id": "b5d04fda9738",
+      "organization": "Darling Marine Center, University of Maine",
+      "title": "UMaine Darling Marine Center Summer Research Internships",
+      "locations": [
+        "Walpole, ME"
+      ],
+      "states": [
+        "ME"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://dmc.umaine.edu/category/undergraduate-internships/",
+      "summary": "Ten-to-twelve-week summer research internships at a coastal marine center in marine biology, ecology, oceanography, conservation, fisheries science, and aquaculture, hired by individual faculty.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:33+00:00",
+      "last_updated": "2026-10-30T16:56:33+00:00",
+      "last_verified": "2026-10-30T16:56:33+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-UMaine-DarlingInternships",
+          "sub_id": "Pathways to Science::SUM-UMaine-DarlingInternships",
+          "source": "Pathways to Science",
+          "url": "https://dmc.umaine.edu/category/undergraduate-internships/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "2c4d23bfaab961b7",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UMaine-DarlingInternships",
+            "must_contain": "UMaine Darling Marine Center Summer Rese"
+          },
+          "last_seen": "2026-10-30T16:56:33+00:00",
+          "first_seen": "2026-10-30T16:56:33+00:00",
+          "last_read": "2026-10-30T16:56:33+00:00",
+          "last_verified": "2026-10-30T16:56:33+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "fffc70bb34a0": {
+      "id": "fffc70bb34a0",
+      "organization": "Dartmouth College",
+      "title": "Joint Science Education Project (JSEP)",
+      "locations": [
+        "Hanover, NH",
+        "Greenland"
+      ],
+      "states": [
+        "NH"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Environmental Science",
+        "Physics",
+        "Materials Science",
+        "Biology"
+      ],
+      "class_years": [
+        "High school",
+        "Freshman",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.google.com/dartmouth.edu/jsep2020/jsep",
+      "summary": "Two-week field-based polar science program in Greenland for recent high school graduates who completed a remote JSEP program, run by Dartmouth's Institute of Arctic Studies.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:37+00:00",
+      "last_updated": "2026-10-30T16:56:37+00:00",
+      "last_verified": "2026-10-30T16:56:37+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::HSC-Dartmouth-JSEPandJASE",
+          "sub_id": "Pathways to Science::HSC-Dartmouth-JSEPandJASE",
+          "source": "Pathways to Science",
+          "url": "https://sites.google.com/dartmouth.edu/jsep2020/jsep",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "debf95e284ca37e7",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=HSC-Dartmouth-JSEPandJASE",
+            "must_contain": "Joint Science Education Project (JSEP)"
+          },
+          "last_seen": "2026-10-30T16:56:37+00:00",
+          "first_seen": "2026-10-30T16:56:37+00:00",
+          "last_read": "2026-10-30T16:56:37+00:00",
+          "last_verified": "2026-10-30T16:56:37+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "27b8f7871d3e": {
+      "id": "27b8f7871d3e",
+      "organization": "Dartmouth College",
+      "title": "MD-PhD Undergraduate Summer Fellowship",
+      "locations": [
+        "Hanover, NH"
+      ],
+      "states": [
+        "NH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://geiselmed.dartmouth.edu/mpus/welcome/",
+      "summary": "Ten-week summer fellowship where undergraduates conduct basic medical science research alongside Dartmouth MD-PhD students and attend weekly clinical rounds at Dartmouth Hitchcock Medical Center.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:40+00:00",
+      "last_updated": "2026-10-30T16:56:40+00:00",
+      "last_verified": "2026-10-30T16:56:40+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Dartmouth-MPUS",
+          "sub_id": "Pathways to Science::SUM-Dartmouth-MPUS",
+          "source": "Pathways to Science",
+          "url": "https://geiselmed.dartmouth.edu/mpus/welcome/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "87a67b8a3c733272",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Dartmouth-MPUS",
+            "must_contain": "MD-PhD Undergraduate Summer Fellowship"
+          },
+          "last_seen": "2026-10-30T16:56:40+00:00",
+          "first_seen": "2026-10-30T16:56:40+00:00",
+          "last_read": "2026-10-30T16:56:40+00:00",
+          "last_verified": "2026-10-30T16:56:40+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "34a4718b14a6": {
+      "id": "34a4718b14a6",
+      "organization": "Dauphin Island Sea Lab",
+      "title": "Discovery Hall Environmental Education Internship in Marine Science",
+      "locations": [
+        "Dauphin Island, AL"
+      ],
+      "states": [
+        "AL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 stipend and $500 travel allowance",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-15",
+      "rolling": null,
+      "apply_url": "https://www.disl.edu/about/internships/#summer-environmental-education-internship",
+      "summary": "Nine-week summer internship assisting Discovery Hall education staff with K-12 marine science camps, high school classes, teacher workshops, and public outreach on Gulf ecosystems.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:44+00:00",
+      "last_updated": "2026-10-30T16:56:44+00:00",
+      "last_verified": "2026-10-30T16:56:44+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-DauphinIslandSeaLab-DiscoveryHallIntern",
+          "sub_id": "Pathways to Science::SUM-DauphinIslandSeaLab-DiscoveryHallIntern",
+          "source": "Pathways to Science",
+          "url": "https://www.disl.edu/about/internships/#summer-environmental-education-internship",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "d4e2a5daafc0ed2d",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-DauphinIslandSeaLab-DiscoveryHallIntern",
+            "must_contain": "Discovery Hall Environmental Education I"
+          },
+          "last_seen": "2026-10-30T16:56:44+00:00",
+          "first_seen": "2026-10-30T16:56:44+00:00",
+          "last_read": "2026-10-30T16:56:44+00:00",
+          "last_verified": "2026-10-30T16:56:44+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "484337c05a57": {
+      "id": "484337c05a57",
+      "organization": "Dauphin Island Sea Lab",
+      "title": "Research Experience for Undergraduates at the Dauphin Island Sea Lab",
+      "locations": [
+        "Dauphin Island, AL"
+      ],
+      "states": [
+        "AL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend for 10-week program",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-12",
+      "rolling": null,
+      "apply_url": "https://www.disl.edu/university-programs/nsf-reu/?fbclid=IwY2xjawJYsypleHRuA2FlbQIxMQABHY7p4Y0ejFYKsBH2GSY4k52D2mqUUtej4oYT8S7i_c9VOZ9yRoStRbuUNw_aem_Qrup9KCQUQmXYW7jMrcbrA",
+      "summary": "Ten-week summer program where undergraduates conduct independent marine science research projects, such as fish ecology, seagrass, and microbial ecology, under faculty mentors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:49+00:00",
+      "last_updated": "2026-10-30T16:56:49+00:00",
+      "last_verified": "2026-10-30T16:56:49+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-DauphinIsland-SummerSemester",
+          "sub_id": "Pathways to Science::SUM-DauphinIsland-SummerSemester",
+          "source": "Pathways to Science",
+          "url": "https://www.disl.edu/university-programs/nsf-reu/?fbclid=IwY2xjawJYsypleHRuA2FlbQIxMQABHY7p4Y0ejFYKsBH2GSY4k52D2mqUUtej4oYT8S7i_c9VOZ9yRoStRbuUNw_aem_Qrup9KCQUQmXYW7jMrcbrA",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "c2dfb00d26890d9b",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-DauphinIsland-SummerSemester",
+            "must_contain": "Research Experience for Undergraduates a"
+          },
+          "last_seen": "2026-10-30T16:56:49+00:00",
+          "first_seen": "2026-10-30T16:56:49+00:00",
+          "last_read": "2026-10-30T16:56:49+00:00",
+          "last_verified": "2026-10-30T16:56:49+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "2fcbce913913": {
+      "id": "2fcbce913913",
+      "organization": "Northern Arizona University",
+      "title": "Summer Research Enhancement Program (SREP)",
+      "locations": [
+        "Flagstaff, AZ",
+        "Tsaile, AZ"
+      ],
+      "states": [
+        "AZ"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,760 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.dinecollege.edu/about-us/srep/",
+      "summary": "10-week summer program preparing Native American undergraduates for public health research careers through methods training, a mentored community internship, and a data analysis workshop.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:53+00:00",
+      "last_updated": "2026-10-30T16:56:53+00:00",
+      "last_verified": "2026-10-30T16:56:53+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-DineCollege-SREP",
+          "sub_id": "Pathways to Science::SUM-DineCollege-SREP",
+          "source": "Pathways to Science",
+          "url": "https://www.dinecollege.edu/about-us/srep/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "a61e7fcb4a868f44",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-DineCollege-SREP",
+            "must_contain": "Summer Research Enhancement Program (SRE"
+          },
+          "last_seen": "2026-10-30T16:56:53+00:00",
+          "first_seen": "2026-10-30T16:56:53+00:00",
+          "last_read": "2026-10-30T16:56:53+00:00",
+          "last_verified": "2026-10-30T16:56:53+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "4d389045696c": {
+      "id": "4d389045696c",
+      "organization": "Don Danforth Plant Science Center",
+      "title": "REU at the Danford Plant Science Center",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "states": [
+        "MO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.danforthcenter.org/our-work/education-outreach/undergraduate-program/internship-program/",
+      "summary": "NSF-funded laboratory research internships in molecular biology, biochemistry, and related plant science fields at the Donald Danforth Plant Science Center.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:57+00:00",
+      "last_updated": "2026-10-30T16:56:57+00:00",
+      "last_verified": "2026-10-30T16:56:57+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-DanforthPlantCenter-PlantScience",
+          "sub_id": "Pathways to Science::SUM-DanforthPlantCenter-PlantScience",
+          "source": "Pathways to Science",
+          "url": "https://www.danforthcenter.org/our-work/education-outreach/undergraduate-program/internship-program/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "dcadca1c7337c5e4",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-DanforthPlantCenter-PlantScience",
+            "must_contain": "REU at the Danford Plant Science Center"
+          },
+          "last_seen": "2026-10-30T16:56:57+00:00",
+          "first_seen": "2026-10-30T16:56:57+00:00",
+          "last_read": "2026-10-30T16:56:57+00:00",
+          "last_verified": "2026-10-30T16:56:57+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "e3e3019f7958": {
+      "id": "e3e3019f7958",
+      "organization": "Duke University",
+      "title": "Duke University SROP (Summer Research Opportunity Program)",
+      "locations": [
+        "Durham, NC"
+      ],
+      "states": [
+        "NC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Environmental Science",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://gradschool.duke.edu/about/diversity-equity-inclusion/duke-summer-research-opportunity-program/",
+      "summary": "10-week program where undergraduates conduct hands-on biomedical laboratory research with a faculty mentor, attend seminars and grad school workshops, and present at a closing poster symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:02+00:00",
+      "last_updated": "2026-10-30T16:57:02+00:00",
+      "last_verified": "2026-10-30T16:57:02+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Duke-BioMed",
+          "sub_id": "Pathways to Science::SUM-Duke-BioMed",
+          "source": "Pathways to Science",
+          "url": "https://gradschool.duke.edu/about/diversity-equity-inclusion/duke-summer-research-opportunity-program/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "af58932a9f6d3396",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Duke-BioMed",
+            "must_contain": "Duke University SROP (Summer Research Op"
+          },
+          "last_seen": "2026-10-30T16:57:02+00:00",
+          "first_seen": "2026-10-30T16:57:02+00:00",
+          "last_read": "2026-10-30T16:57:02+00:00",
+          "last_verified": "2026-10-30T16:57:02+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "42fdc5f5ac2c": {
+      "id": "42fdc5f5ac2c",
+      "organization": "University of North Carolina, Chapel Hill",
+      "title": "Research Triangle – Research Experience for Undergraduates (RT-REU) on Hybrid Perovskite Materials",
+      "locations": [
+        "Chapel Hill, NC"
+      ],
+      "states": [
+        "NC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Physics",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.rtnn.ncsu.edu/reu/",
+      "summary": "Ten-week summer REU where undergraduates conduct research on hybrid perovskite materials, including synthesis, characterization, modeling, and device fabrication, across UNC, NC State, and Duke labs.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:06+00:00",
+      "last_updated": "2026-10-30T16:57:06+00:00",
+      "last_verified": "2026-10-30T16:57:06+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-UNCChapelHill-ResearchTriangle",
+          "sub_id": "Pathways to Science::SUM-UNCChapelHill-ResearchTriangle",
+          "source": "Pathways to Science",
+          "url": "https://www.rtnn.ncsu.edu/reu/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "a420968976a24fd8",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UNCChapelHill-ResearchTriangle",
+            "must_contain": "Research Triangle – Research Experience "
+          },
+          "last_seen": "2026-10-30T16:57:06+00:00",
+          "first_seen": "2026-10-30T16:57:06+00:00",
+          "last_read": "2026-10-30T16:57:06+00:00",
+          "last_verified": "2026-10-30T16:57:06+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "dabae9710693": {
+      "id": "dabae9710693",
+      "organization": "University of North Carolina, Chapel Hill",
+      "title": "REU Program in Nuclear and Particle Physics at TUNL/Duke University",
+      "locations": [
+        "Chapel Hill, NC"
+      ],
+      "states": [
+        "NC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://tunl.duke.edu/education/reu#:~:text=Sponsored%20by%20the%20National%20Science%20Foundation%2C%20the%20REU,program%20combining%20research%20experience%2C%20lectures%2C%20and%20social%20activities.",
+      "summary": "Ten-week NSF summer REU in nuclear and particle physics at TUNL or with Duke's high-energy physics group, including about six weeks at CERN.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:10+00:00",
+      "last_updated": "2026-10-30T16:57:10+00:00",
+      "last_verified": "2026-10-30T16:57:10+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-Duke-NuclearPhys",
+          "sub_id": "Pathways to Science::SUM-Duke-NuclearPhys",
+          "source": "Pathways to Science",
+          "url": "https://tunl.duke.edu/education/reu#:~:text=Sponsored%20by%20the%20National%20Science%20Foundation%2C%20the%20REU,program%20combining%20research%20experience%2C%20lectures%2C%20and%20social%20activities.",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "ce5e158064845503",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Duke-NuclearPhys",
+            "must_contain": "REU Program in Nuclear and Particle Phys"
+          },
+          "last_seen": "2026-10-30T16:57:10+00:00",
+          "first_seen": "2026-10-30T16:57:10+00:00",
+          "last_read": "2026-10-30T16:57:10+00:00",
+          "last_verified": "2026-10-30T16:57:10+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "c303d436dbec": {
+      "id": "c303d436dbec",
+      "organization": "New Mexico Institute of Mining and Technology",
+      "title": "Geo-Launchpad",
+      "locations": [
+        "Socorro, NM"
+      ],
+      "states": [
+        "NM"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Chemistry",
+        "Physics"
+      ],
+      "class_years": [
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.unavco.org/education/student-internships/geo-launchpad/",
+      "summary": "Paid summer geoscience research internship for community college students to explore research and careers, build skills, and present work at a national conference.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:13+00:00",
+      "last_updated": "2026-10-30T16:57:13+00:00",
+      "last_verified": "2026-10-30T16:57:13+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-FrontRangeCC-GeoLaunchpad",
+          "sub_id": "Pathways to Science::SUM-FrontRangeCC-GeoLaunchpad",
+          "source": "Pathways to Science",
+          "url": "https://www.unavco.org/education/student-internships/geo-launchpad/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "280902e45d46b647",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-FrontRangeCC-GeoLaunchpad",
+            "must_contain": "Geo-Launchpad"
+          },
+          "last_seen": "2026-10-30T16:57:13+00:00",
+          "first_seen": "2026-10-30T16:57:13+00:00",
+          "last_read": "2026-10-30T16:57:13+00:00",
+          "last_verified": "2026-10-30T16:57:13+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "357cf1f140f0": {
+      "id": "357cf1f140f0",
+      "organization": "EarthScope Consortium",
+      "title": "Research Experiences in Solid Earth Sciences (RESESS)",
+      "locations": [
+        "Socorro, NM"
+      ],
+      "states": [
+        "NM"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Physics",
+        "Environmental Science",
+        "Chemistry",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.earthscope.org/education/student-internships/resess/",
+      "summary": "Undergraduate internship and support program where students conduct authentic geophysical research in the Earth sciences with mentoring from EarthScope.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:16+00:00",
+      "last_updated": "2026-10-30T16:57:16+00:00",
+      "last_verified": "2026-10-30T16:57:16+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-EarthScope-RESESS",
+          "sub_id": "Pathways to Science::SUM-EarthScope-RESESS",
+          "source": "Pathways to Science",
+          "url": "https://www.earthscope.org/education/student-internships/resess/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "24688cb848ed07ba",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-EarthScope-RESESS",
+            "must_contain": "Research Experiences in Solid Earth Scie"
+          },
+          "last_seen": "2026-10-30T16:57:16+00:00",
+          "first_seen": "2026-10-30T16:57:16+00:00",
+          "last_read": "2026-10-30T16:57:16+00:00",
+          "last_verified": "2026-10-30T16:57:16+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "a561122ffad7": {
+      "id": "a561122ffad7",
+      "organization": "EarthScope Consortium",
+      "title": "Undergraduate Research Internships in Seismology (URISE)",
+      "locations": [
+        "Socorro, NM"
+      ],
+      "states": [
+        "NM"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Physics",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.iris.edu/hq/internship/about",
+      "summary": "Interns spend 8 to 10 weeks on seismology research, deploying seismic instruments in the field and/or analyzing seismic data, presenting results at a national meeting.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:19+00:00",
+      "last_updated": "2026-10-30T16:57:19+00:00",
+      "last_verified": "2026-10-30T16:57:19+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-IRIS-Geosciences",
+          "sub_id": "Pathways to Science::SUM-IRIS-Geosciences",
+          "source": "Pathways to Science",
+          "url": "https://www.iris.edu/hq/internship/about",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "d559dafa6874e9e2",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-IRIS-Geosciences",
+            "must_contain": "Undergraduate Research Internships in Se"
+          },
+          "last_seen": "2026-10-30T16:57:19+00:00",
+          "first_seen": "2026-10-30T16:57:19+00:00",
+          "last_read": "2026-10-30T16:57:19+00:00",
+          "last_verified": "2026-10-30T16:57:19+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "0f2e0d62a17f": {
+      "id": "0f2e0d62a17f",
+      "organization": "Universidad de Puerto Rico, Arecibo",
+      "title": "REU Site: Resilience and Adaptation to Coastal Change Across Community (C2C)",
+      "locations": [
+        "Arecibo, PR"
+      ],
+      "states": [
+        "PR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend plus cost of living and travel stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://coastal.ecu.edu/reu/",
+      "summary": "Ten-week interdisciplinary summer REU studying coastal resilience and community adaptation to hazards like sea level rise, hosted by East Carolina University and UPR Arecibo.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:27+00:00",
+      "last_updated": "2026-10-30T16:57:27+00:00",
+      "last_verified": "2026-10-30T16:57:27+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-ECarolinaU-CoastalChange",
+          "sub_id": "Pathways to Science::SUM-ECarolinaU-CoastalChange",
+          "source": "Pathways to Science",
+          "url": "https://coastal.ecu.edu/reu/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "32931caf4675a580",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ECarolinaU-CoastalChange",
+            "must_contain": "REU Site: Resilience and Adaptation to C"
+          },
+          "last_seen": "2026-10-30T16:57:27+00:00",
+          "first_seen": "2026-10-30T16:57:27+00:00",
+          "last_read": "2026-10-30T16:57:27+00:00",
+          "last_verified": "2026-10-30T16:57:27+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "9e804567f54b": {
+      "id": "9e804567f54b",
+      "organization": "University of Kentucky",
+      "title": "REU: Department of Physics and Astronomy, Research in Symmetries",
+      "locations": [
+        "Lexington, KY"
+      ],
+      "states": [
+        "KY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://pa.as.uky.edu/reu",
+      "summary": "NSF-funded 10-week summer mentored research in nuclear physics, condensed matter physics, and astronomy centered on the theme of symmetry.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:30+00:00",
+      "last_updated": "2026-10-30T16:57:30+00:00",
+      "last_verified": "2026-10-30T16:57:30+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-UKentucky-Symmetries",
+          "sub_id": "Pathways to Science::SUM-UKentucky-Symmetries",
+          "source": "Pathways to Science",
+          "url": "https://pa.as.uky.edu/reu",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "c316b1aa89d069a7",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UKentucky-Symmetries",
+            "must_contain": "REU: Department of Physics and Astronomy"
+          },
+          "last_seen": "2026-10-30T16:57:30+00:00",
+          "first_seen": "2026-10-30T16:57:30+00:00",
+          "last_read": "2026-10-30T16:57:30+00:00",
+          "last_verified": "2026-10-30T16:57:30+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "a905a034bf15": {
+      "id": "a905a034bf15",
+      "organization": "Ecological Society of America (ESA)",
+      "title": "ESA-USGS Cooperative Summer Internship Program",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.usgs.gov/science-support/osqi/youth-education-science/cooperative-summer-internship-programs",
+      "summary": "Faculty-nominated students with biological field training work up to 5 months in USGS field, laboratory, or office scientific positions across the country.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:33+00:00",
+      "last_updated": "2026-10-30T16:57:33+00:00",
+      "last_verified": "2026-10-30T16:57:33+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-EcologicalSocietyOfAmerica-CoopInten",
+          "sub_id": "Pathways to Science::SUM-EcologicalSocietyOfAmerica-CoopInten",
+          "source": "Pathways to Science",
+          "url": "https://www.usgs.gov/science-support/osqi/youth-education-science/cooperative-summer-internship-programs",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "97fe9ddf96350758",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-EcologicalSocietyOfAmerica-CoopInten",
+            "must_contain": "ESA-USGS Cooperative Summer Internship P"
+          },
+          "last_seen": "2026-10-30T16:57:33+00:00",
+          "first_seen": "2026-10-30T16:57:33+00:00",
+          "last_read": "2026-10-30T16:57:33+00:00",
+          "last_verified": "2026-10-30T16:57:33+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "5ea57b76ade6": {
+      "id": "5ea57b76ade6",
+      "organization": "U.S. Department of the Interior",
+      "title": "Scientists in Parks (SIP) Fellows",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical",
+        "Environmental Science",
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.nps.gov/subjects/science/scientists-in-parks.htm",
+      "summary": "Paid full-time internship working on real-world science and resource challenges within a National Park, with mentoring by an NPS supervisor.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:37+00:00",
+      "last_updated": "2026-10-30T16:57:37+00:00",
+      "last_verified": "2026-10-30T16:57:37+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-NationalParkService-Leaders",
+          "sub_id": "Pathways to Science::SUM-NationalParkService-Leaders",
+          "source": "Pathways to Science",
+          "url": "https://www.nps.gov/subjects/science/scientists-in-parks.htm",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "c59cb67711fc235d",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-NationalParkService-Leaders",
+            "must_contain": "Scientists in Parks (SIP) Fellows"
+          },
+          "last_seen": "2026-10-30T16:57:37+00:00",
+          "first_seen": "2026-10-30T16:57:37+00:00",
+          "last_read": "2026-10-30T16:57:37+00:00",
+          "last_verified": "2026-10-30T16:57:37+00:00",
+          "gone_count": 0,
+          "status": "live"
+        }
+      ]
+    },
+    "8b2f8552d320": {
+      "id": "8b2f8552d320",
+      "organization": "Emory University",
+      "title": "Computational Mathematics for Data Science",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.math.emory.edu/site/cmds-reuret/overview/",
+      "summary": "NSF-funded REU/RET where undergraduates and teachers solve team research problems in computational mathematics for data science, from data assimilation to machine learning.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:57:40+00:00",
+      "last_updated": "2026-10-30T16:57:40+00:00",
+      "last_verified": "2026-10-30T16:57:40+00:00",
+      "status": "active",
+      "removed_at": null,
+      "removed_reason": null,
+      "postings": [
+        {
+          "key": "Pathways to Science::SUM-EmoryU-CompMathDataSc",
+          "sub_id": "Pathways to Science::SUM-EmoryU-CompMathDataSc",
+          "source": "Pathways to Science",
+          "url": "https://www.math.emory.edu/site/cmds-reuret/overview/",
+          "source_url": "https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate%20Students&dd=SummerResearch_Summer%20Research%20Opportunity&adv=adv&submit=y",
+          "text_hash": "aac10e27e609bef1",
+          "check": {
+            "kind": "page_contains",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-EmoryU-CompMathDataSc",
+            "must_contain": "Computational Mathematics for Data Scien"
+          },
+          "last_seen": "2026-10-30T16:57:40+00:00",
+          "first_seen": "2026-10-30T16:57:40+00:00",
+          "last_read": "2026-10-30T16:57:40+00:00",
+          "last_verified": "2026-10-30T16:57:40+00:00",
           "gone_count": 0,
           "status": "live"
         }
@@ -12908,6 +15594,38 @@
     },
     "Pathways to Science::SUM-CalTech-WAVE": {
       "at": "2026-10-29T17:15:50+00:00",
+      "why": "not a STEM student opportunity"
+    },
+    "Johnson & Johnson::/job/Madrid-Spain/Learning-and-Development-Internship_R-106553": {
+      "at": "2026-10-30T16:54:48+00:00",
+      "why": "not a STEM student opportunity"
+    },
+    "Johnson & Johnson::/job/Shanghai-China/R-D-Intern--Shanghai-_R-107982": {
+      "at": "2026-10-30T16:54:51+00:00",
+      "why": "not a STEM student opportunity"
+    },
+    "Johnson & Johnson::/job/Prague-Czechia/Key-Account-Specialist-Hematology---Oncology--Early-Career_R-107389": {
+      "at": "2026-10-30T16:54:57+00:00",
+      "why": "not a STEM student opportunity"
+    },
+    "Boeing::/job/DEU---Neu-Isenburg-Germany/Working-student---Werkstudent---Flight-Deck---Systems-Engineering--m-f-d-_JR2026527927-1": {
+      "at": "2026-10-30T16:55:01+00:00",
+      "why": "not a STEM student opportunity"
+    },
+    "Boeing::/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865": {
+      "at": "2026-10-30T16:55:04+00:00",
+      "why": "not a STEM student opportunity"
+    },
+    "Boeing::/job/USA---Hertford-NC/Entry-Level-General-Maintenance-Specialist_JR2026521340": {
+      "at": "2026-10-30T16:55:06+00:00",
+      "why": "not a STEM student opportunity"
+    },
+    "Pathways to Science::SUM-ClarksonU-SDIP": {
+      "at": "2026-10-30T16:55:15+00:00",
+      "why": "not a STEM student opportunity"
+    },
+    "Pathways to Science::SUM-CICSROP-GradOpps": {
+      "at": "2026-10-30T16:55:58+00:00",
       "why": "not a STEM student opportunity"
     }
   }

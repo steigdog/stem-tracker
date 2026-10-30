@@ -660,5 +660,150 @@
       "gone": 0,
       "error": 12
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-10-30T16:51:52+00:00",
+    "finished": "2026-10-30T16:51:53+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-10-30T16:51:53+00:00",
+    "finished": "2026-10-30T16:57:40+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 55,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 40,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 7,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 68,
+        "read": 5,
+        "added": 2,
+        "updated": 0,
+        "skipped": 3,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 28,
+        "read": 3,
+        "added": 0,
+        "updated": 0,
+        "skipped": 3,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 555,
+        "read": 40,
+        "added": 38,
+        "updated": 0,
+        "skipped": 2,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "Johnson & Johnson - DePuy Synthes Supply Chain Engineering Co-Op",
+      "Johnson & Johnson - R&D Co-Op",
+      "Clarkson University - NSF REU Site: High Performance Computing with Engineering Applications",
+      "Coe College - Coe College REU/RET program",
+      "Cold Spring Harbor Laboratory - Summer Research in Bioinformatics and Computational Biology",
+      "Wesleyan University - Keck Northeast Astronomy Consortium",
+      "Colorado State University - Summer Program in Molecular Biosciences",
+      "University of California, Berkeley - Ultra Intense Lasers and High Field Photonics Research Experience for Undergraduates",
+      "Columbia University - Columbia University and Amazon Summer Undergraduate Research Experience (SURE) Program",
+      "Columbia University - Nevis Labs Experimental High-Energy Physics REU",
+      "Columbia University - Research Program for Undergraduates in Materials Research",
+      "Columbia University - Summer Opportunities: Intern Programs for Undergraduates",
+      "Columbia University - Irving Institute for Cancer Dynamics - Summer Research Program (SRP) for Undergraduates at the Irving Institute for Cancer Dynamics",
+      "Columbia University - Summer Undergraduate Research Opportunity with The Artificial and Natural Intelligence Institute (ARNI)",
+      "Cornell University - CorGGLE (Cornell Geopaths Geoscience Learning Ecosystem)",
+      "Cornell University - Cornell Laboratory for Accelerator-based Sciences and Education REU (CLASSE)",
+      "Cornell University - Cornell NanoScale Facility Research Experiences for Undergraduates (CNF REU) Program",
+      "Cornell University - MBG-REU: Summer Research Experiences for Undergraduate: Molecular Biology and Genetics of Cell Signaling",
+      "University of California, Irvine - NextGenPop - Undergraduate Program in Population Research",
+      "Cornell University - Research Experiences for Undergraduates Program in Astrophysics and Planetary Science",
+      "Shoals Marine Laboratory (University of New Hampshire / Cornell University) - Undergrad Internships at Shoals Marine Laboratory",
+      "Cornell University - Weill Cornell IMSD Program",
+      "Darling Marine Center, University of Maine - UMaine Darling Marine Center Summer Research Internships",
+      "Dartmouth College - Joint Science Education Project (JSEP)",
+      "Dartmouth College - MD-PhD Undergraduate Summer Fellowship",
+      "Dauphin Island Sea Lab - Discovery Hall Environmental Education Internship in Marine Science",
+      "Dauphin Island Sea Lab - Research Experience for Undergraduates at the Dauphin Island Sea Lab",
+      "Northern Arizona University - Summer Research Enhancement Program (SREP)",
+      "Don Danforth Plant Science Center - REU at the Danford Plant Science Center",
+      "Duke University - Duke University SROP (Summer Research Opportunity Program)",
+      "University of North Carolina, Chapel Hill - Research Triangle – Research Experience for Undergraduates (RT-REU) on Hybrid Perovskite Materials",
+      "University of North Carolina, Chapel Hill - REU Program in Nuclear and Particle Physics at TUNL/Duke University",
+      "New Mexico Institute of Mining and Technology - Geo-Launchpad",
+      "EarthScope Consortium - Research Experiences in Solid Earth Sciences (RESESS)",
+      "EarthScope Consortium - Undergraduate Research Internships in Seismology (URISE)",
+      "Universidad de Puerto Rico, Arecibo - REU Site: Resilience and Adaptation to Coastal Change Across Community (C2C)",
+      "University of Kentucky - REU: Department of Physics and Astronomy, Research in Symmetries",
+      "Ecological Society of America (ESA) - ESA-USGS Cooperative Summer Internship Program",
+      "U.S. Department of the Interior - Scientists in Parks (SIP) Fellows",
+      "Emory University - Computational Mathematics for Data Science"
+    ],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 76165,
+      "output_tokens": 16204,
+      "cache_read_input_tokens": 175592,
+      "calls": 48
+    }
   }
 ]
