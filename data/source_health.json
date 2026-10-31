@@ -3,10 +3,12 @@
     7,
     10,
     7,
+    7,
     7
   ],
   "SpaceX": [
     57,
+    55,
     55,
     55,
     55
@@ -15,9 +17,11 @@
     39,
     39,
     40,
+    40,
     40
   ],
   "DOE SULI (Science Undergraduate Laboratory Internships)": [
+    1,
     1,
     1,
     1,
@@ -27,21 +31,25 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Boeing": [
     24,
     26,
     26,
-    28
+    28,
+    13
   ],
   "Johnson & Johnson": [
     79,
     74,
     78,
-    68
+    68,
+    63
   ],
   "Pathways to Science": [
+    555,
     555,
     555,
     555,

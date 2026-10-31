@@ -859,5 +859,152 @@
       "gone": 0,
       "error": 15
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-10-31T15:55:01+00:00",
+    "finished": "2026-10-31T15:55:02+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-10-31T15:55:02+00:00",
+    "finished": "2026-10-31T16:00:18+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 55,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 40,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 63,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 7,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 13,
+        "read": 3,
+        "added": 0,
+        "updated": 0,
+        "skipped": 3,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 555,
+        "read": 40,
+        "added": 40,
+        "updated": 1,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "Emory University - INfectious Diseases Summer Program Integrating Research at Emory University (INSPIRE)",
+      "Emory University - Laney Graduate School - Summer Opportunity for Academic Research (SOAR) Program",
+      "Georgia Institute of Technology - Neuroscience Research Experience for Undergraduates at Georgia Tech and Georgia State",
+      "Florida Atlantic University - Harbor Branch Oceanographic Institute (HBOI) at Florida Atlantic University Summer Internship Program",
+      "University of California, Berkeley - NHERI REU in Multi-Hazards Research",
+      "National High Magnetic Field Laboratory (University of Florida) - National High Magnetic Field Lab REU",
+      "Wildlife Conservation Society - The Calder Summer Undergraduate Research (CSUR) Program - REU in Conservation and Urban Ecology",
+      "Fort Lewis College - Paid Research Experience for Native American Undergraduates in Energy Research (RENAU)",
+      "Fred Hutchinson Cancer Research Center - Fred Hutch Summer Internship Program on Infectious Diseases in the Immunocompromised Host",
+      "Fred Hutchinson Cancer Research Center - Fred Hutch Summer Undergraduate Research Program",
+      "Virginia Institute of Marine Science - Coastal Critical Zone Network: Summer Undergraduate Internships",
+      "Virginia Polytechnic Institute and State University - REU opportunities at the Virginia Coast Reserve LTER",
+      "Georgetown University - Summer Research Experiences for Undergraduates in Materials Physics",
+      "Universidad de Puerto Rico, Mayagüez - Cell Manufacturing Technologies REU Program",
+      "Georgia Institute of Technology - Jungle Biomechanics Lab - Amazon Rainforest Field Research Program",
+      "Georgia Institute of Technology - SENIC REU Program",
+      "Georgia Institute of Technology - Summer Undergraduate Research Experience in Robotics",
+      "Georgia Institute of Technology - Summer Undergraduate Research in Engineering Science",
+      "Georgia Southern University - NSF-REU: CollaborativE Multidisciplinary Investigations Through Undergraduate Research Experiences [CEMITURE]",
+      "Gladstone Institutes - PUMAS Summer Internship Program",
+      "Western Michigan University - KBS REU Site- Understanding biological responses to global change in a field station community",
+      "Savannah State University - Bridge to Research in Marine Sciences",
+      "Gulf of Maine Research Institute - Research Experience for Undergraduates in Ecosystem, Oceanographic and Economic studies",
+      "Virginia Space Grant Consortium - Undergraduate STEM Research Scholarship Program",
+      "Massachusetts General Hospital - Harvard-MIT Summer Institute for Biomedical Optics",
+      "Harvard Medical School - Summer Honors Undergraduate Research Program in Biomedical Sciences",
+      "Harvard Medical School - Undergraduate Summer Internship",
+      "Cedar Creek LTER (University of Minnesota) - Cedar Creek LTER Summer Internships and Spring Field Technician Positions",
+      "Harvard University - Harvard Forest Summer Research Program in Ecology",
+      "Arnold Arboretum of Harvard University - DaRin Butz Foundation Research Internship Program",
+      "Harvard University - Research Experience For Undergraduates (REU) in Engineering and Applied Science",
+      "Smithsonian Astrophysical Observatory - SAO HEA/SSP Solar Physics REU Program",
+      "Health Effects Institute - Health Effects Institute Summer Fellowship Program",
+      "Blandy Experimental Farm, University of Virginia - Blandy Experimental Farm REU",
+      "University of Arkansas - POETS (Power Optimization of Electro-Thermo Systems) REU",
+      "Hubbard Brook Ecosystem Study - Summer REU Opportunity with the Hubbard Brook Ecosystem Study",
+      "Indiana University, Bloomington - Research Experiences for Undergraduates in Animal Behavior",
+      "Indiana University, Bloomington - REU in Mathematics",
+      "Indiana University Melvin and Bren Simon Comprehensive Cancer Center - Indiana University Melvin and Bren Simon Comprehensive Cancer Center Summer Research Program Internship",
+      "Indiana University, School of Medicine - INSPIRE summer REU in Alzheimer's disease and related dementia (ADRD) research"
+    ],
+    "updated": [
+      "Cedar Creek LTER (University of Minnesota) - Cedar Creek LTER REU"
+    ],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 79589,
+      "output_tokens": 16761,
+      "cache_read_input_tokens": 164384,
+      "calls": 45
+    }
   }
 ]

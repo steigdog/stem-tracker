@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-31T13:21:51+00:00",
-  "last_collect": "2026-10-30T16:57:40+00:00",
+  "generated_at": "2026-10-31T16:00:18+00:00",
+  "last_collect": "2026-10-31T16:00:18+00:00",
   "last_verify": "2026-10-31T13:21:51+00:00",
   "sources_monitored": 8,
-  "count": 219,
+  "count": 259,
   "listings": [
     {
       "id": "2602a48d3d23",
@@ -2086,6 +2086,59 @@
       ]
     },
     {
+      "id": "2d872fdd0fb5",
+      "organization": "Arnold Arboretum of Harvard University",
+      "title": "DaRin Butz Foundation Research Internship Program",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6250 stipend for ten weeks; travel reimbursed up to $550",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://arboretum.harvard.edu/research/programs-and-opportunities/darin-butz-foundation-research-internship-program/",
+      "summary": "10-week paid summer internship at the Arnold Arboretum conducting plant biology and climate change research with an advisor, culminating in written reports and oral presentations.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:40+00:00",
+      "last_updated": "2026-10-31T15:59:40+00:00",
+      "last_verified": "2026-10-31T15:59:40+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://arboretum.harvard.edu/research/programs-and-opportunities/darin-butz-foundation-research-internship-program/"
+        }
+      ]
+    },
+    {
       "id": "b2f1cfde3265",
       "organization": "Auburn University",
       "title": "Collaborative Approaches Among Scientists and Engineers (CASE) REU",
@@ -2356,6 +2409,58 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.birdconservationoregon.org/conservation-fellowship"
+        }
+      ]
+    },
+    {
+      "id": "ad0cb6c0eb19",
+      "organization": "Blandy Experimental Farm, University of Virginia",
+      "title": "Blandy Experimental Farm REU",
+      "locations": [
+        "Bayamon, PR"
+      ],
+      "states": [
+        "PR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,325 stipend + meal budget",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://blandy.virginia.edu/reuprogram",
+      "summary": "NSF-funded summer REU where undergraduates design and conduct research on ecological and evolutionary questions, developing skills in experimental design, data analysis, and science communication.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:54+00:00",
+      "last_updated": "2026-10-31T15:59:54+00:00",
+      "last_verified": "2026-10-31T15:59:54+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://blandy.virginia.edu/reuprogram"
         }
       ]
     },
@@ -3591,6 +3696,58 @@
         {
           "source": "Pathways to Science",
           "url": "https://case.edu/medicine/pharmacology/education-training/summer-undergraduate-research-program"
+        }
+      ]
+    },
+    {
+      "id": "01dbd3c7491d",
+      "organization": "Cedar Creek LTER (University of Minnesota)",
+      "title": "Cedar Creek LTER REU",
+      "locations": [
+        "Cedar Creek Ecosystem Science Reserve, 35 miles north of Minneapolis/St. Paul, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$15.50 per hour",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cedarcreek.umn.edu/employment-opportunities",
+      "summary": "Summer REU positions for undergraduates focusing on sampling across the LTER experimental platforms at Cedar Creek.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:33+00:00",
+      "last_updated": "2026-10-31T15:59:33+00:00",
+      "last_verified": "2026-10-31T15:59:33+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cedarcreek.umn.edu/employment-opportunities"
         }
       ]
     },
@@ -5214,6 +5371,1151 @@
       ]
     },
     {
+      "id": "f0d4df70a008",
+      "organization": "Emory University",
+      "title": "INfectious Diseases Summer Program Integrating Research at Emory University (INSPIRE)",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Engineering-Biomedical",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://tree4health.emory.edu/programs/inspire.html",
+      "summary": "NIH-funded year-long program beginning with a 10-week in-person infectious disease laboratory research experience at Emory, plus professional development courses and mentorship.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:57:45+00:00",
+      "last_updated": "2026-10-31T15:57:45+00:00",
+      "last_verified": "2026-10-31T15:57:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://tree4health.emory.edu/programs/inspire.html"
+        }
+      ]
+    },
+    {
+      "id": "0e5b2135781d",
+      "organization": "Emory University",
+      "title": "Laney Graduate School - Summer Opportunity for Academic Research (SOAR) Program",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Environmental Science",
+        "Mathematics & Statistics",
+        "Neuroscience",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://graduateschool.emory.edu/belonging/programming/lgs-soar/index.html",
+      "summary": "A 10-week residential summer program where undergraduate fellows conduct full-time mentored research at Emory and present at a capstone poster symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:57:52+00:00",
+      "last_updated": "2026-10-31T15:57:52+00:00",
+      "last_verified": "2026-10-31T15:57:52+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://graduateschool.emory.edu/belonging/programming/lgs-soar/index.html"
+        }
+      ]
+    },
+    {
+      "id": "e91164803544",
+      "organization": "Florida Atlantic University",
+      "title": "Harbor Branch Oceanographic Institute (HBOI) at Florida Atlantic University Summer Internship Program",
+      "locations": [
+        "Boca Raton, FL",
+        "Fort Pierce, FL"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Environmental Science",
+        "Physics",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.fau.edu/hboi/education-and-outreach/summer-internship-program/",
+      "summary": "A 10-week hands-on research internship at FAU-HBOI in areas including aquaculture, biomedical and biotechnology, marine ecosystem health, ocean dynamics and modeling, and ocean engineering.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:57:59+00:00",
+      "last_updated": "2026-10-31T15:57:59+00:00",
+      "last_verified": "2026-10-31T15:57:59+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.fau.edu/hboi/education-and-outreach/summer-internship-program/"
+        }
+      ]
+    },
+    {
+      "id": "244fc9ebfde4",
+      "organization": "Fort Lewis College",
+      "title": "Paid Research Experience for Native American Undergraduates in Energy Research (RENAU)",
+      "locations": [
+        "Durango, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Chemistry",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend, $1,200 food allowance, $450 travel allowance",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://faculty.fortlewis.edu/jslee/research.html#",
+      "summary": "Ten-week, 40-hour-per-week summer energy research program for Native American STEM undergraduates, with mentored projects in combustion diagnostics, molecular energy transfer, nuclear energy, and porous silicon rockets.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:16+00:00",
+      "last_updated": "2026-10-31T15:58:16+00:00",
+      "last_verified": "2026-10-31T15:58:16+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://faculty.fortlewis.edu/jslee/research.html#"
+        }
+      ]
+    },
+    {
+      "id": "c48fb26b852d",
+      "organization": "Fred Hutchinson Cancer Research Center",
+      "title": "Fred Hutch Summer Internship Program on Infectious Diseases in the Immunocompromised Host",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "states": [
+        "WA"
+      ],
+      "remote": null,
+      "opportunity_type": "Clinical/Hospital Research",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Public Health",
+        "Mathematics & Statistics",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division/research/infectious-disease-sciences/training/ids-summer-internship.html",
+      "summary": "Paid summer laboratory and clinical research with faculty mentors on infectious diseases in immunocompromised hosts, including clinical shadowing and a final project presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:20+00:00",
+      "last_updated": "2026-10-31T15:58:20+00:00",
+      "last_verified": "2026-10-31T15:58:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division/research/infectious-disease-sciences/training/ids-summer-internship.html"
+        }
+      ]
+    },
+    {
+      "id": "f8e0a8a00c9d",
+      "organization": "Fred Hutchinson Cancer Research Center",
+      "title": "Fred Hutch Summer Undergraduate Research Program",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "states": [
+        "WA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Public Health",
+        "Neuroscience",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,085 (minus taxes)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.fredhutch.org/en/education-training/undergraduate-students/summer-undergraduate-research-program.html",
+      "summary": "Nine-week mentored biomedical research internship where undergraduates complete an independent project, attend professional development workshops and seminars, and present at a competitive poster session.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:24+00:00",
+      "last_updated": "2026-10-31T15:58:24+00:00",
+      "last_verified": "2026-10-31T15:58:24+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.fredhutch.org/en/education-training/undergraduate-students/summer-undergraduate-research-program.html"
+        }
+      ]
+    },
+    {
+      "id": "083ca6534e48",
+      "organization": "Georgetown University",
+      "title": "Summer Research Experiences for Undergraduates in Materials Physics",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Materials Science",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000 stipend, plus up to $500 for travel expenses",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://physics.georgetown.edu/reu",
+      "summary": "Paid 10-week summer research in materials physics at Georgetown with faculty mentors, plus science policy activities, professional development workshops, and networking.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:36+00:00",
+      "last_updated": "2026-10-31T15:58:36+00:00",
+      "last_verified": "2026-10-31T15:58:36+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://physics.georgetown.edu/reu"
+        }
+      ]
+    },
+    {
+      "id": "bf79ccd7ebc9",
+      "organization": "Georgia Institute of Technology",
+      "title": "Neuroscience Research Experience for Undergraduates at Georgia Tech and Georgia State",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://reu.neuroscience.gatech.edu/",
+      "summary": "NSF-funded summer REU where undergraduates learn human neuroscience techniques like EEG and fMRI and conduct research in Georgia Tech or Georgia State faculty labs.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:57:55+00:00",
+      "last_updated": "2026-10-31T15:57:55+00:00",
+      "last_verified": "2026-10-31T15:57:55+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://reu.neuroscience.gatech.edu/"
+        }
+      ]
+    },
+    {
+      "id": "f621aa685dc9",
+      "organization": "Georgia Institute of Technology",
+      "title": "Jungle Biomechanics Lab - Amazon Rainforest Field Research Program",
+      "locations": [
+        "Atlanta, GA",
+        "Finca Las Piedras, Peruvian Amazon Rainforest"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Mathematics & Statistics",
+        "Engineering-Biomedical",
+        "Biology",
+        "Chemistry",
+        "Environmental Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": true,
+      "letters_required": 1,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://bhamla.gatech.edu/project-blog/jungle-biomechanics-lab",
+      "summary": "Two-week NSF-IRES funded field program in the Peruvian Amazon conducting biomechanics research, collaborating with U.S. and Peruvian scientists, and doing science outreach with local schools.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:44+00:00",
+      "last_updated": "2026-10-31T15:58:44+00:00",
+      "last_verified": "2026-10-31T15:58:44+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://bhamla.gatech.edu/project-blog/jungle-biomechanics-lab"
+        }
+      ]
+    },
+    {
+      "id": "587aa77ce50d",
+      "organization": "Georgia Institute of Technology",
+      "title": "SENIC REU Program",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000 Stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://senic.gatech.edu/education-and-outreach/reu-program/",
+      "summary": "Ten-week summer research in nanoscale science and engineering at Georgia Tech's Institute for Electronics and Nanotechnology, with science communication and entrepreneurship training.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:48+00:00",
+      "last_updated": "2026-10-31T15:58:48+00:00",
+      "last_verified": "2026-10-31T15:58:48+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://senic.gatech.edu/education-and-outreach/reu-program/"
+        }
+      ]
+    },
+    {
+      "id": "47cf4879d46e",
+      "organization": "Georgia Institute of Technology",
+      "title": "Summer Undergraduate Research Experience in Robotics",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Engineering-Biomedical",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sure.gatech.edu/",
+      "summary": "Ten-week NSF-funded summer robotics research program pairing undergraduates with faculty and graduate mentors, plus seminars, workshops, GRE prep, and industry site visits.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:51+00:00",
+      "last_updated": "2026-10-31T15:58:51+00:00",
+      "last_verified": "2026-10-31T15:58:51+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sure.gatech.edu/"
+        }
+      ]
+    },
+    {
+      "id": "a1297660399c",
+      "organization": "Georgia Institute of Technology",
+      "title": "Summer Undergraduate Research in Engineering Science",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Engineering-Biomedical",
+        "Engineering-Electrical",
+        "Physics",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000 stipend; round-trip travel allowance up to $600",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.sure.gatech.edu",
+      "summary": "Ten-week summer research program pairing about 40 undergraduates with faculty and graduate mentors on projects in Georgia Tech's Colleges of Computing, Engineering, and Sciences.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:55+00:00",
+      "last_updated": "2026-10-31T15:58:55+00:00",
+      "last_verified": "2026-10-31T15:58:55+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.sure.gatech.edu"
+        }
+      ]
+    },
+    {
+      "id": "1ff9702a8d98",
+      "organization": "Georgia Southern University",
+      "title": "NSF-REU: CollaborativE Multidisciplinary Investigations Through Undergraduate Research Experiences [CEMITURE]",
+      "locations": [
+        "Statesboro, GA",
+        "Épinal, France"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Environmental Science",
+        "Materials Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cosm.georgiasouthern.edu/reu/about/",
+      "summary": "Multidisciplinary research with faculty mentors in the US and France on topics like biomass conversion, materials chemistry, and mathematical modelling, plus professional development; travel to France covered.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:59+00:00",
+      "last_updated": "2026-10-31T15:58:59+00:00",
+      "last_verified": "2026-10-31T15:58:59+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cosm.georgiasouthern.edu/reu/about/"
+        }
+      ]
+    },
+    {
+      "id": "dadf32a092e7",
+      "organization": "Gladstone Institutes",
+      "title": "PUMAS Summer Internship Program",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://gladstone.org/training/pumas-summer-internship-program",
+      "summary": "Paid summer internship for community college students doing an independent, mentored research project in Gladstone labs, with skills training and communication workshops.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:02+00:00",
+      "last_updated": "2026-10-31T15:59:02+00:00",
+      "last_verified": "2026-10-31T15:59:02+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://gladstone.org/training/pumas-summer-internship-program"
+        }
+      ]
+    },
+    {
+      "id": "46cb03a8f3c3",
+      "organization": "Gulf of Maine Research Institute",
+      "title": "Research Experience for Undergraduates in Ecosystem, Oceanographic and Economic studies",
+      "locations": [
+        "Portland, ME"
+      ],
+      "states": [
+        "ME"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$500/week for 10 weeks",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.gmri.org/projects/research-experience-undergraduates/",
+      "summary": "Students design and conduct a 10-week independent research project with GMRI mentors on ecosystem, oceanographic, and economic studies of climate change in the Gulf of Maine.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:12+00:00",
+      "last_updated": "2026-10-31T15:59:12+00:00",
+      "last_verified": "2026-10-31T15:59:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.gmri.org/projects/research-experience-undergraduates/"
+        }
+      ]
+    },
+    {
+      "id": "0892e0d39e19",
+      "organization": "Harvard Medical School",
+      "title": "Summer Honors Undergraduate Research Program in Biomedical Sciences",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Neuroscience",
+        "Engineering-Biomedical",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://shurp.hms.harvard.edu/",
+      "summary": "Ten-week summer biomedical research program placing undergraduates, primarily from underrepresented groups, in Harvard Medical School labs matching their research interests.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:23+00:00",
+      "last_updated": "2026-10-31T15:59:23+00:00",
+      "last_verified": "2026-10-31T15:59:23+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://shurp.hms.harvard.edu/"
+        }
+      ]
+    },
+    {
+      "id": "ca3d46d98c6f",
+      "organization": "Harvard Medical School",
+      "title": "Undergraduate Summer Internship",
+      "locations": [
+        "Boston, MA",
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://scienceeducation.fas.harvard.edu/research-opportunities",
+      "summary": "Nine-week paid summer internship doing independent research in Harvard Quantitative Biology Initiative and Systems Biology labs, with cohort journal clubs, workshops, and seminars.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:27+00:00",
+      "last_updated": "2026-10-31T15:59:27+00:00",
+      "last_verified": "2026-10-31T15:59:27+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://scienceeducation.fas.harvard.edu/research-opportunities"
+        }
+      ]
+    },
+    {
+      "id": "b89431d02915",
+      "organization": "Harvard University",
+      "title": "Harvard Forest Summer Research Program in Ecology",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,700 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://harvardforest.fas.harvard.edu/other-tags/reu",
+      "summary": "11-week immersive field station research in ecology, environmental science, and data science, including field sampling, lab studies, data analysis, scientific writing, and weekly seminars.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:37+00:00",
+      "last_updated": "2026-10-31T15:59:37+00:00",
+      "last_verified": "2026-10-31T15:59:37+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://harvardforest.fas.harvard.edu/other-tags/reu"
+        }
+      ]
+    },
+    {
+      "id": "bfab1d432b76",
+      "organization": "Harvard University",
+      "title": "Research Experience For Undergraduates (REU) in Engineering and Applied Science",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Physics",
+        "Biology",
+        "Mathematics & Statistics",
+        "Materials Science",
+        "Environmental Science",
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000 program stipend and up to $350 for travel",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu",
+      "summary": "Ten-week NSF-funded undergraduate research program in engineering and applied science topics such as biomaterials, materials science, nanotechnology, robotics, and energy and the environment.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:44+00:00",
+      "last_updated": "2026-10-31T15:59:44+00:00",
+      "last_verified": "2026-10-31T15:59:44+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu"
+        }
+      ]
+    },
+    {
+      "id": "b975ee1c67db",
+      "organization": "Health Effects Institute",
+      "title": "Health Effects Institute Summer Fellowship Program",
+      "locations": [
+        "Flagstaff, AZ"
+      ],
+      "states": [
+        "AZ"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Public Health"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$8,000 stipend for a 10-week fellowship",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.healtheffects.org/research/funding/fellowship",
+      "summary": "Undergraduate fellows spend 10 summer weeks developing and conducting environmental health research, such as exposure assessment or epidemiology, alongside a mentor at a research institution.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:51+00:00",
+      "last_updated": "2026-10-31T15:59:51+00:00",
+      "last_verified": "2026-10-31T15:59:51+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.healtheffects.org/research/funding/fellowship"
+        }
+      ]
+    },
+    {
+      "id": "90e602c77d87",
+      "organization": "Hubbard Brook Ecosystem Study",
+      "title": "Summer REU Opportunity with the Hubbard Brook Ecosystem Study",
+      "locations": [
+        "North Woodstock, NH"
+      ],
+      "states": [
+        "NH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5000 stipend for the 10-week program",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://hubbardbrook.org/undergraduate-graduate/",
+      "summary": "Undergraduates join ecosystem research teams at Hubbard Brook Experimental Forest and conduct independent projects on soil carbon, tree dendrochronology, drought tolerance, or forest invertebrates.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T16:00:01+00:00",
+      "last_updated": "2026-10-31T16:00:01+00:00",
+      "last_verified": "2026-10-31T16:00:01+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://hubbardbrook.org/undergraduate-graduate/"
+        }
+      ]
+    },
+    {
       "id": "b56283a84a09",
       "organization": "Idaho National Laboratory (INL)",
       "title": "DOE CINR Research for Undergraduates (REU)",
@@ -5265,6 +6567,220 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.boisestate.edu/coen-smsl/openings/"
+        }
+      ]
+    },
+    {
+      "id": "59e207762592",
+      "organization": "Indiana University Melvin and Bren Simon Comprehensive Cancer Center",
+      "title": "Indiana University Melvin and Bren Simon Comprehensive Cancer Center Summer Research Program Internship",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "states": [
+        "IN"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Public Health",
+        "Neuroscience",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cancer.iu.edu/education/summer/index.html",
+      "summary": "Ten-week in-person mentored cancer research internship in the lab of a cancer researcher, with professional development workshops, for undergraduates and first-year medical students.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T16:00:14+00:00",
+      "last_updated": "2026-10-31T16:00:14+00:00",
+      "last_verified": "2026-10-31T16:00:14+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cancer.iu.edu/education/summer/index.html"
+        }
+      ]
+    },
+    {
+      "id": "3cead7f3c9ac",
+      "organization": "Indiana University, Bloomington",
+      "title": "Research Experiences for Undergraduates in Animal Behavior",
+      "locations": [
+        "Bloomington, IN"
+      ],
+      "states": [
+        "IN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Neuroscience",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://animalbehavior.indiana.edu/research/reu/index.html",
+      "summary": "Undergraduates conduct individualized summer research in animal behavior with IU faculty, using neuroscience, cognitive science, molecular, fieldwork, and behavioral analysis approaches.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T16:00:04+00:00",
+      "last_updated": "2026-10-31T16:00:04+00:00",
+      "last_verified": "2026-10-31T16:00:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://animalbehavior.indiana.edu/research/reu/index.html"
+        }
+      ]
+    },
+    {
+      "id": "87e0d21ecc00",
+      "organization": "Indiana University, Bloomington",
+      "title": "REU in Mathematics",
+      "locations": [
+        "Bloomington, IN"
+      ],
+      "states": [
+        "IN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://math.indiana.edu/undergraduate/reu-summer-research-program/index.html",
+      "summary": "Eight-week NSF-funded summer program where undergraduates work one-on-one with mathematics faculty mentors on theoretical or applied math research projects, culminating in written and oral reports.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T16:00:08+00:00",
+      "last_updated": "2026-10-31T16:00:08+00:00",
+      "last_verified": "2026-10-31T16:00:08+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://math.indiana.edu/undergraduate/reu-summer-research-program/index.html"
+        }
+      ]
+    },
+    {
+      "id": "3026f6122672",
+      "organization": "Indiana University, School of Medicine",
+      "title": "INSPIRE summer REU in Alzheimer's disease and related dementia (ADRD) research",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "states": [
+        "IN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://medicine.iu.edu/research-centers/neurosciences/education/inspire",
+      "summary": "Multi-week summer research program where undergraduates study Alzheimer's disease and related dementias with IU School of Medicine experts, culminating in a poster presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T16:00:18+00:00",
+      "last_updated": "2026-10-31T16:00:18+00:00",
+      "last_verified": "2026-10-31T16:00:18+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://medicine.iu.edu/research-centers/neurosciences/education/inspire"
         }
       ]
     },
@@ -7844,6 +9360,59 @@
       ]
     },
     {
+      "id": "ba801a1ca73c",
+      "organization": "Massachusetts General Hospital",
+      "title": "Harvard-MIT Summer Institute for Biomedical Optics",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://hst.mit.edu/applying-hst/applying-summer-institute-biomedical-optics",
+      "summary": "Nine-week summer research program where undergraduates work in labs developing light-based techniques for biomedical imaging, diagnosis, and therapy.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:20+00:00",
+      "last_updated": "2026-10-31T15:59:20+00:00",
+      "last_verified": "2026-10-31T15:59:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://hst.mit.edu/applying-hst/applying-summer-institute-biomedical-optics"
+        }
+      ]
+    },
+    {
       "id": "8ef3f8e7e4b9",
       "organization": "Moderna",
       "title": "Intern, Biometrics",
@@ -9614,6 +11183,65 @@
       ]
     },
     {
+      "id": "670b7eeb9956",
+      "organization": "National High Magnetic Field Laboratory (University of Florida)",
+      "title": "National High Magnetic Field Lab REU",
+      "locations": [
+        "Gainesville, FL"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Environmental Science",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6500 stipend; travel support up to $800",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://nationalmaglab.org/education/college-students-early-career-scientists/reu",
+      "summary": "NSF-funded summer program where undergraduates work with MagLab scientists on in-depth research projects and attend weekly seminars and colloquia.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:08+00:00",
+      "last_updated": "2026-10-31T15:58:08+00:00",
+      "last_verified": "2026-10-31T15:58:08+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://nationalmaglab.org/education/college-students-early-career-scientists/reu"
+        }
+      ]
+    },
+    {
       "id": "c303d436dbec",
       "organization": "New Mexico Institute of Mining and Technology",
       "title": "Geo-Launchpad",
@@ -9778,6 +11406,56 @@
       ]
     },
     {
+      "id": "0e13d8ec2867",
+      "organization": "Savannah State University",
+      "title": "Bridge to Research in Marine Sciences",
+      "locations": [
+        "Savannah, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,600 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://savannahstate.edu/events/bridge-to-research-in-marine-sciences/",
+      "summary": "Eight-week marine science program with classroom, field, and lab training, a research cruise aboard R/V Savannah, and six weeks of mentored research projects.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:09+00:00",
+      "last_updated": "2026-10-31T15:59:09+00:00",
+      "last_verified": "2026-10-31T15:59:09+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://savannahstate.edu/events/bridge-to-research-in-marine-sciences/"
+        }
+      ]
+    },
+    {
       "id": "d16ab6d6cdc7",
       "organization": "Shoals Marine Laboratory (University of New Hampshire / Cornell University)",
       "title": "Undergrad Internships at Shoals Marine Laboratory",
@@ -9828,6 +11506,60 @@
         {
           "source": "Pathways to Science",
           "url": "http://www.shoalsmarinelaboratory.org/student-research-internships"
+        }
+      ]
+    },
+    {
+      "id": "ca41d8adec62",
+      "organization": "Smithsonian Astrophysical Observatory",
+      "title": "SAO HEA/SSP Solar Physics REU Program",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.cfa.harvard.edu/opportunities/solar_reu/",
+      "summary": "Ten-week research program where undergraduates work on solar and heliospheric research through data analysis, computer modeling, and instrument building at the Center for Astrophysics.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:47+00:00",
+      "last_updated": "2026-10-31T15:59:47+00:00",
+      "last_verified": "2026-10-31T15:59:47+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.cfa.harvard.edu/opportunities/solar_reu/"
         }
       ]
     },
@@ -10425,6 +12157,65 @@
       ]
     },
     {
+      "id": "6e6c33ade1ca",
+      "organization": "Universidad de Puerto Rico, Mayagüez",
+      "title": "Cell Manufacturing Technologies REU Program",
+      "locations": [
+        "Mayagüez, PR"
+      ],
+      "states": [
+        "PR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Materials Science",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4500 - $5000 stipend per student",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cellmanufacturingusa.org/paid-summer-undergraduate-student-research-opportunities",
+      "summary": "NSF-funded summer REU placing undergraduates in cell manufacturing research labs at GT, UGA, UPRM, or UW-Madison, with mentoring and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:40+00:00",
+      "last_updated": "2026-10-31T15:58:40+00:00",
+      "last_verified": "2026-10-31T15:58:40+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cellmanufacturingusa.org/paid-summer-undergraduate-student-research-opportunities"
+        }
+      ]
+    },
+    {
       "id": "3df0d497019b",
       "organization": "Universities Space Research Association (USRA)",
       "title": "Air Force Research Laboratory (AFRL) Scholars Program",
@@ -10650,6 +12441,62 @@
       ]
     },
     {
+      "id": "c6986be97515",
+      "organization": "University of Arkansas",
+      "title": "POETS (Power Optimization of Electro-Thermo Systems) REU",
+      "locations": [
+        "Fayetteville, AR"
+      ],
+      "states": [
+        "AR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://poets-erc.org/reu",
+      "summary": "10-week summer research program where undergraduates work on POETS power and electro-thermal systems research projects with faculty and graduate mentors, plus seminars and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:58+00:00",
+      "last_updated": "2026-10-31T15:59:58+00:00",
+      "last_verified": "2026-10-31T15:59:58+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://poets-erc.org/reu"
+        }
+      ]
+    },
+    {
       "id": "ebb9e9388abd",
       "organization": "University of California, Berkeley",
       "title": "Center for OLDest Ice EXploration (COLDEX) REU",
@@ -10756,6 +12603,62 @@
         {
           "source": "Pathways to Science",
           "url": "http://lasers.colostate.edu/research-experience-for-undergraduate-students/"
+        }
+      ]
+    },
+    {
+      "id": "53a3d314dced",
+      "organization": "University of California, Berkeley",
+      "title": "NHERI REU in Multi-Hazards Research",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Civil/Environmental",
+        "Engineering-Electrical",
+        "Environmental Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.designsafe-ci.org/learning-center/reu/overview/",
+      "summary": "10-week NSF-funded summer research program in multi-hazard engineering, reconnaissance, cyberinfrastructure, simulation, and social science research on natural hazard mitigation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:04+00:00",
+      "last_updated": "2026-10-31T15:58:04+00:00",
+      "last_verified": "2026-10-31T15:58:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.designsafe-ci.org/learning-center/reu/overview/"
         }
       ]
     },
@@ -11394,6 +13297,177 @@
       ]
     },
     {
+      "id": "7d889fe98826",
+      "organization": "Virginia Institute of Marine Science",
+      "title": "Coastal Critical Zone Network: Summer Undergraduate Internships",
+      "locations": [
+        "Gloucester Point, VA",
+        "Washington, DC",
+        "College Park, MD",
+        "Newark, DE"
+      ],
+      "states": [
+        "VA",
+        "DC",
+        "MD",
+        "DE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://czn.coastal.udel.edu/opportunities/",
+      "summary": "Ten-week NSF-funded summer internships studying climate change and sea level rise effects on the Delmarva Peninsula through hydrology, biogeochemistry, or ecology field, lab, and computational research.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:28+00:00",
+      "last_updated": "2026-10-31T15:58:28+00:00",
+      "last_verified": "2026-10-31T15:58:28+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://czn.coastal.udel.edu/opportunities/"
+        }
+      ]
+    },
+    {
+      "id": "9f69ece9dd58",
+      "organization": "Virginia Polytechnic Institute and State University",
+      "title": "REU opportunities at the Virginia Coast Reserve LTER",
+      "locations": [
+        "Oyster, VA"
+      ],
+      "states": [
+        "VA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,500 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://lternet.edu/?taxonomy=opportunity_types&term=research-experience-for-undergraduates",
+      "summary": "10-week NSF REU studying coastal barrier ecosystem function and change on Virginia's Eastern Shore, including an individual project and long-term field data collection.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:33+00:00",
+      "last_updated": "2026-10-31T15:58:33+00:00",
+      "last_verified": "2026-10-31T15:58:33+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://lternet.edu/?taxonomy=opportunity_types&term=research-experience-for-undergraduates"
+        }
+      ]
+    },
+    {
+      "id": "488da534ecb5",
+      "organization": "Virginia Space Grant Consortium",
+      "title": "Undergraduate STEM Research Scholarship Program",
+      "locations": [
+        "Williamsburg, VA"
+      ],
+      "states": [
+        "VA"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer",
+        "Fall",
+        "Spring"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Physics",
+        "Engineering-Civil/Environmental",
+        "Engineering-Electrical",
+        "Mathematics & Statistics",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Up to $8,500 ($3,000 academic-year stipend, $3,500 summer stipend, $1,000 research allocations)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://vsgc.odu.edu/undergraduatescholarships/",
+      "summary": "One-year scholarship supporting rising juniors and seniors in STEM conducting faculty-mentored research projects with NASA or aerospace relevance during the academic year and/or summer.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:16+00:00",
+      "last_updated": "2026-10-31T15:59:16+00:00",
+      "last_verified": "2026-10-31T15:59:16+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://vsgc.odu.edu/undergraduatescholarships/"
+        }
+      ]
+    },
+    {
       "id": "42ca589b7bcb",
       "organization": "Washington University",
       "title": "The Amgen Scholars Program",
@@ -11545,6 +13619,112 @@
         {
           "source": "Pathways to Science",
           "url": "https://pa.as.uky.edu/ires"
+        }
+      ]
+    },
+    {
+      "id": "79a635f25af5",
+      "organization": "Western Michigan University",
+      "title": "KBS REU Site- Understanding biological responses to global change in a field station community",
+      "locations": [
+        "Kalamazoo, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000 stipend + room & board",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.kbs.msu.edu/index.php/education/ugrad/reu",
+      "summary": "NSF-funded field research experience at Kellogg Biological Station studying biological responses to global change, including study design, R data analysis, and poster presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:06+00:00",
+      "last_updated": "2026-10-31T15:59:06+00:00",
+      "last_verified": "2026-10-31T15:59:06+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.kbs.msu.edu/index.php/education/ugrad/reu"
+        }
+      ]
+    },
+    {
+      "id": "6531a5efba76",
+      "organization": "Wildlife Conservation Society",
+      "title": "The Calder Summer Undergraduate Research (CSUR) Program - REU in Conservation and Urban Ecology",
+      "locations": [
+        "Bronx, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.fordham.edu/REUatCalder",
+      "summary": "Undergraduates conduct independent ecological field research projects with Fordham faculty mentors at the Calder Center and nearby ecosystems over 10 weeks, presenting findings at the end.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:12+00:00",
+      "last_updated": "2026-10-31T15:58:12+00:00",
+      "last_verified": "2026-10-31T15:58:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.fordham.edu/REUatCalder"
         }
       ]
     },
