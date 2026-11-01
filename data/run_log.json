@@ -1060,5 +1060,229 @@
       "gone": 0,
       "error": 16
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-11-01T16:57:05+00:00",
+    "finished": "2026-11-01T16:57:06+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-11-01T16:57:06+00:00",
+    "finished": "2026-11-01T17:03:11+00:00",
+    "sources": {
+      "web discovery": {
+        "found": 10,
+        "read": 0,
+        "added": 7,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": "7 new sources added to discovered_sources.json"
+      },
+      "SpaceX": {
+        "found": 55,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 40,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 62,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 13,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 7,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 556,
+        "read": 40,
+        "added": 39,
+        "updated": 1,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "UC Berkeley College of Chemistry - Summer Undergraduate Research Diversity Program (SURD)",
+      "National High Magnetic Field Laboratory - MagLab Research Experiences for Undergraduates (REU)",
+      "University of Alabama at Birmingham - NSF Research Experiences for Undergraduates (REU) – Center for Nanoscale Materials and Biointegration",
+      "University of Pittsburgh School of Public Health - Pitt Public Health Undergraduate Scholars Program (PHUSP)",
+      "Blue Origin - Summer 2027 Aerospace Systems Engineering Internship - Undergraduate",
+      "University of Pennsylvania, Laboratory for Research on the Structure of Matter - NSF Research Experience for Undergraduates (REU) - LRSM",
+      "Indiana University, School of Medicine - Paid Undergraduate Summer Research Program in Neuroscience",
+      "Northern Arizona University - Institute for Tribal Environmental Professionals (ITEP) - ITEP Summer Internship Programs",
+      "Iowa State University - Biological Materials and Processes (BioMaP) REU",
+      "University of Massachusetts, Amherst - Integrated Research Experience for Undergraduates",
+      "University of Illinois, Urbana-Champaign - Research Internship in Sustainable Bioenergy (RISE)",
+      "Iowa State University - Summer Program for Interdisciplinary Research and Education - Emerging Interface Technologies (SPIRE-EIT)",
+      "Jackson Laboratory - Summer Student Program",
+      "James Madison University - Chemistry REU opportunity",
+      "Johns Hopkins University - Computational Sensing and Medical Robotics (CS&MR) REU",
+      "Kennedy Krieger Institute - Maternal Child Health-Leadership Education, Advocacy & Research Network (MCH-LEARN)",
+      "University of Maryland, Eastern Shore - Research Experiences for Undergraduates (REU) Site: EXERCISE - Explore Emerging Computing in Science and Engineering",
+      "Wichita State University - ARISE: Building Pathways to Community Disaster Resilience",
+      "Kansas State University - Physics Research Experience for Undergraduates (REU): Interactions of Matter, Light and Learning",
+      "Kansas State University - Research & Extension Experiences for Undergraduates in Plant Pathology",
+      "Wichita State University - Research Experience for Undergraduates (REU) Equitable pathways to community disaster resilience",
+      "Keck Geology Consortium - Undergraduate Summer Research Program in Geological Science - Gateway Research Experience",
+      "Kent State University - Research Experience for Undergraduates (NSF-REU): Liquid Crystals and Advanced Materials",
+      "National Great Rivers Research and Education Center - REU: Wetland Science in a Modern World",
+      "SENS Research Foundation - Lifespan Research Institute Summer Scholars Program",
+      "Los Alamos National Laboratory - Computational Physics Student Summer Workshop",
+      "Los Alamos National Laboratory - Parallel Computing Summer Research Internship",
+      "Louisiana State University - Interdisciplinary Research Experience in Computational Sciences",
+      "Louisiana State University School of Veterinary Medicine - Paid Undergraduate Summer Research Program in Biomedical and Veterinary Medical Sciences",
+      "Louisiana Universities and Marine Consortium - Research Experiences in Changing Coastal Environments",
+      "Lunar and Planetary Institute (Universities Space Research Association) - LPI Summer Intern Program in Planetary Science",
+      "Maine Medical Center Research Institute - Maine Medical Center Research Institute Summer Student Research Program",
+      "University of Maine - Maine Sea Grant – NOAA Fisheries Undergraduate Internships in Sea-run Fish Research",
+      "Maine Sea Grant - Marine Education Outreach-Internships and Fellowships",
+      "Maine Space Grant Consortium - The Maine Aerospace Workforce Development Program",
+      "Maria Mitchell Association - Aquarium Internships",
+      "Maria Mitchell Association - Astronomy Research Opportunities for Undergraduate Students at the Maria Mitchell Observatory",
+      "University of California, Riverside - ATP-Bio Summer Research Experience for Undergraduates (REU)",
+      "Massachusetts Institute of Technology (MIT) - Biology/Neuroscience Summer Internship Program (MSRP BIO)",
+      "Massachusetts Institute of Technology (MIT) - MIT Summer Research Program (MSRP)",
+      "MIT Haystack Observatory - REU at the MIT Haystack Observatory",
+      "Massachusetts Institute of Technology (MIT) - Summer Geometry Initiative",
+      "Mayo Clinic, Rochester - Summer Undergraduate Research Fellowship (SURF)",
+      "Medical College of Wisconsin - ASPIRE NIH-Funded Summer Cardiovascular Research Fellowship in Milwaukee for Undergraduates",
+      "Medical College of Wisconsin - SURE AHA-Funded Summer Cardiovascular Research Fellowship in Milwaukee for Undergraduates"
+    ],
+    "updated": [
+      "Keck Geology Consortium - Undergraduate Summer Research Program in Geological Science - Advanced Research Experience"
+    ],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 81198,
+      "output_tokens": 17271,
+      "cache_read_input_tokens": 171856,
+      "calls": 47
+    }
   }
 ]

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Summer Undergraduate Research Diversity Program (SURD)",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://chemistry.berkeley.edu/dei/programs/surd",
+    "organization": "UC Berkeley College of Chemistry",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-01T16:57:28+00:00"
+  },
+  {
+    "name": "MagLab Research Experiences for Undergraduates (REU)",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://nationalmaglab.org/education/college-students/reu/",
+    "organization": "National High Magnetic Field Laboratory",
+    "opportunity_type": "REU",
+    "sector": "Government / National Lab",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-01T16:57:29+00:00"
+  },
+  {
+    "name": "CNMB Research Experiences for Undergraduates",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://sites.uab.edu/cnmb/research-experiences-for-undergraduates/",
+    "organization": "University of Alabama at Birmingham",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-01T16:57:31+00:00"
+  },
+  {
+    "name": "NSF REU at LRSM",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://www.lrsm.upenn.edu/outreach/reu/",
+    "organization": "University of Pennsylvania, Laboratory for Research on the Structure of Matter",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-01T16:57:36+00:00"
+  },
+  {
+    "name": "Pitt Public Health Undergraduate Scholars Program (PHUSP)",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://www.publichealth.pitt.edu/academics/other-undergraduate-opportunities/pitt-public-health-undergraduate-scholars-program",
+    "organization": "University of Pittsburgh School of Public Health",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-01T16:57:36+00:00"
+  },
+  {
+    "name": "Summer Undergraduate Research Program",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://www.fredhutch.org/en/education-training/undergraduate-students/summer-undergraduate-research-program.html",
+    "organization": "Fred Hutchinson Cancer Center",
+    "opportunity_type": "Clinical/Hospital Research",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-01T16:57:37+00:00"
+  },
+  {
+    "name": "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436",
+    "organization": "Blue Origin",
+    "opportunity_type": "Industry Internship",
+    "sector": "Aerospace & Defense",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-01T16:57:37+00:00"
+  }
+]
