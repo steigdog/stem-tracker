@@ -1284,5 +1284,117 @@
       "cache_read_input_tokens": 171856,
       "calls": 47
     }
+  },
+  {
+    "kind": "verify",
+    "started": "2026-11-02T16:48:04+00:00",
+    "finished": "2026-11-02T16:55:38+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 8,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 35,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 63,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 32,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 193,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [],
+    "updated": [],
+    "removed": [
+      "Brigham and Women's Hospital - Summer Training in Academic Research and Scholarship (STARS) Program (posting offline)",
+      "Cornell University - Cornell Laboratory for Accelerator-based Sciences and Education REU (CLASSE) (posting offline)",
+      "Georgia Southern University - NSF-REU: CollaborativE Multidisciplinary Investigations Through Undergraduate Research Experiences [CEMITURE] (posting offline)"
+    ],
+    "failed": [],
+    "warnings": [],
+    "llm": {},
+    "checks": {
+      "live": 269,
+      "gone": 3,
+      "error": 33
+    }
   }
 ]
