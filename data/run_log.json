@@ -1396,5 +1396,213 @@
       "gone": 3,
       "error": 33
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-11-02T20:34:46+00:00",
+    "finished": "2026-11-02T20:34:47+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-11-02T20:34:47+00:00",
+    "finished": "2026-11-02T20:40:20+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 54,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 3,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 40,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 50,
+        "read": 6,
+        "added": 0,
+        "updated": 0,
+        "skipped": 6,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 12,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 550,
+        "read": 40,
+        "added": 40,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "Medical University of South Carolina - Drug Abuse Research Training (DART) Program - Summer Research Fellowship",
+      "Medical University of South Carolina - Summer Undergraduate Research Program (SURP)",
+      "Vanderbilt University Medical Center - Enhancing Virology Training (ENVIT) through Summer Research",
+      "Memorial Sloan-Kettering Cancer Center - Quantitative Sciences Undergraduate Research Experience (QSURE)",
+      "University of Colorado, Anschutz Medical campus - Summer Research Experience for Undergraduates in RNA and Genome Biology (REU-RGB)",
+      "Miami University - The Ecology of Human-Dominated Landscapes",
+      "Michigan State University - Great Lakes Bioenergy Research Center Summer Undergraduate Research Program",
+      "Michigan State University - Plant Genomics @ MSU",
+      "Milwaukee School of Engineering - NSF REU Site: Advanced Manufacture of Novel Materials and Bio-Nano Applications",
+      "Mississippi State University - Research Experiences for Undergraduates - Computational Methods with Applications in Materials Science",
+      "Missouri Botanical Garden - International Research Experience for Students (IRES): Understanding Pollinator-Mediated Diversification in Neotropical Plants",
+      "Missouri Botanical Garden - REU Site: Undergraduate Research in Plant Systematics, Conservation Biology, and Ethnobotany",
+      "Montana State University - REU Site: Exploring the Limits of Life - Understanding Biofilms in Extreme Environments",
+      "Montclair State University - IRES: Summer Biology Research Program in Japan",
+      "Montclair State University - PSEG Institute for Sustainability Science Green Teams Program",
+      "Monterey Bay Aquarium Research Institute - MBARI Summer Internship Program",
+      "Morton Arboretum - REU Program: Integrative Tree Science for the Anthropocene",
+      "Mote Marine Laboratory - Internship Opportunities at Mote Marine Laboratory & Aquarium",
+      "Mote Marine Laboratory - Mote Research Experience for Undergraduates",
+      "Mount Desert Island Biological Laboratory (MDIBL) - Comparative Regenerative Biology and Aging REU Program",
+      "Mount Sinai School of Medicine - Mount Sinai Center for Bioinformatics: Summer Research Training Program in Biomedical Big Data Science",
+      "Mystic Aquarium - Mystic Aquarium - Research Experiences for Undergraduates",
+      "Lunar and Planetary Institute (NASA) - LPI Summer Intern Program in Planetary Science",
+      "University of California, Irvine - NASA Student Airborne Research Program (SARP)",
+      "SETI Institute - Astrobiology REU",
+      "NASA Ames Research Center - NASA's Space Life Sciences Training Program Summer Internship",
+      "National Institute of Standards and Technology (NIST), Boulder - NIST Summer Undergraduate Research Fellowship (SURF) Program (Virtual)",
+      "National Institutes of Health (NIH) - Biomedical Engineering Summer Internship Program (BESIP)",
+      "National Oceanic and Atmospheric Administration (NOAA) - Educational Partnership Program (EPP) Undergraduate Scholarship Program",
+      "National Oceanic and Atmospheric Administration (NOAA) - Ernest F. Hollings Undergraduate Scholarship Program",
+      "University of Michigan - Cooperative Institute for Great Lakes Research (CIGLR) - Great Lakes Summer Fellows Program",
+      "National Radio Astronomy Observatory - Summer Student Research Program at the National Radio Astronomy Observatory",
+      "Simons Foundation - Simons-NSBP Scholars Program",
+      "University of Colorado, Boulder - Solar Astrophysics REU",
+      "Native Plant Trust - Marylee Everett Conservation Internship",
+      "Nemours/Alfred I. duPont Hospital for Children - Nemours Summer Research Scholar Award",
+      "New York University - Center for Neural Science REU",
+      "New York University - Simons Foundation Department of Biology Summer Undergraduate Research Program (SURP)",
+      "New York University - Vilcek Institute of Graduate Biomedical Sciences at NYU Grossman School of Medicine, Summer Undergraduate Research Program (SURP)",
+      "Oregon Sea Grant - Undergraduate Summer Scholars Program"
+    ],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 71352,
+      "output_tokens": 16505,
+      "cache_read_input_tokens": 168120,
+      "calls": 46
+    }
   }
 ]

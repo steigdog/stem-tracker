@@ -1,10 +1,65 @@
 {
-  "generated_at": "2026-11-02T16:55:38+00:00",
-  "last_collect": "2026-11-01T17:03:11+00:00",
+  "generated_at": "2026-11-02T20:40:20+00:00",
+  "last_collect": "2026-11-02T20:40:20+00:00",
   "last_verify": "2026-11-02T16:55:38+00:00",
   "sources_monitored": 15,
-  "count": 301,
+  "count": 341,
   "listings": [
+    {
+      "id": "fc7e555c8f53",
+      "organization": "Montclair State University",
+      "title": "IRES: Summer Biology Research Program in Japan",
+      "locations": [
+        "Montclair, NJ",
+        "Okazaki, Japan",
+        "Riken Institute, Japan",
+        "Aoyama Gakuin, Japan",
+        "National Institute of Basic Biology (NIBB), Japan"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7200 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2026-11-06",
+      "rolling": null,
+      "apply_url": "https://inside.montclair.edu/colleges-schools-research/math-science/ires-summer-biology-research-program-japan",
+      "summary": "NSF-funded summer program where students conduct full-time neurobiology research on visual information processing and behavior in Japanese laboratories with faculty mentors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:46+00:00",
+      "last_updated": "2026-11-02T20:38:46+00:00",
+      "last_verified": "2026-11-02T20:38:46+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://inside.montclair.edu/colleges-schools-research/math-science/ires-summer-biology-research-program-japan"
+        }
+      ]
+    },
     {
       "id": "2602a48d3d23",
       "organization": "Johnson & Johnson",
@@ -446,6 +501,165 @@
       ]
     },
     {
+      "id": "0f4afb139e81",
+      "organization": "National Institutes of Health (NIH)",
+      "title": "Biomedical Engineering Summer Internship Program (BESIP)",
+      "locations": [
+        "Bethesda, MD"
+      ],
+      "states": [
+        "MD"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-26",
+      "rolling": null,
+      "apply_url": "https://www.nibib.nih.gov/labs-at-nibib/besip",
+      "summary": "Ten-week in-person biomedical engineering research internship in NIH laboratories in Bethesda under mentorship of NIH scientists and engineers, with BME and STEM tracks.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:38+00:00",
+      "last_updated": "2026-11-02T20:39:38+00:00",
+      "last_verified": "2026-11-02T20:39:38+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.nibib.nih.gov/labs-at-nibib/besip"
+        }
+      ]
+    },
+    {
+      "id": "bd533a90153f",
+      "organization": "National Oceanic and Atmospheric Administration (NOAA)",
+      "title": "Educational Partnership Program (EPP) Undergraduate Scholarship Program",
+      "locations": [
+        "Silver Spring, MD",
+        "Washington, DC"
+      ],
+      "states": [
+        "MD",
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Mathematics & Statistics",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Community college"
+      ],
+      "min_gpa": 3.2,
+      "citizenship": "US citizen only",
+      "export_control": null,
+      "pay": "Up to $45,000 in total support; stipend and housing allowance during summer internships",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-31",
+      "rolling": null,
+      "apply_url": "http://www.noaa.gov/office-education/epp-msi/undergraduate-scholarship",
+      "summary": "Scholarship for minority serving institution students with two paid summer internships at NOAA facilities, including Silver Spring, MD, and a science symposium presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:41+00:00",
+      "last_updated": "2026-11-02T20:39:41+00:00",
+      "last_verified": "2026-11-02T20:39:41+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.noaa.gov/office-education/epp-msi/undergraduate-scholarship"
+        }
+      ]
+    },
+    {
+      "id": "33314bd95b35",
+      "organization": "National Oceanic and Atmospheric Administration (NOAA)",
+      "title": "Ernest F. Hollings Undergraduate Scholarship Program",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Environmental Science",
+        "Mathematics & Statistics",
+        "Physics",
+        "Engineering-Aerospace"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Up to $40,000 total; $9,500 per year academic award for two years plus paid summer internship",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-31",
+      "rolling": null,
+      "apply_url": "https://www.noaa.gov/office-education/hollings-scholarship",
+      "summary": "Scholarship providing academic funding, conference travel support, and a paid summer internship at NOAA for students in fields supporting NOAA's mission.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:45+00:00",
+      "last_updated": "2026-11-02T20:39:45+00:00",
+      "last_verified": "2026-11-02T20:39:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.noaa.gov/office-education/hollings-scholarship"
+        }
+      ]
+    },
+    {
       "id": "c0138f94cf66",
       "organization": "University of Pittsburgh School of Public Health",
       "title": "Pitt Public Health Undergraduate Scholars Program (PHUSP)",
@@ -811,6 +1025,61 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.disl.edu/about/internships/#summer-environmental-education-internship"
+        }
+      ]
+    },
+    {
+      "id": "7a0e2f0e83cb",
+      "organization": "Mississippi State University",
+      "title": "Research Experiences for Undergraduates - Computational Methods with Applications in Materials Science",
+      "locations": [
+        "Mississippi State, MS"
+      ],
+      "states": [
+        "MS"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Chemistry",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 Stipend, travel allowance",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-15",
+      "rolling": null,
+      "apply_url": "https://www.ccs.msstate.edu/conferences/REU2026/",
+      "summary": "NSF-funded summer REU where undergraduates conduct computational research in materials science using simulation, data analysis, and high-performance computing under faculty mentorship.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:30+00:00",
+      "last_updated": "2026-11-02T20:38:30+00:00",
+      "last_verified": "2026-11-02T20:38:30+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.ccs.msstate.edu/conferences/REU2026/"
         }
       ]
     },
@@ -10319,6 +10588,58 @@
       ]
     },
     {
+      "id": "0b867ea8200e",
+      "organization": "Lunar and Planetary Institute (NASA)",
+      "title": "LPI Summer Intern Program in Planetary Science",
+      "locations": [
+        "Houston, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.lpi.usra.edu/lpiintern/",
+      "summary": "10-week summer internship where undergraduates conduct lunar and planetary science research one-on-one with LPI or NASA Johnson Space Center scientists, plus lectures and career workshops.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:20+00:00",
+      "last_updated": "2026-11-02T20:39:20+00:00",
+      "last_verified": "2026-11-02T20:39:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.lpi.usra.edu/lpiintern/"
+        }
+      ]
+    },
+    {
       "id": "90a334552c5e",
       "organization": "Lunar and Planetary Institute (Universities Space Research Association)",
       "title": "LPI Summer Intern Program in Planetary Science",
@@ -11053,6 +11374,479 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.mcw.edu/departments/cardiovascular-center-heart/education/supporting-undergraduate-research-experiences-sure-program"
+        }
+      ]
+    },
+    {
+      "id": "0d5ac98bd9f8",
+      "organization": "Medical University of South Carolina",
+      "title": "Drug Abuse Research Training (DART) Program - Summer Research Fellowship",
+      "locations": [
+        "Charleston, SC"
+      ],
+      "states": [
+        "SC"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://medicine.musc.edu/departments/psychiatry/divisions-and-programs/divisions/addiction-sciences/education-and-training/predoctoral/dart/summer-program",
+      "summary": "Ten-week full-time summer fellowship conducting basic and clinical addiction research with an MUSC mentor, including data collection, analyses, seminars, scientific writing, and presenting at Summer Research Day.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:37:54+00:00",
+      "last_updated": "2026-11-02T20:37:54+00:00",
+      "last_verified": "2026-11-02T20:37:54+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://medicine.musc.edu/departments/psychiatry/divisions-and-programs/divisions/addiction-sciences/education-and-training/predoctoral/dart/summer-program"
+        }
+      ]
+    },
+    {
+      "id": "8b0f3f74e97d",
+      "organization": "Medical University of South Carolina",
+      "title": "Summer Undergraduate Research Program (SURP)",
+      "locations": [
+        "Charleston, SC"
+      ],
+      "states": [
+        "SC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://gradstudies.musc.edu/programs/pathway/summer-undergraduate-research-program?_gl=1*zt29ea*_gcl_au*NjIyODYxODM4LjE3NjAwOTgzMDg.*_ga*MTU3Nzk3ODgzLjE3NjAwOTgzMDg.*_ga_5ECRFEFZL4*czE3NjA3ODg4NjYkbzIkZzEkdDE3NjA3ODg4ODAkajQ2JGwwJGgw",
+      "summary": "10-week biomedical research program where undergraduates work with an MUSC graduate faculty mentor and research team, earning course credit, to prepare for graduate studies.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:37:59+00:00",
+      "last_updated": "2026-11-02T20:37:59+00:00",
+      "last_verified": "2026-11-02T20:37:59+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://gradstudies.musc.edu/programs/pathway/summer-undergraduate-research-program?_gl=1*zt29ea*_gcl_au*NjIyODYxODM4LjE3NjAwOTgzMDg.*_ga*MTU3Nzk3ODgzLjE3NjAwOTgzMDg.*_ga_5ECRFEFZL4*czE3NjA3ODg4NjYkbzIkZzEkdDE3NjA3ODg4ODAkajQ2JGwwJGgw"
+        }
+      ]
+    },
+    {
+      "id": "bdd43345a33b",
+      "organization": "Memorial Sloan-Kettering Cancer Center",
+      "title": "Quantitative Sciences Undergraduate Research Experience (QSURE)",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "Clinical/Hospital Research",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Public Health",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,187.50 stipend for the 10-week internship",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure",
+      "summary": "Undergraduates work with an expert mentor on a data-driven cancer research project using biostatistics, epidemiology, health outcomes, or computational oncology methods.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:07+00:00",
+      "last_updated": "2026-11-02T20:38:07+00:00",
+      "last_verified": "2026-11-02T20:38:07+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure"
+        }
+      ]
+    },
+    {
+      "id": "cf0921d0f430",
+      "organization": "Miami University",
+      "title": "The Ecology of Human-Dominated Landscapes",
+      "locations": [
+        "Oxford"
+      ],
+      "states": [],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.miamioh.edu/ecologyreu/",
+      "summary": "Undergraduates conduct individual ecology and environmental science research projects with faculty mentors on human-dominated landscapes at Miami University.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:14+00:00",
+      "last_updated": "2026-11-02T20:38:14+00:00",
+      "last_verified": "2026-11-02T20:38:14+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sites.miamioh.edu/ecologyreu/"
+        }
+      ]
+    },
+    {
+      "id": "33d170bccd81",
+      "organization": "Michigan State University",
+      "title": "Great Lakes Bioenergy Research Center Summer Undergraduate Research Program",
+      "locations": [
+        "East Lansing, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend; room and board plus up to $500 travel",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.glbrc.org/outreach/programs/summer-undergraduate-research-program",
+      "summary": "Ten-week bioenergy research program where undergraduates work in MSU labs or field sites with mentors, attend seminars and field trips, and present posters and talks.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:17+00:00",
+      "last_updated": "2026-11-02T20:38:17+00:00",
+      "last_verified": "2026-11-02T20:38:17+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.glbrc.org/outreach/programs/summer-undergraduate-research-program"
+        }
+      ]
+    },
+    {
+      "id": "4f4f34044129",
+      "organization": "Michigan State University",
+      "title": "Plant Genomics @ MSU",
+      "locations": [
+        "East Lansing, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Biochemistry",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,750 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.plantgenomics.msu.edu",
+      "summary": "Ten-week NSF-funded summer program where undergraduates gain laboratory experience in plant genomics research with MSU faculty, plus lectures, social activities, and a poster symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:21+00:00",
+      "last_updated": "2026-11-02T20:38:21+00:00",
+      "last_verified": "2026-11-02T20:38:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.plantgenomics.msu.edu"
+        }
+      ]
+    },
+    {
+      "id": "f844992342a8",
+      "organization": "Milwaukee School of Engineering",
+      "title": "NSF REU Site: Advanced Manufacture of Novel Materials and Bio-Nano Applications",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "states": [
+        "WI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.msoe.edu/academics/how-we-teach/labs-and-research/undergraduate-research/research-experience-for-undergraduates/",
+      "summary": "Mentored summer research on advanced manufacturing of novel materials and bio-nano applications, including 3D printing and metal laser-wire deposition, focused on human health and sustainable systems.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:26+00:00",
+      "last_updated": "2026-11-02T20:38:26+00:00",
+      "last_verified": "2026-11-02T20:38:26+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.msoe.edu/academics/how-we-teach/labs-and-research/undergraduate-research/research-experience-for-undergraduates/"
+        }
+      ]
+    },
+    {
+      "id": "8d1457a7951d",
+      "organization": "Missouri Botanical Garden",
+      "title": "International Research Experience for Students (IRES): Understanding Pollinator-Mediated Diversification in Neotropical Plants",
+      "locations": [
+        "Mayagüez, PR",
+        "Colombia"
+      ],
+      "states": [
+        "PR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.missouribotanicalgarden.org/plant-science/plant-science/about-science-conservation/resources-databases/study-opportunities/ires",
+      "summary": "NSF-funded international field research in Colombian forests studying pollination biology and floral scent chemistry of Anthurium species with US and Colombian mentors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:35+00:00",
+      "last_updated": "2026-11-02T20:38:35+00:00",
+      "last_verified": "2026-11-02T20:38:35+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.missouribotanicalgarden.org/plant-science/plant-science/about-science-conservation/resources-databases/study-opportunities/ires"
+        }
+      ]
+    },
+    {
+      "id": "7f9fee257379",
+      "organization": "Missouri Botanical Garden",
+      "title": "REU Site: Undergraduate Research in Plant Systematics, Conservation Biology, and Ethnobotany",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "states": [
+        "MO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$525 weekly stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.mobot.org/reu",
+      "summary": "Ten-week summer REU where students conduct independent mentored projects in plant systematics, conservation biology, and ethnobotany using herbarium, library, lab, and nature reserve resources.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:38+00:00",
+      "last_updated": "2026-11-02T20:38:38+00:00",
+      "last_verified": "2026-11-02T20:38:38+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.mobot.org/reu"
         }
       ]
     },
@@ -12774,6 +13568,546 @@
       ]
     },
     {
+      "id": "0fcbb9f669b8",
+      "organization": "Montana State University",
+      "title": "REU Site: Exploring the Limits of Life - Understanding Biofilms in Extreme Environments",
+      "locations": [
+        "Bozeman, MT"
+      ],
+      "states": [
+        "MT"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Environmental Science",
+        "Mathematics & Statistics",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Engineering-Civil/Environmental"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$7000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://tbi.montana.edu/undergraduate-research-fellowship/",
+      "summary": "10-week summer research program studying extremophilic biofilms, including a 3-day Yellowstone field visit and an end-of-program poster symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:42+00:00",
+      "last_updated": "2026-11-02T20:38:42+00:00",
+      "last_verified": "2026-11-02T20:38:42+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://tbi.montana.edu/undergraduate-research-fellowship/"
+        }
+      ]
+    },
+    {
+      "id": "cb4d965692c3",
+      "organization": "Montclair State University",
+      "title": "PSEG Institute for Sustainability Science Green Teams Program",
+      "locations": [
+        "Montclair, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.montclair.edu/pseg-sustainability-institute/green-teams/",
+      "summary": "Transdisciplinary teams of five undergraduates address sustainability challenges for corporations, municipalities, nonprofits, and community groups, with training in sustainability skills and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:49+00:00",
+      "last_updated": "2026-11-02T20:38:49+00:00",
+      "last_verified": "2026-11-02T20:38:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.montclair.edu/pseg-sustainability-institute/green-teams/"
+        }
+      ]
+    },
+    {
+      "id": "aad8e20d8c9b",
+      "organization": "Monterey Bay Aquarium Research Institute",
+      "title": "MBARI Summer Internship Program",
+      "locations": [
+        "Moss Landing, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Chemistry",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.mbari.org/products/educational-resources/mbari-summer-internship-program/",
+      "summary": "Ten-week summer internship where students work on a specific ocean research or engineering project under MBARI staff mentorship, using research vessels, ROVs, and AUVs.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:53+00:00",
+      "last_updated": "2026-11-02T20:38:53+00:00",
+      "last_verified": "2026-11-02T20:38:53+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.mbari.org/products/educational-resources/mbari-summer-internship-program/"
+        }
+      ]
+    },
+    {
+      "id": "3651f4426c23",
+      "organization": "Morton Arboretum",
+      "title": "REU Program: Integrative Tree Science for the Anthropocene",
+      "locations": [
+        "Lisle, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6250 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mortonarb.org/science/opportunities-in-science/research-experiences-for-undergraduates-program/#program-details",
+      "summary": "Ten-week NSF summer REU where undergraduates conduct independent tree science research with a PhD-level mentor on climate change, biodiversity, natural resources, and urban life.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:57+00:00",
+      "last_updated": "2026-11-02T20:38:57+00:00",
+      "last_verified": "2026-11-02T20:38:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mortonarb.org/science/opportunities-in-science/research-experiences-for-undergraduates-program/#program-details"
+        }
+      ]
+    },
+    {
+      "id": "ea595da7baf6",
+      "organization": "Mote Marine Laboratory",
+      "title": "Internship Opportunities at Mote Marine Laboratory & Aquarium",
+      "locations": [
+        "Sarasota, FL"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Industry Internship",
+      "seasons": [],
+      "majors": [
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.mote.org/reu",
+      "summary": "In-person internships giving college students and recent graduates hands-on experience in ocean science research, conservation, education and support services at Mote Marine Laboratory & Aquarium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:00+00:00",
+      "last_updated": "2026-11-02T20:39:00+00:00",
+      "last_verified": "2026-11-02T20:39:00+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.mote.org/reu"
+        }
+      ]
+    },
+    {
+      "id": "9f6350b6fb19",
+      "organization": "Mote Marine Laboratory",
+      "title": "Mote Research Experience for Undergraduates",
+      "locations": [
+        "Sarasota, FL"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mote.org/research/internships/college-internship-program-overview/Mote-REU",
+      "summary": "Paid, residential NSF-funded marine science research experience where undergraduates conduct projects under Mote scientists' mentorship and attend seminars and career skills workshops.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:03+00:00",
+      "last_updated": "2026-11-02T20:39:03+00:00",
+      "last_verified": "2026-11-02T20:39:03+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mote.org/research/internships/college-internship-program-overview/Mote-REU"
+        }
+      ]
+    },
+    {
+      "id": "ed34250e7504",
+      "organization": "Mount Desert Island Biological Laboratory (MDIBL)",
+      "title": "Comparative Regenerative Biology and Aging REU Program",
+      "locations": [
+        "Salisbury Cove, ME"
+      ],
+      "states": [
+        "ME"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mdibl.org/education/student-fellowships/reu-summer-fellowships/",
+      "summary": "Ten-week summer REU where undergraduates conduct independent projects in regenerative biology and aging using molecular biology, physiology, bioinformatics, and microscopy with model organisms.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:07+00:00",
+      "last_updated": "2026-11-02T20:39:07+00:00",
+      "last_verified": "2026-11-02T20:39:07+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mdibl.org/education/student-fellowships/reu-summer-fellowships/"
+        }
+      ]
+    },
+    {
+      "id": "b1cee19990cd",
+      "organization": "Mount Sinai School of Medicine",
+      "title": "Mount Sinai Center for Bioinformatics: Summer Research Training Program in Biomedical Big Data Science",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Mathematics & Statistics",
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://labs.icahn.mssm.edu/maayanlab/summer-research-program/",
+      "summary": "Ten-week summer program where students conduct faculty-mentored research on data harmonization, machine learning, cloud computing, and data visualization for biomedical problems.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:11+00:00",
+      "last_updated": "2026-11-02T20:39:11+00:00",
+      "last_verified": "2026-11-02T20:39:11+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://labs.icahn.mssm.edu/maayanlab/summer-research-program/"
+        }
+      ]
+    },
+    {
+      "id": "a7811aa688f1",
+      "organization": "Mystic Aquarium",
+      "title": "Mystic Aquarium - Research Experiences for Undergraduates",
+      "locations": [
+        "Groton, CT"
+      ],
+      "states": [
+        "CT"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.mysticaquarium.org/learn/for-students-and-parents/collegiate/research-experiences-for-undergraduates/",
+      "summary": "Ten-week summer REU investigating how environmental stressors affect the physiology, behavior, and ecology of phytoplankton and marine animals, with mentored research at UConn Avery Point.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:17+00:00",
+      "last_updated": "2026-11-02T20:39:17+00:00",
+      "last_verified": "2026-11-02T20:39:17+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.mysticaquarium.org/learn/for-students-and-parents/collegiate/research-experiences-for-undergraduates/"
+        }
+      ]
+    },
+    {
+      "id": "084a2f7de9db",
+      "organization": "NASA Ames Research Center",
+      "title": "NASA's Space Life Sciences Training Program Summer Internship",
+      "locations": [
+        "Moffett Field, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics",
+        "Biology",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.nasa.gov/learning-resources/internship-programs/",
+      "summary": "Ten-week summer program where students work with NASA scientists and engineers on space life sciences research at Ames Research Center.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:30+00:00",
+      "last_updated": "2026-11-02T20:39:30+00:00",
+      "last_verified": "2026-11-02T20:39:30+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.nasa.gov/learning-resources/internship-programs/"
+        }
+      ]
+    },
+    {
       "id": "d71ff6fb7bd8",
       "organization": "NSF Center for Computer Assisted Synthesis (C-CAS)",
       "title": "NSF Center for Computer Assisted Synthesis (C-CAS) Summer Undergraduate Research Fellowship",
@@ -12939,6 +14273,220 @@
       ]
     },
     {
+      "id": "7282201d6c9b",
+      "organization": "National Institute of Standards and Technology (NIST), Boulder",
+      "title": "NIST Summer Undergraduate Research Fellowship (SURF) Program (Virtual)",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": "Remote",
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Engineering-Chemical",
+        "Physics",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.nist.gov/surf",
+      "summary": "An 11-week virtual summer research fellowship where undergraduates work under NIST scientists and engineers on measurement science, standards, and technology research, receiving a stipend.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:34+00:00",
+      "last_updated": "2026-11-02T20:39:34+00:00",
+      "last_verified": "2026-11-02T20:39:34+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.nist.gov/surf"
+        }
+      ]
+    },
+    {
+      "id": "aa56809c332a",
+      "organization": "National Radio Astronomy Observatory",
+      "title": "Summer Student Research Program at the National Radio Astronomy Observatory",
+      "locations": [
+        "Charlottesville, VA",
+        "Green Bank",
+        "Socorro"
+      ],
+      "states": [
+        "VA"
+      ],
+      "remote": null,
+      "opportunity_type": "National Lab",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://science.nrao.edu/opportunities/student-programs/summerstudents",
+      "summary": "Undergraduate and graduate students conduct summer research with NRAO scientists in astronomy, engineering, and computer science, partially funded by the NSF REU program.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:53+00:00",
+      "last_updated": "2026-11-02T20:39:53+00:00",
+      "last_verified": "2026-11-02T20:39:53+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://science.nrao.edu/opportunities/student-programs/summerstudents"
+        }
+      ]
+    },
+    {
+      "id": "b728459323ec",
+      "organization": "Native Plant Trust",
+      "title": "Marylee Everett Conservation Internship",
+      "locations": [
+        "Framingham, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.nativeplanttrust.org/about/jobs-internships/?highlight=Internship",
+      "summary": "A 13-week field season conservation internship supporting rare plant monitoring, botanical surveys, landowner and volunteer coordination, data processing, and an independent botany or ecology project.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:40:04+00:00",
+      "last_updated": "2026-11-02T20:40:04+00:00",
+      "last_verified": "2026-11-02T20:40:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.nativeplanttrust.org/about/jobs-internships/?highlight=Internship"
+        }
+      ]
+    },
+    {
+      "id": "379f6b3eeced",
+      "organization": "Nemours/Alfred I. duPont Hospital for Children",
+      "title": "Nemours Summer Research Scholar Award",
+      "locations": [
+        "Wilmington, DE"
+      ],
+      "states": [
+        "DE"
+      ],
+      "remote": null,
+      "opportunity_type": "Clinical/Hospital Research",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.2,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$3200 monetary award",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.nemours.org/pediatric-research/education.html",
+      "summary": "Ten-week summer program where undergraduates conduct research with scientist/physician mentors in pediatric research, with seminars, journal club, clinical shadowing, and a final symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:40:07+00:00",
+      "last_updated": "2026-11-02T20:40:07+00:00",
+      "last_verified": "2026-11-02T20:40:07+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.nemours.org/pediatric-research/education.html"
+        }
+      ]
+    },
+    {
       "id": "c303d436dbec",
       "organization": "New Mexico Institute of Mining and Technology",
       "title": "Geo-Launchpad",
@@ -12985,6 +14533,160 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.unavco.org/education/student-internships/geo-launchpad/"
+        }
+      ]
+    },
+    {
+      "id": "085da3bce832",
+      "organization": "New York University",
+      "title": "Center for Neural Science REU",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://as.nyu.edu/content/nyu-as/as/departments/cns/UndergraduateProgram/summer-research-program.html",
+      "summary": "Ten-week summer program where undergraduates conduct neuroscience research projects in NYU faculty labs, attend seminars, and present results at a summer research conference.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:40:10+00:00",
+      "last_updated": "2026-11-02T20:40:10+00:00",
+      "last_verified": "2026-11-02T20:40:10+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://as.nyu.edu/content/nyu-as/as/departments/cns/UndergraduateProgram/summer-research-program.html"
+        }
+      ]
+    },
+    {
+      "id": "195690839b38",
+      "organization": "New York University",
+      "title": "Simons Foundation Department of Biology Summer Undergraduate Research Program (SURP)",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Neuroscience",
+        "Mathematics & Statistics",
+        "Environmental Science",
+        "Public Health"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://as.nyu.edu/biology/outreach/surp.html",
+      "summary": "Ten-week summer biology research program at NYU for non-NYU undergraduates, providing housing, stipend, and meal plan to diversify the biology workforce.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:40:13+00:00",
+      "last_updated": "2026-11-02T20:40:13+00:00",
+      "last_verified": "2026-11-02T20:40:13+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://as.nyu.edu/biology/outreach/surp.html"
+        }
+      ]
+    },
+    {
+      "id": "5d1d852f436d",
+      "organization": "New York University",
+      "title": "Vilcek Institute of Graduate Biomedical Sciences at NYU Grossman School of Medicine, Summer Undergraduate Research Program (SURP)",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$3,500 payment",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/summer-undergraduate-research-program",
+      "summary": "Undergraduates conduct hands-on biomedical research in NYU Grossman School of Medicine labs, attend seminars and journal clubs, and present at the Leadership Alliance National Symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:40:17+00:00",
+      "last_updated": "2026-11-02T20:40:17+00:00",
+      "last_verified": "2026-11-02T20:40:17+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/summer-undergraduate-research-program"
         }
       ]
     },
@@ -13093,6 +14795,60 @@
         {
           "source": "Pathways to Science",
           "url": "https://itep.nau.edu/internships/"
+        }
+      ]
+    },
+    {
+      "id": "616a4566f84a",
+      "organization": "Oregon Sea Grant",
+      "title": "Undergraduate Summer Scholars Program",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://seagrant.oregonstate.edu/fellowships/summer-scholars",
+      "summary": "Ten-week program placing undergraduates with public agencies to assist with marine science, policy, management, and outreach projects under a mentor, including field work, lab work, and research.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:40:20+00:00",
+      "last_updated": "2026-11-02T20:40:20+00:00",
+      "last_verified": "2026-11-02T20:40:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://seagrant.oregonstate.edu/fellowships/summer-scholars"
         }
       ]
     },
@@ -13213,6 +14969,59 @@
       ]
     },
     {
+      "id": "063f60f2abcd",
+      "organization": "SETI Institute",
+      "title": "Astrobiology REU",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Chemistry",
+        "Environmental Science",
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$4500 ($450/week) plus $50/week food allowance and up to $600 travel reimbursement",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.seti.org/reu",
+      "summary": "Undergraduates conduct astrobiology research with scientists at the SETI Institute and NASA Ames, spanning microbiology, planetary geology, and observational astronomy, with field trips.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:27+00:00",
+      "last_updated": "2026-11-02T20:39:27+00:00",
+      "last_verified": "2026-11-02T20:39:27+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.seti.org/reu"
+        }
+      ]
+    },
+    {
       "id": "0e13d8ec2867",
       "organization": "Savannah State University",
       "title": "Bridge to Research in Marine Sciences",
@@ -13313,6 +15122,67 @@
         {
           "source": "Pathways to Science",
           "url": "http://www.shoalsmarinelaboratory.org/student-research-internships"
+        }
+      ]
+    },
+    {
+      "id": "991df6de3f90",
+      "organization": "Simons Foundation",
+      "title": "Simons-NSBP Scholars Program",
+      "locations": [
+        "New York, NY",
+        "Princeton University",
+        "University of Pennsylvania",
+        "University of California San Diego",
+        "Boulder, CO"
+      ],
+      "states": [
+        "NY",
+        "NJ",
+        "PA",
+        "CA",
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Neuroscience",
+        "Biochemistry",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$20 per hour",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.simonsfoundation.org/simons-nsbp-summer-program-snsp/program-details",
+      "summary": "Summer research for undergraduate NSBP members on computational or experimental projects in cosmology, astrophysics, quantum physics, and biophysics, with speaker series and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:57+00:00",
+      "last_updated": "2026-11-02T20:39:57+00:00",
+      "last_verified": "2026-11-02T20:39:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.simonsfoundation.org/simons-nsbp-summer-program-snsp/program-details"
         }
       ]
     },
@@ -14625,6 +16495,58 @@
       ]
     },
     {
+      "id": "dc6e2ef43ff7",
+      "organization": "University of California, Irvine",
+      "title": "NASA Student Airborne Research Program (SARP)",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://science.nasa.gov/earth-science/early-career-opportunities/student-airborne-research-program/",
+      "summary": "Paid 8-week summer Earth system science internship where students fly on NASA research aircraft, collect atmospheric and surface data, and develop research projects.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:23+00:00",
+      "last_updated": "2026-11-02T20:39:23+00:00",
+      "last_verified": "2026-11-02T20:39:23+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://science.nasa.gov/earth-science/early-career-opportunities/student-airborne-research-program/"
+        }
+      ]
+    },
+    {
       "id": "ee00418a6326",
       "organization": "University of California, Riverside",
       "title": "ATP-Bio Summer Research Experience for Undergraduates (REU)",
@@ -14678,6 +16600,105 @@
         {
           "source": "Pathways to Science",
           "url": "https://atp-bio.org/atp-bio-reu/"
+        }
+      ]
+    },
+    {
+      "id": "a2f821a47fe9",
+      "organization": "University of Colorado, Anschutz Medical campus",
+      "title": "Summer Research Experience for Undergraduates in RNA and Genome Biology (REU-RGB)",
+      "locations": [
+        "Aurora, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://medschool.cuanschutz.edu/biochemistry/reu-rgb",
+      "summary": "NSF-funded summer program where undergraduates conduct independent, mentored bioscience research in RNA and genome biology with CU-Anschutz and MSU Denver faculty.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:10+00:00",
+      "last_updated": "2026-11-02T20:38:10+00:00",
+      "last_verified": "2026-11-02T20:38:10+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://medschool.cuanschutz.edu/biochemistry/reu-rgb"
+        }
+      ]
+    },
+    {
+      "id": "1b9e9dc047c9",
+      "organization": "University of Colorado, Boulder",
+      "title": "Solar Astrophysics REU",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$500 per week for 10 weeks, plus food allowance",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://lasp.colorado.edu/home/education/reu/",
+      "summary": "Ten-week summer research program in solar and space physics with the National Solar Observatory and partner Boulder institutions, conducted under close supervision of experienced scientists.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:40:00+00:00",
+      "last_updated": "2026-11-02T20:40:00+00:00",
+      "last_verified": "2026-11-02T20:40:00+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://lasp.colorado.edu/home/education/reu/"
         }
       ]
     },
@@ -15054,6 +17075,59 @@
       ]
     },
     {
+      "id": "30f5deaab214",
+      "organization": "University of Michigan - Cooperative Institute for Great Lakes Research (CIGLR)",
+      "title": "Great Lakes Summer Fellows Program",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Graduate student",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$10,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ciglr.seas.umich.edu/opportunities/student-fellowships/",
+      "summary": "Twelve-week full-time research fellowship on Great Lakes issues with NOAA GLERL, including hands-on research training and career development mentoring.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:39:49+00:00",
+      "last_updated": "2026-11-02T20:39:49+00:00",
+      "last_verified": "2026-11-02T20:39:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ciglr.seas.umich.edu/opportunities/student-fellowships/"
+        }
+      ]
+    },
+    {
       "id": "0e6b31fb3cdd",
       "organization": "University of Minnesota",
       "title": "Paid summer REU internship: Prairie Ecology in western MN",
@@ -15422,6 +17496,59 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.hcii.cmu.edu/summer-research-program"
+        }
+      ]
+    },
+    {
+      "id": "832a836b7208",
+      "organization": "Vanderbilt University Medical Center",
+      "title": "Enhancing Virology Training (ENVIT) through Summer Research",
+      "locations": [
+        "Nashville, TN"
+      ],
+      "states": [
+        "TN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Public Health",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://meharry.edu/research-and-innovation/research-programs-and-partnerships/envit/",
+      "summary": "A 10-week NIH-funded mentored virology research program with lectures, lab training, seminars, and presentations, aimed at increasing underrepresented minority students in virology careers.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-02T20:38:03+00:00",
+      "last_updated": "2026-11-02T20:38:03+00:00",
+      "last_verified": "2026-11-02T20:38:03+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://meharry.edu/research-and-innovation/research-programs-and-partnerships/envit/"
         }
       ]
     },
