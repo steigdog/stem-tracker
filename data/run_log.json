@@ -1712,5 +1712,213 @@
       "gone": 0,
       "error": 34
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-11-03T18:09:48+00:00",
+    "finished": "2026-11-03T18:09:48+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-11-03T18:09:49+00:00",
+    "finished": "2026-11-03T18:15:35+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 54,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 45,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 40,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 4,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 13,
+        "read": 3,
+        "added": 0,
+        "updated": 0,
+        "skipped": 3,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 550,
+        "read": 40,
+        "added": 36,
+        "updated": 1,
+        "skipped": 4,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "Ohio State University - REU: Experimental and Computational Spectroscopy: Fundamental Probes of Molecules, Molecular Interactions, and Materials",
+      "North Carolina State University - Food Science Summer Scholars Program",
+      "North Carolina State University - Plant Pathology REU - Kelman Scholars (Summer Research Internship)",
+      "North Carolina State University - Research Institute Summer Experience (RISE) in Civil and Environmental Engineering",
+      "North Carolina State University - Sustainable Protein Undergraduate Research Scholars (SPURS) Program",
+      "North Dakota State University - Collaborations in Discipline-based Education Research (CiDER): A summer REU program",
+      "North Dakota State University / USDA Agricultural Research Service - Pollination Nation Undergraduate Summer Research Program",
+      "North Dakota State University - Summer Undergraduate Research Experience (SURE): Research program for chemistry, Materials Science and Chemical Engineering",
+      "Northeastern University - BEACHES Workshop: Explore Graduate School Applications and STEM Career Pathways",
+      "Northern Arizona University - Astronomy REU",
+      "Northern Arizona University - REU site: Human Impacts on the Colorado Plateau: Place Based Research and Education",
+      "Northwestern University - CIERA Research Experience for Undergraduates (REU): Astrophysics in its Modern Interdisciplinary Context",
+      "Northwestern University - CURE Summer Research Program in the biomedical sciences",
+      "Northwestern University - Materials Research Science and Engineering Center: Summer Research Experience for Undergraduates",
+      "Northwestern University - NU-CURE: Cancer-focused Undergraduate Research Experience",
+      "Northwestern University - Research Experience and Mentoring Summer Program in Regenerative Engineering",
+      "Northwestern University - Summer Undergraduate Research Experience in Nanotechnology",
+      "Oak Ridge Institute for Science and Education - Department of Energy Community College Internships (CCI)",
+      "U.S. Department of Energy (DOE) - DOE Scholars Program",
+      "Oak Ridge Institute for Science and Education - Environmental Management (EM) Success Through Academic Research Scholarship (STARS)",
+      "Ocean Exploration Trust - At-Sea Science & Engineering Internship Program",
+      "Ohio State University - Center for Emergent Materials Summer Research Experience for Undergraduates",
+      "Ohio State University - Stone Lab Research Experience for Undergraduates Scholarship Program",
+      "Oregon Health & Science University - Biomedical & Bioinformatics Research Internship and Training Experience (B-BRITE)",
+      "Oregon Health & Science University - Summer Equity Research Program",
+      "Oregon Health & Science University - Vollum Institute Undergraduate Summer Research Program",
+      "Oregon State University - Research Experience for Undergraduates in Marine Sciences: From Estuaries to the Deep Sea",
+      "Oregon State University - Research Experiences for Undergraduates in the College of Earth, Ocean, and Atmospheric Sciences",
+      "Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) - Summer Research Internships at Cooperative Institute for Climate, Ocean, and Ecosystem Studies",
+      "University of Illinois, Urbana-Champaign - MICRO-CCS: Microbial Interactions Create Research Opportunities for Community College Students",
+      "Penn State College of Medicine - PROMISE Program in Oncology and Medicine",
+      "Pennsylvania State University - Climate Science Research Experiences for Undergraduates",
+      "Pennsylvania State University - Geoscience Program in Energy and Environmental Resource Sustainability (GeoPEERS) REU",
+      "Pennsylvania State University - Integration of Biology and Materials Research Experience for Undergraduates (REU)",
+      "Pennsylvania State University - Summer Translational Cardiovascular Science Institute (STCSI)",
+      "Pennsylvania State University - Sustainable Physics Research at Penn State: From Subatomic to the Cosmos"
+    ],
+    "updated": [
+      "North Carolina State University - Kelman Undergraduate Research Internship (Academic Year)"
+    ],
+    "removed": [
+      "Oak Ridge Institute for Science and Education - Environmental Management (EM) Success Through Academic Research Scholarship (STARS) (deadline passed (2026-11-01))"
+    ],
+    "failed": [],
+    "warnings": [],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 73629,
+      "output_tokens": 16869,
+      "cache_read_input_tokens": 171856,
+      "calls": 47
+    }
   }
 ]

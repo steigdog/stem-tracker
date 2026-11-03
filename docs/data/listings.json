@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T14:58:38+00:00",
-  "last_collect": "2026-11-02T20:40:20+00:00",
+  "generated_at": "2026-11-03T18:15:35+00:00",
+  "last_collect": "2026-11-03T18:15:35+00:00",
   "last_verify": "2026-11-03T14:58:38+00:00",
   "sources_monitored": 15,
-  "count": 341,
+  "count": 376,
   "listings": [
     {
       "id": "fc7e555c8f53",
@@ -391,6 +391,57 @@
         {
           "source": "Johnson & Johnson",
           "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/J-J-IM-North-America-Operations-Intern_R-099364"
+        }
+      ]
+    },
+    {
+      "id": "5c4e951a335d",
+      "organization": "Oak Ridge Institute for Science and Education",
+      "title": "Department of Energy Community College Internships (CCI)",
+      "locations": [
+        "Oak Ridge, TN"
+      ],
+      "states": [
+        "TN"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "National Lab",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "majors": [
+        "Engineering-Electrical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Weekly stipend of $650, Housing allowance of $250 per week, Up to $500 round-trip travel reimbursement",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-06",
+      "rolling": null,
+      "apply_url": "https://www.ornl.gov/internships/cci/",
+      "summary": "Full-time, in-person internships at ORNL giving community college students technical and engineering training in DOE mission-relevant fields; 16-week spring/fall or 10-week summer terms.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:02+00:00",
+      "last_updated": "2026-11-03T18:14:02+00:00",
+      "last_verified": "2026-11-03T18:14:02+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.ornl.gov/internships/cci/"
         }
       ]
     },
@@ -5109,6 +5160,57 @@
         {
           "source": "Pathways to Science",
           "url": "https://cancerdynamics.columbia.edu/summer-research-internship"
+        }
+      ]
+    },
+    {
+      "id": "a935321a76f1",
+      "organization": "Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES)",
+      "title": "Summer Research Internships at Cooperative Institute for Climate, Ocean, and Ecosystem Studies",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "states": [
+        "WA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$650 per week",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cicoes.uw.edu/education/internships/",
+      "summary": "Nine-week mentored summer research projects with NOAA, USGS, CICOES, or UW scientists in climate, ocean, and ecosystem sciences, ending in a research symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:01+00:00",
+      "last_updated": "2026-11-03T18:15:01+00:00",
+      "last_verified": "2026-11-03T18:15:01+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cicoes.uw.edu/education/internships/"
         }
       ]
     },
@@ -14691,6 +14793,428 @@
       ]
     },
     {
+      "id": "9dd00d703434",
+      "organization": "North Carolina State University",
+      "title": "Food Science Summer Scholars Program",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "states": [
+        "NC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cals.ncsu.edu/food-bioprocessing-and-nutrition-sciences/students/food-science-summer-scholars-program/",
+      "summary": "Summer food science research with a faculty mentor and lab group, plus workshops, field trips, guest speakers, and an expenses-paid trip to the IFT annual meeting.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:12:54+00:00",
+      "last_updated": "2026-11-03T18:12:54+00:00",
+      "last_verified": "2026-11-03T18:12:54+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cals.ncsu.edu/food-bioprocessing-and-nutrition-sciences/students/food-science-summer-scholars-program/"
+        }
+      ]
+    },
+    {
+      "id": "e6914613666a",
+      "organization": "North Carolina State University",
+      "title": "Kelman Undergraduate Research Internship (Academic Year)",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "states": [
+        "NC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Fall",
+        "Spring"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cals.ncsu.edu/entomology-and-plant-pathology/students/undergraduate-courses/kelman-scholars/",
+      "summary": "Part-time semester plant pathology research internship for NCSU and local college students, with research spanning genomics to disease ecology.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:00+00:00",
+      "last_updated": "2026-11-03T18:13:00+00:00",
+      "last_verified": "2026-11-03T18:13:00+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cals.ncsu.edu/entomology-and-plant-pathology/students/undergraduate-courses/kelman-scholars/"
+        }
+      ]
+    },
+    {
+      "id": "e6431f044b7b",
+      "organization": "North Carolina State University",
+      "title": "Research Institute Summer Experience (RISE) in Civil and Environmental Engineering",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "states": [
+        "NC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Civil/Environmental",
+        "Environmental Science",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://go.ncsu.edu/rise",
+      "summary": "Mentored summer research on civil and environmental engineering problems at NC State, with seminars, workshops, and a research symposium and poster competition.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:05+00:00",
+      "last_updated": "2026-11-03T18:13:05+00:00",
+      "last_verified": "2026-11-03T18:13:05+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://go.ncsu.edu/rise"
+        }
+      ]
+    },
+    {
+      "id": "ba59ff365ea9",
+      "organization": "North Carolina State University",
+      "title": "Sustainable Protein Undergraduate Research Scholars (SPURS) Program",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "states": [
+        "NC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology",
+        "Engineering-Chemical",
+        "Physics",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://bezoscenter.ncsu.edu/spurs/#",
+      "summary": "Undergraduate research program building professional and technical skills for careers in sustainable protein innovation, including biomanufacturing, cell culture, and food systems.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:09+00:00",
+      "last_updated": "2026-11-03T18:13:09+00:00",
+      "last_verified": "2026-11-03T18:13:09+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://bezoscenter.ncsu.edu/spurs/#"
+        }
+      ]
+    },
+    {
+      "id": "d4e44b1cff4b",
+      "organization": "North Dakota State University",
+      "title": "Collaborations in Discipline-based Education Research (CiDER): A summer REU program",
+      "locations": [
+        "Fargo, ND"
+      ],
+      "states": [
+        "ND"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Environmental Science",
+        "Mathematics & Statistics",
+        "Physics",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.ndsu.edu/dber/reu_program/",
+      "summary": "A 10-week NSF-funded summer REU at NDSU in which undergraduates conduct discipline-based education research on the learning and teaching of undergraduate STEM.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:13+00:00",
+      "last_updated": "2026-11-03T18:13:13+00:00",
+      "last_verified": "2026-11-03T18:13:13+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.ndsu.edu/dber/reu_program/"
+        }
+      ]
+    },
+    {
+      "id": "54d3176b49e0",
+      "organization": "North Dakota State University",
+      "title": "Summer Undergraduate Research Experience (SURE): Research program for chemistry, Materials Science and Chemical Engineering",
+      "locations": [
+        "Fargo, ND"
+      ],
+      "states": [
+        "ND"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Materials Science",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.ndsu.edu/cpm/undergraduate/summer_undergraduate_research_experience/",
+      "summary": "Ten-week summer research program in polymers and coatings in NDSU's Department of Coatings and Polymeric Materials, aiming to produce publishable results with faculty support.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:21+00:00",
+      "last_updated": "2026-11-03T18:13:21+00:00",
+      "last_verified": "2026-11-03T18:13:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.ndsu.edu/cpm/undergraduate/summer_undergraduate_research_experience/"
+        }
+      ]
+    },
+    {
+      "id": "52ab04965981",
+      "organization": "North Dakota State University / USDA Agricultural Research Service",
+      "title": "Pollination Nation Undergraduate Summer Research Program",
+      "locations": [
+        "Fargo, ND"
+      ],
+      "states": [
+        "ND"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen only",
+      "export_control": null,
+      "pay": "$6000 ($600/week)",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.ndsu.edu/biology/research/pollination_nation/",
+      "summary": "Ten-week summer research on development, gene expression, physiology, and behavior of agriculturally beneficial bee pollinators in lab and field settings, ending with a poster presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:17+00:00",
+      "last_updated": "2026-11-03T18:13:17+00:00",
+      "last_verified": "2026-11-03T18:13:17+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.ndsu.edu/biology/research/pollination_nation/"
+        }
+      ]
+    },
+    {
+      "id": "2cc3c9b98bb7",
+      "organization": "Northeastern University",
+      "title": "BEACHES Workshop: Explore Graduate School Applications and STEM Career Pathways",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cos.northeastern.edu/beaches/",
+      "summary": "Workshop exploring graduate school applications and STEM career pathways, geared toward students underrepresented in STEM and first-generation college students, with environmental and marine science focus.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:25+00:00",
+      "last_updated": "2026-11-03T18:13:25+00:00",
+      "last_verified": "2026-11-03T18:13:25+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cos.northeastern.edu/beaches/"
+        }
+      ]
+    },
+    {
       "id": "2fcbce913913",
       "organization": "Northern Arizona University",
       "title": "Summer Research Enhancement Program (SREP)",
@@ -14741,6 +15265,105 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.dinecollege.edu/about-us/srep/"
+        }
+      ]
+    },
+    {
+      "id": "76435640e132",
+      "organization": "Northern Arizona University",
+      "title": "Astronomy REU",
+      "locations": [
+        "Flagstaff, AZ"
+      ],
+      "states": [
+        "AZ"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,450 stipend plus up to $700 travel",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://in.nau.edu/astro-reu/",
+      "summary": "NSF-funded REU where seven undergraduates research planetary science, astrogeology, stellar astrophysics, instrumentation, and extragalactic astronomy with NAU, Lowell Observatory, USGS, and USNO researchers in Flagstaff.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:29+00:00",
+      "last_updated": "2026-11-03T18:13:29+00:00",
+      "last_verified": "2026-11-03T18:13:29+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://in.nau.edu/astro-reu/"
+        }
+      ]
+    },
+    {
+      "id": "50b356ce16cb",
+      "organization": "Northern Arizona University",
+      "title": "REU site: Human Impacts on the Colorado Plateau: Place Based Research and Education",
+      "locations": [
+        "Flagstaff, AZ"
+      ],
+      "states": [
+        "AZ"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.cawl.nau.edu/reu/",
+      "summary": "NSF-funded place-based undergraduate research on the Colorado Plateau covering climate change, ecology, infectious disease, biodiversity, and genetics, benefiting indigenous cultures and local communities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:33+00:00",
+      "last_updated": "2026-11-03T18:13:33+00:00",
+      "last_verified": "2026-11-03T18:13:33+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.cawl.nau.edu/reu/"
         }
       ]
     },
@@ -14799,6 +15422,707 @@
       ]
     },
     {
+      "id": "aa9a2d54ca85",
+      "organization": "Northwestern University",
+      "title": "CIERA Research Experience for Undergraduates (REU): Astrophysics in its Modern Interdisciplinary Context",
+      "locations": [
+        "Evanston, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Chemistry",
+        "Mathematics & Statistics",
+        "Environmental Science",
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4500 ($500 per week for 9 weeks)",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.northwestern.edu/cierareu/",
+      "summary": "NSF-funded summer REU where undergraduates pursue interdisciplinary astrophysics research projects with Northwestern CIERA faculty, including travel support and funding to present at an AAS meeting.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:36+00:00",
+      "last_updated": "2026-11-03T18:13:36+00:00",
+      "last_verified": "2026-11-03T18:13:36+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sites.northwestern.edu/cierareu/"
+        }
+      ]
+    },
+    {
+      "id": "036a8b873ffa",
+      "organization": "Northwestern University",
+      "title": "CURE Summer Research Program in the biomedical sciences",
+      "locations": [
+        "Evanston, IL",
+        "Chicago, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "approximately $4,000 taxable stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://molbiosci.northwestern.edu/programs/biological-sciences-major/summer-outreach.html",
+      "summary": "Eight-week full-time summer program where underserved undergraduates conduct cancer research alongside senior scientists and attend weekly faculty seminars on cancer biology and careers.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:40+00:00",
+      "last_updated": "2026-11-03T18:13:40+00:00",
+      "last_verified": "2026-11-03T18:13:40+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://molbiosci.northwestern.edu/programs/biological-sciences-major/summer-outreach.html"
+        }
+      ]
+    },
+    {
+      "id": "31e6e1e21e34",
+      "organization": "Northwestern University",
+      "title": "Materials Research Science and Engineering Center: Summer Research Experience for Undergraduates",
+      "locations": [
+        "Evanston, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Materials Science",
+        "Physics",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,500 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html",
+      "summary": "Nine-week interdisciplinary REU on multi-functional nanoscale material structures, conducting faculty-led experimental or theoretical research with a mentor, ending in a technical paper and presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:45+00:00",
+      "last_updated": "2026-11-03T18:13:45+00:00",
+      "last_verified": "2026-11-03T18:13:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html"
+        }
+      ]
+    },
+    {
+      "id": "9089692def88",
+      "organization": "Northwestern University",
+      "title": "NU-CURE: Cancer-focused Undergraduate Research Experience",
+      "locations": [
+        "Evanston, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics",
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://molbiosci.northwestern.edu/programs/biological-sciences-major/summer-outreach.html",
+      "summary": "Eight-week full-time cancer research experience for underserved undergraduates at the Lurie Comprehensive Cancer Center, with hands-on lab work, mentoring, and career exploration seminars.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:51+00:00",
+      "last_updated": "2026-11-03T18:13:51+00:00",
+      "last_verified": "2026-11-03T18:13:51+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://molbiosci.northwestern.edu/programs/biological-sciences-major/summer-outreach.html"
+        }
+      ]
+    },
+    {
+      "id": "39f5c83c8438",
+      "organization": "Northwestern University",
+      "title": "Research Experience and Mentoring Summer Program in Regenerative Engineering",
+      "locations": [
+        "Evanston, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology"
+      ],
+      "class_years": [
+        "High school",
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Northwestern-REM",
+      "summary": "Eight-week summer lab research on a regenerative engineering project involving cellular reprogramming with Professor Guillermo Ameer's team, plus mentorship and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:54+00:00",
+      "last_updated": "2026-11-03T18:13:54+00:00",
+      "last_verified": "2026-11-03T18:13:54+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-Northwestern-REM"
+        }
+      ]
+    },
+    {
+      "id": "67d372873d73",
+      "organization": "Northwestern University",
+      "title": "Summer Undergraduate Research Experience in Nanotechnology",
+      "locations": [
+        "Evanston, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,750 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.iinano.org/research-experience-for-undergraduates/",
+      "summary": "Nine-week full-time summer nanotechnology research at Northwestern's IIN with group meetings, lectures, an Argonne field trip, a research paper, and a closing symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:58+00:00",
+      "last_updated": "2026-11-03T18:13:58+00:00",
+      "last_verified": "2026-11-03T18:13:58+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.iinano.org/research-experience-for-undergraduates/"
+        }
+      ]
+    },
+    {
+      "id": "254646299af6",
+      "organization": "Ocean Exploration Trust",
+      "title": "At-Sea Science & Engineering Internship Program",
+      "locations": [
+        "Old Lyme, CT"
+      ],
+      "states": [
+        "CT"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Biology",
+        "Engineering-Electrical",
+        "Environmental Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://nautiluslive.org/join/internship-program",
+      "summary": "Interns spend 3-5 weeks aboard E/V Nautilus as Data Loggers, ROV Pilots, or Video Engineers, supporting ocean exploration science, vehicle operations, and outreach.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:22+00:00",
+      "last_updated": "2026-11-03T18:14:22+00:00",
+      "last_verified": "2026-11-03T18:14:22+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://nautiluslive.org/join/internship-program"
+        }
+      ]
+    },
+    {
+      "id": "66274e791ed3",
+      "organization": "Ohio State University",
+      "title": "REU: Experimental and Computational Spectroscopy: Fundamental Probes of Molecules, Molecular Interactions, and Materials",
+      "locations": [
+        "Columbus, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 stipend ($600/week) + separate food allowance",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://spectroscopy-reu.osu.edu/",
+      "summary": "Ten-week laboratory research experience in experimental and computational spectroscopy within Ohio State's Chemistry & Biochemistry department, with weekly professional development preparing students for physical chemistry graduate study.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:12:49+00:00",
+      "last_updated": "2026-11-03T18:12:49+00:00",
+      "last_verified": "2026-11-03T18:12:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://spectroscopy-reu.osu.edu/"
+        }
+      ]
+    },
+    {
+      "id": "e23c9d82f79b",
+      "organization": "Ohio State University",
+      "title": "Center for Emergent Materials Summer Research Experience for Undergraduates",
+      "locations": [
+        "Columbus, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://cem.osu.edu/reu/",
+      "summary": "10-week NSF MRSEC REU where students design, grow, and study new electronic/magnetic materials through experimental, theoretical, or computational research with OSU faculty mentors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:26+00:00",
+      "last_updated": "2026-11-03T18:14:26+00:00",
+      "last_verified": "2026-11-03T18:14:26+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://cem.osu.edu/reu/"
+        }
+      ]
+    },
+    {
+      "id": "3b8139973508",
+      "organization": "Ohio State University",
+      "title": "Stone Lab Research Experience for Undergraduates Scholarship Program",
+      "locations": [
+        "Columbus, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Full REU scholarship covering in-state tuition for 2-credit research experience and one 4-credit course, lab fee, and room and board",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ohioseagrant.osu.edu/research/reu",
+      "summary": "Five-week field research program at Stone Lab on Lake Erie where students collect data on Great Lakes issues, write up findings, and present results while taking a course.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:36+00:00",
+      "last_updated": "2026-11-03T18:14:36+00:00",
+      "last_verified": "2026-11-03T18:14:36+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ohioseagrant.osu.edu/research/reu"
+        }
+      ]
+    },
+    {
+      "id": "4586feb9943c",
+      "organization": "Oregon Health & Science University",
+      "title": "Biomedical & Bioinformatics Research Internship and Training Experience (B-BRITE)",
+      "locations": [
+        "Portland, OR"
+      ],
+      "states": [
+        "OR"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Mathematics & Statistics",
+        "Biology",
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Public Health"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,500 stipend for the full 8-week program",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.ohsu.edu/school-of-medicine/cell-developmental-and-cancer-biology/biomedical-bioinformatics-research",
+      "summary": "Eight-week summer internship where upper-level undergraduates conduct mentored biological and/or quantitative cancer research in OHSU Knight Cancer Institute laboratories and present a research poster.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:41+00:00",
+      "last_updated": "2026-11-03T18:14:41+00:00",
+      "last_verified": "2026-11-03T18:14:41+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.ohsu.edu/school-of-medicine/cell-developmental-and-cancer-biology/biomedical-bioinformatics-research"
+        }
+      ]
+    },
+    {
+      "id": "38a4cb549782",
+      "organization": "Oregon Health & Science University",
+      "title": "Summer Equity Research Program",
+      "locations": [
+        "Portland, OR"
+      ],
+      "states": [
+        "OR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.ohsu.edu/xd/about/vision/center-for-diversity-inclusion/academic-resources/internships/summer-equity-internship.cfm",
+      "summary": "Eight-week summer program where diverse undergraduates conduct research, clinical, or shadowing work in tracks like biomedical sciences, dental, nursing, and public health, presenting a poster.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:45+00:00",
+      "last_updated": "2026-11-03T18:14:45+00:00",
+      "last_verified": "2026-11-03T18:14:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.ohsu.edu/xd/about/vision/center-for-diversity-inclusion/academic-resources/internships/summer-equity-internship.cfm"
+        }
+      ]
+    },
+    {
+      "id": "993919c4f33e",
+      "organization": "Oregon Health & Science University",
+      "title": "Vollum Institute Undergraduate Summer Research Program",
+      "locations": [
+        "Portland, OR"
+      ],
+      "states": [
+        "OR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program/vollum-ngp-undergraduate-summer-research-program",
+      "summary": "Eight-week summer program where undergraduates conduct independent research in molecular, cellular, and behavioral neuroscience labs, attend neuroscience classes, and receive graduate school mentoring.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:48+00:00",
+      "last_updated": "2026-11-03T18:14:48+00:00",
+      "last_verified": "2026-11-03T18:14:48+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program/vollum-ngp-undergraduate-summer-research-program"
+        }
+      ]
+    },
+    {
       "id": "616a4566f84a",
       "organization": "Oregon Sea Grant",
       "title": "Undergraduate Summer Scholars Program",
@@ -14849,6 +16173,441 @@
         {
           "source": "Pathways to Science",
           "url": "http://seagrant.oregonstate.edu/fellowships/summer-scholars"
+        }
+      ]
+    },
+    {
+      "id": "ceb5bc5e4c17",
+      "organization": "Oregon State University",
+      "title": "Research Experience for Undergraduates in Marine Sciences: From Estuaries to the Deep Sea",
+      "locations": [
+        "Corvallis, OR",
+        "Newport, OR"
+      ],
+      "states": [
+        "OR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Environmental Science",
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://hmsc.oregonstate.edu/research-experience-undergraduates",
+      "summary": "NSF-funded ten-week paid research internships in marine, estuarine, earth and atmospheric sciences at Hatfield Marine Science Center in Newport or CEOAS in Corvallis.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:52+00:00",
+      "last_updated": "2026-11-03T18:14:52+00:00",
+      "last_verified": "2026-11-03T18:14:52+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://hmsc.oregonstate.edu/research-experience-undergraduates"
+        }
+      ]
+    },
+    {
+      "id": "a6580c0567fa",
+      "organization": "Oregon State University",
+      "title": "Research Experiences for Undergraduates in the College of Earth, Ocean, and Atmospheric Sciences",
+      "locations": [
+        "Corvallis, OR"
+      ],
+      "states": [
+        "OR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biochemistry",
+        "Chemistry",
+        "Mathematics & Statistics",
+        "Biology",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ceoas.oregonstate.edu/research/undergraduate/reu/",
+      "summary": "NSF-funded nine-week program where undergraduates conduct individual research projects in earth, ocean, and atmospheric sciences with university scientist mentors, plus field trips and seminars.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:57+00:00",
+      "last_updated": "2026-11-03T18:14:57+00:00",
+      "last_verified": "2026-11-03T18:14:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ceoas.oregonstate.edu/research/undergraduate/reu/"
+        }
+      ]
+    },
+    {
+      "id": "ad027dd3169f",
+      "organization": "Penn State College of Medicine",
+      "title": "PROMISE Program in Oncology and Medicine",
+      "locations": [
+        "Hershey, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Public Health",
+        "Mathematics & Statistics",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://med.psu.edu/education/certificate-and-undergraduate/promise",
+      "summary": "NCI-funded team research experience in cancer prevention and treatment with basic, clinical, and population science oncology teams, plus career workshops in oncology.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:09+00:00",
+      "last_updated": "2026-11-03T18:15:09+00:00",
+      "last_verified": "2026-11-03T18:15:09+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://med.psu.edu/education/certificate-and-undergraduate/promise"
+        }
+      ]
+    },
+    {
+      "id": "c183121ff0b9",
+      "organization": "Pennsylvania State University",
+      "title": "Climate Science Research Experiences for Undergraduates",
+      "locations": [
+        "State College, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.psu.edu/reuclimate/",
+      "summary": "NSF-funded summer research on climate, atmosphere, oceans, land, and urban systems with faculty mentors, culminating in a paper and conference-style poster.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:12+00:00",
+      "last_updated": "2026-11-03T18:15:12+00:00",
+      "last_verified": "2026-11-03T18:15:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sites.psu.edu/reuclimate/"
+        }
+      ]
+    },
+    {
+      "id": "0f27eb4d0e58",
+      "organization": "Pennsylvania State University",
+      "title": "Geoscience Program in Energy and Environmental Resource Sustainability (GeoPEERS) REU",
+      "locations": [
+        "State College, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$600/week",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.geosc.psu.edu/beyond-classroom/geopeers-reu",
+      "summary": "Eight-week summer geoscience research program at Penn State where each participant conducts an individual sustainability-related research project with a mentor and presents a poster.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:16+00:00",
+      "last_updated": "2026-11-03T18:15:16+00:00",
+      "last_verified": "2026-11-03T18:15:16+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.geosc.psu.edu/beyond-classroom/geopeers-reu"
+        }
+      ]
+    },
+    {
+      "id": "c7d37b4785b0",
+      "organization": "Pennsylvania State University",
+      "title": "Integration of Biology and Materials Research Experience for Undergraduates (REU)",
+      "locations": [
+        "State College, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology",
+        "Engineering-Chemical",
+        "Chemistry",
+        "Materials Science",
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5700 for 10 weeks",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.psu.edu/chereu/",
+      "summary": "Undergraduates conduct research projects integrating biology and materials science, with weekly group activities on biomaterials technologies addressing human health, environment, and society.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:20+00:00",
+      "last_updated": "2026-11-03T18:15:20+00:00",
+      "last_verified": "2026-11-03T18:15:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sites.psu.edu/chereu/"
+        }
+      ]
+    },
+    {
+      "id": "315e1023dfdb",
+      "organization": "Pennsylvania State University",
+      "title": "Summer Translational Cardiovascular Science Institute (STCSI)",
+      "locations": [
+        "State College, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": false,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.bme.psu.edu/stcsi/index.aspx",
+      "summary": "Undergraduates conduct cardiovascular disease research on cellular mechanisms, disease risk across the lifespan, and cardiovascular device technology development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:27+00:00",
+      "last_updated": "2026-11-03T18:15:27+00:00",
+      "last_verified": "2026-11-03T18:15:27+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.bme.psu.edu/stcsi/index.aspx"
+        }
+      ]
+    },
+    {
+      "id": "5e69220d79fa",
+      "organization": "Pennsylvania State University",
+      "title": "Sustainable Physics Research at Penn State: From Subatomic to the Cosmos",
+      "locations": [
+        "State College, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Chemistry",
+        "Materials Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.psu.edu/physicsreu/",
+      "summary": "Ten-week summer REU in which undergraduates do computational, theoretical, or experimental research in physics, chemistry, and nanoscale materials with Penn State scientists.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:30+00:00",
+      "last_updated": "2026-11-03T18:15:30+00:00",
+      "last_verified": "2026-11-03T18:15:30+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sites.psu.edu/physicsreu/"
         }
       ]
     },
@@ -15724,6 +17483,64 @@
         {
           "source": "SpaceX",
           "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002"
+        }
+      ]
+    },
+    {
+      "id": "1259d0ea1152",
+      "organization": "U.S. Department of Energy (DOE)",
+      "title": "DOE Scholars Program",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Mathematics & Statistics",
+        "Environmental Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Stipends starting at $700 per week for undergraduates and $750 per week for graduate students and post graduates",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://orise.orau.gov/doescholars/",
+      "summary": "Students and recent graduates participate in DOE mission-relevant projects in areas like energy, AI, nuclear security, climate, and environmental science.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:06+00:00",
+      "last_updated": "2026-11-03T18:14:06+00:00",
+      "last_verified": "2026-11-03T18:14:06+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://orise.orau.gov/doescholars/"
         }
       ]
     },
@@ -16805,6 +18622,58 @@
         {
           "source": "Pathways to Science",
           "url": "https://cabbi.bio/news/outreach/rise/"
+        }
+      ]
+    },
+    {
+      "id": "12b4bdd59373",
+      "organization": "University of Illinois, Urbana-Champaign",
+      "title": "MICRO-CCS: Microbial Interactions Create Research Opportunities for Community College Students",
+      "locations": [
+        "Urbana, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$7,00 summer stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://publish.illinois.edu/micro-ccs/",
+      "summary": "Ten-week summer research program for community college students studying microbial interactions in food, agricultural, and environmental sciences, with training, mentoring, and a lab skills boot camp.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:06+00:00",
+      "last_updated": "2026-11-03T18:15:06+00:00",
+      "last_verified": "2026-11-03T18:15:06+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://publish.illinois.edu/micro-ccs/"
         }
       ]
     },
