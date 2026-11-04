@@ -7,7 +7,8 @@
     7,
     7,
     3,
-    4
+    4,
+    5
   ],
   "SpaceX": [
     57,
@@ -16,6 +17,7 @@
     55,
     55,
     55,
+    54,
     54,
     54
   ],
@@ -27,9 +29,11 @@
     40,
     40,
     40,
-    40
+    40,
+    41
   ],
   "DOE SULI (Science Undergraduate Laboratory Internships)": [
+    1,
     1,
     1,
     1,
@@ -47,6 +51,7 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Boeing": [
@@ -57,6 +62,7 @@
     13,
     13,
     12,
+    13,
     13
   ],
   "Johnson & Johnson": [
@@ -67,7 +73,8 @@
     63,
     62,
     50,
-    45
+    45,
+    49
   ],
   "Pathways to Science": [
     555,
@@ -77,9 +84,11 @@
     555,
     556,
     550,
+    550,
     550
   ],
   "Summer Undergraduate Research Diversity Program (SURD)": [
+    1,
     1,
     1,
     1
@@ -87,9 +96,11 @@
   "MagLab Research Experiences for Undergraduates (REU)": [
     1,
     1,
+    1,
     1
   ],
   "CNMB Research Experiences for Undergraduates": [
+    1,
     1,
     1,
     1
@@ -97,9 +108,11 @@
   "Pitt Public Health Undergraduate Scholars Program (PHUSP)": [
     1,
     1,
+    1,
     1
   ],
   "Summer Undergraduate Research Program": [
+    1,
     1,
     1,
     1
@@ -107,9 +120,11 @@
   "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": [
     1,
     1,
+    1,
     1
   ],
   "NSF REU at LRSM": [
+    1,
     1,
     1,
     1
