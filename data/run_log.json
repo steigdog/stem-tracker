@@ -2390,5 +2390,216 @@
       "gone": 0,
       "error": 34
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-11-05T18:23:28+00:00",
+    "finished": "2026-11-05T18:23:29+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-11-05T18:23:29+00:00",
+    "finished": "2026-11-05T18:28:56+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 55,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 49,
+        "read": 3,
+        "added": 1,
+        "updated": 0,
+        "skipped": 2,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 4,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 11,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 41,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 550,
+        "read": 40,
+        "added": 38,
+        "updated": 1,
+        "skipped": 2,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "Johnson & Johnson - WW Global Inventory Management Co-Op",
+      "Sanford Research - Sanford Program for Undergraduate Research (SPUR)",
+      "Santa Fe Institute - Undergraduate Complexity Summer Research",
+      "University of Washington - Neuroscience Summer Student Program",
+      "Smithsonian Astrophysical Observatory - SAO Astronomy Summer Intern Program",
+      "Smithsonian Environmental Research Center (SERC) - Internships at the Smithsonian Environmental Research Center (SERC)",
+      "Smithsonian Institution - National Museum of Natural History - Internships at the Smithsonian (NHRE Summer Internships)",
+      "University of California, Santa Cruz - Conservation Leadership Immersion Experience (CLIME) Program",
+      "South Dakota School of Mines and Technology - Black Hills Applied Ceramic Engineering (BACE) REU",
+      "South Dakota School of Mines and Technology - REU - Back to the Future Program",
+      "Space Telescope Science Institute - Space Astronomy Summer Program",
+      "Stanford University - Canary Cancer Research Education Summer Training (CREST) Program",
+      "Stanford University - Stanford Cardiovascular Institute Undergraduate Summer Research Program",
+      "Stanford University - Stanford STaRS Internship",
+      "Stanford University - Stanford University Summer Research in Geosciences and Engineering (SURGE)",
+      "State University of New York (SUNY), Albany - Research Experiences for Undergraduates (REU) in RNA",
+      "Wadsworth Center, New York State Department of Health - Summer Research Program for Undergraduates, Networked Ventures for Collaborative Biological Discovery",
+      "State University of New York (SUNY), Buffalo - Institute for Strategic Enhancement of Educational Diversity (iSEED) Summer Research Experience",
+      "State University of New York (SUNY), Buffalo - Interdisciplinary Research Experience for Undergraduates in Atmospheric and Geological Hazards",
+      "State University of New York (SUNY), Buffalo - Paid Undergraduate Summer Research Program in Biosciences - CLIMB UP",
+      "State University of New York (SUNY), Buffalo - Research Experience for Undergraduate (REU) programs in the School of Engineering and Applied Sciences and the College of Arts and Sciences",
+      "State University of New York (SUNY), Downstate Health Sciences University - Summer Program in Translational Disparities and Community-Engaged Research (SPRINTER)",
+      "State University of New York (SUNY), Oneonta - SUNY Oneonta Biological Field Station Summer Internship Program (Undergraduate)",
+      "Syracuse University - Chemistry REU",
+      "Washington University - CURB Research Experiences for Undergraduates (REU) Program",
+      "Texas A&M University - Research Experiences for Undergraduates in Mathematics",
+      "Texas A&M University - Research Experiences for Undergraduates: Reimagining the Chemical Heartland: Chemistry for a Changing Gulf Coast",
+      "Texas A&M University - REU in Multifunctional Materials",
+      "Texas A&M University - REU: Observing the Ocean",
+      "Texas A&M University, Corpus Christi - Paid NSF Doctoral Fellowship in Coastal Resiliency",
+      "Texas A&M University, Kingsville - USDA Research and Extension Experiences for Undergraduates (REEU) Research and Extension Experience in Energy and the Environment across Agriculture Disciplines (RE2AD)",
+      "University of North Dakota - Interdisciplinary Renewable and Environmental Chemistry IREC REU Program",
+      "U.S. Department of Defense - Naval Research Enterprise Intern Program",
+      "U.S. Department of Energy (DOE) - DOE EM Success Through Academic Research Scholarship Internship",
+      "U.S. Department of Energy (DOE) - Science Undergraduate Laboratory Internship (SULI)",
+      "University of Hawaii at Hilo - Pacific Internship Programs for Exploring Science (PIPES)",
+      "University Corporation for Atmospheric Research (UCAR) - SOARS - Significant Opportunities in Atmospheric Research and Science",
+      "University of Alabama, Birmingham - Research Experiences for Undergraduates (REU) - Regional Initiative to Promote Undergraduate Participation in Experimental and Computational Materials Research",
+      "University of Alabama, Birmingham - Summer in Biomedical Sciences (SIBS) Undergraduate Research Program"
+    ],
+    "updated": [
+      "State University of New York (SUNY), Oneonta - SUNY Oneonta Biological Field Station Summer Internship Program (High School)"
+    ],
+    "removed": [
+      "U.S. Department of Energy (DOE) - DOE EM Success Through Academic Research Scholarship Internship (deadline passed (2026-11-02))"
+    ],
+    "failed": [],
+    "warnings": [],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 73822,
+      "output_tokens": 16582,
+      "cache_read_input_tokens": 168120,
+      "calls": 46
+    }
   }
 ]

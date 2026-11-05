@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-05T15:19:12+00:00",
-  "last_collect": "2026-11-04T18:34:01+00:00",
+  "generated_at": "2026-11-05T18:28:56+00:00",
+  "last_collect": "2026-11-05T18:28:56+00:00",
   "last_verify": "2026-11-05T15:19:12+00:00",
   "sources_monitored": 15,
-  "count": 397,
+  "count": 435,
   "listings": [
     {
       "id": "fc7e555c8f53",
@@ -498,6 +498,68 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.ornl.gov/internships/cci/"
+        }
+      ]
+    },
+    {
+      "id": "b1bfdc018677",
+      "organization": "U.S. Department of Energy (DOE)",
+      "title": "Science Undergraduate Laboratory Internship (SULI)",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "National Lab",
+      "seasons": [
+        "Summer",
+        "Fall",
+        "Spring"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biology",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-06",
+      "rolling": null,
+      "apply_url": "https://science.osti.gov/wdts/suli",
+      "summary": "Interns at participating DOE laboratories perform research under staff scientists or engineers on DOE mission projects, in 10-week summer or 16-week fall/spring terms.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:36+00:00",
+      "last_updated": "2026-11-05T18:28:36+00:00",
+      "last_verified": "2026-11-05T18:28:36+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://science.osti.gov/wdts/suli"
         }
       ]
     },
@@ -1512,6 +1574,64 @@
       ]
     },
     {
+      "id": "68754fce54ba",
+      "organization": "University of Alabama, Birmingham",
+      "title": "Research Experiences for Undergraduates (REU) - Regional Initiative to Promote Undergraduate Participation in Experimental and Computational Materials Research",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "states": [
+        "AL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Mathematics & Statistics",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-04-01",
+      "rolling": null,
+      "apply_url": "https://sites.uab.edu/cnmb/research-experiences-for-undergraduates/",
+      "summary": "A 10-week, 400-hour hands-on experimental and computational materials research experience with a UAB faculty mentor, contributing to ongoing lab projects.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:52+00:00",
+      "last_updated": "2026-11-05T18:28:52+00:00",
+      "last_verified": "2026-11-05T18:28:52+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sites.uab.edu/cnmb/research-experiences-for-undergraduates/"
+        }
+      ]
+    },
+    {
       "id": "ac173771bca5",
       "organization": "Iowa State University",
       "title": "Summer Program for Interdisciplinary Research and Education - Emerging Interface Technologies (SPIRE-EIT)",
@@ -1808,6 +1928,52 @@
         {
           "source": "Johnson & Johnson",
           "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/DQE-Co-Op_R-106713-1"
+        }
+      ]
+    },
+    {
+      "id": "383a3771ae53",
+      "organization": "Johnson & Johnson",
+      "title": "WW Global Inventory Management Co-Op",
+      "locations": [
+        "Raritan, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": null,
+      "opportunity_type": "Co-op",
+      "seasons": [],
+      "majors": [
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-07-01",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/WW-Global-Inventory-Management-Co-Op_R-109152",
+      "summary": "Co-op supporting global inventory analytics, Power BI dashboards, safety stock and inventory policy analyses, and automation of supply chain data processes.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-11-05T18:26:10+00:00",
+      "last_updated": "2026-11-05T18:26:10+00:00",
+      "last_verified": "2026-11-05T18:26:10+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/WW-Global-Inventory-Management-Co-Op_R-109152"
         }
       ]
     },
@@ -17786,6 +17952,112 @@
       ]
     },
     {
+      "id": "c6de36fd7b3e",
+      "organization": "Sanford Research",
+      "title": "Sanford Program for Undergraduate Research (SPUR)",
+      "locations": [
+        "Sioux Falls, SD"
+      ],
+      "states": [
+        "SD"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.sanfordresearch.org/education/undergraduates/spur/",
+      "summary": "Ten-week summer program where undergraduates conduct cellular, molecular, or pediatric biomedical research under a Sanford Research mentor, with workshops and a closing poster symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:26:26+00:00",
+      "last_updated": "2026-11-05T18:26:26+00:00",
+      "last_verified": "2026-11-05T18:26:26+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.sanfordresearch.org/education/undergraduates/spur/"
+        }
+      ]
+    },
+    {
+      "id": "5e41d100094c",
+      "organization": "Santa Fe Institute",
+      "title": "Undergraduate Complexity Summer Research",
+      "locations": [
+        "Santa Fe, NM"
+      ],
+      "states": [
+        "NM"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biology",
+        "Environmental Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": "$700 per week ($7,000 total)",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research",
+      "summary": "10-week residential complexity science research program where undergraduates work on projects with SFI mentors combining theory, methods, and data across sciences, plus seminars and workshops.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:26:32+00:00",
+      "last_updated": "2026-11-05T18:26:32+00:00",
+      "last_verified": "2026-11-05T18:26:32+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research"
+        }
+      ]
+    },
+    {
       "id": "0e13d8ec2867",
       "organization": "Savannah State University",
       "title": "Bridge to Research in Marine Sciences",
@@ -18001,6 +18273,336 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.cfa.harvard.edu/opportunities/solar_reu/"
+        }
+      ]
+    },
+    {
+      "id": "137dc4fcc804",
+      "organization": "Smithsonian Astrophysical Observatory",
+      "title": "SAO Astronomy Summer Intern Program",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-program",
+      "summary": "A 10-week NSF-funded REU where students complete an astronomy research project with an SAO/Harvard staff scientist mentor, plus field trips and career development meetings.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:26:39+00:00",
+      "last_updated": "2026-11-05T18:26:39+00:00",
+      "last_verified": "2026-11-05T18:26:39+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-program"
+        }
+      ]
+    },
+    {
+      "id": "b0842c30104d",
+      "organization": "Smithsonian Environmental Research Center (SERC)",
+      "title": "Internships at the Smithsonian Environmental Research Center (SERC)",
+      "locations": [
+        "Edgewater, MD"
+      ],
+      "states": [
+        "MD"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer",
+        "Year-round/Off-cycle"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://serc.si.edu/internships",
+      "summary": "Interns conduct mentored independent research or public engagement projects in environmental chemistry, ecology, and science communication, concluding with a presentation to the SERC community.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:26:43+00:00",
+      "last_updated": "2026-11-05T18:26:43+00:00",
+      "last_verified": "2026-11-05T18:26:43+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://serc.si.edu/internships"
+        }
+      ]
+    },
+    {
+      "id": "3a9d7ed4483e",
+      "organization": "Smithsonian Institution - National Museum of Natural History",
+      "title": "Internships at the Smithsonian (NHRE Summer Internships)",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.si.edu/ofi",
+      "summary": "10-week summer internship pairing undergraduates with NMNH scientists on research projects in anthropology, botany, entomology, zoology, mineral science, paleobiology, or museum education.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:26:46+00:00",
+      "last_updated": "2026-11-05T18:26:46+00:00",
+      "last_verified": "2026-11-05T18:26:46+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.si.edu/ofi"
+        }
+      ]
+    },
+    {
+      "id": "aabdae588b54",
+      "organization": "South Dakota School of Mines and Technology",
+      "title": "Black Hills Applied Ceramic Engineering (BACE) REU",
+      "locations": [
+        "Rapid City, SD"
+      ],
+      "states": [
+        "SD"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Environmental Science",
+        "Materials Science",
+        "Mathematics & Statistics",
+        "Engineering-Chemical",
+        "Engineering-Mechanical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://tinyurl.com/BACE605",
+      "summary": "10-week summer research experience on ceramics spanning geology, ceramics, and materials engineering, with cultural field trips and a poster presentation at the South Dakota Research Symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:26:53+00:00",
+      "last_updated": "2026-11-05T18:26:53+00:00",
+      "last_verified": "2026-11-05T18:26:53+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://tinyurl.com/BACE605"
+        }
+      ]
+    },
+    {
+      "id": "18eb770dcd87",
+      "organization": "South Dakota School of Mines and Technology",
+      "title": "REU - Back to the Future Program",
+      "locations": [
+        "Rapid City, SD"
+      ],
+      "states": [
+        "SD"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Materials Science",
+        "Engineering-Aerospace",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://met.sdsmt.edu/backtothefuture/",
+      "summary": "10-week NSF REU in materials and metallurgical engineering, with projects on critical minerals, metal processing, advanced alloys, biomaterials, and surface engineering.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:26:57+00:00",
+      "last_updated": "2026-11-05T18:26:57+00:00",
+      "last_verified": "2026-11-05T18:26:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://met.sdsmt.edu/backtothefuture/"
+        }
+      ]
+    },
+    {
+      "id": "7d24498c2d14",
+      "organization": "Space Telescope Science Institute",
+      "title": "Space Astronomy Summer Program",
+      "locations": [
+        "Baltimore, MD"
+      ],
+      "states": [
+        "MD"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Mathematics & Statistics",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.stsci.edu/opportunities/space-astronomy-summer-program",
+      "summary": "Undergraduates work individually with STScI researchers on space astronomy projects such as data reduction, software development, scientific writing, and preparing Hubble/JWST data for public release.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:01+00:00",
+      "last_updated": "2026-11-05T18:27:01+00:00",
+      "last_verified": "2026-11-05T18:27:01+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.stsci.edu/opportunities/space-astronomy-summer-program"
         }
       ]
     },
@@ -18498,6 +19100,1014 @@
       ]
     },
     {
+      "id": "3dadad60d598",
+      "organization": "Stanford University",
+      "title": "Canary Cancer Research Education Summer Training (CREST) Program",
+      "locations": [
+        "Stanford, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics",
+        "Biology",
+        "Materials Science",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://canarycenter.stanford.edu/canarycrest.html",
+      "summary": "10-week NCI-funded summer research experience in a Stanford Canary Center lab on early cancer detection, with faculty mentorship, classroom sessions, and a closing poster symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:05+00:00",
+      "last_updated": "2026-11-05T18:27:05+00:00",
+      "last_verified": "2026-11-05T18:27:05+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://canarycenter.stanford.edu/canarycrest.html"
+        }
+      ]
+    },
+    {
+      "id": "aa20118191b1",
+      "organization": "Stanford University",
+      "title": "Stanford Cardiovascular Institute Undergraduate Summer Research Program",
+      "locations": [
+        "Stanford, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "minimum of $5,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://med.stanford.edu/cvi/education/aha-cvi-undergraduate-summer-research-program.html",
+      "summary": "10-week summer program where undergraduates conduct independent cardiovascular and pulmonary medicine research in Stanford faculty labs, with career development and a final presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:08+00:00",
+      "last_updated": "2026-11-05T18:27:08+00:00",
+      "last_verified": "2026-11-05T18:27:08+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://med.stanford.edu/cvi/education/aha-cvi-undergraduate-summer-research-program.html"
+        }
+      ]
+    },
+    {
+      "id": "57b24ac3b8a5",
+      "organization": "Stanford University",
+      "title": "Stanford STaRS Internship",
+      "locations": [
+        "Stanford, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "Clinical/Hospital Research",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Materials Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "High school",
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://plasticsurgery.stanford.edu/research/stars.html",
+      "summary": "Seven-week summer internship in Stanford's Division of Plastic and Reconstructive Surgery where students learn lab techniques, join research projects in regenerative medicine, and present their work.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:12+00:00",
+      "last_updated": "2026-11-05T18:27:12+00:00",
+      "last_verified": "2026-11-05T18:27:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://plasticsurgery.stanford.edu/research/stars.html"
+        }
+      ]
+    },
+    {
+      "id": "6240fd91d10f",
+      "organization": "Stanford University",
+      "title": "Stanford University Summer Research in Geosciences and Engineering (SURGE)",
+      "locations": [
+        "Stanford, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Engineering-Civil/Environmental"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,800 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sustainability.stanford.edu/our-community/dei/surge",
+      "summary": "Fully paid eight-week summer research experience at Stanford for students exploring sustainability, geosciences, and engineering fields, including a coding bootcamp and Bay Area field trips.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:16+00:00",
+      "last_updated": "2026-11-05T18:27:16+00:00",
+      "last_verified": "2026-11-05T18:27:16+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sustainability.stanford.edu/our-community/dei/surge"
+        }
+      ]
+    },
+    {
+      "id": "a07255424236",
+      "organization": "State University of New York (SUNY), Albany",
+      "title": "Research Experiences for Undergraduates (REU) in RNA",
+      "locations": [
+        "Albany, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology",
+        "Chemistry",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend, $1,500 meal plan allowance, up to $750 travel support",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.albany.edu/rna/reu-in-rna",
+      "summary": "Undergraduates conduct hands-on summer research on RNA science and RNA-based technologies at the University at Albany, May 26 to August 1, 2026.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:19+00:00",
+      "last_updated": "2026-11-05T18:27:19+00:00",
+      "last_verified": "2026-11-05T18:27:19+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.albany.edu/rna/reu-in-rna"
+        }
+      ]
+    },
+    {
+      "id": "1a66c36ce016",
+      "organization": "State University of New York (SUNY), Buffalo",
+      "title": "Institute for Strategic Enhancement of Educational Diversity (iSEED) Summer Research Experience",
+      "locations": [
+        "Buffalo, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Public Health",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.buffalo.edu/iseed/undergraduate-students/iseed-summer-program-details.html",
+      "summary": "Undergraduates conduct mentored laboratory research in STEM disciplines at the University at Buffalo from late May through early August, with academic and social activities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:26+00:00",
+      "last_updated": "2026-11-05T18:27:26+00:00",
+      "last_verified": "2026-11-05T18:27:26+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.buffalo.edu/iseed/undergraduate-students/iseed-summer-program-details.html"
+        }
+      ]
+    },
+    {
+      "id": "e0ab629ebc34",
+      "organization": "State University of New York (SUNY), Buffalo",
+      "title": "Interdisciplinary Research Experience for Undergraduates in Atmospheric and Geological Hazards",
+      "locations": [
+        "Buffalo, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000 stipend over the 10-week period",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://arts-sciences.buffalo.edu/geological-and-climate-hazards/projects/Interdisciplinary-REU-in-Atmospheric-and-Geological-Hazards.html",
+      "summary": "In-person 10-week summer REU at UB's Geologic and Climate Hazards Center doing interdisciplinary research on climate and natural hazards, with professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:30+00:00",
+      "last_updated": "2026-11-05T18:27:30+00:00",
+      "last_verified": "2026-11-05T18:27:30+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://arts-sciences.buffalo.edu/geological-and-climate-hazards/projects/Interdisciplinary-REU-in-Atmospheric-and-Geological-Hazards.html"
+        }
+      ]
+    },
+    {
+      "id": "3ca3800513ac",
+      "organization": "State University of New York (SUNY), Buffalo",
+      "title": "Paid Undergraduate Summer Research Program in Biosciences - CLIMB UP",
+      "locations": [
+        "Buffalo, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics",
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$3,500.00 stipend plus meal stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.buffalo.edu/climb/climb-up.html",
+      "summary": "Nine-week full-time paid summer bioscience lab research with faculty mentors, weekly workshops, and a final oral and poster presentation at Summer Research Day.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:34+00:00",
+      "last_updated": "2026-11-05T18:27:34+00:00",
+      "last_verified": "2026-11-05T18:27:34+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.buffalo.edu/climb/climb-up.html"
+        }
+      ]
+    },
+    {
+      "id": "c9e2665f92ae",
+      "organization": "State University of New York (SUNY), Buffalo",
+      "title": "Research Experience for Undergraduate (REU) programs in the School of Engineering and Applied Sciences and the College of Arts and Sciences",
+      "locations": [
+        "Buffalo, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Chemistry",
+        "Environmental Science",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.buffalo.edu/reu/programs.html",
+      "summary": "NSF-funded full-time summer undergraduate research in engineering and sciences with training in data-driven approaches, materials science, and Python for machine learning.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:38+00:00",
+      "last_updated": "2026-11-05T18:27:38+00:00",
+      "last_verified": "2026-11-05T18:27:38+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.buffalo.edu/reu/programs.html"
+        }
+      ]
+    },
+    {
+      "id": "a06815135015",
+      "organization": "State University of New York (SUNY), Downstate Health Sciences University",
+      "title": "Summer Program in Translational Disparities and Community-Engaged Research (SPRINTER)",
+      "locations": [
+        "Brooklyn, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.downstate.edu/about/our-administration/office-for-institutional-equity/pathway-programs/sprinter.html",
+      "summary": "Undergraduates work in mentored research teams on health inequities questions and present findings at the Annual SPRINTER Symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:41+00:00",
+      "last_updated": "2026-11-05T18:27:41+00:00",
+      "last_verified": "2026-11-05T18:27:41+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.downstate.edu/about/our-administration/office-for-institutional-equity/pathway-programs/sprinter.html"
+        }
+      ]
+    },
+    {
+      "id": "1dbd5d6cbbe6",
+      "organization": "State University of New York (SUNY), Oneonta",
+      "title": "SUNY Oneonta Biological Field Station Summer Internship Program (High School)",
+      "locations": [
+        "Oneonta, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "High school"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": false,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://suny.oneonta.edu/biological-field-station/internships",
+      "summary": "Paid 9-week research internship at the Biological Field Station for New York State residents aged 16 or older, with at least one position for an Otsego County resident.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:46+00:00",
+      "last_updated": "2026-11-05T18:27:46+00:00",
+      "last_verified": "2026-11-05T18:27:46+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://suny.oneonta.edu/biological-field-station/internships"
+        }
+      ]
+    },
+    {
+      "id": "b01cef94dc0e",
+      "organization": "Syracuse University",
+      "title": "Chemistry REU",
+      "locations": [
+        "Syracuse, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biochemistry",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://chemistry.syr.edu/undergraduate/reu.html",
+      "summary": "Summer undergraduate research in chemistry areas such as inorganic, physical, organic, biochemistry, materials science, and X-ray diffraction at Syracuse University.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:50+00:00",
+      "last_updated": "2026-11-05T18:27:50+00:00",
+      "last_verified": "2026-11-05T18:27:50+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://chemistry.syr.edu/undergraduate/reu.html"
+        }
+      ]
+    },
+    {
+      "id": "f52be93a2ca2",
+      "organization": "Texas A&M University",
+      "title": "Research Experiences for Undergraduates in Mathematics",
+      "locations": [
+        "College Station, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4400 stipend for the 8 week program (anticipated; funding pending)",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://artsci.tamu.edu/mathematics/academics/undergraduate/reu-index.html",
+      "summary": "Eight-week NSF-funded summer program introducing undergraduates to research in algorithmic algebraic geometry, number theory, and mathematical modeling in biology.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:57+00:00",
+      "last_updated": "2026-11-05T18:27:57+00:00",
+      "last_verified": "2026-11-05T18:27:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://artsci.tamu.edu/mathematics/academics/undergraduate/reu-index.html"
+        }
+      ]
+    },
+    {
+      "id": "db3018598f72",
+      "organization": "Texas A&M University",
+      "title": "Research Experiences for Undergraduates: Reimagining the Chemical Heartland: Chemistry for a Changing Gulf Coast",
+      "locations": [
+        "College Station, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biochemistry",
+        "Engineering-Chemical",
+        "Environmental Science",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://artsci.tamu.edu/chemistry/academics/reu.html",
+      "summary": "Summer chemistry REU where undergraduates conduct independent research on sustainability, green chemistry, climate change, and human health with faculty mentors, plus professional development workshops.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:00+00:00",
+      "last_updated": "2026-11-05T18:28:00+00:00",
+      "last_verified": "2026-11-05T18:28:00+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://artsci.tamu.edu/chemistry/academics/reu.html"
+        }
+      ]
+    },
+    {
+      "id": "8b4b671ff3a6",
+      "organization": "Texas A&M University",
+      "title": "REU in Multifunctional Materials",
+      "locations": [
+        "College Station, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://engineering.tamu.edu/materials/undergraduate-research/multifunctional-materials-reu/index.html",
+      "summary": "10-week NSF REU where undergraduates gain hands-on experience in synthesis, characterization, and modeling of multifunctional materials, mentored by materials science and engineering faculty.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:04+00:00",
+      "last_updated": "2026-11-05T18:28:04+00:00",
+      "last_verified": "2026-11-05T18:28:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://engineering.tamu.edu/materials/undergraduate-research/multifunctional-materials-reu/index.html"
+        }
+      ]
+    },
+    {
+      "id": "80283247bb59",
+      "organization": "Texas A&M University",
+      "title": "REU: Observing the Ocean",
+      "locations": [
+        "College Station, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Environmental Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://ocean.tamu.edu/academics/reu/",
+      "summary": "Students use ocean observing technologies and observatory data to study hypoxia, harmful algae, oil spills and acidification, including deploying a glider mission in the Gulf of Mexico.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:07+00:00",
+      "last_updated": "2026-11-05T18:28:07+00:00",
+      "last_verified": "2026-11-05T18:28:07+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://ocean.tamu.edu/academics/reu/"
+        }
+      ]
+    },
+    {
+      "id": "d45257807eb4",
+      "organization": "Texas A&M University, Corpus Christi",
+      "title": "Paid NSF Doctoral Fellowship in Coastal Resiliency",
+      "locations": [
+        "Corpus Christi, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [],
+      "majors": [
+        "Environmental Science",
+        "Engineering-Civil/Environmental",
+        "Public Health"
+      ],
+      "class_years": [
+        "Senior",
+        "Recent graduate",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Monthly stipend of $1800 with BS degree, $2200 with MS degree, $2400 after advancing to PhD candidacy; tuition and fees covered",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.tamucc.edu/engineering/research/crest/fellows-information.php",
+      "summary": "Doctoral students work as graduate research assistants on coastal resiliency research in geospatial informatics, environmental informatics, and community resilience and public health.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:11+00:00",
+      "last_updated": "2026-11-05T18:28:11+00:00",
+      "last_verified": "2026-11-05T18:28:11+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.tamucc.edu/engineering/research/crest/fellows-information.php"
+        }
+      ]
+    },
+    {
+      "id": "f43cd056a0dd",
+      "organization": "Texas A&M University, Kingsville",
+      "title": "USDA Research and Extension Experiences for Undergraduates (REEU) Research and Extension Experience in Energy and the Environment across Agriculture Disciplines (RE2AD)",
+      "locations": [
+        "Kingsville, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Environmental Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,050 stipend plus travel allowance and meal allowance",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.tamuk.edu/engineering/institutes-research/USDA-REEU/index.html",
+      "summary": "Nine-week USDA-funded summer research program in collaborative teams on agricultural energy efficiency, water quality and management, and agricultural economics, with extension experiences and seminars.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:15+00:00",
+      "last_updated": "2026-11-05T18:28:15+00:00",
+      "last_verified": "2026-11-05T18:28:15+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.tamuk.edu/engineering/institutes-research/USDA-REEU/index.html"
+        }
+      ]
+    },
+    {
+      "id": "b07dbb6e2a4a",
+      "organization": "U.S. Department of Defense",
+      "title": "Naval Research Enterprise Intern Program",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Government Program",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Materials Science",
+        "Mathematics & Statistics",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 new undergraduates; $8,500 returning undergraduates; $11,000 graduate students",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://navalsteminterns.us/nreip/",
+      "summary": "Ten-week paid summer research internship at Department of Navy laboratories, conducting research mentored by laboratory personnel in science and engineering.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:25+00:00",
+      "last_updated": "2026-11-05T18:28:25+00:00",
+      "last_verified": "2026-11-05T18:28:25+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://navalsteminterns.us/nreip/"
+        }
+      ]
+    },
+    {
       "id": "1259d0ea1152",
       "organization": "U.S. Department of Energy (DOE)",
       "title": "DOE Scholars Program",
@@ -18834,6 +20444,60 @@
       ]
     },
     {
+      "id": "8ce179b7f769",
+      "organization": "University Corporation for Atmospheric Research (UCAR)",
+      "title": "SOARS - Significant Opportunities in Atmospheric Research and Science",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Environmental Science",
+        "Mathematics & Statistics",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://soars.ucar.edu/",
+      "summary": "NSF-funded undergraduate-to-graduate bridge program where proteges conduct summer research in atmospheric and Earth system sciences for up to four summers with mentoring and community support.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:49+00:00",
+      "last_updated": "2026-11-05T18:28:49+00:00",
+      "last_verified": "2026-11-05T18:28:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://soars.ucar.edu/"
+        }
+      ]
+    },
+    {
       "id": "5116ccb8d01a",
       "organization": "University of Alabama, Birmingham",
       "title": "International Space Weather Camp (ISWC)",
@@ -18880,6 +20544,59 @@
         {
           "source": "Pathways to Science",
           "url": "https://alabamaphysics.com/international-space-weather-camp/"
+        }
+      ]
+    },
+    {
+      "id": "345ea3eb2785",
+      "organization": "University of Alabama, Birmingham",
+      "title": "Summer in Biomedical Sciences (SIBS) Undergraduate Research Program",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "states": [
+        "AL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Mathematics & Statistics",
+        "Biology",
+        "Engineering-Biomedical",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$3,200 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.uab.edu/medicine/sibs/",
+      "summary": "Eight-week paid summer program where fifteen undergraduates conduct mentored biomedical research with UAB faculty and learn modern biology techniques.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:55+00:00",
+      "last_updated": "2026-11-05T18:28:55+00:00",
+      "last_verified": "2026-11-05T18:28:55+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.uab.edu/medicine/sibs/"
         }
       ]
     },
@@ -19485,6 +21202,57 @@
       ]
     },
     {
+      "id": "c78299c1ed9a",
+      "organization": "University of California, Santa Cruz",
+      "title": "Conservation Leadership Immersion Experience (CLIME) Program",
+      "locations": [
+        "Santa Cruz, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$10,800 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://conservationleadership.ucsc.edu/",
+      "summary": "Conservation leadership program with a two-week immersion, 8-week mentored conservation internship, remote fall workshops, and national conference attendance to prepare for conservation graduate training.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:26:50+00:00",
+      "last_updated": "2026-11-05T18:26:50+00:00",
+      "last_verified": "2026-11-05T18:26:50+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://conservationleadership.ucsc.edu/"
+        }
+      ]
+    },
+    {
       "id": "a2f821a47fe9",
       "organization": "University of Colorado, Anschutz Medical campus",
       "title": "Summer Research Experience for Undergraduates in RNA and Genome Biology (REU-RGB)",
@@ -19631,6 +21399,58 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.bmb.uga.edu/fungal-genomics-and-computational-biology"
+        }
+      ]
+    },
+    {
+      "id": "2606108097ef",
+      "organization": "University of Hawaii at Hilo",
+      "title": "Pacific Internship Programs for Exploring Science (PIPES)",
+      "locations": [
+        "Washington, DC"
+      ],
+      "states": [
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://hilo.hawaii.edu/uhintern/",
+      "summary": "NSF-funded 10-week summer REU where interns conduct mentored tropical conservation science research with university and local agency researchers.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:39+00:00",
+      "last_updated": "2026-11-05T18:28:39+00:00",
+      "last_verified": "2026-11-05T18:28:39+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://hilo.hawaii.edu/uhintern/"
         }
       ]
     },
@@ -20384,6 +22204,63 @@
       ]
     },
     {
+      "id": "36cee9235d12",
+      "organization": "University of North Dakota",
+      "title": "Interdisciplinary Renewable and Environmental Chemistry IREC REU Program",
+      "locations": [
+        "Grand Forks, ND"
+      ],
+      "states": [
+        "ND"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Engineering-Chemical",
+        "Environmental Science",
+        "Biochemistry",
+        "Physics",
+        "Materials Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend for the ten-week research experience",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://arts-sciences.und.edu/academics/chemistry/und-reu-irec/index.html",
+      "summary": "Ten-week NSF REU where undergraduates conduct interdisciplinary research at the intersection of chemistry, chemical engineering, and atmospheric sciences, with science communication and outreach training.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:28:20+00:00",
+      "last_updated": "2026-11-05T18:28:20+00:00",
+      "last_verified": "2026-11-05T18:28:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://arts-sciences.und.edu/academics/chemistry/und-reu-irec/index.html"
+        }
+      ]
+    },
+    {
       "id": "25c187bb142d",
       "organization": "University of Pittsburgh",
       "title": "Carnegie Mellon - University of Pittsburgh Joint Summer Undergraduate Program in Computational Neuroscience",
@@ -20488,6 +22365,57 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.hcii.cmu.edu/summer-research-program"
+        }
+      ]
+    },
+    {
+      "id": "498fb375f36f",
+      "organization": "University of Washington",
+      "title": "Neuroscience Summer Student Program",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "states": [
+        "WA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$3,200 over 8 weeks",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://neurosurgery.uw.edu/education/summer-student-programs",
+      "summary": "Eight-week neuroscience lab placement with neurological surgery OR observations, clinical shadowing, weekly lectures, and a final student presentation at UW Medicine.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:26:36+00:00",
+      "last_updated": "2026-11-05T18:26:36+00:00",
+      "last_verified": "2026-11-05T18:26:36+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://neurosurgery.uw.edu/education/summer-student-programs"
         }
       ]
     },
@@ -20716,6 +22644,61 @@
       ]
     },
     {
+      "id": "ac6e06cdc6b0",
+      "organization": "Wadsworth Center, New York State Department of Health",
+      "title": "Summer Research Program for Undergraduates, Networked Ventures for Collaborative Biological Discovery",
+      "locations": [
+        "Albany, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Mathematics & Statistics",
+        "Neuroscience",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5250 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.wadsworth.org/educate/molcel.htm",
+      "summary": "Ten-week NSF-funded REU where undergraduates conduct independent networked research projects with scientists, primarily in molecular and cellular biology.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:23+00:00",
+      "last_updated": "2026-11-05T18:27:23+00:00",
+      "last_verified": "2026-11-05T18:27:23+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.wadsworth.org/educate/molcel.htm"
+        }
+      ]
+    },
+    {
       "id": "42ca589b7bcb",
       "organization": "Washington University",
       "title": "The Amgen Scholars Program",
@@ -20763,6 +22746,60 @@
         {
           "source": "Pathways to Science",
           "url": "https://amgenscholars.com/university/university-of-california-los-angeles/"
+        }
+      ]
+    },
+    {
+      "id": "6609f31f8bca",
+      "organization": "Washington University",
+      "title": "CURB Research Experiences for Undergraduates (REU) Program",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "states": [
+        "MO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Engineering-Chemical",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000+ stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://curb.wustl.edu/engineering-workforce-development/research-experiences-for-undergraduates-program/",
+      "summary": "Summer undergraduate research advancing electro-biomanufacturing technologies in electrocatalysis, synthetic biology, bioprocessing, economics, machine learning, and political science, culminating in a poster symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-05T18:27:54+00:00",
+      "last_updated": "2026-11-05T18:27:54+00:00",
+      "last_verified": "2026-11-05T18:27:54+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://curb.wustl.edu/engineering-workforce-development/research-experiences-for-undergraduates-program/"
         }
       ]
     },
