@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T14:57:54+00:00",
-  "last_collect": "2026-11-05T18:28:56+00:00",
+  "generated_at": "2026-11-06T17:49:50+00:00",
+  "last_collect": "2026-11-06T17:49:50+00:00",
   "last_verify": "2026-11-06T14:57:54+00:00",
   "sources_monitored": 15,
-  "count": 435,
+  "count": 469,
   "listings": [
     {
       "id": "fc7e555c8f53",
@@ -4859,6 +4859,61 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-ChicagoBotanic-PlantBio"
+        }
+      ]
+    },
+    {
+      "id": "f5f210580c74",
+      "organization": "Cincinnati Children's Hospital Medical Center / University of Cincinnati",
+      "title": "Summer Undergraduate Research Fellowship (SURF) at Cincinnati Children's Hospital Medical Center",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": null,
+      "opportunity_type": "Clinical/Hospital Research",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Public Health",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "approximately $4,000",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.cincinnatichildrens.org/education/research/surf",
+      "summary": "Nine-week summer program where undergraduates conduct clinical, translational, or basic science pediatric research with faculty at Cincinnati Children's Hospital Medical Center.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:22+00:00",
+      "last_updated": "2026-11-06T17:49:22+00:00",
+      "last_verified": "2026-11-06T17:49:22+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.cincinnatichildrens.org/education/research/surf"
         }
       ]
     },
@@ -20601,6 +20656,52 @@
       ]
     },
     {
+      "id": "ad2ca05f1c5b",
+      "organization": "University of Alabama, Birmingham",
+      "title": "Summer Research Opportunity for Undergraduates in Neuroscience",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "states": [
+        "AL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.uab.edu/medicine/home/education/undergraduate-programs/summer-programs",
+      "summary": "Undergraduates conduct independent neurobiology research under faculty supervision, attend lab meetings and journal clubs, and present results at a Summer Research Forum.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:47:31+00:00",
+      "last_updated": "2026-11-06T17:47:31+00:00",
+      "last_verified": "2026-11-06T17:47:31+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.uab.edu/medicine/home/education/undergraduate-programs/summer-programs"
+        }
+      ]
+    },
+    {
       "id": "702f204eb73a",
       "organization": "University of Alaska, Anchorage",
       "title": "Alaska Sea Grant Community Engaged Fellowship",
@@ -20651,6 +20752,114 @@
         {
           "source": "Pathways to Science",
           "url": "https://alaskaseagrant.org/education/awards-fellowships/community-engaged-fellowship/"
+        }
+      ]
+    },
+    {
+      "id": "f1e179bdd09c",
+      "organization": "University of Alaska, Anchorage",
+      "title": "REU Site: Research Experience in Cold Climate Engineering and Science",
+      "locations": [
+        "Anchorage, AK"
+      ],
+      "states": [
+        "AK"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Engineering-Aerospace",
+        "Biochemistry",
+        "Biology",
+        "Engineering-Civil/Environmental",
+        "Environmental Science",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$650/wk stipend; $175/wk food allowance; travel support up to $930",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.uaa.alaska.edu/academics/college-of-engineering/departments/mechanical-engineering/reu.cshtml",
+      "summary": "Undergraduates conduct cold-regions research through laboratory work, fieldwork and sampling, data analysis, and modeling.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:47:35+00:00",
+      "last_updated": "2026-11-06T17:47:35+00:00",
+      "last_verified": "2026-11-06T17:47:35+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.uaa.alaska.edu/academics/college-of-engineering/departments/mechanical-engineering/reu.cshtml"
+        }
+      ]
+    },
+    {
+      "id": "818dd0070c33",
+      "organization": "University of Arizona",
+      "title": "REU Site: Environmental and Earth Systems Research at Biosphere 2",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "states": [
+        "AZ"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://biosphere2.org/education/university-programs/research-experience-undergrads-reu",
+      "summary": "10-week summer REU where undergraduates conduct interdisciplinary environmental and Earth systems research at the Biosphere 2 facility and nearby field sites with mentors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:47:39+00:00",
+      "last_updated": "2026-11-06T17:47:39+00:00",
+      "last_verified": "2026-11-06T17:47:39+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://biosphere2.org/education/university-programs/research-experience-undergrads-reu"
         }
       ]
     },
@@ -20764,6 +20973,111 @@
         {
           "source": "Pathways to Science",
           "url": "https://poets-erc.org/reu"
+        }
+      ]
+    },
+    {
+      "id": "7b05e5bbdb75",
+      "organization": "University of Arkansas",
+      "title": "NSF-REU: Undergraduate Research in Physics",
+      "locations": [
+        "Fayetteville, AR"
+      ],
+      "states": [
+        "AR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Materials Science",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://physics.uark.edu/undergraduate/reu-program/index.php",
+      "summary": "Undergraduate summer physics research in nanomaterials and condensed matter, photonics, lasers and quantum optics, or soft condensed matter and biophysics at the University of Arkansas.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:47:42+00:00",
+      "last_updated": "2026-11-06T17:47:42+00:00",
+      "last_verified": "2026-11-06T17:47:42+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://physics.uark.edu/undergraduate/reu-program/index.php"
+        }
+      ]
+    },
+    {
+      "id": "4e036e9b55de",
+      "organization": "University of Arkansas",
+      "title": "Research Experience for Undergraduates in Ecological, Biological, and/or Engineering fields",
+      "locations": [
+        "Fayetteville, AR"
+      ],
+      "states": [
+        "AR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000 over the course of the summer, free food and housing, plus travel funds",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://ecoreu.uark.edu/",
+      "summary": "A 10-week NSF-funded summer program in which undergraduates conduct field- and lab-based research on water quality, sustainability, biofuels, and agroecosystems with university faculty.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:47:46+00:00",
+      "last_updated": "2026-11-06T17:47:46+00:00",
+      "last_verified": "2026-11-06T17:47:46+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://ecoreu.uark.edu/"
         }
       ]
     },
@@ -20934,6 +21248,274 @@
       ]
     },
     {
+      "id": "8e2870e37275",
+      "organization": "University of California, Berkeley",
+      "title": "Amgen Scholars Summer Research Program in Science and Biotechnology",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Environmental Science",
+        "Biology",
+        "Neuroscience",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,200 stipend plus meals",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://amgenscholars.berkeley.edu/",
+      "summary": "Undergraduates conduct hands-on summer research in a UC Berkeley faculty lab in science and biotechnology, with a national symposium at UCLA and GRE prep.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:47:56+00:00",
+      "last_updated": "2026-11-06T17:47:56+00:00",
+      "last_verified": "2026-11-06T17:47:56+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://amgenscholars.berkeley.edu/"
+        }
+      ]
+    },
+    {
+      "id": "a6abd22db9a9",
+      "organization": "University of California, Berkeley",
+      "title": "Research Experience for Undergraduates (REU) Summer Program: alpine plant ecology",
+      "locations": [
+        "Gothic, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "Stipend of $7000",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://benjaminblonder.org/join/research-experience-for-undergraduates-reu-2026-alpine-plant-ecology/",
+      "summary": "Independent field research on alpine plant demography and community ecology at Mt. Baldy, Rocky Mountain Biological Laboratory, including seed identification and seed dispersal measurement.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:00+00:00",
+      "last_updated": "2026-11-06T17:48:00+00:00",
+      "last_verified": "2026-11-06T17:48:00+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://benjaminblonder.org/join/research-experience-for-undergraduates-reu-2026-alpine-plant-ecology/"
+        }
+      ]
+    },
+    {
+      "id": "39e6113cb5a3",
+      "organization": "University of California, Berkeley",
+      "title": "REU in Cell, Developmental and Evolutionary Biology",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://mcb.berkeley.edu/nsfreu/",
+      "summary": "NSF-funded summer REU where undergraduates conduct individual faculty-mentored research projects in cell, developmental and evolutionary biology at UC Berkeley, with seminars and a final symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:03+00:00",
+      "last_updated": "2026-11-06T17:48:03+00:00",
+      "last_verified": "2026-11-06T17:48:03+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://mcb.berkeley.edu/nsfreu/"
+        }
+      ]
+    },
+    {
+      "id": "2bd659fdb340",
+      "organization": "University of California, Berkeley",
+      "title": "SETI Research Center Summer Research Undergraduate Internships",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Electrical",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$20/hour (total up to $8000)",
+      "paid": true,
+      "housing": false,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://seti.berkeley.edu/Internship.html",
+      "summary": "Ten-week summer research internship with Berkeley SETI Research Center on Breakthrough Listen, developing software and data analysis and operating large radio telescopes.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:10+00:00",
+      "last_updated": "2026-11-06T17:48:10+00:00",
+      "last_verified": "2026-11-06T17:48:10+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://seti.berkeley.edu/Internship.html"
+        }
+      ]
+    },
+    {
+      "id": "842d5c0ee3d8",
+      "organization": "University of California, Berkeley",
+      "title": "UC Berkeley Language and Cognitive Development Lab Summer Internship",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$3,375 stipend (for those unable to secure outside funding)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://lcdlab.berkeley.edu/summer-internship/",
+      "summary": "Nine-week, 30 hours/week onsite internship assisting with child development research on language, cognition, and social abilities, including data collection at schools and museums and data analysis.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:14+00:00",
+      "last_updated": "2026-11-06T17:48:14+00:00",
+      "last_verified": "2026-11-06T17:48:14+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://lcdlab.berkeley.edu/summer-internship/"
+        }
+      ]
+    },
+    {
       "id": "d25e87cbba5f",
       "organization": "University of California, Davis",
       "title": "Maternal Child Health Careers/Research Initiatives for Student Enhancement-Undergraduate Program (MCHC-RISE-UP)",
@@ -20983,6 +21565,63 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.kennedykrieger.org/training/programs/center-for-diversity-in-public-health-leadership-training/mchc-rise-up"
+        }
+      ]
+    },
+    {
+      "id": "b7dc264cec81",
+      "organization": "University of California, Davis",
+      "title": "UC Davis TERC Internship for Scholars Program",
+      "locations": [
+        "Davis, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Environmental Science",
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$3500 per student",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://tahoe.ucdavis.edu/interns",
+      "summary": "Eight-week summer applied research internship at UC Davis Tahoe Environmental Research Center on Lake Tahoe limnology, hydrology, ecology, and data analysis, including an independent project.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:18+00:00",
+      "last_updated": "2026-11-06T17:48:18+00:00",
+      "last_verified": "2026-11-06T17:48:18+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://tahoe.ucdavis.edu/interns"
         }
       ]
     },
@@ -21092,6 +21731,61 @@
       ]
     },
     {
+      "id": "4979e08f1bf1",
+      "organization": "University of California, Los Angeles",
+      "title": "UCLA Summer Undergraduate Research Program (SURP)",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.seasoasa.ucla.edu/surp/",
+      "summary": "Undergraduates are paired with UCLA Samueli Engineering faculty to conduct summer research through NSF-funded REU sites in Interactive Systems and Functional Nanomaterials.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:25+00:00",
+      "last_updated": "2026-11-06T17:48:25+00:00",
+      "last_verified": "2026-11-06T17:48:25+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.seasoasa.ucla.edu/surp/"
+        }
+      ]
+    },
+    {
       "id": "8b0df1f23f19",
       "organization": "University of California, Merced",
       "title": "Internet of Things for Precision Agriculture (IoT4Ag) Research Experience for Undergraduates",
@@ -21141,6 +21835,66 @@
         {
           "source": "Pathways to Science",
           "url": "https://iot4ag.us/reu-program/"
+        }
+      ]
+    },
+    {
+      "id": "ff6eac9d7674",
+      "organization": "University of California, Merced",
+      "title": "CCBM Summer Internship Program (C-SIP)",
+      "locations": [
+        "Merced, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology",
+        "Chemistry",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,500 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ccbm.ucmerced.edu/education/undergraduate/CSIP",
+      "summary": "A 9-week summer undergraduate research fellowship in biophysics, biochemistry, and bioengineering with faculty mentoring, trainings, bootcamps, and workshops at UC Merced.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:28+00:00",
+      "last_updated": "2026-11-06T17:48:28+00:00",
+      "last_verified": "2026-11-06T17:48:28+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ccbm.ucmerced.edu/education/undergraduate/CSIP"
         }
       ]
     },
@@ -21202,6 +21956,389 @@
       ]
     },
     {
+      "id": "7d3897d16522",
+      "organization": "University of California, Riverside",
+      "title": "NSF-CEPCEB REU Program in Next Generation Plant Biology",
+      "locations": [
+        "Riverside, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cepceb.ucr.edu/reu/",
+      "summary": "Ten-week summer REU in plant cell and molecular biology, starting with technique workshops then nine weeks of lab research on plants and plant pathogens.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:32+00:00",
+      "last_updated": "2026-11-06T17:48:32+00:00",
+      "last_verified": "2026-11-06T17:48:32+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cepceb.ucr.edu/reu/"
+        }
+      ]
+    },
+    {
+      "id": "40abf80822fb",
+      "organization": "University of California, San Diego",
+      "title": "Advanced Materials Research Experience for Undergraduates (REU)",
+      "locations": [
+        "La Jolla, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Materials Science",
+        "Chemistry",
+        "Biochemistry",
+        "Engineering-Chemical",
+        "Biology",
+        "Physics",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$600/week stipend (includes allowance for meals); travel reimbursement up to $500",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mrsec.ucsd.edu/reu/",
+      "summary": "Full-time summer materials science research in UC San Diego MRSEC faculty labs focused on predictive assemblies and engineered living materials, with seminars, field trips, and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:36+00:00",
+      "last_updated": "2026-11-06T17:48:36+00:00",
+      "last_verified": "2026-11-06T17:48:36+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mrsec.ucsd.edu/reu/"
+        }
+      ]
+    },
+    {
+      "id": "888192b15f39",
+      "organization": "University of California, San Diego",
+      "title": "Virtual Education Research in STEM Academy @ UCSD Summer Undergraduate Research Fellowship",
+      "locations": [
+        "La Jolla, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biology",
+        "Physics",
+        "Engineering-Biomedical",
+        "Engineering-Electrical",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,400 stipend plus $1,255 allowance for housing and food",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://versa.ucsd.edu/",
+      "summary": "Nine-week hybrid summer program where undergraduates conduct college-level STEM education research with faculty mentors in chemistry, biology, physics, and engineering.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:46+00:00",
+      "last_updated": "2026-11-06T17:48:46+00:00",
+      "last_verified": "2026-11-06T17:48:46+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://versa.ucsd.edu/"
+        }
+      ]
+    },
+    {
+      "id": "7c23df04571d",
+      "organization": "University of California, San Diego, Scripps Institution of Oceanography",
+      "title": "Jane Teranes, Scripps Undergraduate Research Fellowship (JT-SURF)",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$800/week stipend ($8,000 for the 10-week program)",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://scripps.ucsd.edu/undergrad/surf",
+      "summary": "A 10-week summer REU engaging undergraduates in Earth, ocean and atmospheric sciences research at Scripps Institution of Oceanography with faculty mentoring.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:49+00:00",
+      "last_updated": "2026-11-06T17:48:49+00:00",
+      "last_verified": "2026-11-06T17:48:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://scripps.ucsd.edu/undergrad/surf"
+        }
+      ]
+    },
+    {
+      "id": "f992c0cbd6dd",
+      "organization": "University of California, San Francisco",
+      "title": "Summer Research Training Program in Health Sciences",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://graduate.ucsf.edu/srtp",
+      "summary": "Undergraduates planning to earn a PhD spend up to ten weeks doing research with UCSF faculty, attending seminars and presenting their research.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:52+00:00",
+      "last_updated": "2026-11-06T17:48:52+00:00",
+      "last_verified": "2026-11-06T17:48:52+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://graduate.ucsf.edu/srtp"
+        }
+      ]
+    },
+    {
+      "id": "6f52fab59827",
+      "organization": "University of California, Santa Barbara",
+      "title": "Future Leaders in Advanced Materials (FLAM)",
+      "locations": [
+        "Santa Barbara, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 stipend; travel costs up to $700 reimbursed",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.mrl.ucsb.edu/education/undergraduate-opportunities/flam",
+      "summary": "Nine-week summer program at UCSB where undergraduates conduct materials research mentored by faculty and graduate students, plus seminars and professional development workshops.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:55+00:00",
+      "last_updated": "2026-11-06T17:48:55+00:00",
+      "last_verified": "2026-11-06T17:48:55+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.mrl.ucsb.edu/education/undergraduate-opportunities/flam"
+        }
+      ]
+    },
+    {
+      "id": "faf497be462d",
+      "organization": "University of California, Santa Barbara",
+      "title": "Quantum Foundry Undergraduate Summer Research Internship program",
+      "locations": [
+        "Santa Barbara, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 fellowship",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://quantumfoundry.ucsb.edu/education/undergraduate",
+      "summary": "8-week summer research experience at UC Santa Barbara where interns are matched with Quantum Foundry faculty and graduate mentors, plus seminars and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:59+00:00",
+      "last_updated": "2026-11-06T17:48:59+00:00",
+      "last_verified": "2026-11-06T17:48:59+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://quantumfoundry.ucsb.edu/education/undergraduate"
+        }
+      ]
+    },
+    {
       "id": "c78299c1ed9a",
       "organization": "University of California, Santa Cruz",
       "title": "Conservation Leadership Immersion Experience (CLIME) Program",
@@ -21249,6 +22386,317 @@
         {
           "source": "Pathways to Science",
           "url": "https://conservationleadership.ucsc.edu/"
+        }
+      ]
+    },
+    {
+      "id": "97d8af3439b4",
+      "organization": "University of Chicago",
+      "title": "Data Science Institute Summer Lab",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "High school",
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://datascience.uchicago.edu/education/summerlab/",
+      "summary": "Paid summer research program pairing high school and undergraduate students with faculty mentors to conduct research in basic and applied data science.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:04+00:00",
+      "last_updated": "2026-11-06T17:49:04+00:00",
+      "last_verified": "2026-11-06T17:49:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://datascience.uchicago.edu/education/summerlab/"
+        }
+      ]
+    },
+    {
+      "id": "8792aab1c084",
+      "organization": "University of Chicago",
+      "title": "Dynamic Experiences in Neuroscience to Diversify Research Internship Training Exposures for Students (DENDRITES)",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://neuroscience.uchicago.edu/DENDRITES",
+      "summary": "Intensive nine-week NIH-funded summer research program where visiting undergraduates conduct basic, clinical, or translational neuroscience research under faculty mentors, with professional development workshops.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:07+00:00",
+      "last_updated": "2026-11-06T17:49:07+00:00",
+      "last_verified": "2026-11-06T17:49:07+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://neuroscience.uchicago.edu/DENDRITES"
+        }
+      ]
+    },
+    {
+      "id": "bc00cac1a3ec",
+      "organization": "University of Chicago",
+      "title": "Materials Research Science & Engineering Center Research Experiences for Undergraduates",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mrsec.uchicago.edu/educational-outreach/undergraduate-research-opportunities/",
+      "summary": "Ten-week research experience in the labs or research groups of MRSEC faculty, supplemented by faculty lectures on materials research.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:11+00:00",
+      "last_updated": "2026-11-06T17:49:11+00:00",
+      "last_verified": "2026-11-06T17:49:11+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mrsec.uchicago.edu/educational-outreach/undergraduate-research-opportunities/"
+        }
+      ]
+    },
+    {
+      "id": "59975098524d",
+      "organization": "University of Chicago",
+      "title": "REU Program in Molecular Genetics and Cell Biology",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ccrf.uchicago.edu/content/research-experiences-undergraduates-reus-university-chicago",
+      "summary": "Intensive 10-week NSF-funded research program in a PhD-level molecular and cell biology laboratory with workshops and seminars, for students from schools lacking such labs.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:14+00:00",
+      "last_updated": "2026-11-06T17:49:14+00:00",
+      "last_verified": "2026-11-06T17:49:14+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ccrf.uchicago.edu/content/research-experiences-undergraduates-reus-university-chicago"
+        }
+      ]
+    },
+    {
+      "id": "aadcee699cbc",
+      "organization": "University of Cincinnati",
+      "title": "Summer Undergraduate Research Fellowship in Biomedical Science",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Public Health",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://med.uc.edu/depart/bmi/surf",
+      "summary": "A 9 or 10-week summer research internship doing clinical, translational, or basic biomedical research with faculty at UC College of Medicine and Cincinnati Children's.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:26+00:00",
+      "last_updated": "2026-11-06T17:49:26+00:00",
+      "last_verified": "2026-11-06T17:49:26+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://med.uc.edu/depart/bmi/surf"
+        }
+      ]
+    },
+    {
+      "id": "9953bbaa1c8b",
+      "organization": "University of Cincinnati",
+      "title": "Summer Undergraduate Research Fellowship in Neuroscience (SURF-N)",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4000 fellowship for 10 weeks",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://med.uc.edu/education/neurosciencesgrad/program-activities/surf-fellowship",
+      "summary": "Ten-week summer neuroscience research fellowship where undergraduates work with faculty mentors on projects such as neurological disorders, addiction, and pain, ending with a poster presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:30+00:00",
+      "last_updated": "2026-11-06T17:49:30+00:00",
+      "last_verified": "2026-11-06T17:49:30+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://med.uc.edu/education/neurosciencesgrad/program-activities/surf-fellowship"
         }
       ]
     },
@@ -21348,6 +22796,323 @@
         {
           "source": "Pathways to Science",
           "url": "http://lasp.colorado.edu/home/education/reu/"
+        }
+      ]
+    },
+    {
+      "id": "242b214fa5ce",
+      "organization": "University of Colorado, Boulder",
+      "title": "Research Experience for Community College Students in Critical Zone Science",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Community college",
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://cires.colorado.edu/outreach/RECCS",
+      "summary": "Nine-week summer research internship for Colorado community college students conducting field and lab critical zone science research with scientist teams, plus workshops and conference presentations.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:33+00:00",
+      "last_updated": "2026-11-06T17:49:33+00:00",
+      "last_verified": "2026-11-06T17:49:33+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://cires.colorado.edu/outreach/RECCS"
+        }
+      ]
+    },
+    {
+      "id": "2434544d32f3",
+      "organization": "University of Colorado, Boulder",
+      "title": "REU: Physics",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Biochemistry",
+        "Environmental Science"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.colorado.edu/physics-jila-reu/",
+      "summary": "NSF-funded REU at JILA and CU Boulder Physics placing undergraduates in research groups across AMO, condensed matter, particle, plasma, biophysics, geophysics, and physics education research.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:40+00:00",
+      "last_updated": "2026-11-06T17:49:40+00:00",
+      "last_verified": "2026-11-06T17:49:40+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.colorado.edu/physics-jila-reu/"
+        }
+      ]
+    },
+    {
+      "id": "b1267be4400a",
+      "organization": "University of Colorado, Boulder",
+      "title": "Summer Multicultural Access to Research Training (SMART)",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.colorado.edu/smart/undergraduates",
+      "summary": "Ten-week summer program where underrepresented undergraduates conduct faculty-mentored research and attend scientific writing and presentation workshops in preparation for graduate study in science, math, and engineering.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:44+00:00",
+      "last_updated": "2026-11-06T17:49:44+00:00",
+      "last_verified": "2026-11-06T17:49:44+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.colorado.edu/smart/undergraduates"
+        }
+      ]
+    },
+    {
+      "id": "dea273751875",
+      "organization": "University of Connecticut",
+      "title": "Advancing Naval Careers Through Higher-Ed Outreach and Research (ANCHOR) Fellowship",
+      "locations": [
+        "Storrs, CT"
+      ],
+      "states": [
+        "CT"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Engineering-Civil/Environmental",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen only",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://web.uri.edu/naval-science-technology/students/undergraduate-students/anchor-fellowship/",
+      "summary": "Paid summer fellowship matching undergraduate engineering students with faculty on naval-related research, plus industry field trips and career development activities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:47+00:00",
+      "last_updated": "2026-11-06T17:49:47+00:00",
+      "last_verified": "2026-11-06T17:49:47+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://web.uri.edu/naval-science-technology/students/undergraduate-students/anchor-fellowship/"
+        }
+      ]
+    },
+    {
+      "id": "372eae352d47",
+      "organization": "University of Connecticut",
+      "title": "REU - UConn Physiology and Neurobiology",
+      "locations": [
+        "Storrs, CT"
+      ],
+      "states": [
+        "CT"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://pnbreu.uconn.edu/",
+      "summary": "NSF-funded 10-week paid summer research internship with UConn faculty on physiological systems, including workshops, social events, and a final poster symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:50+00:00",
+      "last_updated": "2026-11-06T17:49:50+00:00",
+      "last_verified": "2026-11-06T17:49:50+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://pnbreu.uconn.edu/"
+        }
+      ]
+    },
+    {
+      "id": "2e28bc7a495f",
+      "organization": "University of Delaware Center for Plastics Innovation (CPI)",
+      "title": "UD CPI (Center for Plastics Innovation) Summer Research Experience for Undergraduates",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Biology",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Materials Science",
+        "Environmental Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cpi.udel.edu/research-undergraduate/",
+      "summary": "10-week summer research in polymers, catalysis, enzyme engineering, and data science addressing plastics waste, with mentorship, seminars, workshops, and lab site visits.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:19+00:00",
+      "last_updated": "2026-11-06T17:49:19+00:00",
+      "last_verified": "2026-11-06T17:49:19+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cpi.udel.edu/research-undergraduate/"
         }
       ]
     },
@@ -22640,6 +24405,59 @@
         {
           "source": "Pathways to Science",
           "url": "http://vsgc.odu.edu/undergraduatescholarships/"
+        }
+      ]
+    },
+    {
+      "id": "4e1135ec4434",
+      "organization": "W. M. Keck Observatory",
+      "title": "AstroTech Summer School: Advancing Astronomy Instrument Builders",
+      "locations": [
+        "University of California, Berkeley"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Electrical",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://isee-telescope-workforce.org/astrotech/",
+      "summary": "Free one-week summer school at UC Berkeley where participants design, build, and test an astronomical instrument and learn about instrumentation careers.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:47:49+00:00",
+      "last_updated": "2026-11-06T17:47:49+00:00",
+      "last_verified": "2026-11-06T17:47:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://isee-telescope-workforce.org/astrotech/"
         }
       ]
     },
