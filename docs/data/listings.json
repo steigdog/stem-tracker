@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T13:55:24+00:00",
-  "last_collect": "2026-11-06T17:49:50+00:00",
+  "generated_at": "2026-11-07T16:46:06+00:00",
+  "last_collect": "2026-11-07T16:46:05+00:00",
   "last_verify": "2026-11-07T13:55:24+00:00",
   "sources_monitored": 15,
-  "count": 468,
+  "count": 505,
   "listings": [
     {
       "id": "2602a48d3d23",
@@ -1303,6 +1303,117 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.rushu.rush.edu/graduate-college/about-graduate-college/undergraduate-research-programs"
+        }
+      ]
+    },
+    {
+      "id": "c33a05566d63",
+      "organization": "University of Georgia",
+      "title": "Population Biology of Infectious Diseases",
+      "locations": [
+        "Athens, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Mathematics & Statistics",
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-15",
+      "rolling": null,
+      "apply_url": "https://reu.ecology.uga.edu/",
+      "summary": "NSF-funded summer REU at UGA where 8-10 undergraduates conduct empirical or computational research on disease ecology and infectious disease questions related to human health.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:25+00:00",
+      "last_updated": "2026-11-07T16:44:25+00:00",
+      "last_verified": "2026-11-07T16:44:25+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://reu.ecology.uga.edu/"
+        }
+      ]
+    },
+    {
+      "id": "cb1d48ef1928",
+      "organization": "University of Maine",
+      "title": "REU Site: Sensor Science and Engineering",
+      "locations": [
+        "Orono, ME"
+      ],
+      "states": [
+        "ME"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical",
+        "Engineering-Biomedical",
+        "Biology",
+        "Engineering-Chemical",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$700/week stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-28",
+      "rolling": null,
+      "apply_url": "https://mcec.umaine.edu/2024/12/06/nsfreusensor/",
+      "summary": "10-week NSF-supported summer research on sensor science topics like nanoscale materials, sensor devices, biomedical sensing, and AI for sensor network data analysis.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:40+00:00",
+      "last_updated": "2026-11-07T16:45:40+00:00",
+      "last_verified": "2026-11-07T16:45:40+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mcec.umaine.edu/2024/12/06/nsfreusensor/"
         }
       ]
     },
@@ -23005,6 +23116,165 @@
       ]
     },
     {
+      "id": "0df0a932adf0",
+      "organization": "University of Delaware",
+      "title": "College of Agriculture and Natural Resources (CANR) Summer Institute",
+      "locations": [
+        "Newark, DE"
+      ],
+      "states": [
+        "DE"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.udel.edu/academics/colleges/canr/current-students/current-undergrad/careers-and-internships/summer-institute/",
+      "summary": "10-week summer research program pairing undergraduates with CANR researchers on agricultural, natural resources, or life sciences projects, culminating in a symposium presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:43:58+00:00",
+      "last_updated": "2026-11-07T16:43:58+00:00",
+      "last_verified": "2026-11-07T16:43:58+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.udel.edu/academics/colleges/canr/current-students/current-undergrad/careers-and-internships/summer-institute/"
+        }
+      ]
+    },
+    {
+      "id": "da653b5c8544",
+      "organization": "University of Delaware",
+      "title": "Marine Sciences Summer Internship",
+      "locations": [
+        "Lewes, DE"
+      ],
+      "states": [
+        "DE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology",
+        "Biochemistry",
+        "Chemistry",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.ceoe.udel.edu/academics/for-current-undergraduates/marine-sciences-summer-program",
+      "summary": "Ten-week NSF REU-funded summer program where undergraduates conduct individual research with faculty in chemical, physical, and biological oceanography, marine biology, geology, and biochemistry.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:01+00:00",
+      "last_updated": "2026-11-07T16:44:01+00:00",
+      "last_verified": "2026-11-07T16:44:01+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.ceoe.udel.edu/academics/for-current-undergraduates/marine-sciences-summer-program"
+        }
+      ]
+    },
+    {
+      "id": "aa99a0610fc7",
+      "organization": "University of Delaware",
+      "title": "UD CHARM Materials Science Summer Research Program (MRSEC REU)",
+      "locations": [
+        "Newark, DE"
+      ],
+      "states": [
+        "DE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Materials Science",
+        "Physics",
+        "Chemistry",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mrsec.udel.edu/undergraduate-education-and-outreach/reu/",
+      "summary": "Ten-week NSF MRSEC summer REU doing experimental and computational research on soft and hard matter materials, with mentorship, career counseling, and industry visits.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:04+00:00",
+      "last_updated": "2026-11-07T16:44:04+00:00",
+      "last_verified": "2026-11-07T16:44:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mrsec.udel.edu/undergraduate-education-and-outreach/reu/"
+        }
+      ]
+    },
+    {
       "id": "2e28bc7a495f",
       "organization": "University of Delaware Center for Plastics Innovation (CPI)",
       "title": "UD CPI (Center for Plastics Innovation) Summer Research Experience for Undergraduates",
@@ -23062,6 +23332,214 @@
       ]
     },
     {
+      "id": "1823ad797bf2",
+      "organization": "University of Denver",
+      "title": "Summer REU in Power and Energy Systems for Smart Cities",
+      "locations": [
+        "Denver, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ritchieschool.du.edu/research-innovation/reu",
+      "summary": "A 9-week paid NSF REU summer program researching renewable energy, power systems, AI applications, electrified transportation, and sustainable urban infrastructure for smart cities with DU faculty.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:07+00:00",
+      "last_updated": "2026-11-07T16:44:07+00:00",
+      "last_verified": "2026-11-07T16:44:07+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ritchieschool.du.edu/research-innovation/reu"
+        }
+      ]
+    },
+    {
+      "id": "d5a7e2c74f9c",
+      "organization": "University of Florida",
+      "title": "International REU site for Gravitational Physics",
+      "locations": [
+        "Gainesville, FL"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ireu.phys.ufl.edu/home/#:~:text=Overview,truly%20reflects%20its%20international%20character.",
+      "summary": "NSF-funded 9-10 week summer program where undergraduates conduct gravitational physics research in leading labs in Europe and Australasia.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:10+00:00",
+      "last_updated": "2026-11-07T16:44:10+00:00",
+      "last_verified": "2026-11-07T16:44:10+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ireu.phys.ufl.edu/home/#:~:text=Overview,truly%20reflects%20its%20international%20character."
+        }
+      ]
+    },
+    {
+      "id": "9d6c0b254d8a",
+      "organization": "University of Florida",
+      "title": "REU: Experimental and Computational Methods for Materials Discovery",
+      "locations": [
+        "Gainesville, FL"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Chemistry",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.phys.ufl.edu/reu/index.shtml",
+      "summary": "NSF-funded summer REU where undergraduates conduct experimental and computational research in materials physics, including magnetism, superconductivity, and quantum materials, plus seminars and field trips.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:13+00:00",
+      "last_updated": "2026-11-07T16:44:13+00:00",
+      "last_verified": "2026-11-07T16:44:13+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.phys.ufl.edu/reu/index.shtml"
+        }
+      ]
+    },
+    {
+      "id": "be64df438280",
+      "organization": "University of Florida",
+      "title": "The US/France REU Site in Chemistry",
+      "locations": [
+        "Gainesville, FL",
+        "France"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000 food and miscellaneous + $1000 travel allowance",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://reu.chem.ufl.edu/the-program/",
+      "summary": "12-week NSF-funded international REU in France where undergraduates conduct chemistry research projects under faculty mentorship with graduate students and postdocs.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:16+00:00",
+      "last_updated": "2026-11-07T16:44:16+00:00",
+      "last_verified": "2026-11-07T16:44:16+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://reu.chem.ufl.edu/the-program/"
+        }
+      ]
+    },
+    {
       "id": "5bea500a61dd",
       "organization": "University of Georgia",
       "title": "Hands-on research in Genomics and Computational Biology",
@@ -23109,6 +23587,168 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.bmb.uga.edu/fungal-genomics-and-computational-biology"
+        }
+      ]
+    },
+    {
+      "id": "a0a09d738999",
+      "organization": "University of Georgia",
+      "title": "Crop Genetics and Genomics v2 Research and Extension Experience for Undergraduate Students",
+      "locations": [
+        "Athens, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://plantcenter.uga.edu/study/undergraduate-research/",
+      "summary": "Nine-week summer program of hands-on lab and field research in crop genetics and genomics, with field trips, service-learning, and professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:19+00:00",
+      "last_updated": "2026-11-07T16:44:19+00:00",
+      "last_verified": "2026-11-07T16:44:19+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://plantcenter.uga.edu/study/undergraduate-research/"
+        }
+      ]
+    },
+    {
+      "id": "bd5ebdbb5926",
+      "organization": "University of Georgia",
+      "title": "Interdisciplinary Research Experiences at the Interface of Nanotechnology and Biomedicine",
+      "locations": [
+        "Athens, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://reu.engr.uga.edu/?page_id=7",
+      "summary": "Ten-week NSF REU where undergraduates conduct co-mentored interdisciplinary research applying nanotechnology to biomedical questions, culminating in a poster session.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:22+00:00",
+      "last_updated": "2026-11-07T16:44:22+00:00",
+      "last_verified": "2026-11-07T16:44:22+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://reu.engr.uga.edu/?page_id=7"
+        }
+      ]
+    },
+    {
+      "id": "41353c773326",
+      "organization": "University of Georgia",
+      "title": "Summer Undergraduate Fellowship in Genetics (SUNFIG)",
+      "locations": [
+        "Athens, GA"
+      ],
+      "states": [
+        "GA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Mathematics & Statistics",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://genetics.uga.edu/summer-undergraduate-fellowships-genetics-sunfig",
+      "summary": "Nine-week summer program where undergraduates join a UGA Genetics Department lab to conduct research in areas like molecular biology, genomics, ecology, and evolution.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:28+00:00",
+      "last_updated": "2026-11-07T16:44:28+00:00",
+      "last_verified": "2026-11-07T16:44:28+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://genetics.uga.edu/summer-undergraduate-fellowships-genetics-sunfig"
         }
       ]
     },
@@ -23161,6 +23801,55 @@
         {
           "source": "Pathways to Science",
           "url": "http://hilo.hawaii.edu/uhintern/"
+        }
+      ]
+    },
+    {
+      "id": "79ef23073005",
+      "organization": "University of Houston",
+      "title": "Innovations in Nanotechnology REU",
+      "locations": [
+        "Houston, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Materials Science"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": 1,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.egr.uh.edu/reu",
+      "summary": "Undergraduates conduct nanotechnology-related research projects under faculty supervision at the University of Houston Cullen College of Engineering, developing research, analysis, and presentation skills.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:31+00:00",
+      "last_updated": "2026-11-07T16:44:31+00:00",
+      "last_verified": "2026-11-07T16:44:31+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.egr.uh.edu/reu"
         }
       ]
     },
@@ -23272,6 +23961,761 @@
       ]
     },
     {
+      "id": "f1039e898f49",
+      "organization": "University of Illinois, Urbana-Champaign",
+      "title": "Center for Digital Agriculture REU",
+      "locations": [
+        "Urbana, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical",
+        "Environmental Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://digitalag.illinois.edu/education/reu-program/",
+      "summary": "10-week paid on-site research program in digital agriculture, combining computation, agriculture, and biosystems with faculty from CDA, AIFARMS, and CROPPS.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:37+00:00",
+      "last_updated": "2026-11-07T16:44:37+00:00",
+      "last_verified": "2026-11-07T16:44:37+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://digitalag.illinois.edu/education/reu-program/"
+        }
+      ]
+    },
+    {
+      "id": "5782c490ff47",
+      "organization": "University of Illinois, Urbana-Champaign",
+      "title": "Illinois Materials Research Science and Engineering Center Summer REU Program",
+      "locations": [
+        "Urbana, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Physics",
+        "Materials Science",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://grad.illinois.edu/diversity/srop",
+      "summary": "Ten-week paid summer research program where undergraduates work with Illinois MRSEC faculty mentors on interdisciplinary materials research projects.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:41+00:00",
+      "last_updated": "2026-11-07T16:44:41+00:00",
+      "last_verified": "2026-11-07T16:44:41+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://grad.illinois.edu/diversity/srop"
+        }
+      ]
+    },
+    {
+      "id": "7f4fbe915596",
+      "organization": "University of Illinois, Urbana-Champaign",
+      "title": "Illinois MRSEC Research Experience for Undergraduates Program",
+      "locations": [
+        "Urbana, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Materials Science",
+        "Physics",
+        "Chemistry",
+        "Engineering-Mechanical",
+        "Engineering-Electrical",
+        "Engineering-Chemical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend for the summer",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mrsec.illinois.edu/reu-program",
+      "summary": "Ten-week NSF-sponsored summer REU where undergraduates work with MRSEC faculty mentors on experimental or computational materials research projects.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:44+00:00",
+      "last_updated": "2026-11-07T16:44:44+00:00",
+      "last_verified": "2026-11-07T16:44:44+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mrsec.illinois.edu/reu-program"
+        }
+      ]
+    },
+    {
+      "id": "13b2c5ffa7d4",
+      "organization": "University of Illinois, Urbana-Champaign",
+      "title": "Illinois Physics Research Experience for Undergraduates",
+      "locations": [
+        "Urbana, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://physics.illinois.edu/research/reu",
+      "summary": "10-week NSF-sponsored summer REU where undergraduates conduct experimental, computational, or theoretical physics research with senior faculty at UIUC.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:47+00:00",
+      "last_updated": "2026-11-07T16:44:47+00:00",
+      "last_verified": "2026-11-07T16:44:47+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://physics.illinois.edu/research/reu"
+        }
+      ]
+    },
+    {
+      "id": "b982cba7b4e3",
+      "organization": "University of Iowa",
+      "title": "Biochemistry Summer Undergraduate Fellowship (BSURF) Program",
+      "locations": [
+        "Iowa City, IA"
+      ],
+      "states": [
+        "IA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,250 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://bmb.medicine.uiowa.edu/summer-undergraduate-research-bsurf",
+      "summary": "Ten-week full-time summer research in a University of Iowa biochemistry faculty lab, planning and performing experiments and presenting posters at a summer research conference.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:50+00:00",
+      "last_updated": "2026-11-07T16:44:50+00:00",
+      "last_verified": "2026-11-07T16:44:50+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://bmb.medicine.uiowa.edu/summer-undergraduate-research-bsurf"
+        }
+      ]
+    },
+    {
+      "id": "5b3168033b73",
+      "organization": "University of Iowa",
+      "title": "Iowa Summer Institute in Biostatistics (ISIB)",
+      "locations": [
+        "Iowa City, IA"
+      ],
+      "states": [
+        "IA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biology",
+        "Public Health"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.public-health.uiowa.edu/about-isib/",
+      "summary": "Seven-week summer program providing undergraduates biostatistical training through case-based instruction, computer labs, projects, and clinical and translational research enrichment activities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:54+00:00",
+      "last_updated": "2026-11-07T16:44:54+00:00",
+      "last_verified": "2026-11-07T16:44:54+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.public-health.uiowa.edu/about-isib/"
+        }
+      ]
+    },
+    {
+      "id": "e4508429560a",
+      "organization": "University of Iowa",
+      "title": "REU Site: Microbiology at the Host-Pathogen Interface",
+      "locations": [
+        "Iowa City, IA"
+      ],
+      "states": [
+        "IA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,250 stipend plus a $530 food allowance",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://microbiology.medicine.uiowa.edu/undergraduate-education/research-opportunities/summer-undergraduate-research",
+      "summary": "Ten-week full-time hands-on research in microbiology, microbial genetics, or molecular biology with faculty mentors, plus seminars and a final poster session.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:44:57+00:00",
+      "last_updated": "2026-11-07T16:44:57+00:00",
+      "last_verified": "2026-11-07T16:44:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://microbiology.medicine.uiowa.edu/undergraduate-education/research-opportunities/summer-undergraduate-research"
+        }
+      ]
+    },
+    {
+      "id": "1324279d4a39",
+      "organization": "University of Iowa",
+      "title": "Summer Undergraduate MSTP Research (SUMR) Program",
+      "locations": [
+        "Iowa City, IA"
+      ],
+      "states": [
+        "IA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Public Health",
+        "Biology",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,150 for the 8-week period",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UIowa-SUMR",
+      "summary": "Eight-week summer program where undergraduates conduct independent research with a physician-scientist mentor, plus clinical shadowing, seminars, and career development toward MD/PhD paths.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:04+00:00",
+      "last_updated": "2026-11-07T16:45:04+00:00",
+      "last_verified": "2026-11-07T16:45:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UIowa-SUMR"
+        }
+      ]
+    },
+    {
+      "id": "3c827811fc9f",
+      "organization": "University of Kansas",
+      "title": "Chemistry REU Program: A Summer Experience for Undergraduates Integrating Research, Education, and Career Development in an Interdisciplinary Environment",
+      "locations": [
+        "Lawrence, KS"
+      ],
+      "states": [
+        "KS"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biochemistry",
+        "Materials Science",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$7,000 stipend plus full room and board and a travel allowance",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://chemreu.ku.edu/",
+      "summary": "NSF-funded summer chemistry research program where undergraduates conduct interdisciplinary research focused on sustainability in chemistry with faculty and graduate mentors, plus career development activities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:08+00:00",
+      "last_updated": "2026-11-07T16:45:08+00:00",
+      "last_verified": "2026-11-07T16:45:08+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://chemreu.ku.edu/"
+        }
+      ]
+    },
+    {
+      "id": "589477b98fca",
+      "organization": "University of Kansas",
+      "title": "BioPATH: Biobased Products and Technology Hub REU",
+      "locations": [
+        "Lawrence, KS"
+      ],
+      "states": [
+        "KS"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cpe.ku.edu/reu-biopath",
+      "summary": "10-week summer research experience in chemical engineering on biobased products such as biorenewable plastics, biofuels, and agricultural residue valorization with faculty and graduate mentors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:12+00:00",
+      "last_updated": "2026-11-07T16:45:12+00:00",
+      "last_verified": "2026-11-07T16:45:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cpe.ku.edu/reu-biopath"
+        }
+      ]
+    },
+    {
+      "id": "13323073cb83",
+      "organization": "University of Kansas",
+      "title": "PAID Undergraduate Summer Research program in Engineering and Sustainable Technologies",
+      "locations": [
+        "Lawrence, KS"
+      ],
+      "states": [
+        "KS"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Mechanical",
+        "Engineering-Civil/Environmental",
+        "Chemistry",
+        "Biology",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$7,000 stipend; up to $500 for travel expenses",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UKansas-EngSusTech",
+      "summary": "Summer research on sustainable engineering and HVACR technologies, including eco-friendly refrigerant retrofits and HVACR performance optimization, with faculty and industry mentors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:15+00:00",
+      "last_updated": "2026-11-07T16:45:15+00:00",
+      "last_verified": "2026-11-07T16:45:15+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UKansas-EngSusTech"
+        }
+      ]
+    },
+    {
+      "id": "f9021bb6fe61",
+      "organization": "University of Kansas",
+      "title": "Research Experiences for Undergraduates: IDEA Incubator in Porous Materials",
+      "locations": [
+        "Lawrence, KS"
+      ],
+      "states": [
+        "KS"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cpe.ku.edu/reu-idea",
+      "summary": "10-week NSF REU where undergraduates conduct semi-independent research on porous materials for catalysis and bioengineering while participating in arts-based science communication workshops.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:18+00:00",
+      "last_updated": "2026-11-07T16:45:18+00:00",
+      "last_verified": "2026-11-07T16:45:18+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cpe.ku.edu/reu-idea"
+        }
+      ]
+    },
+    {
+      "id": "74556930ea7d",
+      "organization": "University of Kansas",
+      "title": "Research Opportunities for Undergrads in Pharmaceutical Chemistry",
+      "locations": [
+        "Lawrence, KS"
+      ],
+      "states": [
+        "KS"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://pharmchem.ku.edu/undergraduate-research-programs",
+      "summary": "Ten-week summer program where undergraduates conduct independent faculty-supervised research applying chemical principles to drug therapeutic effects, toxicity, and delivery.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:21+00:00",
+      "last_updated": "2026-11-07T16:45:21+00:00",
+      "last_verified": "2026-11-07T16:45:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://pharmchem.ku.edu/undergraduate-research-programs"
+        }
+      ]
+    },
+    {
+      "id": "37978d63ab3a",
+      "organization": "University of Kansas",
+      "title": "REU SITE: The Stressed Life of Cells",
+      "locations": [
+        "Lawrence, KS"
+      ],
+      "states": [
+        "KS"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Neuroscience",
+        "Mathematics & Statistics",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mb-reu.ku.edu/",
+      "summary": "Undergraduates conduct mentored independent research on how cells respond to biotic and abiotic stressors, with professional development workshops in molecular biosciences, ecology, and computational biology.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:24+00:00",
+      "last_updated": "2026-11-07T16:45:24+00:00",
+      "last_verified": "2026-11-07T16:45:24+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mb-reu.ku.edu/"
+        }
+      ]
+    },
+    {
       "id": "9e804567f54b",
       "organization": "University of Kentucky",
       "title": "REU: Department of Physics and Astronomy, Research in Symmetries",
@@ -23319,6 +24763,167 @@
         {
           "source": "Pathways to Science",
           "url": "https://pa.as.uky.edu/reu"
+        }
+      ]
+    },
+    {
+      "id": "066ee13c90bb",
+      "organization": "University of Kentucky",
+      "title": "Engineered Bioactive Interfaces and Devices REU",
+      "locations": [
+        "Lexington, KY"
+      ],
+      "states": [
+        "KY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Materials Science",
+        "Engineering-Biomedical",
+        "Neuroscience",
+        "Chemistry",
+        "Pharmaceutical Sciences",
+        "Physics"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://nsfreu.engr.uky.edu/",
+      "summary": "10-week multidisciplinary summer research experience designing bioactive architectures that interact with biological systems, for applications in tissue engineering, sensing, and drug delivery.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:28+00:00",
+      "last_updated": "2026-11-07T16:45:28+00:00",
+      "last_verified": "2026-11-07T16:45:28+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://nsfreu.engr.uky.edu/"
+        }
+      ]
+    },
+    {
+      "id": "b0f65f3a17e3",
+      "organization": "University of Kentucky",
+      "title": "REU: Multidisciplinary Approaches for Overcoming Water Resources and Sustainable Engineering Challenges in Appalachian Regions",
+      "locations": [
+        "Lexington, KY"
+      ],
+      "states": [
+        "KY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Biochemistry",
+        "Chemistry",
+        "Engineering-Chemical",
+        "Engineering-Civil/Environmental",
+        "Environmental Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.mesoprogram.com/reu-info-1",
+      "summary": "Undergraduates conduct field and lab sampling, analytical processing, and data modeling on water resources and sustainable engineering challenges in Appalachian communities, with field site and industry tours.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:31+00:00",
+      "last_updated": "2026-11-07T16:45:31+00:00",
+      "last_verified": "2026-11-07T16:45:31+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.mesoprogram.com/reu-info-1"
+        }
+      ]
+    },
+    {
+      "id": "254e6c3e6270",
+      "organization": "University of Louisville",
+      "title": "Undergraduate Summer Program in Cardiovascular Research",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "states": [
+        "KY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "approximately $4,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://student.louisville.edu/engaged-learning/undergraduate-research/summer-research-opportunity-program-srop",
+      "summary": "NIH-funded 10-week summer program giving undergraduates from under-represented populations hands-on cardiovascular and biomedical research experience, culminating in a presentation at a local research forum.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:34+00:00",
+      "last_updated": "2026-11-07T16:45:34+00:00",
+      "last_verified": "2026-11-07T16:45:34+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://student.louisville.edu/engaged-learning/undergraduate-research/summer-research-opportunity-program-srop"
         }
       ]
     },
@@ -23377,6 +24982,280 @@
       ]
     },
     {
+      "id": "e020c4501226",
+      "organization": "University of Maine",
+      "title": "Sustainable Wood to Fuel and Fish Feed (SWF3) Undergraduate Research Experience",
+      "locations": [
+        "Orono, ME",
+        "Lowell, MA"
+      ],
+      "states": [
+        "ME",
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Chemistry",
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$7,000 stipend (total)",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://umaine.edu/swf3/education/#internship",
+      "summary": "10-week mentored undergraduate research internship on converting wood to biofuels and fish feed, including catalytic upgrading, fish nutrition, thermochemical conversion, and techno-economic analysis.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:37+00:00",
+      "last_updated": "2026-11-07T16:45:37+00:00",
+      "last_verified": "2026-11-07T16:45:37+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://umaine.edu/swf3/education/#internship"
+        }
+      ]
+    },
+    {
+      "id": "9d6947fc081a",
+      "organization": "University of Maine",
+      "title": "SM2ART REU Program at the University of Maine",
+      "locations": [
+        "Orono, ME"
+      ],
+      "states": [
+        "ME"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Materials Science",
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://umaine.edu/biomaterials/workforce-development/reu-program/",
+      "summary": "Ten-week undergraduate research at UMaine's Advanced Structures and Composites Center on forest-derived bioproducts and large-scale additive manufacturing, with a one-week visit to ORNL.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:44+00:00",
+      "last_updated": "2026-11-07T16:45:44+00:00",
+      "last_verified": "2026-11-07T16:45:44+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://umaine.edu/biomaterials/workforce-development/reu-program/"
+        }
+      ]
+    },
+    {
+      "id": "2fcc07043b23",
+      "organization": "University of Maryland, College Park",
+      "title": "MathQuantum Summer Research - Paid Mentored Opportunity",
+      "locations": [
+        "College Park, MD"
+      ],
+      "states": [
+        "MD"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,200 stipend for 8 weeks",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mathquantum.umd.edu/fellowship/",
+      "summary": "Eight-week mentored summer research at UMD applying mathematics to quantum information science topics such as quantum algorithms, cryptography, and quantum dynamics.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:51+00:00",
+      "last_updated": "2026-11-07T16:45:51+00:00",
+      "last_verified": "2026-11-07T16:45:51+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mathquantum.umd.edu/fellowship/"
+        }
+      ]
+    },
+    {
+      "id": "e43ff3e8d3b7",
+      "organization": "University of Maryland, College Park",
+      "title": "Physics Undergrad Summer Research - TREND (Teaching and Research Experiences in Nonlinear Dynamics)",
+      "locations": [
+        "College Park, MD"
+      ],
+      "states": [
+        "MD"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Mathematics & Statistics",
+        "Materials Science",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://trend.umd.edu/",
+      "summary": "Ten-week NSF-funded summer research experience in nonlinear dynamics labs at UMD, with professional development, communication training, outreach, and conference travel funds.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:55+00:00",
+      "last_updated": "2026-11-07T16:45:55+00:00",
+      "last_verified": "2026-11-07T16:45:55+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://trend.umd.edu/"
+        }
+      ]
+    },
+    {
+      "id": "10da24baf348",
+      "organization": "University of Maryland, College Park",
+      "title": "Research Experience for Ugrads (REU) in Combionatirs, Algorithms and AI for Real Problems (CAAR)",
+      "locations": [
+        "College Park, MD"
+      ],
+      "states": [
+        "MD"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Electrical",
+        "Engineering-Industrial",
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.cs.umd.edu/projects/reucaar/",
+      "summary": "10-week NSF-funded summer REU where students work in small faculty-led groups on quantum computing, algorithms and crypto, and machine learning and AI projects.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:45:58+00:00",
+      "last_updated": "2026-11-07T16:45:58+00:00",
+      "last_verified": "2026-11-07T16:45:58+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.cs.umd.edu/projects/reucaar/"
+        }
+      ]
+    },
+    {
       "id": "1a9571f49741",
       "organization": "University of Maryland, Eastern Shore",
       "title": "Research Experiences for Undergraduates (REU) Site: EXERCISE - Explore Emerging Computing in Science and Engineering",
@@ -23426,6 +25305,57 @@
         {
           "source": "Pathways to Science",
           "url": "http://faculty.salisbury.edu/~ealu/REU/REU.html"
+        }
+      ]
+    },
+    {
+      "id": "d1d2208024e7",
+      "organization": "University of Maryland, Eastern Shore",
+      "title": "(NSF) CREST Center for the Integrated Study of Coastal Ecosystem Processes and Dynamics (CREST-CISCEP)",
+      "locations": [
+        "Princess Anne, MD"
+      ],
+      "states": [
+        "MD"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://wwwcp.umes.edu/crest/crest-ciscep-at-a-glance/",
+      "summary": "NSF-funded program offering summer internships and research on Maryland Coastal Bays ecosystems, including food web dynamics, material exchange, and microbial dynamics under climate variability.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:46:02+00:00",
+      "last_updated": "2026-11-07T16:46:02+00:00",
+      "last_verified": "2026-11-07T16:46:02+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://wwwcp.umes.edu/crest/crest-ciscep-at-a-glance/"
         }
       ]
     },
@@ -23480,6 +25410,57 @@
         {
           "source": "Pathways to Science",
           "url": "https://chem.wisc.edu/research-experience-for-undergraduates-reu/"
+        }
+      ]
+    },
+    {
+      "id": "25f602661009",
+      "organization": "University of Massachusetts, Boston",
+      "title": "Research Experiences for Undergraduates in Integrative and Evolutionary Biology (REU)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.umb.edu/science-mathematics/academic-departments/biology/student-resources/research-experiences-for-undergraduates/",
+      "summary": "NSF-funded 10-week summer program where undergraduates conduct integrative and evolutionary biology research with faculty mentors, plus workshops, a Nantucket field station retreat, and poster symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-07T16:46:05+00:00",
+      "last_updated": "2026-11-07T16:46:05+00:00",
+      "last_verified": "2026-11-07T16:46:05+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.umb.edu/science-mathematics/academic-departments/biology/student-resources/research-experiences-for-undergraduates/"
         }
       ]
     },
