@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T14:15:32+00:00",
-  "last_collect": "2026-11-07T16:46:05+00:00",
+  "generated_at": "2026-11-08T16:56:34+00:00",
+  "last_collect": "2026-11-08T16:56:34+00:00",
   "last_verify": "2026-11-08T14:15:32+00:00",
-  "sources_monitored": 15,
-  "count": 505,
+  "sources_monitored": 21,
+  "count": 546,
   "listings": [
     {
       "id": "2602a48d3d23",
@@ -285,6 +285,52 @@
       ]
     },
     {
+      "id": "e9a898b3beb2",
+      "organization": "UCLA Brain Research Institute",
+      "title": "Brain Research Institute Summer Undergraduate Research Experience (BRI-SURE)",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": 2,
+      "open_date": null,
+      "deadline": "2026-11-23",
+      "rolling": null,
+      "apply_url": "https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/",
+      "summary": "8-week hybrid summer neuroscience/physiology research training with faculty mentors, workshops, journal clubs, and a poster competition for honors research students.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:19+00:00",
+      "last_updated": "2026-11-08T16:54:19+00:00",
+      "last_verified": "2026-11-08T16:54:19+00:00",
+      "sources": [
+        "Summer Programs for Undergraduate Research (SPUR)"
+      ],
+      "links": [
+        {
+          "source": "Summer Programs for Undergraduate Research (SPUR)",
+          "url": "https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/"
+        }
+      ]
+    },
+    {
       "id": "2d741db4d556",
       "organization": "Purdue University",
       "title": "PURE Tox Research Internship",
@@ -560,6 +606,62 @@
       ]
     },
     {
+      "id": "d7f1fafabff8",
+      "organization": "University of Michigan",
+      "title": "Optics in the City of Light - an international REU program from the University of Michigan in Paris, France",
+      "locations": [
+        "Ann Arbor, MI",
+        "Paris, France"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-18",
+      "rolling": null,
+      "apply_url": "https://java.engin.umich.edu/parisreu/",
+      "summary": "Undergraduate juniors spend two months in Paris laboratories performing research with ultrafast lasers, after a one-week orientation at the University of Michigan's Center for Ultrafast Optical Science in Ann Arbor.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:51+00:00",
+      "last_updated": "2026-11-08T16:54:51+00:00",
+      "last_verified": "2026-11-08T16:54:51+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://java.engin.umich.edu/parisreu/"
+        }
+      ]
+    },
+    {
       "id": "976f52fe15c1",
       "organization": "Jackson Laboratory",
       "title": "Summer Student Program",
@@ -611,6 +713,60 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/learn-earn-and-explore/admission"
+        }
+      ]
+    },
+    {
+      "id": "947b67353945",
+      "organization": "University of Michigan Rogel Cancer Center",
+      "title": "Cancer Research Summer Internship Program (CaRSIP)",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Public Health",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,500 stipend",
+      "paid": true,
+      "housing": false,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-25",
+      "rolling": null,
+      "apply_url": "https://medschool.umich.edu/interdisciplinary-programs/cancer-biology-graduate-program/cancer-research-summer-internship-program",
+      "summary": "Ten-week summer program where undergraduates work in a U-M cancer laboratory with a faculty mentor, attend research luncheons, and present their work.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:26+00:00",
+      "last_updated": "2026-11-08T16:54:26+00:00",
+      "last_verified": "2026-11-08T16:54:26+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://medschool.umich.edu/interdisciplinary-programs/cancer-biology-graduate-program/cancer-research-summer-internship-program"
         }
       ]
     },
@@ -930,6 +1086,153 @@
       ]
     },
     {
+      "id": "f5c503be5aee",
+      "organization": "MIT Haystack Observatory",
+      "title": "Research Experiences for Undergraduates (REU)",
+      "locations": [],
+      "states": [],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Electrical",
+        "Environmental Science"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": 1,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://www.haystack.mit.edu/haystack-public-outreach/research-experiences-for-undergraduates-reu/",
+      "summary": "Ten-week paid NSF-funded summer research in radio astronomy, geodesy, geospace science, and engineering projects such as Event Horizon Telescope, EDGES, radar networks, and VLBI.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:03+00:00",
+      "last_updated": "2026-11-08T16:54:03+00:00",
+      "last_verified": "2026-11-08T16:54:03+00:00",
+      "sources": [
+        "Research Experiences for Undergraduates (REU)"
+      ],
+      "links": [
+        {
+          "source": "Research Experiences for Undergraduates (REU)",
+          "url": "https://www.haystack.mit.edu/haystack-public-outreach/research-experiences-for-undergraduates-reu/"
+        }
+      ]
+    },
+    {
+      "id": "974faefdd8e5",
+      "organization": "UCLA",
+      "title": "Amgen Scholars Program",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics",
+        "Chemistry",
+        "Engineering-Chemical",
+        "Biology",
+        "Pharmaceutical Sciences",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.2,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://sciences.ugresearch.ucla.edu/programs-and-scholarships/amgen-scholars/#application",
+      "summary": "10-week summer biomedical research program pairing undergraduates with UCLA faculty mentors, with stipend, housing, meals, conference, workshops, and poster presentations.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:19+00:00",
+      "last_updated": "2026-11-08T16:54:19+00:00",
+      "last_verified": "2026-11-08T16:54:19+00:00",
+      "sources": [
+        "Summer Programs for Undergraduate Research (SPUR)"
+      ],
+      "links": [
+        {
+          "source": "Summer Programs for Undergraduate Research (SPUR)",
+          "url": "https://sciences.ugresearch.ucla.edu/programs-and-scholarships/amgen-scholars/#application"
+        }
+      ]
+    },
+    {
+      "id": "1ae205276975",
+      "organization": "University of Florida, Department of Astronomy",
+      "title": "Undergraduate Research in Astronomy (REU)",
+      "locations": [
+        "Gainesville, FL"
+      ],
+      "states": [
+        "FL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000 stipend for a 10 week Summer",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": false,
+      "apply_url": "https://www.dropbox.com/request/Axp8HZmtgxNcbNnwbqTx",
+      "summary": "NSF-funded summer REU where undergraduates work on computational and data-intensive astrophysics projects such as galaxy formation, cosmology, exoplanets, and star formation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:12+00:00",
+      "last_updated": "2026-11-08T16:54:12+00:00",
+      "last_verified": "2026-11-08T16:54:12+00:00",
+      "sources": [
+        "Undergraduate Research in Astronomy (REU)"
+      ],
+      "links": [
+        {
+          "source": "Undergraduate Research in Astronomy (REU)",
+          "url": "https://www.dropbox.com/request/Axp8HZmtgxNcbNnwbqTx"
+        }
+      ]
+    },
+    {
       "id": "0b91dea832bd",
       "organization": "University of Pennsylvania, Laboratory for Research on the Structure of Matter",
       "title": "NSF Research Experience for Undergraduates (REU) - LRSM",
@@ -1039,6 +1342,56 @@
       ]
     },
     {
+      "id": "c2cfe433ee63",
+      "organization": "University of Michigan",
+      "title": "Mathematics Research Experience for Undergraduates",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-02",
+      "rolling": null,
+      "apply_url": "http://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/research/research-experience-for-undergraduates--reu-.html",
+      "summary": "Undergraduates work with a faculty mentor for 8 weeks in summer on mathematics research projects, from modeling and simulations to abstract problems, ending with a talk and report.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:40+00:00",
+      "last_updated": "2026-11-08T16:54:40+00:00",
+      "last_verified": "2026-11-08T16:54:40+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/research/research-experience-for-undergraduates--reu-.html"
+        }
+      ]
+    },
+    {
       "id": "484337c05a57",
       "organization": "Dauphin Island Sea Lab",
       "title": "Research Experience for Undergraduates at the Dauphin Island Sea Lab",
@@ -1086,6 +1439,55 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.disl.edu/university-programs/nsf-reu/?fbclid=IwY2xjawJYsypleHRuA2FlbQIxMQABHY7p4Y0ejFYKsBH2GSY4k52D2mqUUtej4oYT8S7i_c9VOZ9yRoStRbuUNw_aem_Qrup9KCQUQmXYW7jMrcbrA"
+        }
+      ]
+    },
+    {
+      "id": "19da4bee3a5b",
+      "organization": "Northwestern University MRSEC",
+      "title": "Summer Research Experience for Undergraduates (REU)",
+      "locations": [
+        "Evanston, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Materials Science"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-12",
+      "rolling": null,
+      "apply_url": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html",
+      "summary": "Nine-week summer REU where students conduct nanomaterials research projects with faculty and graduate mentors, culminating in a technical paper and symposium presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:08+00:00",
+      "last_updated": "2026-11-08T16:54:08+00:00",
+      "last_verified": "2026-11-08T16:54:08+00:00",
+      "sources": [
+        "Summer Research Experience for Undergraduates (REU)"
+      ],
+      "links": [
+        {
+          "source": "Summer Research Experience for Undergraduates (REU)",
+          "url": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html"
         }
       ]
     },
@@ -1362,6 +1764,62 @@
       ]
     },
     {
+      "id": "1fc97aa08859",
+      "organization": "University of Michigan",
+      "title": "Interdisciplinary REU in the Structure and Function of Proteins",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Chemistry",
+        "Biology",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000 stipend; $900 meal allowance; $500 travel allowance",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-20",
+      "rolling": null,
+      "apply_url": "https://researchops.web.illinois.edu/opportunity/university-michigan-interdisciplinary-reu-program",
+      "summary": "A 10-week NSF-funded undergraduate research experience studying protein structure and function across biochemistry, biophysics, computational chemistry, enzymology, molecular and plant biology.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:36+00:00",
+      "last_updated": "2026-11-08T16:54:36+00:00",
+      "last_verified": "2026-11-08T16:54:36+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://researchops.web.illinois.edu/opportunity/university-michigan-interdisciplinary-reu-program"
+        }
+      ]
+    },
+    {
       "id": "cb1d48ef1928",
       "organization": "University of Maine",
       "title": "REU Site: Sensor Science and Engineering",
@@ -1414,6 +1872,54 @@
         {
           "source": "Pathways to Science",
           "url": "https://mcec.umaine.edu/2024/12/06/nsfreusensor/"
+        }
+      ]
+    },
+    {
+      "id": "aafe12741bee",
+      "organization": "Rutgers New Jersey Medical School, School of Graduate Studies",
+      "title": "Undergraduate Summer Research Program",
+      "locations": [
+        "Newark, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Pharmaceutical Sciences",
+        "Neuroscience"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$4,000 for students without housing; $3,000 for students with housing (10-week program)",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-03-05",
+      "rolling": null,
+      "apply_url": "https://njms.rutgers.edu/sgs/prospective_students/info/summer_undergrad_research.php",
+      "summary": "Ten-week supervised biomedical research for undergraduates interested in PhD programs, in areas such as cell biology, microbiology, cancer, pharmacology, neuroscience, and immunology.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:53:57+00:00",
+      "last_updated": "2026-11-08T16:53:57+00:00",
+      "last_verified": "2026-11-08T16:53:57+00:00",
+      "sources": [
+        "Undergraduate Summer Research Program"
+      ],
+      "links": [
+        {
+          "source": "Undergraduate Summer Research Program",
+          "url": "https://njms.rutgers.edu/sgs/prospective_students/info/summer_undergrad_research.php"
         }
       ]
     },
@@ -20379,6 +20885,52 @@
       ]
     },
     {
+      "id": "23976f0fec66",
+      "organization": "UCLA",
+      "title": "Bruins-In-Genomics (B.I.G.) Summer Program",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/",
+      "summary": "Summer computational biology and bioinformatics program for students conducting research at UCLA and sponsored by UCLA faculty.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:19+00:00",
+      "last_updated": "2026-11-08T16:54:19+00:00",
+      "last_verified": "2026-11-08T16:54:19+00:00",
+      "sources": [
+        "Summer Programs for Undergraduate Research (SPUR)"
+      ],
+      "links": [
+        {
+          "source": "Summer Programs for Undergraduate Research (SPUR)",
+          "url": "https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/"
+        }
+      ]
+    },
+    {
       "id": "0f2e0d62a17f",
       "organization": "Universidad de Puerto Rico, Arecibo",
       "title": "REU Site: Resilience and Adaptation to Coastal Change Across Community (C2C)",
@@ -25519,6 +26071,437 @@
       ]
     },
     {
+      "id": "e42ebe9218ec",
+      "organization": "University of Michigan",
+      "title": "ASPET Summer Undergraduate Research Fellow (SURF) Awards",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.aspet.org/aspet/education-careers/aspet-programs/summer-undergraduate-research-fellow-surf-awards/summer-undergraduate-research-fellow-surf-individual-awards",
+      "summary": "Undergraduates conduct mentored summer lab research in pharmacology, toxicology, and drug development, about 40 hours a week, with weekly seminars and oral and poster presentations.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:23+00:00",
+      "last_updated": "2026-11-08T16:54:23+00:00",
+      "last_verified": "2026-11-08T16:54:23+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.aspet.org/aspet/education-careers/aspet-programs/summer-undergraduate-research-fellow-surf-awards/summer-undergraduate-research-fellow-surf-individual-awards"
+        }
+      ]
+    },
+    {
+      "id": "19b77a099cb1",
+      "organization": "University of Michigan",
+      "title": "Electric Vehicle Center Undergradute Research Internships",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Physics",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://reu.engin.umich.edu/",
+      "summary": "10-week undergraduate research internship on electric vehicle research topics, with professional development and social activities, for students enrolled at US institutions other than UM Ann Arbor.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:29+00:00",
+      "last_updated": "2026-11-08T16:54:29+00:00",
+      "last_verified": "2026-11-08T16:54:29+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://reu.engin.umich.edu/"
+        }
+      ]
+    },
+    {
+      "id": "8d5eefd0545f",
+      "organization": "University of Michigan",
+      "title": "Frankel Cardiovascular Center Summer Undergraduate Research Fellowship",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Mathematics & Statistics",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,000 stipend for ten weeks",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://sites.google.com/site/cvcsummerfellowship/home",
+      "summary": "Ten-week summer fellowship placing undergraduates in University of Michigan Cardiovascular Center labs researching topics like atherosclerosis, cardiomyopathies, arrhythmias, and heart failure, ending with a research forum.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:33+00:00",
+      "last_updated": "2026-11-08T16:54:33+00:00",
+      "last_verified": "2026-11-08T16:54:33+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://sites.google.com/site/cvcsummerfellowship/home"
+        }
+      ]
+    },
+    {
+      "id": "87e3aa4a3614",
+      "organization": "University of Michigan",
+      "title": "NSF REU Site: Program in Climate and Space Science Observation (PICASSO)",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Mathematics & Statistics",
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://picasso-reu.engin.umich.edu/",
+      "summary": "Ten-week summer REU where undergraduates conduct faculty-mentored research in meteorology, climate science, and space and planetary sciences, with professional development and a poster fair.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:47+00:00",
+      "last_updated": "2026-11-08T16:54:47+00:00",
+      "last_verified": "2026-11-08T16:54:47+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://picasso-reu.engin.umich.edu/"
+        }
+      ]
+    },
+    {
+      "id": "7c0865df79a5",
+      "organization": "University of Michigan",
+      "title": "Perrigo Undergraduate Summer Fellowship Program",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Chemistry",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://perrigo.lsi.umich.edu/",
+      "summary": "Full-time summer life sciences research fellowship at the U-M Life Sciences Institute for undergraduates enrolled at Michigan colleges, culminating in a research symposium and poster.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:54+00:00",
+      "last_updated": "2026-11-08T16:54:54+00:00",
+      "last_verified": "2026-11-08T16:54:54+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://perrigo.lsi.umich.edu/"
+        }
+      ]
+    },
+    {
+      "id": "b0895bc41d0f",
+      "organization": "University of Michigan",
+      "title": "Research Experience for Undergraduates (REU) at the Center for Materials Innovation",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://mrsec.umich.edu/education/",
+      "summary": "10-week NSF-funded REU performing materials science research on semiconductors and 2D materials or sustainable polymers using computational, statistical, theoretical, and experimental approaches.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:54:57+00:00",
+      "last_updated": "2026-11-08T16:54:57+00:00",
+      "last_verified": "2026-11-08T16:54:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://mrsec.umich.edu/education/"
+        }
+      ]
+    },
+    {
+      "id": "45e214ef5204",
+      "organization": "University of Michigan",
+      "title": "REU in Biophysics",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Biology",
+        "Neuroscience",
+        "Physics",
+        "Mathematics & Statistics",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://reu.biop.lsa.umich.edu/",
+      "summary": "Ten weeks of summer biophysics research with leading University of Michigan faculty, plus field trips, group meetings, and a research symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:00+00:00",
+      "last_updated": "2026-11-08T16:55:00+00:00",
+      "last_verified": "2026-11-08T16:55:00+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://reu.biop.lsa.umich.edu/"
+        }
+      ]
+    },
+    {
+      "id": "29382f1cfe2a",
+      "organization": "University of Michigan",
+      "title": "Summer Undergraduate Research in Engineering (SURE)",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Engineering-Civil/Environmental",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://sure.engin.umich.edu/",
+      "summary": "Undergraduates conduct 10-12 weeks of full-time summer research with University of Michigan engineering faculty, attending seminars and producing a short video on their project.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:10+00:00",
+      "last_updated": "2026-11-08T16:55:10+00:00",
+      "last_verified": "2026-11-08T16:55:10+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://sure.engin.umich.edu/"
+        }
+      ]
+    },
+    {
       "id": "30f5deaab214",
       "organization": "University of Michigan - Cooperative Institute for Great Lakes Research (CIGLR)",
       "title": "Great Lakes Summer Fellows Program",
@@ -25681,6 +26664,1187 @@
         {
           "source": "Pathways to Science",
           "url": "https://reuslawr.org/"
+        }
+      ]
+    },
+    {
+      "id": "1713bc44d2db",
+      "organization": "University of Minnesota",
+      "title": "Center for Sustainable Polymers Summer Research Program",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://ugresearch.umn.edu/opportunities/urop",
+      "summary": "Ten-week, full-time paid summer lab research designing polymers from renewable resources at the NSF Center for Sustainable Polymers, with presentations at a CSP meeting and research expo.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:13+00:00",
+      "last_updated": "2026-11-08T16:55:13+00:00",
+      "last_verified": "2026-11-08T16:55:13+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://ugresearch.umn.edu/opportunities/urop"
+        }
+      ]
+    },
+    {
+      "id": "650e99e4c213",
+      "organization": "University of Minnesota",
+      "title": "Lando/NSF REU in Chemistry",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": "approximately $7400 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://chem.umn.edu/lando",
+      "summary": "Ten-week summer chemistry research under a faculty member at UMN Twin Cities, with weekly faculty lunches, a poster session, and professional and social events.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:15+00:00",
+      "last_updated": "2026-11-08T16:55:15+00:00",
+      "last_verified": "2026-11-08T16:55:15+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://chem.umn.edu/lando"
+        }
+      ]
+    },
+    {
+      "id": "92d37c3fb529",
+      "organization": "University of Minnesota",
+      "title": "Life Sciences Summer Undergraduate Research Programs (LSSURP)",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Environmental Science",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://med.umn.edu/gps/undergraduate-research/life-sciences-summer",
+      "summary": "Ten-week summer life sciences research project with a University of Minnesota faculty mentor, plus professional development activities, concluding with a poster symposium in August.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:18+00:00",
+      "last_updated": "2026-11-08T16:55:18+00:00",
+      "last_verified": "2026-11-08T16:55:18+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://med.umn.edu/gps/undergraduate-research/life-sciences-summer"
+        }
+      ]
+    },
+    {
+      "id": "44489980dae0",
+      "organization": "University of Minnesota",
+      "title": "Materials Research Science and Engineering Center (MRSEC) REU in Nanomaterials",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.mrsec.umn.edu/ehr/REU/",
+      "summary": "Ten-week summer NSF REU at the University of Minnesota providing research experience in nanomaterials and materials science and engineering, plus professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:21+00:00",
+      "last_updated": "2026-11-08T16:55:21+00:00",
+      "last_verified": "2026-11-08T16:55:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.mrsec.umn.edu/ehr/REU/"
+        }
+      ]
+    },
+    {
+      "id": "7123ea5d9450",
+      "organization": "University of Minnesota",
+      "title": "Physics and Astronomy REU",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cse.umn.edu/physics/reu-program",
+      "summary": "10-week summer research program in physics and astronomy fields such as particle physics, astrophysics, condensed matter, and biophysics under School of Physics and Astronomy faculty.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:25+00:00",
+      "last_updated": "2026-11-08T16:55:25+00:00",
+      "last_verified": "2026-11-08T16:55:25+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cse.umn.edu/physics/reu-program"
+        }
+      ]
+    },
+    {
+      "id": "1a5330dff286",
+      "organization": "University of Minnesota",
+      "title": "Plant Ecology Research Intern",
+      "locations": [
+        "East Bethel, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cedarcreek.umn.edu/lter-plant-community-ecology-internships-reus-summer-2025",
+      "summary": "Full-time field interns in the Isbell Biodiversity Lab collect plant, seed, and soil data and maintain grassland global-change experiments at Cedar Creek Ecosystem Science Reserve.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:28+00:00",
+      "last_updated": "2026-11-08T16:55:28+00:00",
+      "last_verified": "2026-11-08T16:55:28+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cedarcreek.umn.edu/lter-plant-community-ecology-internships-reus-summer-2025"
+        }
+      ]
+    },
+    {
+      "id": "f68ffe6673f9",
+      "organization": "University of Minnesota",
+      "title": "Sustainability Opportunities for Agricultural Research (SOAR) - Research and Extension Experiences for Undergraduates (REEU) Summer Program",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cfans.umn.edu/about/diversity-inclusion/undergrad/SOAR-REEU",
+      "summary": "USDA-funded summer research in sustainable food systems, plant, and soil science within active labs, with farm visits, mentoring, and professional development seminars.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:36+00:00",
+      "last_updated": "2026-11-08T16:55:36+00:00",
+      "last_verified": "2026-11-08T16:55:36+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cfans.umn.edu/about/diversity-inclusion/undergrad/SOAR-REEU"
+        }
+      ]
+    },
+    {
+      "id": "83d7fcbb8fcb",
+      "organization": "University of Minnesota - The Hormel Institute",
+      "title": "Summer Undergraduate Research Experience (SURE) Internship program at The Hormel Institute in Biomedical Science",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://hi.umn.edu/sureinternships",
+      "summary": "10-week paid summer internship where undergraduates work with scientists on biomedical research projects, gaining hands-on equipment and technique experience and presenting research publicly.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:32+00:00",
+      "last_updated": "2026-11-08T16:55:32+00:00",
+      "last_verified": "2026-11-08T16:55:32+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://hi.umn.edu/sureinternships"
+        }
+      ]
+    },
+    {
+      "id": "a6875722d3e6",
+      "organization": "University of Mississippi",
+      "title": "Ole Miss Physical Chemistry Summer Research Program",
+      "locations": [
+        "University, MS"
+      ],
+      "states": [
+        "MS"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Chemistry",
+        "Materials Science",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://laser.chem.olemiss.edu/~pchem/",
+      "summary": "NSF REU-supported summer program offering directed physical chemistry research, faculty lectures and mini-courses, research talks, and cohort-building activities for undergraduates.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:42+00:00",
+      "last_updated": "2026-11-08T16:55:42+00:00",
+      "last_verified": "2026-11-08T16:55:42+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://laser.chem.olemiss.edu/~pchem/"
+        }
+      ]
+    },
+    {
+      "id": "94c901ddadb6",
+      "organization": "University of Missouri, Columbia",
+      "title": "MU Alcohol Research Training Summer School & Internship (MU-ARTSS)",
+      "locations": [
+        "Columbia, MO"
+      ],
+      "states": [
+        "MO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health",
+        "Biology",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://psychology.missouri.edu/research/mu-artss",
+      "summary": "Summer undergraduate research on the etiology and course of alcoholism and addiction with MU psychology faculty, culminating in a research abstract and poster presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:46+00:00",
+      "last_updated": "2026-11-08T16:55:46+00:00",
+      "last_verified": "2026-11-08T16:55:46+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://psychology.missouri.edu/research/mu-artss"
+        }
+      ]
+    },
+    {
+      "id": "0ecb0da2cebe",
+      "organization": "University of Missouri, Columbia",
+      "title": "REU in Material Science and Engineering",
+      "locations": [
+        "Columbia, MO"
+      ],
+      "states": [
+        "MO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Materials Science",
+        "Engineering-Biomedical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://undergradresearch.missouri.edu/creative-approaches-to-materials-design-and-processing/",
+      "summary": "NSF REU research on micro- and nano-structured materials for sensors, batteries, reactors, and implantable devices, using simulation, modeling, fabrication, characterization, and creativity training.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:49+00:00",
+      "last_updated": "2026-11-08T16:55:49+00:00",
+      "last_verified": "2026-11-08T16:55:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://undergradresearch.missouri.edu/creative-approaches-to-materials-design-and-processing/"
+        }
+      ]
+    },
+    {
+      "id": "c0c3e8e5a940",
+      "organization": "University of Missouri, Columbia",
+      "title": "Translational Biomedicine Undergraduate Summer Research Program",
+      "locations": [
+        "Columbia, MO"
+      ],
+      "states": [
+        "MO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,400 stipend (minus taxes)",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://undergradresearch.missouri.edu/translational-biomedicine-summer-research-program/",
+      "summary": "Nine-week, full-time summer research program where undergraduates conduct interdisciplinary translational biomedical research, attend seminars, and present at a poster forum.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:55+00:00",
+      "last_updated": "2026-11-08T16:55:55+00:00",
+      "last_verified": "2026-11-08T16:55:55+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://undergradresearch.missouri.edu/translational-biomedicine-summer-research-program/"
+        }
+      ]
+    },
+    {
+      "id": "7ef86bebcafb",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REEU: Beneficial Insects and Integrated Plant-Insect Research and Extension Experiences",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6000",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/programs/beneficial-insects/",
+      "summary": "USDA-funded research and extension experience studying insects in agroecosystems, including pollinators, pest management, disease vectors, and aquatic biological indicators.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:55:59+00:00",
+      "last_updated": "2026-11-08T16:55:59+00:00",
+      "last_verified": "2026-11-08T16:55:59+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/programs/beneficial-insects/"
+        }
+      ]
+    },
+    {
+      "id": "816c5b11d586",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REEU: Expanding Opportunities In Agricultural Sciences: Crop-to-Food Innovation",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Engineering-Biomedical",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/programs/crop-food-innovation/",
+      "summary": "A 10-week USDA-funded summer research program on crop-to-food innovation, from crop trait discovery to food product development, starting with a biotechnology training camp.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:56:02+00:00",
+      "last_updated": "2026-11-08T16:56:02+00:00",
+      "last_verified": "2026-11-08T16:56:02+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/programs/crop-food-innovation/"
+        }
+      ]
+    },
+    {
+      "id": "a3c37538d096",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REEU: Fostering the Next Generation of Inclusive Agricultural and Natural Resources Professionals through Experiential Learning",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5000 stipend, plus $1000 for translating summer experience into learning objects",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/programs/applied-plant-systems/",
+      "summary": "Summer experiential internship in applied plant, soil, and environmental sciences with faculty mentoring and science literacy activities addressing food production and environmental challenges.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:56:06+00:00",
+      "last_updated": "2026-11-08T16:56:06+00:00",
+      "last_verified": "2026-11-08T16:56:06+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/programs/applied-plant-systems/"
+        }
+      ]
+    },
+    {
+      "id": "8fdeb23ec607",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REU site: Immersive research experiences in Plant Pathology to inspire emerging scientists",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/programs/plant-pathology/",
+      "summary": "Undergraduates conduct research on plant pathology, including pathogen evolution and distribution, mechanisms of pathogenesis, and plant responses to pathogens and stress.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:56:09+00:00",
+      "last_updated": "2026-11-08T16:56:09+00:00",
+      "last_verified": "2026-11-08T16:56:09+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/programs/plant-pathology/"
+        }
+      ]
+    },
+    {
+      "id": "37e2e3a00175",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REU Site: Leveraging Engineering Education Research for U.S. Workforce Development",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Civil/Environmental",
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/programs/engineering-education-research/",
+      "summary": "Summer research placing undergraduates in engineering education research teams to study how engineering education shapes U.S. workforce development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:56:12+00:00",
+      "last_updated": "2026-11-08T16:56:12+00:00",
+      "last_verified": "2026-11-08T16:56:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/programs/engineering-education-research/"
+        }
+      ]
+    },
+    {
+      "id": "092c06404806",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REU Site: Research Experiences for Undergraduates in Chemical Assembly",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Chemistry",
+        "Engineering-Chemical",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/programs/chemistry/",
+      "summary": "NSF-funded undergraduate research in chemical assembly, spanning perovskite photophysics, antimicrobial molecule isolation, and enzyme inhibition, plus communication training, field trips, and graduate admissions workshops.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:56:16+00:00",
+      "last_updated": "2026-11-08T16:56:16+00:00",
+      "last_verified": "2026-11-08T16:56:16+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/programs/chemistry/"
+        }
+      ]
+    },
+    {
+      "id": "cb3f7100365d",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REU Site: Sustainability and Resilience of Civil and Environmental Infrastructure in Rural Areas",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Engineering-Civil/Environmental",
+        "Environmental Science",
+        "Mathematics & Statistics",
+        "Physics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7000",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/programs/sustainability/",
+      "summary": "Ten-week NSF summer research program with civil and environmental engineering faculty on sustainability and resilience of rural infrastructure, with industry collaboration and communication training.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:56:20+00:00",
+      "last_updated": "2026-11-08T16:56:20+00:00",
+      "last_verified": "2026-11-08T16:56:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/programs/sustainability/"
+        }
+      ]
+    },
+    {
+      "id": "f8781598c958",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REU Site: Training in Redox Biology",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/",
+      "summary": "Ten-week summer REU in which undergraduates conduct independent redox biochemistry research projects in a faculty mentor's lab, learning biochemical, biophysical and molecular biology techniques.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:56:23+00:00",
+      "last_updated": "2026-11-08T16:56:23+00:00",
+      "last_verified": "2026-11-08T16:56:23+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/"
+        }
+      ]
+    },
+    {
+      "id": "eca8a8e8594f",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REU: Harnessing beneficial bacteria to control plant diseases",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6500 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/programs/beneficial-bacteria/",
+      "summary": "Students investigate antimicrobial-producing beneficial bacteria against plant pathogens using mutant generation, secretome isolation, comparative genomics, and transcriptomics.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:56:30+00:00",
+      "last_updated": "2026-11-08T16:56:30+00:00",
+      "last_verified": "2026-11-08T16:56:30+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/programs/beneficial-bacteria/"
+        }
+      ]
+    },
+    {
+      "id": "1b45ecbdefda",
+      "organization": "University of Nebraska, Lincoln",
+      "title": "REU: National Nanotechnology Coordinated Infrastructure",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "states": [
+        "NE"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Mechanical",
+        "Materials Science",
+        "Engineering-Electrical",
+        "Engineering-Civil/Environmental",
+        "Engineering-Chemical",
+        "Chemistry",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://summerprogram.unl.edu/programs/nanotechnology/",
+      "summary": "10-week summer interdisciplinary research in a nanoscale science or engineering lab at UNL, with presentations at UNL and the NNCI REU convocation in San Diego.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-08T16:56:34+00:00",
+      "last_updated": "2026-11-08T16:56:34+00:00",
+      "last_verified": "2026-11-08T16:56:34+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://summerprogram.unl.edu/programs/nanotechnology/"
         }
       ]
     },

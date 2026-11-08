@@ -3334,5 +3334,280 @@
       "gone": 0,
       "error": 41
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-11-08T16:50:42+00:00",
+    "finished": "2026-11-08T16:50:42+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-11-08T16:50:43+00:00",
+    "finished": "2026-11-08T16:56:34+00:00",
+    "sources": {
+      "web discovery": {
+        "found": 10,
+        "read": 0,
+        "added": 6,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": "6 new sources added to discovered_sources.json"
+      },
+      "SpaceX": {
+        "found": 58,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 41,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 41,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Summer Research Program": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Bernard S. and Sophie G. Gould MIT Summer Research Program in Biology (BSG-MSRP-Bio)": {
+        "found": 1,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 10,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Research Experience for Undergraduates (REU)": {
+        "found": 1,
+        "read": 1,
+        "added": 2,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Research in Astronomy (REU)": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Programs for Undergraduate Research (SPUR)": {
+        "found": 1,
+        "read": 1,
+        "added": 3,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 4,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 550,
+        "read": 40,
+        "added": 34,
+        "updated": 0,
+        "skipped": 6,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "Rutgers New Jersey Medical School, School of Graduate Studies - Undergraduate Summer Research Program",
+      "MIT Haystack Observatory - Research Experiences for Undergraduates (REU)",
+      "Northwestern University MRSEC - Summer Research Experience for Undergraduates (REU)",
+      "Northwestern University MRSEC - Academic-Year Undergraduate Research Internship (URI)",
+      "University of Florida, Department of Astronomy - Undergraduate Research in Astronomy (REU)",
+      "UCLA - Amgen Scholars Program",
+      "UCLA - Bruins-In-Genomics (B.I.G.) Summer Program",
+      "UCLA Brain Research Institute - Brain Research Institute Summer Undergraduate Research Experience (BRI-SURE)",
+      "University of Michigan - ASPET Summer Undergraduate Research Fellow (SURF) Awards",
+      "University of Michigan Rogel Cancer Center - Cancer Research Summer Internship Program (CaRSIP)",
+      "University of Michigan - Electric Vehicle Center Undergradute Research Internships",
+      "University of Michigan - Frankel Cardiovascular Center Summer Undergraduate Research Fellowship",
+      "University of Michigan - Interdisciplinary REU in the Structure and Function of Proteins",
+      "University of Michigan - Mathematics Research Experience for Undergraduates",
+      "University of Michigan - NSF REU Site: Program in Climate and Space Science Observation (PICASSO)",
+      "University of Michigan - Optics in the City of Light - an international REU program from the University of Michigan in Paris, France",
+      "University of Michigan - Perrigo Undergraduate Summer Fellowship Program",
+      "University of Michigan - Research Experience for Undergraduates (REU) at the Center for Materials Innovation",
+      "University of Michigan - REU in Biophysics",
+      "University of Michigan - Summer Undergraduate Research in Engineering (SURE)",
+      "University of Minnesota - Center for Sustainable Polymers Summer Research Program",
+      "University of Minnesota - Lando/NSF REU in Chemistry",
+      "University of Minnesota - Life Sciences Summer Undergraduate Research Programs (LSSURP)",
+      "University of Minnesota - Materials Research Science and Engineering Center (MRSEC) REU in Nanomaterials",
+      "University of Minnesota - Physics and Astronomy REU",
+      "University of Minnesota - Plant Ecology Research Intern",
+      "University of Minnesota - The Hormel Institute - Summer Undergraduate Research Experience (SURE) Internship program at The Hormel Institute in Biomedical Science",
+      "University of Minnesota - Sustainability Opportunities for Agricultural Research (SOAR) - Research and Extension Experiences for Undergraduates (REEU) Summer Program",
+      "University of Mississippi - Ole Miss Physical Chemistry Summer Research Program",
+      "University of Missouri, Columbia - MU Alcohol Research Training Summer School & Internship (MU-ARTSS)",
+      "University of Missouri, Columbia - REU in Material Science and Engineering",
+      "University of Missouri, Columbia - Translational Biomedicine Undergraduate Summer Research Program",
+      "University of Nebraska, Lincoln - REEU: Beneficial Insects and Integrated Plant-Insect Research and Extension Experiences",
+      "University of Nebraska, Lincoln - REEU: Expanding Opportunities In Agricultural Sciences: Crop-to-Food Innovation",
+      "University of Nebraska, Lincoln - REEU: Fostering the Next Generation of Inclusive Agricultural and Natural Resources Professionals through Experiential Learning",
+      "University of Nebraska, Lincoln - REU site: Immersive research experiences in Plant Pathology to inspire emerging scientists",
+      "University of Nebraska, Lincoln - REU Site: Leveraging Engineering Education Research for U.S. Workforce Development",
+      "University of Nebraska, Lincoln - REU Site: Research Experiences for Undergraduates in Chemical Assembly",
+      "University of Nebraska, Lincoln - REU Site: Sustainability and Resilience of Civil and Environmental Infrastructure in Rural Areas",
+      "University of Nebraska, Lincoln - REU Site: Training in Redox Biology",
+      "University of Nebraska, Lincoln - REU: Harnessing beneficial bacteria to control plant diseases",
+      "University of Nebraska, Lincoln - REU: National Nanotechnology Coordinated Infrastructure"
+    ],
+    "updated": [],
+    "removed": [
+      "Northwestern University MRSEC - Academic-Year Undergraduate Research Internship (URI) (deadline passed (2026-10-31))"
+    ],
+    "failed": [],
+    "warnings": [],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 75319,
+      "output_tokens": 16857,
+      "cache_read_input_tokens": 168120,
+      "calls": 46
+    }
   }
 ]

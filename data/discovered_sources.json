@@ -82,5 +82,77 @@
     "refresh_days": 7,
     "origin": "discovered",
     "discovered_at": "2026-11-01T16:57:37+00:00"
+  },
+  {
+    "name": "Undergraduate Summer Research Program",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://njms.rutgers.edu/sgs/prospective_students/info/summer_undergrad_research.php",
+    "organization": "Rutgers New Jersey Medical School, School of Graduate Studies",
+    "opportunity_type": "Fellowship",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-08T16:51:21+00:00"
+  },
+  {
+    "name": "Bernard S. and Sophie G. Gould MIT Summer Research Program in Biology (BSG-MSRP-Bio)",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://biology.mit.edu/outreach/msrpbio/",
+    "organization": "MIT Department of Biology",
+    "opportunity_type": "Fellowship",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-08T16:51:21+00:00"
+  },
+  {
+    "name": "Undergraduate Research in Astronomy (REU)",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://astro.ufl.edu/reu/",
+    "organization": "University of Florida, Department of Astronomy",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-08T16:51:23+00:00"
+  },
+  {
+    "name": "Research Experiences for Undergraduates (REU)",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://www.haystack.mit.edu/haystack-public-outreach/research-experiences-for-undergraduates-reu/",
+    "organization": "MIT Haystack Observatory",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-08T16:51:24+00:00"
+  },
+  {
+    "name": "Summer Research Experience for Undergraduates (REU)",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html",
+    "organization": "Northwestern University MRSEC",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-08T16:51:24+00:00"
+  },
+  {
+    "name": "Summer Programs for Undergraduate Research (SPUR)",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/",
+    "organization": "UCLA Graduate Division",
+    "opportunity_type": "Fellowship",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-08T16:51:25+00:00"
   }
 ]
