@@ -3764,5 +3764,273 @@
       "gone": 0,
       "error": 44
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-11-09T21:12:01+00:00",
+    "finished": "2026-11-09T21:12:01+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-11-09T21:12:01+00:00",
+    "finished": "2026-11-09T21:17:09+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 57,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 40,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 4,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 38,
+        "read": 5,
+        "added": 1,
+        "updated": 0,
+        "skipped": 4,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 1,
+        "added": 1,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Summer Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Bernard S. and Sophie G. Gould MIT Summer Research Program in Biology (BSG-MSRP-Bio)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Research in Astronomy (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Research Experience for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Programs for Undergraduate Research (SPUR)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 10,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "blocked",
+        "note": "robots.txt disallows https://sites.uab.edu/cnmb/research-experiences-for-undergraduates/"
+      },
+      "Pathways to Science": {
+        "found": 550,
+        "read": 40,
+        "added": 39,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "Johnson & Johnson - Innovation Excellence Co-op",
+      "Fred Hutchinson Cancer Center - Summer Undergraduate Research Program (SURP)",
+      "University of Nebraska, Lincoln - REU: Undergraduate Research Opportunities in Biomedical Devices",
+      "University of Nevada, Las Vegas - REU Site: Mechanisms of Evolution (MOE)",
+      "University of New Hampshire - Sustainability Fellowships - Paid summer research",
+      "University of New Mexico - The Cancer Research – Scholarship and Training in Population Sciences (C-STEPS) program",
+      "University of North Carolina, Chapel Hill - Carolina Summer Fellowship Program in Pharmacology",
+      "University of North Carolina, Charlotte - NanoSURE - Summer Research Experience for Undergraduates (NSF-REU/DOD-ASSURE)",
+      "University of North Carolina, Charlotte - Summer Research Experience in Urban Science (REU)",
+      "University of North Carolina, Charlotte - Summer REU in Computing; Infrastructure and Interaction Design for CyberPhysical Systems",
+      "University of North Texas Health Science Center - Summer Opportunities in Anatomy Research (SOAR)",
+      "University of Notre Dame - Undergraduate Research in Physics",
+      "University of Oregon - Summer Program for Undergraduate Research (SPUR) in Life Sciences",
+      "University of Pennsylvania - Laboratory for Research on the Structure of Matter (LRSM) Summer Research Program",
+      "University of Pennsylvania - Research Experiences for Undergraduates (REU) program entitled “Novel Techniques and Applications in Catalyst Research Development and Molecular Dynamics”",
+      "University of Pennsylvania - Summer Undergraduate Internship Program (SUIP)",
+      "University of Pennsylvania - Summer Undergraduate Mentored Research Program in Health Services Research",
+      "Center for Engineering MechanoBiology (CEMB) - University of Pennsylvania / Washington University - Summer Undergraduate Research Experience in Engineering Mechanobiology",
+      "University of Pennsylvania - SUPERS@PENN - Summer Research Program for Educating Radiation Scientists",
+      "University of Pennsylvania - Undergraduate Clinical Scholars Program",
+      "University of Pennsylvania - Undergraduate Student Scholars Program (USSP)",
+      "University of Pittsburgh - Experiential Learning for Veterans in Assistive Technology and Engineering (ELeVATE)",
+      "University of Pittsburgh - Summer Undergraduate Research Program (SURP)",
+      "University of Pittsburgh - TECBio Summer Research in Computational Biology",
+      "University of Rhode Island - Summer Undergraduate Research Fellowships in Oceanography (SURFO)",
+      "University of Rochester - CMAP Summer Physics Workshop for Undergrads",
+      "University of Rochester - REU in Physics, Optics and Astrophysics",
+      "University of Rochester - REU Site: Computation Methods for Understanding Music, Media, and Minds",
+      "University of Rochester - REU Site: Nano-, Bio-, Quantum Photonics",
+      "University of Rochester - Summer Scholars Program & Biology REU",
+      "University of South Carolina, Columbia - REU in CO2 Chemical Engineering",
+      "University of Southern California - Advancing Earthquake Science Through Student Internships",
+      "University of Southern California - Bridge UnderGraduate Science (BUGS) Program",
+      "Wrigley Institute for Environmental Studies, University of Southern California - Coastal Ocean Systems and Sustainability at the USC Wrigley Institute",
+      "University of Southern California - SCEC Supported Opportunities for Undergraduates and Researchers to Collaborate on Earthquake Science (SOURCES)",
+      "University of Southern California - Southern California Earthquake Center/Summer Undergraduate Research Experience (SCEC/SURE)",
+      "University of Southern Mississippi - Research Experiences for Undergraduates (REU) - Gulf Coastal Plain Ecology",
+      "University of Southern Mississippi - School of Polymer Science and Engineering, Research Experience For Undergraduates",
+      "University of Tennessee Health Sciences Center - Summer Research Scholars (SRS)",
+      "University of Texas Health Science Center, San Antonio - Greehey CCRI Donald G McEwen Memorial Summer Research Program",
+      "University of Texas Health Sciences Center, Houston - Summer Health Professions Education Program (SHPEP)"
+    ],
+    "updated": [],
+    "removed": [],
+    "failed": [
+      {
+        "where": "CNMB Research Experiences for Undergraduates",
+        "error": "robots.txt disallows https://sites.uab.edu/cnmb/research-experiences-for-undergraduates/"
+      }
+    ],
+    "warnings": [],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 71678,
+      "output_tokens": 15825,
+      "cache_read_input_tokens": 168120,
+      "calls": 46
+    }
   }
 ]

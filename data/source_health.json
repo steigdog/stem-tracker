@@ -12,6 +12,7 @@
     4,
     4,
     4,
+    4,
     4
   ],
   "SpaceX": [
@@ -27,7 +28,8 @@
     55,
     57,
     58,
-    58
+    58,
+    57
   ],
   "Moderna": [
     39,
@@ -42,9 +44,11 @@
     41,
     41,
     41,
-    41
+    41,
+    40
   ],
   "DOE SULI (Science Undergraduate Laboratory Internships)": [
+    1,
     1,
     1,
     1,
@@ -72,6 +76,7 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Boeing": [
@@ -86,6 +91,7 @@
     13,
     11,
     9,
+    10,
     10,
     10
   ],
@@ -102,7 +108,8 @@
     49,
     43,
     41,
-    41
+    41,
+    38
   ],
   "Pathways to Science": [
     555,
@@ -111,6 +118,7 @@
     555,
     555,
     556,
+    550,
     550,
     550,
     550,
@@ -127,9 +135,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "MagLab Research Experiences for Undergraduates (REU)": [
+    1,
     1,
     1,
     1,
@@ -157,9 +167,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Summer Undergraduate Research Program": [
+    1,
     1,
     1,
     1,
@@ -177,6 +189,7 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "NSF REU at LRSM": [
@@ -187,24 +200,31 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Undergraduate Summer Research Program": [
+    1,
     1
   ],
   "Bernard S. and Sophie G. Gould MIT Summer Research Program in Biology (BSG-MSRP-Bio)": [
+    1,
     1
   ],
   "Research Experiences for Undergraduates (REU)": [
+    1,
     1
   ],
   "Summer Research Experience for Undergraduates (REU)": [
+    1,
     1
   ],
   "Undergraduate Research in Astronomy (REU)": [
+    1,
     1
   ],
   "Summer Programs for Undergraduate Research (SPUR)": [
+    1,
     1
   ]
 }
