@@ -4032,5 +4032,172 @@
       "cache_read_input_tokens": 168120,
       "calls": 46
     }
+  },
+  {
+    "kind": "verify",
+    "started": "2026-11-10T15:24:23+00:00",
+    "finished": "2026-11-10T15:39:28+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 8,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 36,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 2,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 64,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 53,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 465,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Summer Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Research Experience for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Research in Astronomy (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Programs for Undergraduate Research (SPUR)": {
+        "found": 3,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [],
+    "updated": [],
+    "removed": [
+      "Johnson & Johnson - IDAR Summer Intern (EASE) (deadline passed (2026-11-09))",
+      "Johnson & Johnson - IDAR Summer Intern (RMW) (deadline passed (2026-11-09))",
+      "Johnson & Johnson - IDAR Summer Intern (C&SP) (deadline passed (2026-11-09))",
+      "Johnson & Johnson - IDAR Summer Intern (DM CM) (deadline passed (2026-11-09))"
+    ],
+    "failed": [],
+    "warnings": [],
+    "llm": {},
+    "checks": {
+      "live": 532,
+      "gone": 0,
+      "error": 55
+    }
   }
 ]
