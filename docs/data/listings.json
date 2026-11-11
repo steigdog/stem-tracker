@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-11T15:10:20+00:00",
-  "last_collect": "2026-11-10T18:28:20+00:00",
+  "generated_at": "2026-11-11T18:15:19+00:00",
+  "last_collect": "2026-11-11T18:15:19+00:00",
   "last_verify": "2026-11-11T15:10:20+00:00",
   "sources_monitored": 21,
-  "count": 620,
+  "count": 622,
   "listings": [
     {
       "id": "e9a898b3beb2",
@@ -421,6 +421,112 @@
         {
           "source": "MagLab Research Experiences for Undergraduates (REU)",
           "url": "https://nationalmaglab.org/education/college-students/reu/"
+        }
+      ]
+    },
+    {
+      "id": "c63dafec45eb",
+      "organization": "American Institute of Physics (AIP)",
+      "title": "Society of Physics Students Summer Internship Program",
+      "locations": [
+        "College Park, MD",
+        "Washington, DC"
+      ],
+      "states": [
+        "MD",
+        "DC"
+      ],
+      "remote": null,
+      "opportunity_type": "Industry Internship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-15",
+      "rolling": null,
+      "apply_url": "https://students.aip.org/internships/program-details",
+      "summary": "A 10-week paid internship placing undergraduate physics students in science research, education, and policy roles with organizations in the Washington, DC area.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:57:12+00:00",
+      "last_updated": "2026-11-11T18:15:08+00:00",
+      "last_verified": "2026-11-11T15:10:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://students.aip.org/internships/program-details"
+        }
+      ]
+    },
+    {
+      "id": "8191016d97eb",
+      "organization": "Blue Ocean Society for Marine Conservation",
+      "title": "Whale Research and Marine Science Education Internships",
+      "locations": [
+        "Hampton, NH"
+      ],
+      "states": [
+        "NH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-15",
+      "rolling": null,
+      "apply_url": "http://www.blueoceansociety.org/internships/",
+      "summary": "Interns collect whale data aboard a whale watch vessel or educate the public about Gulf of Maine marine life at the Blue Ocean Discovery Center.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-28T16:58:42+00:00",
+      "last_updated": "2026-11-11T18:15:19+00:00",
+      "last_verified": "2026-11-11T15:10:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.blueoceansociety.org/internships/"
         }
       ]
     },
@@ -2805,6 +2911,52 @@
       ]
     },
     {
+      "id": "55e36cd2e22a",
+      "organization": "Johnson & Johnson",
+      "title": "Software Engineering Co-Op",
+      "locations": [
+        "Danvers, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "Co-op",
+      "seasons": [],
+      "majors": [
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.50/hr to $52.50/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-06-25",
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277",
+      "summary": "Co-op on Abiomed's Applied Science and AI team developing and testing software components for an upcoming class III medical device.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-11-11T18:14:57+00:00",
+      "last_updated": "2026-11-11T18:14:57+00:00",
+      "last_verified": "2026-11-11T18:14:57+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277"
+        }
+      ]
+    },
+    {
       "id": "f2fba0cd92d5",
       "organization": "Johnson & Johnson",
       "title": "DQE Co-Op",
@@ -3545,59 +3697,6 @@
       ]
     },
     {
-      "id": "c63dafec45eb",
-      "organization": "American Institute of Physics (AIP)",
-      "title": "Society of Physics Students Summer Internship Program",
-      "locations": [
-        "College Park, MD",
-        "Washington, DC"
-      ],
-      "states": [
-        "MD",
-        "DC"
-      ],
-      "remote": null,
-      "opportunity_type": "Fellowship",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Physics",
-        "Materials Science"
-      ],
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": null,
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://www.spsnational.org/programs/internships",
-      "summary": "10-week paid internship placing undergraduate physics students in science research, education, and policy roles with organizations in the Washington, DC area.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-10-28T16:57:12+00:00",
-      "last_updated": "2026-10-28T16:57:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://www.spsnational.org/programs/internships"
-        }
-      ]
-    },
-    {
       "id": "b64be235a473",
       "organization": "American Museum of Natural History",
       "title": "REU in Astrophysics, Earth and Planetary Science",
@@ -3788,11 +3887,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://twc.edu/programs/department-of-navy-internship-program",
-      "summary": "A 10-week summer research internship at the Naval Research Laboratory in Washington DC for HBCU/MI undergraduates, with mentor-planned STEM research projects.",
+      "summary": "10-week summer STEM research internship at the Naval Research Laboratory in Washington, DC for HBCU/MI undergraduates, with mentor-planned research projects.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:34+00:00",
-      "last_updated": "2026-10-28T16:57:34+00:00",
+      "last_updated": "2026-11-11T18:15:12+00:00",
       "last_verified": "2026-11-11T15:10:20+00:00",
       "sources": [
         "Pathways to Science"
@@ -4168,11 +4267,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://www.baylor.edu/CASPER/index.php?id=74374",
-      "summary": "Ten-week NSF REU where undergraduates conduct theoretical or experimental research in astrophysics, plasma physics, space physics, and related areas with Baylor faculty.",
+      "summary": "Ten-week NSF REU where undergraduates conduct theoretical or experimental research in astrophysics, plasma physics, space physics, and physics with Baylor faculty.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:21+00:00",
-      "last_updated": "2026-10-28T16:58:21+00:00",
+      "last_updated": "2026-11-11T18:15:16+00:00",
       "last_verified": "2026-11-11T15:10:20+00:00",
       "sources": [
         "Pathways to Science"
@@ -4341,59 +4440,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://blandy.virginia.edu/reuprogram"
-        }
-      ]
-    },
-    {
-      "id": "8191016d97eb",
-      "organization": "Blue Ocean Society for Marine Conservation",
-      "title": "Whale Research and Marine Science Education Internships",
-      "locations": [
-        "Hampton, NH"
-      ],
-      "states": [
-        "NH"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Biology",
-        "Environmental Science"
-      ],
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior",
-        "Graduate student",
-        "Community college"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": null,
-      "paid": null,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "http://www.blueoceansociety.org/internships/",
-      "summary": "Interns collect whale data aboard a whale watch vessel or educate the public and care for aquatic animals at the Blue Ocean Discovery Center on Hampton Beach.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-10-28T16:58:42+00:00",
-      "last_updated": "2026-10-28T16:58:42+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "http://www.blueoceansociety.org/internships/"
         }
       ]
     },
@@ -11357,6 +11403,57 @@
         {
           "source": "Johnson & Johnson",
           "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370"
+        }
+      ]
+    },
+    {
+      "id": "4cdefad252d5",
+      "organization": "Johnson & Johnson",
+      "title": "Medical Affairs Strategy & Execution – Oncology/Bladder Cancer Co-op",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "states": [],
+      "remote": "Remote",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Pharmaceutical Sciences",
+        "Public Health",
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$23.00/hr to $33.00/hr",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Medical-Affairs-Strategy---Execution---Oncology-Bladder-Cancer-Co-op_R-105202-1",
+      "summary": "12-month co-op supporting oncology/bladder cancer Medical Affairs, including scientific communications, HCP engagement, congress support, scientific intelligence, and project tracking.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-11-11T18:15:01+00:00",
+      "last_updated": "2026-11-11T18:15:01+00:00",
+      "last_verified": "2026-11-11T18:15:01+00:00",
+      "sources": [
+        "Johnson & Johnson"
+      ],
+      "links": [
+        {
+          "source": "Johnson & Johnson",
+          "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Medical-Affairs-Strategy---Execution---Oncology-Bladder-Cancer-Co-op_R-105202-1"
         }
       ]
     },
