@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-11T18:15:19+00:00",
+  "generated_at": "2026-11-12T16:00:10+00:00",
   "last_collect": "2026-11-11T18:15:19+00:00",
-  "last_verify": "2026-11-11T15:10:20+00:00",
+  "last_verify": "2026-11-12T16:00:10+00:00",
   "sources_monitored": 21,
-  "count": 622,
+  "count": 621,
   "listings": [
     {
       "id": "e9a898b3beb2",
@@ -40,7 +40,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:19+00:00",
       "last_updated": "2026-11-08T16:54:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Summer Programs for Undergraduate Research (SPUR)"
       ],
@@ -95,7 +95,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:08+00:00",
       "last_updated": "2026-11-04T18:33:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -151,7 +151,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:01:52+00:00",
       "last_updated": "2026-11-04T18:30:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -202,7 +202,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:02+00:00",
       "last_updated": "2026-11-03T18:14:02+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -264,7 +264,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:36+00:00",
       "last_updated": "2026-11-05T18:28:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -317,7 +317,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:51+00:00",
       "last_updated": "2026-11-10T18:26:51+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -362,7 +362,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:14:49+00:00",
       "last_updated": "2026-11-09T21:14:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Summer Undergraduate Research Program"
       ],
@@ -413,7 +413,7 @@
       "sector": "Government / National Lab",
       "first_seen": "2026-11-01T17:00:30+00:00",
       "last_updated": "2026-11-01T17:00:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "MagLab Research Experiences for Undergraduates (REU)"
       ],
@@ -466,7 +466,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:12+00:00",
       "last_updated": "2026-11-11T18:15:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -519,7 +519,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:42+00:00",
       "last_updated": "2026-11-11T18:15:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -575,7 +575,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:51+00:00",
       "last_updated": "2026-11-08T16:54:51+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -630,7 +630,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:17+00:00",
       "last_updated": "2026-11-01T17:01:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -684,7 +684,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:26+00:00",
       "last_updated": "2026-11-08T16:54:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -736,7 +736,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:38+00:00",
       "last_updated": "2026-11-02T20:39:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -789,7 +789,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:41+00:00",
       "last_updated": "2026-11-02T20:39:41+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -843,7 +843,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:45+00:00",
       "last_updated": "2026-11-02T20:39:45+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -898,7 +898,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:42+00:00",
       "last_updated": "2026-11-04T18:33:42+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -944,7 +944,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:00:37+00:00",
       "last_updated": "2026-11-01T17:00:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pitt Public Health Undergraduate Scholars Program (PHUSP)"
       ],
@@ -999,7 +999,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:26+00:00",
       "last_updated": "2026-10-29T17:15:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1043,7 +1043,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:03+00:00",
       "last_updated": "2026-11-08T16:54:03+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Research Experiences for Undergraduates (REU)"
       ],
@@ -1100,7 +1100,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:19+00:00",
       "last_updated": "2026-11-08T16:54:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Summer Programs for Undergraduate Research (SPUR)"
       ],
@@ -1146,7 +1146,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:12+00:00",
       "last_updated": "2026-11-08T16:54:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Undergraduate Research in Astronomy (REU)"
       ],
@@ -1204,7 +1204,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:33+00:00",
       "last_updated": "2026-11-09T21:15:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1258,7 +1258,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:00:49+00:00",
       "last_updated": "2026-11-01T17:00:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "NSF REU at LRSM"
       ],
@@ -1313,7 +1313,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:02+00:00",
       "last_updated": "2026-10-28T16:58:02+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1363,7 +1363,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:40+00:00",
       "last_updated": "2026-11-08T16:54:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1413,7 +1413,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:00+00:00",
       "last_updated": "2026-11-09T21:15:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1464,7 +1464,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:49+00:00",
       "last_updated": "2026-10-30T16:56:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1513,7 +1513,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:08+00:00",
       "last_updated": "2026-11-08T16:54:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Summer Research Experience for Undergraduates (REU)"
       ],
@@ -1563,7 +1563,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:25:59+00:00",
       "last_updated": "2026-11-10T18:25:59+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1618,7 +1618,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:17:04+00:00",
       "last_updated": "2026-10-29T17:17:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1671,7 +1671,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:44+00:00",
       "last_updated": "2026-10-30T16:56:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1726,7 +1726,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:30+00:00",
       "last_updated": "2026-11-02T20:38:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1780,7 +1780,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:38+00:00",
       "last_updated": "2026-11-04T18:33:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1835,7 +1835,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:25+00:00",
       "last_updated": "2026-11-07T16:44:25+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1894,7 +1894,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:44+00:00",
       "last_updated": "2026-11-10T18:27:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -1948,7 +1948,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:47+00:00",
       "last_updated": "2026-11-10T18:27:47+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2002,7 +2002,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:17:06+00:00",
       "last_updated": "2026-11-09T21:17:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2057,7 +2057,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:12+00:00",
       "last_updated": "2026-11-10T18:26:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2113,7 +2113,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:36+00:00",
       "last_updated": "2026-11-08T16:54:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2169,7 +2169,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:40+00:00",
       "last_updated": "2026-11-07T16:45:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2223,7 +2223,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:05+00:00",
       "last_updated": "2026-11-10T18:27:05+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2271,7 +2271,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:53:57+00:00",
       "last_updated": "2026-11-08T16:53:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Undergraduate Summer Research Program"
       ],
@@ -2323,7 +2323,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:56+00:00",
       "last_updated": "2026-11-09T21:15:56+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2382,7 +2382,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:19+00:00",
       "last_updated": "2026-10-29T17:16:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2434,7 +2434,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:14:28+00:00",
       "last_updated": "2026-10-29T17:14:28+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2486,7 +2486,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:14:48+00:00",
       "last_updated": "2026-10-29T17:14:48+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2535,7 +2535,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:00:34+00:00",
       "last_updated": "2026-11-10T18:25:42+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "CNMB Research Experiences for Undergraduates"
       ],
@@ -2593,7 +2593,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:52+00:00",
       "last_updated": "2026-11-05T18:28:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2649,7 +2649,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:13+00:00",
       "last_updated": "2026-11-01T17:01:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2702,7 +2702,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:32+00:00",
       "last_updated": "2026-10-28T16:58:32+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -2899,7 +2899,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-11-09T21:14:33+00:00",
       "last_updated": "2026-11-09T21:14:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -2945,7 +2945,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-11-11T18:14:57+00:00",
       "last_updated": "2026-11-11T18:14:57+00:00",
-      "last_verified": "2026-11-11T18:14:57+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -3090,7 +3090,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:00:54+00:00",
       "last_updated": "2026-11-04T18:31:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -3143,7 +3143,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:02:15+00:00",
       "last_updated": "2026-10-28T17:02:15+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -3368,7 +3368,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:00:16+00:00",
       "last_updated": "2026-11-04T18:31:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -3424,7 +3424,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:56:22+00:00",
       "last_updated": "2026-10-28T16:56:22+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3479,7 +3479,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:56:26+00:00",
       "last_updated": "2026-10-28T16:56:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3531,7 +3531,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:56:55+00:00",
       "last_updated": "2026-10-28T16:56:55+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3581,7 +3581,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:01+00:00",
       "last_updated": "2026-10-28T16:57:01+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3631,7 +3631,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:05+00:00",
       "last_updated": "2026-10-28T16:57:05+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3685,7 +3685,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:09+00:00",
       "last_updated": "2026-10-28T16:57:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3737,7 +3737,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:19+00:00",
       "last_updated": "2026-10-28T16:57:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3788,7 +3788,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:25+00:00",
       "last_updated": "2026-10-28T16:57:25+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3841,7 +3841,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:28+00:00",
       "last_updated": "2026-10-28T16:57:28+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3892,7 +3892,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:34+00:00",
       "last_updated": "2026-11-11T18:15:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3946,7 +3946,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:42+00:00",
       "last_updated": "2026-10-28T16:57:42+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -3999,7 +3999,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:52+00:00",
       "last_updated": "2026-10-28T16:57:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4053,7 +4053,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:58+00:00",
       "last_updated": "2026-10-28T16:57:58+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4106,7 +4106,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:40+00:00",
       "last_updated": "2026-10-31T15:59:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4166,7 +4166,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:06+00:00",
       "last_updated": "2026-10-28T16:58:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4221,7 +4221,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:18+00:00",
       "last_updated": "2026-10-28T16:58:18+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4272,7 +4272,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:21+00:00",
       "last_updated": "2026-11-11T18:15:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4326,7 +4326,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:35+00:00",
       "last_updated": "2026-10-28T16:58:35+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4380,7 +4380,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:38+00:00",
       "last_updated": "2026-10-28T16:58:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4432,7 +4432,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:54+00:00",
       "last_updated": "2026-10-31T15:59:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4479,7 +4479,7 @@
       "sector": "Aerospace & Defense",
       "first_seen": "2026-11-01T17:00:46+00:00",
       "last_updated": "2026-11-01T17:00:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate"
       ],
@@ -4536,7 +4536,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:49+00:00",
       "last_updated": "2026-10-28T16:58:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4592,7 +4592,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:14:32+00:00",
       "last_updated": "2026-10-29T17:14:32+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4649,7 +4649,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:14:36+00:00",
       "last_updated": "2026-10-29T17:14:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4700,7 +4700,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:14:39+00:00",
       "last_updated": "2026-10-29T17:14:39+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4748,7 +4748,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:14:43+00:00",
       "last_updated": "2026-10-29T17:14:43+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4802,7 +4802,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:14:51+00:00",
       "last_updated": "2026-10-29T17:14:51+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4857,7 +4857,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:14:57+00:00",
       "last_updated": "2026-10-29T17:14:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4914,7 +4914,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:14:54+00:00",
       "last_updated": "2026-10-29T17:14:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -4969,7 +4969,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:00+00:00",
       "last_updated": "2026-10-29T17:15:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5021,7 +5021,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:04+00:00",
       "last_updated": "2026-10-29T17:15:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5072,7 +5072,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:13+00:00",
       "last_updated": "2026-10-29T17:15:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5125,7 +5125,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:18+00:00",
       "last_updated": "2026-10-29T17:15:18+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5176,7 +5176,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:22+00:00",
       "last_updated": "2026-10-29T17:15:22+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5229,7 +5229,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:29+00:00",
       "last_updated": "2026-10-29T17:15:29+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5285,7 +5285,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:38+00:00",
       "last_updated": "2026-10-29T17:15:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5344,7 +5344,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:46+00:00",
       "last_updated": "2026-10-29T17:15:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5393,7 +5393,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:53+00:00",
       "last_updated": "2026-10-29T17:15:53+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5443,7 +5443,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:00+00:00",
       "last_updated": "2026-10-29T17:16:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5498,7 +5498,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:27+00:00",
       "last_updated": "2026-10-29T17:16:27+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5554,7 +5554,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:30+00:00",
       "last_updated": "2026-10-29T17:16:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5608,7 +5608,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:34+00:00",
       "last_updated": "2026-10-29T17:16:34+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5660,7 +5660,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:33+00:00",
       "last_updated": "2026-10-31T15:59:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5706,7 +5706,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:38+00:00",
       "last_updated": "2026-10-29T17:16:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5765,7 +5765,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:46+00:00",
       "last_updated": "2026-11-09T21:15:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5821,7 +5821,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:53+00:00",
       "last_updated": "2026-10-29T17:16:53+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5874,7 +5874,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:49+00:00",
       "last_updated": "2026-10-29T17:16:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5929,7 +5929,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:22+00:00",
       "last_updated": "2026-11-06T17:49:22+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -5979,7 +5979,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:56+00:00",
       "last_updated": "2026-10-29T17:16:56+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6039,7 +6039,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:17:08+00:00",
       "last_updated": "2026-10-29T17:17:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6099,7 +6099,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:11+00:00",
       "last_updated": "2026-10-30T16:55:11+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6154,7 +6154,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:18+00:00",
       "last_updated": "2026-10-30T16:55:18+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6207,7 +6207,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:21+00:00",
       "last_updated": "2026-10-30T16:55:21+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6256,7 +6256,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:28+00:00",
       "last_updated": "2026-10-30T16:55:28+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6312,7 +6312,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:37+00:00",
       "last_updated": "2026-10-30T16:55:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6358,7 +6358,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:40+00:00",
       "last_updated": "2026-10-30T16:55:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6409,7 +6409,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:44+00:00",
       "last_updated": "2026-10-30T16:55:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6460,7 +6460,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:47+00:00",
       "last_updated": "2026-10-30T16:55:47+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6509,7 +6509,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:54+00:00",
       "last_updated": "2026-10-30T16:55:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6561,7 +6561,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:51+00:00",
       "last_updated": "2026-10-30T16:55:51+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6612,7 +6612,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:15:01+00:00",
       "last_updated": "2026-11-03T18:15:01+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6669,7 +6669,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:01+00:00",
       "last_updated": "2026-10-30T16:56:01+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6726,7 +6726,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:09+00:00",
       "last_updated": "2026-10-30T16:56:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6778,7 +6778,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:13+00:00",
       "last_updated": "2026-10-30T16:56:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6830,7 +6830,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:22+00:00",
       "last_updated": "2026-10-30T16:56:22+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6882,7 +6882,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:29+00:00",
       "last_updated": "2026-10-30T16:56:29+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6936,7 +6936,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:33+00:00",
       "last_updated": "2026-10-30T16:56:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -6988,7 +6988,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:37+00:00",
       "last_updated": "2026-10-30T16:56:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7037,7 +7037,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:40+00:00",
       "last_updated": "2026-10-30T16:56:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7089,7 +7089,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:57+00:00",
       "last_updated": "2026-10-30T16:56:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7137,7 +7137,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:31+00:00",
       "last_updated": "2026-10-28T16:57:31+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7191,7 +7191,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:02+00:00",
       "last_updated": "2026-10-30T16:57:02+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7242,7 +7242,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:16+00:00",
       "last_updated": "2026-10-30T16:57:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7293,7 +7293,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:19+00:00",
       "last_updated": "2026-10-30T16:57:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7345,7 +7345,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:33+00:00",
       "last_updated": "2026-10-30T16:57:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7395,7 +7395,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:40+00:00",
       "last_updated": "2026-10-30T16:57:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7449,7 +7449,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:57:45+00:00",
       "last_updated": "2026-10-31T15:57:45+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7503,7 +7503,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:57:52+00:00",
       "last_updated": "2026-10-31T15:57:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7561,7 +7561,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:57:59+00:00",
       "last_updated": "2026-10-31T15:57:59+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7616,7 +7616,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:16+00:00",
       "last_updated": "2026-10-31T15:58:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7673,7 +7673,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:20+00:00",
       "last_updated": "2026-10-31T15:58:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7725,7 +7725,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:24+00:00",
       "last_updated": "2026-10-31T15:58:24+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7778,7 +7778,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:36+00:00",
       "last_updated": "2026-10-31T15:58:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7828,7 +7828,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:57:55+00:00",
       "last_updated": "2026-10-31T15:57:55+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7886,7 +7886,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:44+00:00",
       "last_updated": "2026-10-31T15:58:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -7946,7 +7946,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:48+00:00",
       "last_updated": "2026-10-31T15:58:48+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8000,7 +8000,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:51+00:00",
       "last_updated": "2026-10-31T15:58:51+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8053,7 +8053,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:55+00:00",
       "last_updated": "2026-10-31T15:58:55+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8106,7 +8106,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:02+00:00",
       "last_updated": "2026-10-31T15:59:02+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8160,7 +8160,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:12+00:00",
       "last_updated": "2026-10-31T15:59:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8215,7 +8215,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:23+00:00",
       "last_updated": "2026-10-31T15:59:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8270,7 +8270,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:27+00:00",
       "last_updated": "2026-10-31T15:59:27+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8323,7 +8323,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:37+00:00",
       "last_updated": "2026-10-31T15:59:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8380,7 +8380,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:44+00:00",
       "last_updated": "2026-10-31T15:59:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8430,7 +8430,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:51+00:00",
       "last_updated": "2026-10-31T15:59:51+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8483,7 +8483,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T16:00:01+00:00",
       "last_updated": "2026-10-31T16:00:01+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8538,7 +8538,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:45+00:00",
       "last_updated": "2026-10-28T16:58:45+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8593,7 +8593,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T16:00:14+00:00",
       "last_updated": "2026-10-31T16:00:14+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8647,7 +8647,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T16:00:04+00:00",
       "last_updated": "2026-10-31T16:00:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8696,7 +8696,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T16:00:08+00:00",
       "last_updated": "2026-10-31T16:00:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8752,7 +8752,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T16:00:18+00:00",
       "last_updated": "2026-10-31T16:00:18+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8807,7 +8807,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:00:52+00:00",
       "last_updated": "2026-11-01T17:00:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8862,7 +8862,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:01+00:00",
       "last_updated": "2026-11-01T17:01:01+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8911,7 +8911,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:20+00:00",
       "last_updated": "2026-11-01T17:01:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -8967,7 +8967,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:23+00:00",
       "last_updated": "2026-11-01T17:01:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -10418,7 +10418,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:00:01+00:00",
       "last_updated": "2026-11-04T18:31:34+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -11137,7 +11137,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:01:33+00:00",
       "last_updated": "2026-11-04T18:32:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -11240,7 +11240,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:02:38+00:00",
       "last_updated": "2026-10-28T17:02:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -11344,7 +11344,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-30T16:54:44+00:00",
       "last_updated": "2026-10-30T16:54:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -11446,7 +11446,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-11-11T18:15:01+00:00",
       "last_updated": "2026-11-11T18:15:01+00:00",
-      "last_verified": "2026-11-11T18:15:01+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Johnson & Johnson"
       ],
@@ -11593,7 +11593,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:38+00:00",
       "last_updated": "2026-11-01T17:01:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -11648,7 +11648,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:41+00:00",
       "last_updated": "2026-11-01T17:01:41+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -11699,7 +11699,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:48+00:00",
       "last_updated": "2026-11-01T17:01:48+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -11753,7 +11753,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:27+00:00",
       "last_updated": "2026-11-01T17:01:27+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -11807,7 +11807,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:53+00:00",
       "last_updated": "2026-11-01T17:01:53+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -11860,7 +11860,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:12+00:00",
       "last_updated": "2026-10-28T16:58:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -11919,7 +11919,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:04+00:00",
       "last_updated": "2026-11-01T17:02:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -11975,7 +11975,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:09+00:00",
       "last_updated": "2026-11-01T17:02:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12030,7 +12030,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:12+00:00",
       "last_updated": "2026-11-01T17:02:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12086,7 +12086,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:16+00:00",
       "last_updated": "2026-11-01T17:02:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12139,7 +12139,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:19+00:00",
       "last_updated": "2026-11-01T17:02:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12191,7 +12191,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:20+00:00",
       "last_updated": "2026-11-02T20:39:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12239,7 +12239,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:23+00:00",
       "last_updated": "2026-11-01T17:02:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12296,7 +12296,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:57+00:00",
       "last_updated": "2026-11-01T17:02:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12351,7 +12351,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:26+00:00",
       "last_updated": "2026-11-01T17:02:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12401,7 +12401,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:33+00:00",
       "last_updated": "2026-11-01T17:02:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12454,7 +12454,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:37+00:00",
       "last_updated": "2026-11-01T17:02:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12506,7 +12506,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:40+00:00",
       "last_updated": "2026-11-01T17:02:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12556,7 +12556,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:43+00:00",
       "last_updated": "2026-11-01T17:02:43+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12609,7 +12609,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:20+00:00",
       "last_updated": "2026-10-31T15:59:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12663,7 +12663,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:49+00:00",
       "last_updated": "2026-11-01T17:02:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12715,7 +12715,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:52+00:00",
       "last_updated": "2026-11-01T17:02:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12769,7 +12769,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:03:00+00:00",
       "last_updated": "2026-11-01T17:03:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12821,7 +12821,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:03:04+00:00",
       "last_updated": "2026-11-01T17:03:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12875,7 +12875,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:03:07+00:00",
       "last_updated": "2026-11-01T17:03:07+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12929,7 +12929,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:03:11+00:00",
       "last_updated": "2026-11-01T17:03:11+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -12982,7 +12982,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:37:54+00:00",
       "last_updated": "2026-11-02T20:37:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -13033,7 +13033,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:37:59+00:00",
       "last_updated": "2026-11-02T20:37:59+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -13086,7 +13086,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:07+00:00",
       "last_updated": "2026-11-02T20:38:07+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -13138,7 +13138,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:14+00:00",
       "last_updated": "2026-11-02T20:38:14+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -13190,7 +13190,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:17+00:00",
       "last_updated": "2026-11-02T20:38:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -13244,7 +13244,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:21+00:00",
       "last_updated": "2026-11-02T20:38:21+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -13298,7 +13298,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:26+00:00",
       "last_updated": "2026-11-02T20:38:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -13351,7 +13351,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:35+00:00",
       "last_updated": "2026-11-02T20:38:35+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -13402,7 +13402,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:38+00:00",
       "last_updated": "2026-11-02T20:38:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -13453,7 +13453,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:43:49+00:00",
       "last_updated": "2026-11-04T18:27:55+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13501,7 +13501,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:43:53+00:00",
       "last_updated": "2026-11-04T18:27:59+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13547,7 +13547,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:43:57+00:00",
       "last_updated": "2026-11-04T18:28:03+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13596,7 +13596,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:00+00:00",
       "last_updated": "2026-11-04T18:28:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13644,7 +13644,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:08+00:00",
       "last_updated": "2026-11-04T18:28:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13694,7 +13694,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:12+00:00",
       "last_updated": "2026-11-04T18:28:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13749,7 +13749,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:17+00:00",
       "last_updated": "2026-10-27T22:44:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13805,7 +13805,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:21+00:00",
       "last_updated": "2026-10-27T22:44:21+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13853,7 +13853,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:25+00:00",
       "last_updated": "2026-11-04T18:28:24+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13908,7 +13908,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:30+00:00",
       "last_updated": "2026-10-27T22:44:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -13960,7 +13960,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:34+00:00",
       "last_updated": "2026-10-27T22:44:34+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14011,7 +14011,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:38+00:00",
       "last_updated": "2026-11-04T18:28:43+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14066,7 +14066,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:42+00:00",
       "last_updated": "2026-11-04T18:28:32+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14119,7 +14119,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:46+00:00",
       "last_updated": "2026-11-04T18:28:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14169,7 +14169,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:50+00:00",
       "last_updated": "2026-11-04T18:28:39+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14220,7 +14220,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:58+00:00",
       "last_updated": "2026-11-04T18:28:47+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14269,7 +14269,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:01+00:00",
       "last_updated": "2026-11-04T18:28:50+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14319,7 +14319,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:05+00:00",
       "last_updated": "2026-11-04T18:28:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14415,7 +14415,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:13+00:00",
       "last_updated": "2026-11-04T18:29:02+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14463,7 +14463,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:17+00:00",
       "last_updated": "2026-11-04T18:29:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14514,7 +14514,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:21+00:00",
       "last_updated": "2026-11-04T18:29:10+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14564,7 +14564,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:24+00:00",
       "last_updated": "2026-11-04T18:29:14+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14664,7 +14664,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:32+00:00",
       "last_updated": "2026-11-04T18:29:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14715,7 +14715,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:36+00:00",
       "last_updated": "2026-11-04T18:29:27+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14817,7 +14817,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:51+00:00",
       "last_updated": "2026-11-04T18:29:50+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14868,7 +14868,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:00+00:00",
       "last_updated": "2026-11-04T18:29:59+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14916,7 +14916,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:04+00:00",
       "last_updated": "2026-11-04T18:30:03+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -14967,7 +14967,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:08+00:00",
       "last_updated": "2026-11-04T18:30:07+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -15017,7 +15017,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:12+00:00",
       "last_updated": "2026-11-04T18:30:11+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -15066,7 +15066,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:16+00:00",
       "last_updated": "2026-11-04T18:30:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -15115,7 +15115,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:20+00:00",
       "last_updated": "2026-11-04T18:30:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -15163,7 +15163,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-11-04T18:30:23+00:00",
       "last_updated": "2026-11-10T18:25:55+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -15216,7 +15216,7 @@
       "sector": "Biotech/Pharma",
       "first_seen": "2026-11-10T18:25:52+00:00",
       "last_updated": "2026-11-10T18:25:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
       ],
@@ -15273,7 +15273,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:42+00:00",
       "last_updated": "2026-11-02T20:38:42+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15326,7 +15326,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:49+00:00",
       "last_updated": "2026-11-02T20:38:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15383,7 +15383,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:53+00:00",
       "last_updated": "2026-11-02T20:38:53+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15436,7 +15436,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:57+00:00",
       "last_updated": "2026-11-02T20:38:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15487,7 +15487,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:00+00:00",
       "last_updated": "2026-11-02T20:39:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15539,7 +15539,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:03+00:00",
       "last_updated": "2026-11-02T20:39:03+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15591,7 +15591,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:07+00:00",
       "last_updated": "2026-11-02T20:39:07+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15647,7 +15647,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:11+00:00",
       "last_updated": "2026-11-02T20:39:11+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15700,7 +15700,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:17+00:00",
       "last_updated": "2026-11-02T20:39:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15756,7 +15756,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:30+00:00",
       "last_updated": "2026-11-02T20:39:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15809,7 +15809,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:38+00:00",
       "last_updated": "2026-10-28T16:57:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15862,7 +15862,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:56+00:00",
       "last_updated": "2026-11-01T17:01:56+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15921,7 +15921,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:08+00:00",
       "last_updated": "2026-10-31T15:58:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -15978,7 +15978,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:34+00:00",
       "last_updated": "2026-11-02T20:39:34+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16035,7 +16035,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:53+00:00",
       "last_updated": "2026-11-02T20:39:53+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16084,7 +16084,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:40:04+00:00",
       "last_updated": "2026-11-02T20:40:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16135,7 +16135,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:40:07+00:00",
       "last_updated": "2026-11-02T20:40:07+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16185,7 +16185,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:13+00:00",
       "last_updated": "2026-10-30T16:57:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16235,7 +16235,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:40:10+00:00",
       "last_updated": "2026-11-02T20:40:10+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16289,7 +16289,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:40:13+00:00",
       "last_updated": "2026-11-02T20:40:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16339,7 +16339,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:40:17+00:00",
       "last_updated": "2026-11-02T20:40:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16393,7 +16393,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:12:54+00:00",
       "last_updated": "2026-11-03T18:12:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16445,7 +16445,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:00+00:00",
       "last_updated": "2026-11-03T18:13:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16498,7 +16498,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:05+00:00",
       "last_updated": "2026-11-03T18:13:05+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16552,7 +16552,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:09+00:00",
       "last_updated": "2026-11-03T18:13:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16609,7 +16609,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:13+00:00",
       "last_updated": "2026-11-03T18:13:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16660,7 +16660,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:21+00:00",
       "last_updated": "2026-11-03T18:13:21+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16713,7 +16713,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:17+00:00",
       "last_updated": "2026-11-03T18:13:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16761,7 +16761,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:25+00:00",
       "last_updated": "2026-11-03T18:13:25+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16815,7 +16815,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:53+00:00",
       "last_updated": "2026-10-30T16:56:53+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16861,7 +16861,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:29+00:00",
       "last_updated": "2026-11-03T18:13:29+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16914,7 +16914,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:33+00:00",
       "last_updated": "2026-11-03T18:13:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -16968,7 +16968,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:00:58+00:00",
       "last_updated": "2026-11-01T17:00:58+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17024,7 +17024,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:36+00:00",
       "last_updated": "2026-11-03T18:13:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17076,7 +17076,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:40+00:00",
       "last_updated": "2026-11-03T18:13:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17132,7 +17132,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:45+00:00",
       "last_updated": "2026-11-03T18:13:45+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17187,7 +17187,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:51+00:00",
       "last_updated": "2026-11-03T18:13:51+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17241,7 +17241,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:54+00:00",
       "last_updated": "2026-11-03T18:13:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17298,7 +17298,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:13:58+00:00",
       "last_updated": "2026-11-03T18:13:58+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17352,7 +17352,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:22+00:00",
       "last_updated": "2026-11-03T18:14:22+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17405,7 +17405,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:12:49+00:00",
       "last_updated": "2026-11-03T18:12:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17461,7 +17461,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:26+00:00",
       "last_updated": "2026-11-03T18:14:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17511,7 +17511,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:36+00:00",
       "last_updated": "2026-11-03T18:14:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17566,7 +17566,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:41+00:00",
       "last_updated": "2026-11-03T18:14:41+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17618,7 +17618,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:45+00:00",
       "last_updated": "2026-11-03T18:14:45+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17669,7 +17669,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:48+00:00",
       "last_updated": "2026-11-03T18:14:48+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17723,7 +17723,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:40:20+00:00",
       "last_updated": "2026-11-02T20:40:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17780,7 +17780,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:52+00:00",
       "last_updated": "2026-11-03T18:14:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17837,7 +17837,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:57+00:00",
       "last_updated": "2026-11-03T18:14:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17889,7 +17889,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:15:09+00:00",
       "last_updated": "2026-11-03T18:15:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17940,7 +17940,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:15:12+00:00",
       "last_updated": "2026-11-03T18:15:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -17992,7 +17992,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:15:16+00:00",
       "last_updated": "2026-11-03T18:15:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18051,7 +18051,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:15:20+00:00",
       "last_updated": "2026-11-03T18:15:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18103,7 +18103,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:15:27+00:00",
       "last_updated": "2026-11-03T18:15:27+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18158,7 +18158,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:15:30+00:00",
       "last_updated": "2026-11-03T18:15:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18212,7 +18212,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:32:44+00:00",
       "last_updated": "2026-11-04T18:32:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18272,7 +18272,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:15:57+00:00",
       "last_updated": "2026-10-29T17:15:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18324,7 +18324,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:32:48+00:00",
       "last_updated": "2026-11-04T18:32:48+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18374,7 +18374,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:32:51+00:00",
       "last_updated": "2026-11-04T18:32:51+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18426,7 +18426,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:32:57+00:00",
       "last_updated": "2026-11-04T18:32:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18472,7 +18472,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:00+00:00",
       "last_updated": "2026-11-04T18:33:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18522,7 +18522,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:11+00:00",
       "last_updated": "2026-11-04T18:33:11+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18575,7 +18575,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:15+00:00",
       "last_updated": "2026-11-04T18:33:15+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18632,7 +18632,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:18+00:00",
       "last_updated": "2026-11-04T18:33:18+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18686,7 +18686,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:27+00:00",
       "last_updated": "2026-11-04T18:33:27+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18738,7 +18738,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:31+00:00",
       "last_updated": "2026-11-04T18:33:31+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18792,7 +18792,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:35+00:00",
       "last_updated": "2026-11-04T18:33:35+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18846,7 +18846,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:46+00:00",
       "last_updated": "2026-11-04T18:33:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18903,7 +18903,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:50+00:00",
       "last_updated": "2026-11-04T18:33:50+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -18958,7 +18958,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:54+00:00",
       "last_updated": "2026-11-04T18:33:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19013,7 +19013,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:58+00:00",
       "last_updated": "2026-11-04T18:33:58+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19069,7 +19069,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:00+00:00",
       "last_updated": "2026-11-01T17:02:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19122,7 +19122,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:27+00:00",
       "last_updated": "2026-11-02T20:39:27+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19174,7 +19174,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:26:26+00:00",
       "last_updated": "2026-11-05T18:26:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19228,7 +19228,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:26:32+00:00",
       "last_updated": "2026-11-05T18:26:32+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19278,7 +19278,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:09+00:00",
       "last_updated": "2026-10-31T15:59:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19332,7 +19332,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:26+00:00",
       "last_updated": "2026-10-30T16:56:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19393,7 +19393,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:57+00:00",
       "last_updated": "2026-11-02T20:39:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19447,7 +19447,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:47+00:00",
       "last_updated": "2026-10-31T15:59:47+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19499,7 +19499,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:26:39+00:00",
       "last_updated": "2026-11-05T18:26:39+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19554,7 +19554,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:26:43+00:00",
       "last_updated": "2026-11-05T18:26:43+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19606,7 +19606,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:26:46+00:00",
       "last_updated": "2026-11-05T18:26:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19664,7 +19664,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:26:53+00:00",
       "last_updated": "2026-11-05T18:26:53+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19724,7 +19724,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:26:57+00:00",
       "last_updated": "2026-11-05T18:26:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19777,7 +19777,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:01+00:00",
       "last_updated": "2026-11-05T18:27:01+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -19833,7 +19833,7 @@
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:42:54+00:00",
       "last_updated": "2026-11-04T18:26:31+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
       ],
@@ -19900,7 +19900,7 @@
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:42:58+00:00",
       "last_updated": "2026-11-04T18:26:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
       ],
@@ -19965,7 +19965,7 @@
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:07+00:00",
       "last_updated": "2026-11-04T18:26:41+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
       ],
@@ -20020,7 +20020,7 @@
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:11+00:00",
       "last_updated": "2026-11-04T18:26:45+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
       ],
@@ -20076,7 +20076,7 @@
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:28+00:00",
       "last_updated": "2026-11-04T18:27:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
       ],
@@ -20150,7 +20150,7 @@
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:33+00:00",
       "last_updated": "2026-11-04T18:27:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
       ],
@@ -20215,7 +20215,7 @@
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:37+00:00",
       "last_updated": "2026-11-04T18:27:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
       ],
@@ -20270,7 +20270,7 @@
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:41+00:00",
       "last_updated": "2026-11-04T18:27:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
       ],
@@ -20327,7 +20327,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:05+00:00",
       "last_updated": "2026-11-05T18:27:05+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20380,7 +20380,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:08+00:00",
       "last_updated": "2026-11-05T18:27:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20436,7 +20436,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:12+00:00",
       "last_updated": "2026-11-05T18:27:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20487,7 +20487,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:16+00:00",
       "last_updated": "2026-11-05T18:27:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20540,7 +20540,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:19+00:00",
       "last_updated": "2026-11-05T18:27:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20593,7 +20593,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:26+00:00",
       "last_updated": "2026-11-05T18:27:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20643,7 +20643,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:30+00:00",
       "last_updated": "2026-11-05T18:27:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20697,7 +20697,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:34+00:00",
       "last_updated": "2026-11-05T18:27:34+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20751,7 +20751,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:38+00:00",
       "last_updated": "2026-11-05T18:27:38+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20804,7 +20804,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:41+00:00",
       "last_updated": "2026-11-05T18:27:41+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20853,7 +20853,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:46+00:00",
       "last_updated": "2026-11-05T18:27:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20906,7 +20906,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:50+00:00",
       "last_updated": "2026-11-05T18:27:50+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -20957,7 +20957,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:57+00:00",
       "last_updated": "2026-11-05T18:27:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21012,7 +21012,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:00+00:00",
       "last_updated": "2026-11-05T18:28:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21061,7 +21061,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:04+00:00",
       "last_updated": "2026-11-05T18:28:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21114,7 +21114,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:07+00:00",
       "last_updated": "2026-11-05T18:28:07+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21164,7 +21164,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:11+00:00",
       "last_updated": "2026-11-05T18:28:11+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21221,7 +21221,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:15+00:00",
       "last_updated": "2026-11-05T18:28:15+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21278,7 +21278,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:25+00:00",
       "last_updated": "2026-11-05T18:28:25+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21336,7 +21336,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:06+00:00",
       "last_updated": "2026-11-03T18:14:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21389,7 +21389,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:37+00:00",
       "last_updated": "2026-10-30T16:57:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21438,7 +21438,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:00:26+00:00",
       "last_updated": "2026-11-01T17:00:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Summer Undergraduate Research Diversity Program (SURD)"
       ],
@@ -21484,7 +21484,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:19+00:00",
       "last_updated": "2026-11-08T16:54:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Summer Programs for Undergraduate Research (SPUR)"
       ],
@@ -21537,7 +21537,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:27+00:00",
       "last_updated": "2026-10-30T16:57:27+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21596,7 +21596,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:40+00:00",
       "last_updated": "2026-10-31T15:58:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21660,7 +21660,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:56:40+00:00",
       "last_updated": "2026-10-28T16:56:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21714,7 +21714,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:49+00:00",
       "last_updated": "2026-11-05T18:28:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21764,7 +21764,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:56:45+00:00",
       "last_updated": "2026-10-28T16:56:45+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21817,7 +21817,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:55+00:00",
       "last_updated": "2026-11-05T18:28:55+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21863,7 +21863,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:47:31+00:00",
       "last_updated": "2026-11-06T17:47:31+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21917,7 +21917,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:56:52+00:00",
       "last_updated": "2026-10-28T16:56:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -21972,7 +21972,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:47:35+00:00",
       "last_updated": "2026-11-06T17:47:35+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22025,7 +22025,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:47:39+00:00",
       "last_updated": "2026-11-06T17:47:39+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22082,7 +22082,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:48+00:00",
       "last_updated": "2026-10-28T16:57:48+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22138,7 +22138,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:58+00:00",
       "last_updated": "2026-10-31T15:59:58+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22191,7 +22191,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:47:42+00:00",
       "last_updated": "2026-11-06T17:47:42+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22243,7 +22243,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:47:46+00:00",
       "last_updated": "2026-11-06T17:47:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22299,7 +22299,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:57:16+00:00",
       "last_updated": "2026-10-28T16:57:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22353,7 +22353,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:32+00:00",
       "last_updated": "2026-10-30T16:55:32+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22361,62 +22361,6 @@
         {
           "source": "Pathways to Science",
           "url": "http://lasers.colostate.edu/research-experience-for-undergraduate-students/"
-        }
-      ]
-    },
-    {
-      "id": "53a3d314dced",
-      "organization": "University of California, Berkeley",
-      "title": "NHERI REU in Multi-Hazards Research",
-      "locations": [
-        "Berkeley, CA"
-      ],
-      "states": [
-        "CA"
-      ],
-      "remote": "Hybrid",
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Engineering-Civil/Environmental",
-        "Engineering-Electrical",
-        "Environmental Science",
-        "Engineering-Mechanical",
-        "Engineering-Industrial"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior",
-        "Senior",
-        "Community college"
-      ],
-      "min_gpa": null,
-      "citizenship": "US citizen or permanent resident",
-      "export_control": null,
-      "pay": "$6000 stipend",
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://www.designsafe-ci.org/learning-center/reu/overview/",
-      "summary": "10-week NSF-funded summer research program in multi-hazard engineering, reconnaissance, cyberinfrastructure, simulation, and social science research on natural hazard mitigation.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-10-31T15:58:04+00:00",
-      "last_updated": "2026-10-31T15:58:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://www.designsafe-ci.org/learning-center/reu/overview/"
         }
       ]
     },
@@ -22467,7 +22411,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:47:56+00:00",
       "last_updated": "2026-11-06T17:47:56+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22519,7 +22463,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:00+00:00",
       "last_updated": "2026-11-06T17:48:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22571,7 +22515,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:03+00:00",
       "last_updated": "2026-11-06T17:48:03+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22624,7 +22568,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:10+00:00",
       "last_updated": "2026-11-06T17:48:10+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22677,7 +22621,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:14+00:00",
       "last_updated": "2026-11-06T17:48:14+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22730,7 +22674,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:56:18+00:00",
       "last_updated": "2026-10-28T16:56:18+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22787,7 +22731,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:18+00:00",
       "last_updated": "2026-11-06T17:48:18+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22840,7 +22784,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:16+00:00",
       "last_updated": "2026-10-30T16:56:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22892,7 +22836,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:23+00:00",
       "last_updated": "2026-11-02T20:39:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -22947,7 +22891,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:25+00:00",
       "last_updated": "2026-11-06T17:48:25+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23000,7 +22944,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:33:04+00:00",
       "last_updated": "2026-11-04T18:33:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23060,7 +23004,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:28+00:00",
       "last_updated": "2026-11-06T17:48:28+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23117,7 +23061,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:46+00:00",
       "last_updated": "2026-11-01T17:02:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23170,7 +23114,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:32+00:00",
       "last_updated": "2026-11-06T17:48:32+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23228,7 +23172,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:36+00:00",
       "last_updated": "2026-11-06T17:48:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23284,7 +23228,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:46+00:00",
       "last_updated": "2026-11-06T17:48:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23338,7 +23282,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:49+00:00",
       "last_updated": "2026-11-06T17:48:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23391,7 +23335,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:52+00:00",
       "last_updated": "2026-11-06T17:48:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23445,7 +23389,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:55+00:00",
       "last_updated": "2026-11-06T17:48:55+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23500,7 +23444,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:59+00:00",
       "last_updated": "2026-11-06T17:48:59+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23551,7 +23495,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:26:50+00:00",
       "last_updated": "2026-11-05T18:26:50+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23604,7 +23548,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:04+00:00",
       "last_updated": "2026-11-06T17:49:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23656,7 +23600,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:07+00:00",
       "last_updated": "2026-11-06T17:49:07+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23714,7 +23658,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:11+00:00",
       "last_updated": "2026-11-06T17:49:11+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23763,7 +23707,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:14+00:00",
       "last_updated": "2026-11-06T17:49:14+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23813,7 +23757,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:26+00:00",
       "last_updated": "2026-11-06T17:49:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23862,7 +23806,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:30+00:00",
       "last_updated": "2026-11-06T17:49:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23915,7 +23859,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:10+00:00",
       "last_updated": "2026-11-02T20:38:10+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -23961,7 +23905,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:40:00+00:00",
       "last_updated": "2026-11-02T20:40:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24014,7 +23958,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:33+00:00",
       "last_updated": "2026-11-06T17:49:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24062,7 +24006,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:40+00:00",
       "last_updated": "2026-11-06T17:49:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24111,7 +24055,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:44+00:00",
       "last_updated": "2026-11-06T17:49:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24169,7 +24113,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:47+00:00",
       "last_updated": "2026-11-06T17:49:47+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24221,7 +24165,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:50+00:00",
       "last_updated": "2026-11-06T17:49:50+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24273,7 +24217,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:43:58+00:00",
       "last_updated": "2026-11-07T16:43:58+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24327,7 +24271,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:01+00:00",
       "last_updated": "2026-11-07T16:44:01+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24380,7 +24324,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:04+00:00",
       "last_updated": "2026-11-07T16:44:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24437,7 +24381,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:19+00:00",
       "last_updated": "2026-11-06T17:49:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24489,7 +24433,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:07+00:00",
       "last_updated": "2026-11-07T16:44:07+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24538,7 +24482,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:10+00:00",
       "last_updated": "2026-11-07T16:44:10+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24592,7 +24536,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:13+00:00",
       "last_updated": "2026-11-07T16:44:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24645,7 +24589,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:16+00:00",
       "last_updated": "2026-11-07T16:44:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24696,7 +24640,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:17:00+00:00",
       "last_updated": "2026-10-29T17:17:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24749,7 +24693,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:19+00:00",
       "last_updated": "2026-11-07T16:44:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24806,7 +24750,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:22+00:00",
       "last_updated": "2026-11-07T16:44:22+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24858,7 +24802,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:28+00:00",
       "last_updated": "2026-11-07T16:44:28+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24910,7 +24854,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:39+00:00",
       "last_updated": "2026-11-05T18:28:39+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -24959,7 +24903,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:31+00:00",
       "last_updated": "2026-11-07T16:44:31+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25014,7 +24958,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:07+00:00",
       "last_updated": "2026-11-01T17:01:07+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25066,7 +25010,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:15:06+00:00",
       "last_updated": "2026-11-03T18:15:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25120,7 +25064,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:37+00:00",
       "last_updated": "2026-11-07T16:44:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25175,7 +25119,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:41+00:00",
       "last_updated": "2026-11-07T16:44:41+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25231,7 +25175,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:44+00:00",
       "last_updated": "2026-11-07T16:44:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25282,7 +25226,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:47+00:00",
       "last_updated": "2026-11-07T16:44:47+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25335,7 +25279,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:50+00:00",
       "last_updated": "2026-11-07T16:44:50+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25387,7 +25331,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:54+00:00",
       "last_updated": "2026-11-07T16:44:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25436,7 +25380,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:44:57+00:00",
       "last_updated": "2026-11-07T16:44:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25489,7 +25433,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:04+00:00",
       "last_updated": "2026-11-07T16:45:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25543,7 +25487,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:08+00:00",
       "last_updated": "2026-11-07T16:45:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25603,7 +25547,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:12+00:00",
       "last_updated": "2026-11-07T16:45:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25660,7 +25604,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:15+00:00",
       "last_updated": "2026-11-07T16:45:15+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25714,7 +25658,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:18+00:00",
       "last_updated": "2026-11-07T16:45:18+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25766,7 +25710,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:21+00:00",
       "last_updated": "2026-11-07T16:45:21+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25821,7 +25765,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:24+00:00",
       "last_updated": "2026-11-07T16:45:24+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25872,7 +25816,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:30+00:00",
       "last_updated": "2026-10-30T16:57:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25927,7 +25871,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:28+00:00",
       "last_updated": "2026-11-07T16:45:28+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -25984,7 +25928,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:31+00:00",
       "last_updated": "2026-11-07T16:45:31+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26033,7 +25977,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:34+00:00",
       "last_updated": "2026-11-07T16:45:34+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26087,7 +26031,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:02:30+00:00",
       "last_updated": "2026-11-01T17:02:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26142,7 +26086,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:37+00:00",
       "last_updated": "2026-11-07T16:45:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26198,7 +26142,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:44+00:00",
       "last_updated": "2026-11-07T16:45:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26251,7 +26195,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:51+00:00",
       "last_updated": "2026-11-07T16:45:51+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26306,7 +26250,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:55+00:00",
       "last_updated": "2026-11-07T16:45:55+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26361,7 +26305,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:45:58+00:00",
       "last_updated": "2026-11-07T16:45:58+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26414,7 +26358,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:31+00:00",
       "last_updated": "2026-11-01T17:01:31+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26465,7 +26409,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:46:02+00:00",
       "last_updated": "2026-11-07T16:46:02+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26519,7 +26463,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:04+00:00",
       "last_updated": "2026-11-01T17:01:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26570,7 +26514,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-07T16:46:05+00:00",
       "last_updated": "2026-11-07T16:46:05+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26624,7 +26568,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:24+00:00",
       "last_updated": "2026-10-28T16:58:24+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26675,7 +26619,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:23+00:00",
       "last_updated": "2026-11-08T16:54:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26728,7 +26672,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:29+00:00",
       "last_updated": "2026-11-08T16:54:29+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26782,7 +26726,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:33+00:00",
       "last_updated": "2026-11-08T16:54:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26835,7 +26779,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:47+00:00",
       "last_updated": "2026-11-08T16:54:47+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26891,7 +26835,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:54+00:00",
       "last_updated": "2026-11-08T16:54:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26942,7 +26886,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:57+00:00",
       "last_updated": "2026-11-08T16:54:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -26998,7 +26942,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:00+00:00",
       "last_updated": "2026-11-08T16:55:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27055,7 +26999,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:10+00:00",
       "last_updated": "2026-11-08T16:55:10+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27108,7 +27052,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:39:49+00:00",
       "last_updated": "2026-11-02T20:39:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27162,7 +27106,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:45+00:00",
       "last_updated": "2026-10-29T17:16:45+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27221,7 +27165,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-04T18:34:01+00:00",
       "last_updated": "2026-11-04T18:34:01+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27275,7 +27219,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:13+00:00",
       "last_updated": "2026-11-08T16:55:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27327,7 +27271,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:15+00:00",
       "last_updated": "2026-11-08T16:55:15+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27382,7 +27326,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:18+00:00",
       "last_updated": "2026-11-08T16:55:18+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27441,7 +27385,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:21+00:00",
       "last_updated": "2026-11-08T16:55:21+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27493,7 +27437,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:25+00:00",
       "last_updated": "2026-11-08T16:55:25+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27546,7 +27490,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:28+00:00",
       "last_updated": "2026-11-08T16:55:28+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27598,7 +27542,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:36+00:00",
       "last_updated": "2026-11-08T16:55:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27649,7 +27593,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:32+00:00",
       "last_updated": "2026-11-08T16:55:32+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27703,7 +27647,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:42+00:00",
       "last_updated": "2026-11-08T16:55:42+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27757,7 +27701,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:46+00:00",
       "last_updated": "2026-11-08T16:55:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27810,7 +27754,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:49+00:00",
       "last_updated": "2026-11-08T16:55:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27863,7 +27807,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:55+00:00",
       "last_updated": "2026-11-08T16:55:55+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27915,7 +27859,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:55:59+00:00",
       "last_updated": "2026-11-08T16:55:59+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -27969,7 +27913,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:56:02+00:00",
       "last_updated": "2026-11-08T16:56:02+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28022,7 +27966,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:56:06+00:00",
       "last_updated": "2026-11-08T16:56:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28074,7 +28018,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:56:09+00:00",
       "last_updated": "2026-11-08T16:56:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28127,7 +28071,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:56:12+00:00",
       "last_updated": "2026-11-08T16:56:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28182,7 +28126,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:56:16+00:00",
       "last_updated": "2026-11-08T16:56:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28238,7 +28182,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:56:20+00:00",
       "last_updated": "2026-11-08T16:56:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28291,7 +28235,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:56:23+00:00",
       "last_updated": "2026-11-08T16:56:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28343,7 +28287,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:56:30+00:00",
       "last_updated": "2026-11-08T16:56:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28402,7 +28346,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:56:34+00:00",
       "last_updated": "2026-11-08T16:56:34+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28454,7 +28398,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:14:53+00:00",
       "last_updated": "2026-11-09T21:14:53+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28505,7 +28449,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:14:56+00:00",
       "last_updated": "2026-11-09T21:14:56+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28558,7 +28502,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:42+00:00",
       "last_updated": "2026-10-29T17:16:42+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28609,7 +28553,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:04+00:00",
       "last_updated": "2026-11-09T21:15:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28662,7 +28606,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:06+00:00",
       "last_updated": "2026-10-30T16:57:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28713,7 +28657,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:10+00:00",
       "last_updated": "2026-10-30T16:57:10+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28765,7 +28709,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:08+00:00",
       "last_updated": "2026-11-09T21:15:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28821,7 +28765,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:11+00:00",
       "last_updated": "2026-11-09T21:15:11+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28874,7 +28818,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:14+00:00",
       "last_updated": "2026-11-09T21:15:14+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28925,7 +28869,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:17+00:00",
       "last_updated": "2026-11-09T21:15:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -28978,7 +28922,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:05+00:00",
       "last_updated": "2026-10-29T17:16:05+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29035,7 +28979,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:28:20+00:00",
       "last_updated": "2026-11-05T18:28:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29083,7 +29027,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:22+00:00",
       "last_updated": "2026-11-09T21:15:22+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29134,7 +29078,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:27+00:00",
       "last_updated": "2026-11-09T21:15:27+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29187,7 +29131,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:30+00:00",
       "last_updated": "2026-11-09T21:15:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29242,7 +29186,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:37+00:00",
       "last_updated": "2026-11-09T21:15:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29297,7 +29241,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:40+00:00",
       "last_updated": "2026-11-09T21:15:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29349,7 +29293,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:43+00:00",
       "last_updated": "2026-11-09T21:15:43+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29402,7 +29346,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:50+00:00",
       "last_updated": "2026-11-09T21:15:50+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29454,7 +29398,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:15:52+00:00",
       "last_updated": "2026-11-09T21:15:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29507,7 +29451,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:09+00:00",
       "last_updated": "2026-10-29T17:16:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29562,7 +29506,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:23+00:00",
       "last_updated": "2026-10-29T17:16:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29617,7 +29561,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:00+00:00",
       "last_updated": "2026-11-09T21:16:00+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29671,7 +29615,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:03+00:00",
       "last_updated": "2026-11-09T21:16:03+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29727,7 +29671,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:06+00:00",
       "last_updated": "2026-11-09T21:16:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29781,7 +29725,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:09+00:00",
       "last_updated": "2026-11-09T21:16:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29832,7 +29776,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:12+00:00",
       "last_updated": "2026-11-09T21:16:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29883,7 +29827,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:19+00:00",
       "last_updated": "2026-11-09T21:16:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29933,7 +29877,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:23+00:00",
       "last_updated": "2026-11-09T21:16:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -29985,7 +29929,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:26+00:00",
       "last_updated": "2026-11-09T21:16:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30037,7 +29981,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:30+00:00",
       "last_updated": "2026-11-09T21:16:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30087,7 +30031,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:33+00:00",
       "last_updated": "2026-11-09T21:16:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30141,7 +30085,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:36+00:00",
       "last_updated": "2026-11-09T21:16:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30200,7 +30144,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:40+00:00",
       "last_updated": "2026-11-09T21:16:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30251,7 +30195,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:46+00:00",
       "last_updated": "2026-11-09T21:16:46+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30304,7 +30248,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:49+00:00",
       "last_updated": "2026-11-09T21:16:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30357,7 +30301,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:52+00:00",
       "last_updated": "2026-11-09T21:16:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30410,7 +30354,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:57+00:00",
       "last_updated": "2026-11-09T21:16:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30463,7 +30407,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:17:02+00:00",
       "last_updated": "2026-11-09T21:17:02+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30514,7 +30458,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:17:09+00:00",
       "last_updated": "2026-11-09T21:17:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30570,7 +30514,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:04+00:00",
       "last_updated": "2026-11-10T18:26:04+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30626,7 +30570,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:08+00:00",
       "last_updated": "2026-11-10T18:26:08+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30679,7 +30623,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:19+00:00",
       "last_updated": "2026-11-10T18:26:19+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30732,7 +30676,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:22+00:00",
       "last_updated": "2026-11-10T18:26:22+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30789,7 +30733,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:16+00:00",
       "last_updated": "2026-11-10T18:26:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30841,7 +30785,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:30+00:00",
       "last_updated": "2026-11-10T18:26:30+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30897,7 +30841,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:33+00:00",
       "last_updated": "2026-11-10T18:26:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -30948,7 +30892,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:37+00:00",
       "last_updated": "2026-11-10T18:26:37+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31001,7 +30945,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:40+00:00",
       "last_updated": "2026-11-10T18:26:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31056,7 +31000,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:44+00:00",
       "last_updated": "2026-11-10T18:26:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31109,7 +31053,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:47+00:00",
       "last_updated": "2026-11-10T18:26:47+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31156,7 +31100,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:54+00:00",
       "last_updated": "2026-11-10T18:26:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31212,7 +31156,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:26:57+00:00",
       "last_updated": "2026-11-10T18:26:57+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31263,7 +31207,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:26:36+00:00",
       "last_updated": "2026-11-05T18:26:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31317,7 +31261,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:01+00:00",
       "last_updated": "2026-11-10T18:27:01+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31372,7 +31316,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:09+00:00",
       "last_updated": "2026-11-10T18:27:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31428,7 +31372,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:12+00:00",
       "last_updated": "2026-11-10T18:27:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31483,7 +31427,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:15+00:00",
       "last_updated": "2026-11-10T18:27:15+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31536,7 +31480,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:23+00:00",
       "last_updated": "2026-11-10T18:27:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31589,7 +31533,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:26+00:00",
       "last_updated": "2026-11-10T18:27:26+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31646,7 +31590,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:29+00:00",
       "last_updated": "2026-11-10T18:27:29+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31700,7 +31644,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:33+00:00",
       "last_updated": "2026-11-10T18:27:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31751,7 +31695,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:36+00:00",
       "last_updated": "2026-11-10T18:27:36+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31802,7 +31746,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:40+00:00",
       "last_updated": "2026-11-10T18:27:40+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31855,7 +31799,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-02T20:38:03+00:00",
       "last_updated": "2026-11-02T20:38:03+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31915,7 +31859,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:28+00:00",
       "last_updated": "2026-10-31T15:58:28+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -31971,7 +31915,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:50+00:00",
       "last_updated": "2026-11-10T18:27:50+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32025,7 +31969,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:33+00:00",
       "last_updated": "2026-10-31T15:58:33+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32079,7 +32023,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:58+00:00",
       "last_updated": "2026-11-10T18:27:58+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32133,7 +32077,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:28:02+00:00",
       "last_updated": "2026-11-10T18:28:02+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32190,7 +32134,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:16+00:00",
       "last_updated": "2026-10-31T15:59:16+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32249,7 +32193,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:28:06+00:00",
       "last_updated": "2026-11-10T18:28:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32302,7 +32246,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:47:49+00:00",
       "last_updated": "2026-11-06T17:47:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32357,7 +32301,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:23+00:00",
       "last_updated": "2026-11-05T18:27:23+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32413,7 +32357,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:27:54+00:00",
       "last_updated": "2026-11-10T18:27:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32466,7 +32410,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:28:09+00:00",
       "last_updated": "2026-11-10T18:28:09+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32517,7 +32461,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:15+00:00",
       "last_updated": "2026-11-10T18:28:20+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32575,7 +32519,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-05T18:27:54+00:00",
       "last_updated": "2026-11-05T18:27:54+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32628,7 +32572,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:28:13+00:00",
       "last_updated": "2026-11-10T18:28:13+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32679,7 +32623,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-10T18:28:17+00:00",
       "last_updated": "2026-11-10T18:28:17+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:10+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32729,7 +32673,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:55:25+00:00",
       "last_updated": "2026-10-30T16:55:25+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32783,7 +32727,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:28+00:00",
       "last_updated": "2026-10-28T16:58:28+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32835,7 +32779,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:59:06+00:00",
       "last_updated": "2026-10-31T15:59:06+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32887,7 +32831,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:34+00:00",
       "last_updated": "2026-11-01T17:01:34+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32939,7 +32883,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:44+00:00",
       "last_updated": "2026-11-01T17:01:44+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -32993,7 +32937,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:12+00:00",
       "last_updated": "2026-10-31T15:58:12+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -33045,7 +32989,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:16:43+00:00",
       "last_updated": "2026-11-09T21:16:43+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -33100,7 +33044,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:56:49+00:00",
       "last_updated": "2026-10-28T16:56:49+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
@@ -33159,7 +33103,7 @@
       "sector": "Academic Research",
       "first_seen": "2026-10-28T16:58:52+00:00",
       "last_updated": "2026-10-28T16:58:52+00:00",
-      "last_verified": "2026-11-11T15:10:20+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
       ],
