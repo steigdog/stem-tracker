@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T16:00:10+00:00",
-  "last_collect": "2026-11-11T18:15:19+00:00",
+  "generated_at": "2026-11-12T18:46:47+00:00",
+  "last_collect": "2026-11-12T18:46:47+00:00",
   "last_verify": "2026-11-12T16:00:10+00:00",
   "sources_monitored": 21,
-  "count": 621,
+  "count": 622,
   "listings": [
     {
       "id": "e9a898b3beb2",
@@ -146,11 +146,11 @@
       "deadline": "2026-12-02",
       "rolling": null,
       "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/J-J-IM-North-America-Operations-Intern_R-099364",
-      "summary": "10-12 week summer internship with J&J Innovative Medicine North America Operations delivering insights, recommendations, and tactical solutions on complex business issues across commercial and policy teams.",
+      "summary": "10-12 week summer 2027 internship with J&J Innovative Medicine North America Operations, delivering business insights and recommendations across commercial, scientific affairs, and policy teams.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:01:52+00:00",
-      "last_updated": "2026-11-04T18:30:46+00:00",
+      "last_updated": "2026-11-12T18:42:20+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
@@ -531,6 +531,65 @@
       ]
     },
     {
+      "id": "d0c9ec17fe44",
+      "organization": "California Institute of Technology",
+      "title": "Undergraduate Research at LIGO",
+      "locations": [
+        "Pasadena, CA",
+        "Hanford, WA",
+        "Livingston Parish, LA"
+      ],
+      "states": [
+        "CA",
+        "WA",
+        "LA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Mathematics & Statistics",
+        "Engineering-Mechanical"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-15",
+      "rolling": null,
+      "apply_url": "http://www.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml",
+      "summary": "Summer undergraduate research on LIGO gravitational-wave detection, including laser, optical, electronic and mechanical lab projects, optomechanical modeling, software development, and astrophysical source modeling.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:15:46+00:00",
+      "last_updated": "2026-11-12T18:46:36+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml"
+        }
+      ]
+    },
+    {
       "id": "d7f1fafabff8",
       "organization": "University of Michigan",
       "title": "Optics in the City of Light - an international REU program from the University of Michigan in Paris, France",
@@ -583,6 +642,61 @@
         {
           "source": "Pathways to Science",
           "url": "https://java.engin.umich.edu/parisreu/"
+        }
+      ]
+    },
+    {
+      "id": "d363d586a376",
+      "organization": "Carnegie Mellon University",
+      "title": "Robotics & Intelligent System Scholars (RISS) Robotics Institute",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Engineering-Electrical",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Materials Science",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$7,200 support",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-20",
+      "rolling": null,
+      "apply_url": "https://riss.ri.cmu.edu/apply/",
+      "summary": "Ten-week funded summer REU conducting hands-on robotics research at CMU's Robotics Institute on projects addressing societal challenges, with presentations and graduate school guidance.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-29T17:16:27+00:00",
+      "last_updated": "2026-11-12T18:46:40+00:00",
+      "last_verified": "2026-11-12T16:00:09+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://riss.ri.cmu.edu/apply/"
         }
       ]
     },
@@ -3053,14 +3167,14 @@
       "title": "Statistics & Decision Sciences Summer Interns 2027",
       "locations": [
         "Raritan, NJ",
+        "La Jolla, CA",
         "Titusville, NJ",
-        "Spring House, PA",
-        "La Jolla, CA"
+        "Spring House, PA"
       ],
       "states": [
         "NJ",
-        "PA",
-        "CA"
+        "CA",
+        "PA"
       ],
       "remote": null,
       "opportunity_type": "Industry Internship",
@@ -3085,11 +3199,11 @@
       "deadline": "2027-08-13",
       "rolling": null,
       "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Statistics---Decision-Sciences-Summer-Interns-2027_R-103411",
-      "summary": "Graduate statistics interns apply statistical modeling, data visualization, simulation, and programming to support drug development from discovery through clinical studies and manufacturing.",
+      "summary": "Graduate interns apply statistical modeling, data visualization, and computing to drug-development decisions across R&D programs from discovery through clinical studies and manufacturing.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:00:54+00:00",
-      "last_updated": "2026-11-04T18:31:46+00:00",
+      "last_updated": "2026-11-12T18:42:32+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
@@ -3363,11 +3477,11 @@
       "deadline": "2027-09-30",
       "rolling": null,
       "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Strategic-Business-Operations-Summer-Intern_R-103514",
-      "summary": "Support project management, operations strategy, budgeting, and continuous improvement projects across J&J Innovative Medicine pharmaceutical R&D during a 2027 summer internship.",
+      "summary": "Summer intern supporting project management, operations strategy, budgeting, and continuous improvement projects across J&J Innovative Medicine pharmaceutical R&D.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:00:16+00:00",
-      "last_updated": "2026-11-04T18:31:38+00:00",
+      "last_updated": "2026-11-12T18:42:28+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
@@ -5297,65 +5411,6 @@
       ]
     },
     {
-      "id": "d0c9ec17fe44",
-      "organization": "California Institute of Technology",
-      "title": "LIGO Summer Undergraduate Research Program",
-      "locations": [
-        "Pasadena, CA",
-        "Hanford, WA",
-        "Livingston Parish, LA"
-      ],
-      "states": [
-        "CA",
-        "WA",
-        "LA"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Physics",
-        "Engineering-Electrical",
-        "Materials Science",
-        "Mathematics & Statistics",
-        "Engineering-Mechanical"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior",
-        "Community college"
-      ],
-      "min_gpa": null,
-      "citizenship": "International students eligible",
-      "export_control": null,
-      "pay": null,
-      "paid": true,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "http://www.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml",
-      "summary": "Undergraduates conduct summer research on gravitational-wave detection with LIGO, including laser, optical, electronic, mechanical systems, software, and astrophysical source modeling.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-10-29T17:15:46+00:00",
-      "last_updated": "2026-10-29T17:15:46+00:00",
-      "last_verified": "2026-11-12T16:00:09+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "http://www.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml"
-        }
-      ]
-    },
-    {
       "id": "2b411569c625",
       "organization": "California State University, Monterey Bay",
       "title": "Monterey Bay Regional Ocean Science Research Experience for Undergraduates",
@@ -5451,61 +5506,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://sites.google.com/csusb.edu/reuatcsusb/home"
-        }
-      ]
-    },
-    {
-      "id": "d363d586a376",
-      "organization": "Carnegie Mellon University",
-      "title": "Robotics & Intelligent System Scholars (RISS) Robotics Institute",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "states": [
-        "PA"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Engineering-Aerospace",
-        "Engineering-Electrical",
-        "Engineering-Mechanical",
-        "Engineering-Industrial",
-        "Materials Science",
-        "Mathematics & Statistics"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior"
-      ],
-      "min_gpa": 3.0,
-      "citizenship": "US citizen or permanent resident",
-      "export_control": null,
-      "pay": "$7,200 support for each participant",
-      "paid": true,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://riss.ri.cmu.edu/",
-      "summary": "Ten-week NSF-funded summer REU where undergraduates conduct hands-on robotics research at CMU's Robotics Institute on projects addressing societal challenges, with presentations and graduate school guidance.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-10-29T17:16:27+00:00",
-      "last_updated": "2026-10-29T17:16:27+00:00",
-      "last_verified": "2026-11-12T16:00:09+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://riss.ri.cmu.edu/"
         }
       ]
     },
@@ -5701,11 +5701,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://www.cdc.gov/minority-health/student-programs/internships-fellowships.html",
-      "summary": "Public health internships at CDC partner institutions providing undergraduates real-world public health workplace experience to increase interest in minority health and health professions.",
+      "summary": "CDC-sponsored internships at partner institutions giving undergraduates real-world public health workplace experience to increase interest in minority health and health professions.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-10-29T17:16:38+00:00",
-      "last_updated": "2026-10-29T17:16:38+00:00",
+      "last_updated": "2026-11-12T18:46:43+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Pathways to Science"
@@ -10399,7 +10399,7 @@
         "Physics"
       ],
       "class_years": [
-        "Junior",
+        "Senior",
         "Graduate student"
       ],
       "min_gpa": 3.0,
@@ -10413,11 +10413,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Associate-Clinical-Account-Specialist--ACAS--Intern--Summer-2027-_R-104405",
-      "summary": "Eight-week electrophysiology MedTech internship supporting projects in simulated 3D cardiac arrhythmia mapping, ablation biophysics, product education, therapy advancement, and clinical EP lab operations.",
+      "summary": "Eight-week summer internship in J&J MedTech Electrophysiology supporting projects in 3D cardiac arrhythmia mapping, ablation biophysics, product education, therapy advancement, and clinical EP lab operations.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-28T17:00:01+00:00",
-      "last_updated": "2026-11-04T18:31:34+00:00",
+      "last_updated": "2026-11-12T18:42:24+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Johnson & Johnson"
@@ -13475,9 +13475,9 @@
         "MA"
       ],
       "remote": "On-site",
-      "opportunity_type": "Co-op",
+      "opportunity_type": "Industry Internship",
       "seasons": [
-        "Spring"
+        "Summer"
       ],
       "majors": [
         "Biology",
@@ -13496,11 +13496,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Intern--Biobanking_R19852",
-      "summary": "Full-time lab-based co-op (Jan 18 - Jun 25, 2027) supporting biospecimen management, LIMS sample tracking, and automation workflows for Moderna's Biobank Operations team.",
+      "summary": "Support Moderna's Biobank Operations with biospecimen receipt, storage, LIMS tracking, automation workflows, and sample reconciliation in a regulated lab environment.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:43:53+00:00",
-      "last_updated": "2026-11-04T18:27:59+00:00",
+      "last_updated": "2026-11-12T18:45:13+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -13578,7 +13578,8 @@
         "Mathematics & Statistics"
       ],
       "class_years": [
-        "Graduate student"
+        "Graduate student",
+        "Recent graduate"
       ],
       "min_gpa": null,
       "citizenship": "US citizen or permanent resident",
@@ -13591,11 +13592,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Oncology-Biostatistics_R19867-1",
-      "summary": "Summer graduate intern working with a senior statistician on clinical trial and real-world data analysis projects, implementing simulations and presenting research outcomes.",
+      "summary": "Graduate summer intern working with a senior statistician on clinical trial, data analytics, or real-world data research projects, implementing simulations and presenting results.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:00+00:00",
-      "last_updated": "2026-11-04T18:28:08+00:00",
+      "last_updated": "2026-11-12T18:45:17+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -13660,7 +13661,7 @@
       "organization": "Moderna",
       "title": "2027 Intern, Data Management",
       "locations": [
-        "Cambridge, MA"
+        "Cambridge, Massachusetts"
       ],
       "states": [
         "MA"
@@ -13668,7 +13669,7 @@
       "remote": "Hybrid",
       "opportunity_type": "Industry Internship",
       "seasons": [
-        "Spring"
+        "Summer"
       ],
       "majors": [
         "Biology",
@@ -13689,11 +13690,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--Data-Management_R20100",
-      "summary": "Intern supporting Data Management Leads with clinical data review, documentation, testing, reconciliation, and quality control in a regulated biopharmaceutical environment from January to June 2027.",
+      "summary": "Support Data Management Leads with clinical data review, documentation, testing, reconciliation, and quality control across the clinical study lifecycle in a regulated biopharmaceutical environment.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:12+00:00",
-      "last_updated": "2026-11-04T18:28:20+00:00",
+      "last_updated": "2026-11-12T18:45:26+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -13848,11 +13849,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Global-Safety-Epidemiology--Infectious-Rare-Disease_R19876",
-      "summary": "PhD/ScD epidemiology intern conducting epidemiologic research for vaccine safety monitoring, signal evaluation, and pharmacovigilance, and presenting findings from an epidemiologic project.",
+      "summary": "PhD/ScD epidemiology intern conducting epidemiologic research for vaccine safety monitoring, signal evaluation, and pharmacovigilance with cross-functional teams, presenting a project on safety topics.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:44:25+00:00",
-      "last_updated": "2026-11-04T18:28:24+00:00",
+      "last_updated": "2026-11-12T18:45:30+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14314,11 +14315,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Immuno-Oncology-Research_R19897",
-      "summary": "Full-time co-op using cell and molecular biology techniques such as cell culture, ELISA/MSD, and flow cytometry to support development of mRNA-based cancer immunotherapies.",
+      "summary": "Full-time co-op using cell and molecular biology techniques to support development of mRNA-based cancer immunotherapies, including assays, model development, and efficacy readouts.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:05+00:00",
-      "last_updated": "2026-11-04T18:28:54+00:00",
+      "last_updated": "2026-11-12T18:45:33+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14410,11 +14411,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Immuno-Assays-and-CBA_R19861",
-      "summary": "Co-op supporting Moderna's Clinical Biomarker Laboratory immunoassay group with ligand-binding assay development, MSD-based immunoassays, reagent preparation, data analysis, and documentation in a regulated lab.",
+      "summary": "Co-op supporting Moderna's Clinical Biomarker Laboratory immunoassay group with ligand-binding assay development, MSD immunoassays, reagent preparation, and data analysis for clinical programs.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:13+00:00",
-      "last_updated": "2026-11-04T18:29:02+00:00",
+      "last_updated": "2026-11-12T18:45:36+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14458,11 +14459,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Biobanking_R19853",
-      "summary": "Full-time lab-based co-op supporting Moderna's Biobank Operations with biospecimen receipt, storage, LIMS tracking, automation workflows, and sample reconciliation from January to June 2027.",
+      "summary": "Full-time co-op (Jan 18 to Jun 25, 2027) supporting biospecimen management, LIMS sample tracking, and automation workflows in Moderna's Biobank Operations lab.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:17+00:00",
-      "last_updated": "2026-11-04T18:29:06+00:00",
+      "last_updated": "2026-11-12T18:45:39+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14509,11 +14510,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Protein-Design_R19884",
-      "summary": "Structural biology co-op supporting X-ray crystallography, protein preparation, lab robotics screening, and 3D protein structure modeling for Infectious Disease programs at Moderna's Norwood site.",
+      "summary": "Full-time structural biology co-op supporting X-ray crystallography, protein structure modeling, and lab robotics for Infectious Disease programs at Moderna's Norwood site, January-June 2027.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:21+00:00",
-      "last_updated": "2026-11-04T18:29:10+00:00",
+      "last_updated": "2026-11-12T18:45:42+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14559,11 +14560,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Compliance-and-Data-QC_R19862",
-      "summary": "Support laboratory compliance, documentation review, training records, quality events, and audit readiness in Moderna's GCLP clinical laboratory in Norwood from January to June 2027.",
+      "summary": "Support GCLP laboratory compliance at Moderna's Norwood CBL site, including document review, training records, quality events, and audit readiness, from January to June 2027.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:24+00:00",
-      "last_updated": "2026-11-04T18:29:14+00:00",
+      "last_updated": "2026-11-12T18:45:46+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14659,11 +14660,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Clinical-Biomarker-Biostatistics_R19869",
-      "summary": "Full-time PhD biostatistics co-op developing causal inference and statistical methods to evaluate biomarkers as correlates of protection and surrogate endpoints for mRNA vaccines, January-June 2027.",
+      "summary": "PhD biostatistics co-op developing causal inference and statistical methods to evaluate biomarkers as correlates of protection and surrogate endpoints for mRNA vaccines and therapeutics.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:32+00:00",
-      "last_updated": "2026-11-04T18:29:23+00:00",
+      "last_updated": "2026-11-12T18:45:49+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14710,11 +14711,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--In-Vitro-Biology_R19885-1",
-      "summary": "Full-time co-op developing and optimizing plate-based cell assays and microscopy workflows to evaluate novel drug delivery technologies, January to June 2027.",
+      "summary": "Full-time co-op (Jan 18 – Jun 25, 2027) developing and optimizing plate-based cell assays and microscopy workflows to evaluate novel mRNA delivery technologies.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:36+00:00",
-      "last_updated": "2026-11-04T18:29:27+00:00",
+      "last_updated": "2026-11-12T18:45:52+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14812,11 +14813,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Facilities--Plant---Project-Engineering_R19952",
-      "summary": "Winter/spring co-op (Jan 18–Jun 25, 2027) supporting engineering, facilities, maintenance, and digital initiatives in Moderna's GMP manufacturing environment in Norwood, MA.",
+      "summary": "Winter/spring co-op (Jan 18 - Jun 25, 2027) supporting engineering, facilities, maintenance, and digital engineering projects in Moderna's GMP manufacturing environment.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:45:51+00:00",
-      "last_updated": "2026-11-04T18:29:50+00:00",
+      "last_updated": "2026-11-12T18:46:03+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14863,11 +14864,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Business-Operations---Operational-Excellence_R19950-1",
-      "summary": "Full-time co-op (Jan 18–Jun 25, 2027) supporting CMC Operations with analytics, KPIs, dashboards, optimization, AI tools, and Lean continuous-improvement projects across manufacturing and supply chain.",
+      "summary": "Full-time co-op (Jan–Jun 2027) supporting CMC operations with KPI dashboards, analytics, scenario planning, AI solutions, and Lean continuous-improvement projects across manufacturing and supply chain.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:00+00:00",
-      "last_updated": "2026-11-04T18:29:59+00:00",
+      "last_updated": "2026-11-12T18:46:10+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14911,11 +14912,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Automation--Digital-Manufacturing---Controls_R19951",
-      "summary": "Winter/spring co-op (Jan 18–Jun 25, 2027) supporting manufacturing data, automation, controls, dashboards, and system integrations in Moderna's GMP biopharmaceutical manufacturing environment.",
+      "summary": "Winter/spring co-op supporting manufacturing data, automation, controls, and digital systems (PCS, MES, PLC) in a GMP biopharmaceutical manufacturing environment, January to June 2027.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:04+00:00",
-      "last_updated": "2026-11-04T18:30:03+00:00",
+      "last_updated": "2026-11-12T18:46:13+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -14946,7 +14947,8 @@
         "Chemistry",
         "Biochemistry",
         "Biology",
-        "Pharmaceutical Sciences"
+        "Pharmaceutical Sciences",
+        "Mathematics & Statistics"
       ],
       "class_years": [
         "Graduate student"
@@ -14962,11 +14964,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Biopharmaceutical-Manufacturing-Operations_R19953-1",
-      "summary": "Winter/spring co-op supporting DNA manufacturing operations through GxP documentation lifecycle management and continuous improvement initiatives at Moderna's Norwood site, January 18 to June 25, 2027.",
+      "summary": "Co-op on Moderna's DNA Specialist team supporting GxP documentation lifecycle management and continuous improvement initiatives for DNA manufacturing operations, January 18 to June 25, 2027.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:08+00:00",
-      "last_updated": "2026-11-04T18:30:07+00:00",
+      "last_updated": "2026-11-12T18:46:17+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -15012,11 +15014,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Process-Engineering--CQV---Manufacturing-Engineering_R19956",
-      "summary": "Winter/spring co-op supporting process engineering, commissioning, qualification, validation, and manufacturing engineering for cGMP biopharmaceutical equipment at Moderna's Norwood site, January–June 2027.",
+      "summary": "Winter/spring co-op (Jan 18–Jun 25, 2027) supporting process engineering, commissioning, qualification, validation, and manufacturing engineering for cGMP mRNA manufacturing equipment at Moderna's Norwood site.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:12+00:00",
-      "last_updated": "2026-11-04T18:30:11+00:00",
+      "last_updated": "2026-11-12T18:46:20+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -15061,11 +15063,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Supply-Chain---Logistics_R19949",
-      "summary": "Winter/spring co-op (Jan 18 to Jun 25, 2027) supporting supply planning, master data, logistics engineering, and global logistics projects through data analysis, process improvement, and reporting.",
+      "summary": "Winter/spring co-op (Jan 18 - Jun 25, 2027) supporting supply planning, master data, logistics engineering, and global logistics projects through data analysis and process improvement.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:16+00:00",
-      "last_updated": "2026-11-04T18:30:16+00:00",
+      "last_updated": "2026-11-12T18:46:24+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -15082,8 +15084,8 @@
       "organization": "Moderna",
       "title": "2027 Co-Op, PTE",
       "locations": [
-        "Cambridge, MA",
-        "Norwood, MA"
+        "Norwood, MA",
+        "Cambridge, MA"
       ],
       "states": [
         "MA"
@@ -15110,11 +15112,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--PTE_R20085",
-      "summary": "Co-op supporting digital enablement, process mapping, SOP drafting, and controlled document quality reviews within Moderna's Development Process, Training & Execution group, January–June 2027.",
+      "summary": "Co-op supporting process improvement, controlled document development, and digital/AI enablement within Moderna's Development Process, Training & Execution team, January-June 2027.",
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-10-27T22:46:20+00:00",
-      "last_updated": "2026-11-04T18:30:19+00:00",
+      "last_updated": "2026-11-12T18:46:28+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -15162,7 +15164,7 @@
       "org_size": "Large employer",
       "sector": "Biotech/Pharma",
       "first_seen": "2026-11-04T18:30:23+00:00",
-      "last_updated": "2026-11-10T18:25:55+00:00",
+      "last_updated": "2026-11-12T18:46:31+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "Moderna"
@@ -19828,11 +19830,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
-      "summary": "Civil/structural engineering intern helping design, build, activate, and maintain SpaceX's advanced facilities and infrastructure with multi-disciplinary engineering teams.",
+      "summary": "Civil/structural engineering intern helping design, build, activate, and maintain SpaceX's advanced facilities and infrastructure with a multidisciplinary engineering team.",
       "org_size": "Large employer",
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:42:54+00:00",
-      "last_updated": "2026-11-04T18:26:31+00:00",
+      "last_updated": "2026-11-12T18:44:07+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
@@ -19895,11 +19897,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002",
-      "summary": "Full-time, onsite engineering internship/co-op for at least 12 weeks on design, manufacturing, and operations teams across SpaceX programs like Falcon, Dragon, Starship, and Starlink.",
+      "summary": "Full-time onsite engineering internship/co-op of at least 12 weeks on design, manufacturing, and operations teams across SpaceX programs like Falcon, Dragon, Starship, and Starlink.",
       "org_size": "Large employer",
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:42:58+00:00",
-      "last_updated": "2026-11-04T18:26:36+00:00",
+      "last_updated": "2026-11-12T18:44:12+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
@@ -19937,7 +19939,7 @@
         "WA"
       ],
       "remote": "On-site",
-      "opportunity_type": "Co-op",
+      "opportunity_type": "Industry Internship",
       "seasons": [
         "Spring"
       ],
@@ -19952,7 +19954,7 @@
       "min_gpa": null,
       "citizenship": "US citizen or permanent resident",
       "export_control": true,
-      "pay": "$83,200/year (Bachelor's); $91,000/year (Master's); $100,100/year (PhD)",
+      "pay": "$83,200-$100,100/year depending on academic level",
       "paid": true,
       "housing": null,
       "letters_required": null,
@@ -19960,11 +19962,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002",
-      "summary": "Graduate engineers work on design, manufacturing, and operations teams solving aerospace challenges across SpaceX programs like Falcon, Dragon, Starship, and Starlink for at least 12 weeks.",
+      "summary": "Graduate engineering intern working on design, manufacturing, and operations teams solving aerospace challenges across SpaceX programs like Dragon, Falcon, Starship, and Starlink.",
       "org_size": "Large employer",
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:07+00:00",
-      "last_updated": "2026-11-04T18:26:41+00:00",
+      "last_updated": "2026-11-12T18:44:16+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
@@ -20015,11 +20017,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002",
-      "summary": "Silicon engineering intern working with cross-disciplinary teams on SpaceX's custom in-house silicon and hardware deployed on-orbit, including chip design, validation, and ASIC implementation.",
+      "summary": "Silicon engineering intern working with cross-disciplinary teams on custom in-house chips and hardware deployed on-orbit in space.",
       "org_size": "Large employer",
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:11+00:00",
-      "last_updated": "2026-11-04T18:26:45+00:00",
+      "last_updated": "2026-11-12T18:44:19+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
@@ -20036,6 +20038,7 @@
       "organization": "SpaceX",
       "title": "Summer 2027 Civil Engineering Internship",
       "locations": [
+        "Flexible - Any SpaceX Site",
         "Hawthorne, CA",
         "Cape Canaveral, FL",
         "Starbase, TX"
@@ -20071,11 +20074,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002",
-      "summary": "Civil/structural engineering intern helping design, build, activate, and maintain SpaceX's advanced facilities and infrastructure with a multi-disciplinary engineering team.",
+      "summary": "Civil/structural engineering intern helping design, build, activate, and maintain advanced SpaceX facilities and infrastructure with multi-disciplinary engineering teams.",
       "org_size": "Large employer",
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:28+00:00",
-      "last_updated": "2026-11-04T18:27:04+00:00",
+      "last_updated": "2026-11-12T18:44:34+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
@@ -20118,13 +20121,6 @@
         "Summer"
       ],
       "majors": [
-        "Engineering-Mechanical",
-        "Engineering-Aerospace",
-        "Engineering-Electrical",
-        "Engineering-Chemical",
-        "Engineering-Biomedical",
-        "Engineering-Civil/Environmental",
-        "Engineering-Industrial",
         "Physics",
         "Mathematics & Statistics"
       ],
@@ -20145,11 +20141,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002",
-      "summary": "Engineering interns work with mentors on design, manufacturing and operations teams across SpaceX programs like Falcon, Dragon, Starship and Starlink for at least 12 weeks onsite.",
+      "summary": "Engineering interns work with mentors on design, manufacturing, and operations projects across SpaceX programs such as Dragon, Falcon, Starship, and Starlink for at least 12 weeks.",
       "org_size": "Large employer",
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:33+00:00",
-      "last_updated": "2026-11-04T18:27:09+00:00",
+      "last_updated": "2026-11-12T18:44:38+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
@@ -20214,7 +20210,7 @@
       "org_size": "Large employer",
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:37+00:00",
-      "last_updated": "2026-11-04T18:27:13+00:00",
+      "last_updated": "2026-11-12T18:44:43+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
@@ -20265,11 +20261,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002",
-      "summary": "Silicon engineering intern working with mentors and cross-disciplinary teams on custom in-house chips and hardware deployed on-orbit in space.",
+      "summary": "Silicon hardware engineering intern working with cross-disciplinary teams on SpaceX's custom in-house silicon and chip design deployed on-orbit.",
       "org_size": "Large employer",
       "sector": "Aerospace & Defense",
       "first_seen": "2026-10-27T22:43:41+00:00",
-      "last_updated": "2026-11-04T18:27:17+00:00",
+      "last_updated": "2026-11-12T18:44:46+00:00",
       "last_verified": "2026-11-12T16:00:09+00:00",
       "sources": [
         "SpaceX"
@@ -32580,6 +32576,64 @@
         {
           "source": "Pathways to Science",
           "url": "https://cardiovascularreu.wustl.edu/"
+        }
+      ]
+    },
+    {
+      "id": "daec455af1a9",
+      "organization": "Washington University School of Medicine",
+      "title": "Leah Menshouse Springer Summer Opportunity Program (Siteman Cancer Center)",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "states": [
+        "MO"
+      ],
+      "remote": null,
+      "opportunity_type": "Clinical/Hospital Research",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Mathematics & Statistics",
+        "Biology",
+        "Engineering-Biomedical",
+        "Public Health",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://siteman.wustl.edu/research/training/opportunities/graduate/programs/summer/",
+      "summary": "Ten-week summer cancer research program at Siteman Cancer Center with faculty mentors, spanning basic, clinical, and population research, plus seminars and facility tours.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-12T18:46:47+00:00",
+      "last_updated": "2026-11-12T18:46:47+00:00",
+      "last_verified": "2026-11-12T18:46:47+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://siteman.wustl.edu/research/training/opportunities/graduate/programs/summer/"
         }
       ]
     },

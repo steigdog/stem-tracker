@@ -15,7 +15,8 @@
     4,
     4,
     6,
-    6
+    6,
+    7
   ],
   "SpaceX": [
     57,
@@ -33,7 +34,8 @@
     58,
     57,
     57,
-    57
+    57,
+    58
   ],
   "Moderna": [
     39,
@@ -51,9 +53,11 @@
     41,
     40,
     41,
+    40,
     40
   ],
   "DOE SULI (Science Undergraduate Laboratory Internships)": [
+    1,
     1,
     1,
     1,
@@ -87,6 +91,7 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Boeing": [
@@ -105,7 +110,8 @@
     10,
     10,
     9,
-    8
+    8,
+    10
   ],
   "Johnson & Johnson": [
     79,
@@ -123,7 +129,8 @@
     41,
     38,
     30,
-    32
+    32,
+    30
   ],
   "Pathways to Science": [
     555,
@@ -141,9 +148,11 @@
     550,
     550,
     551,
+    551,
     551
   ],
   "Summer Undergraduate Research Diversity Program (SURD)": [
+    1,
     1,
     1,
     1,
@@ -167,6 +176,7 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "CNMB Research Experiences for Undergraduates": [
@@ -179,9 +189,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Pitt Public Health Undergraduate Scholars Program (PHUSP)": [
+    1,
     1,
     1,
     1,
@@ -205,9 +217,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": [
+    1,
     1,
     1,
     1,
@@ -231,9 +245,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Undergraduate Summer Research Program": [
+    1,
     1,
     1,
     1,
@@ -243,9 +259,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Research Experiences for Undergraduates (REU)": [
+    1,
     1,
     1,
     1,
@@ -255,15 +273,18 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Undergraduate Research in Astronomy (REU)": [
     1,
     1,
     1,
+    1,
     1
   ],
   "Summer Programs for Undergraduate Research (SPUR)": [
+    1,
     1,
     1,
     1,
