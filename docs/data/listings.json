@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-13T15:22:02+00:00",
-  "last_collect": "2026-11-12T18:46:47+00:00",
+  "generated_at": "2026-11-13T18:20:35+00:00",
+  "last_collect": "2026-11-13T18:20:35+00:00",
   "last_verify": "2026-11-13T15:22:02+00:00",
   "sources_monitored": 21,
-  "count": 622,
+  "count": 624,
   "listings": [
     {
       "id": "e9a898b3beb2",
@@ -1125,6 +1125,58 @@
       ]
     },
     {
+      "id": "2b6fa71b9631",
+      "organization": "Cornell University",
+      "title": "MBG-REU: Summer Research Experiences for Undergraduate: Molecular Biology and Genetics of Cell Signaling",
+      "locations": [
+        "Ithaca, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,500 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://cals.cornell.edu/molecular-biology-genetics/academics/undergraduate/summer-research-experience-undergraduates-reu-program",
+      "summary": "Ten-week NSF-funded summer research program at Cornell training ten undergraduates in molecular biology and genetics of cell signaling.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-30T16:56:13+00:00",
+      "last_updated": "2026-11-13T18:20:25+00:00",
+      "last_verified": "2026-11-13T15:22:02+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/undergraduate/summer-research-experience-undergraduates-reu-program"
+        }
+      ]
+    },
+    {
       "id": "f5c503be5aee",
       "organization": "MIT Haystack Observatory",
       "title": "Research Experiences for Undergraduates (REU)",
@@ -2179,6 +2231,62 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.utmb.edu/dnb/nsurp"
+        }
+      ]
+    },
+    {
+      "id": "2b3e00a71c37",
+      "organization": "Weill Cornell Graduate School of Medicine",
+      "title": "Weill Cornell Medicine Biostatistics Internship Program",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health",
+        "Mathematics & Statistics",
+        "Biochemistry",
+        "Biology"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-19",
+      "rolling": null,
+      "apply_url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship",
+      "summary": "Seven-week in-person program where undergraduates conduct applied health research projects using R for statistical analysis, attend biostatistics lectures, and receive mentorship.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-13T18:20:34+00:00",
+      "last_updated": "2026-11-13T18:20:34+00:00",
+      "last_verified": "2026-11-13T18:20:34+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship"
         }
       ]
     },
@@ -6734,58 +6842,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.cnf.cornell.edu/education/reu"
-        }
-      ]
-    },
-    {
-      "id": "2b6fa71b9631",
-      "organization": "Cornell University",
-      "title": "MBG-REU: Summer Research Experiences for Undergraduate: Molecular Biology and Genetics of Cell Signaling",
-      "locations": [
-        "Ithaca, NY"
-      ],
-      "states": [
-        "NY"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Biology",
-        "Biochemistry"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior",
-        "Community college"
-      ],
-      "min_gpa": null,
-      "citizenship": "US citizen or permanent resident",
-      "export_control": null,
-      "pay": "$5,500 stipend",
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://cals.cornell.edu/molecular-biology-genetics/academics/undergraduate/summer-research-experience-undergraduates-reu-program",
-      "summary": "Ten-week NSF-funded summer research program for ten undergraduates in molecular biology and genetics of cell signaling at Cornell University.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-10-30T16:56:13+00:00",
-      "last_updated": "2026-10-30T16:56:13+00:00",
-      "last_verified": "2026-11-13T15:22:02+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/undergraduate/summer-research-experience-undergraduates-reu-program"
         }
       ]
     },
@@ -15230,6 +15286,50 @@
       ]
     },
     {
+      "id": "e0cf8d0d816b",
+      "organization": "Moderna",
+      "title": "2027 Co-Op, Investigator Site Budgets & Contracts and Data Integration & Reporting",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--Investigator-Site-Budgets---Contracts-and-Data-Integration---Reporting_R20170",
+      "summary": "Co-op supporting clinical trial investigator site budgets, contracts tracking, financial data integration, and reporting dashboards within Moderna's Global Clinical Operations Strategic Business Analytics team.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-11-13T18:20:19+00:00",
+      "last_updated": "2026-11-13T18:20:19+00:00",
+      "last_verified": "2026-11-13T18:20:19+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--Investigator-Site-Budgets---Contracts-and-Data-Integration---Reporting_R20170"
+        }
+      ]
+    },
+    {
       "id": "0fcbb9f669b8",
       "organization": "Montana State University",
       "title": "REU Site: Exploring the Limits of Life - Understanding Biofilms in Extreme Environments",
@@ -19296,7 +19396,7 @@
       "organization": "Shoals Marine Laboratory (University of New Hampshire / Cornell University)",
       "title": "Undergrad Internships at Shoals Marine Laboratory",
       "locations": [
-        "Appledore Island, Isles of Shoals, Maine",
+        "Appledore Island, Isles of Shoals, ME",
         "Durham, NH"
       ],
       "states": [
@@ -19329,11 +19429,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "http://www.shoalsmarinelaboratory.org/student-research-internships",
-      "summary": "Undergraduate summer interns work with mentors and SML scientists on research in areas like seabird ornithology, intertidal ecology, seal population studies, ecological genomics, and outreach.",
+      "summary": "Undergraduate summer research internships on Appledore Island working with SML scientists in areas like seabird ornithology, intertidal ecology, seal studies, and ecological genomics.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:56:26+00:00",
-      "last_updated": "2026-10-30T16:56:26+00:00",
+      "last_updated": "2026-11-13T18:20:28+00:00",
       "last_verified": "2026-11-13T15:22:02+00:00",
       "sources": [
         "Pathways to Science"
@@ -28597,11 +28697,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://www.rtnn.ncsu.edu/reu/",
-      "summary": "Ten-week summer REU where undergraduates conduct research on hybrid perovskite materials, including synthesis, characterization, modeling, and device fabrication, across UNC, NC State, and Duke labs.",
+      "summary": "Ten-week summer REU where undergraduates research hybrid perovskite materials, including synthesis, characterization, modeling, and device fabrication, in labs at UNC, NC State, and Duke.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-10-30T16:57:06+00:00",
-      "last_updated": "2026-10-30T16:57:06+00:00",
+      "last_updated": "2026-11-13T18:20:31+00:00",
       "last_verified": "2026-11-13T15:22:02+00:00",
       "sources": [
         "Pathways to Science"
