@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-14T14:11:41+00:00",
-  "last_collect": "2026-11-13T18:20:35+00:00",
+  "generated_at": "2026-11-14T16:49:35+00:00",
+  "last_collect": "2026-11-14T16:49:35+00:00",
   "last_verify": "2026-11-14T14:11:41+00:00",
   "sources_monitored": 21,
-  "count": 623,
+  "count": 626,
   "listings": [
     {
       "id": "e9a898b3beb2",
@@ -1541,6 +1541,65 @@
       ]
     },
     {
+      "id": "53a3d314dced",
+      "organization": "University of California, Berkeley",
+      "title": "NHERI STRONG-R REU Summer Program in Multi-Hazards Research",
+      "locations": [
+        "Berkeley, CA",
+        "Austin, TX",
+        "Seattle, WA"
+      ],
+      "states": [
+        "CA",
+        "TX",
+        "WA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Civil/Environmental",
+        "Engineering-Electrical",
+        "Environmental Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$7000 research stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-07",
+      "rolling": null,
+      "apply_url": "https://www.designsafe-ci.org/learning-center/reu/overview/",
+      "summary": "Ten-week hybrid NSF REU where undergraduates research natural hazards and community resilience using simulation, field reconnaissance, data science, and cyberinfrastructure with faculty mentors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:58:04+00:00",
+      "last_updated": "2026-11-14T16:49:35+00:00",
+      "last_verified": "2026-11-11T15:10:20+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.designsafe-ci.org/learning-center/reu/overview/"
+        }
+      ]
+    },
+    {
       "id": "0e21f91e700e",
       "organization": "University of New Hampshire",
       "title": "Sustainability Fellowships - Paid summer research",
@@ -1737,6 +1796,61 @@
         {
           "source": "Pathways to Science",
           "url": "https://cascadiaquakes.org/geoscience-education-and-inclusion/cores2code/"
+        }
+      ]
+    },
+    {
+      "id": "01dbd3c7491d",
+      "organization": "Cedar Creek LTER (University of Minnesota)",
+      "title": "Cedar Creek LTER Summer Internships and Spring Field Technician Positions",
+      "locations": [
+        "Cedar Creek Ecosystem Science Reserve, 35 miles north of Minneapolis and St. Paul, MN"
+      ],
+      "states": [
+        "MN"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer",
+        "Spring"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$15.50 per hour",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-15",
+      "rolling": null,
+      "apply_url": "https://cedarcreek.umn.edu/2027-cedar-creek-lter-summer-internships-reus-technician-positions",
+      "summary": "Plant community ecology interns contribute to long-term field experiments such as BioCON and Big Biodiversity, attend seminars, and conduct small group research projects.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-10-31T15:59:33+00:00",
+      "last_updated": "2026-11-14T16:49:27+00:00",
+      "last_verified": "2026-11-14T14:11:41+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cedarcreek.umn.edu/2027-cedar-creek-lter-summer-internships-reus-technician-positions"
         }
       ]
     },
@@ -2612,6 +2726,56 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.cmu.edu/mcs/academics/undergrad/dasie"
+        }
+      ]
+    },
+    {
+      "id": "9658b83cf025",
+      "organization": "New York Stem Cell Foundation (NYSCF) / Jackson Laboratory",
+      "title": "The New York Stem Cell Foundation (NYSCF) Summer Science Internship in NY",
+      "locations": [
+        "New York, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": "$7,000 stipend and an OMNY card",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-03-15",
+      "rolling": null,
+      "apply_url": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/nyscf-summer-research-internship",
+      "summary": "Ten-week on-site stem cell biology research internship at NYSCF in New York City, working with mentors on projects in diseases like Alzheimer's, diabetes, and Parkinson's.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-14T16:49:31+00:00",
+      "last_updated": "2026-11-14T16:49:31+00:00",
+      "last_verified": "2026-11-14T16:49:31+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/nyscf-summer-research-internship"
         }
       ]
     },
@@ -5728,58 +5892,6 @@
       ]
     },
     {
-      "id": "01dbd3c7491d",
-      "organization": "Cedar Creek LTER (University of Minnesota)",
-      "title": "Cedar Creek LTER REU",
-      "locations": [
-        "Cedar Creek Ecosystem Science Reserve, 35 miles north of Minneapolis/St. Paul, MN"
-      ],
-      "states": [
-        "MN"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Biology",
-        "Environmental Science"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": "$15.50 per hour",
-      "paid": true,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://cedarcreek.umn.edu/employment-opportunities",
-      "summary": "Summer REU positions for undergraduates focusing on sampling across the LTER experimental platforms at Cedar Creek.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-10-31T15:59:33+00:00",
-      "last_updated": "2026-10-31T15:59:33+00:00",
-      "last_verified": "2026-11-14T14:11:41+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://cedarcreek.umn.edu/employment-opportunities"
-        }
-      ]
-    },
-    {
       "id": "334c054b9a85",
       "organization": "Center for Disease Control (CDC)",
       "title": "CDC Undergraduate Public Health Scholars (CUPS) Program and the Dr. James A. Ferguson Emerging Infectious Diseases RISE Fellowship (Ferguson Fellowship)",
@@ -7759,8 +7871,7 @@
         "Biochemistry",
         "Biology",
         "Public Health",
-        "Neuroscience",
-        "Mathematics & Statistics"
+        "Neuroscience"
       ],
       "class_years": [
         "Junior"
@@ -7768,7 +7879,7 @@
       "min_gpa": null,
       "citizenship": "US citizen or permanent resident",
       "export_control": null,
-      "pay": "$5,085 (minus taxes)",
+      "pay": "$5,085 (minus taxes); travel up to $450",
       "paid": true,
       "housing": null,
       "letters_required": null,
@@ -7776,11 +7887,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://www.fredhutch.org/en/education-training/undergraduate-students/summer-undergraduate-research-program.html",
-      "summary": "Nine-week mentored biomedical research internship where undergraduates complete an independent project, attend professional development workshops and seminars, and present at a competitive poster session.",
+      "summary": "Nine-week mentored biomedical research internship where undergraduates complete an independent project, attend workshops and seminars, and present at a competitive poster session.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:24+00:00",
-      "last_updated": "2026-10-31T15:58:24+00:00",
+      "last_updated": "2026-11-14T16:49:18+00:00",
       "last_verified": "2026-11-14T14:11:41+00:00",
       "sources": [
         "Pathways to Science"
@@ -15330,6 +15441,55 @@
       ]
     },
     {
+      "id": "9b58fa71d9e7",
+      "organization": "Moderna",
+      "title": "2027 Co-Op, Strategic Partnerships",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "Co-op",
+      "seasons": [
+        "Spring"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.4,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": true,
+      "pay": "$20.00 - $60.00",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--Strategic-Partnerships_R20144",
+      "summary": "Full-time co-op (Jan 19 - Jun 25, 2027) supporting vendor governance, project coordination, reporting dashboards, and process improvement for Moderna's strategic partnerships in clinical development.",
+      "org_size": "Large employer",
+      "sector": "Biotech/Pharma",
+      "first_seen": "2026-11-14T16:49:14+00:00",
+      "last_updated": "2026-11-14T16:49:14+00:00",
+      "last_verified": "2026-11-14T16:49:14+00:00",
+      "sources": [
+        "Moderna"
+      ],
+      "links": [
+        {
+          "source": "Moderna",
+          "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--Strategic-Partnerships_R20144"
+        }
+      ]
+    },
+    {
       "id": "0fcbb9f669b8",
       "organization": "Montana State University",
       "title": "REU Site: Exploring the Limits of Life - Understanding Biofilms in Extreme Environments",
@@ -21649,7 +21809,10 @@
       "organization": "Universidad de Puerto Rico, Mayagüez",
       "title": "Cell Manufacturing Technologies REU Program",
       "locations": [
-        "Mayagüez, PR"
+        "Mayagüez, PR",
+        "Georgia Institute of Technology",
+        "University of Georgia",
+        "University of Wisconsin-Madison"
       ],
       "states": [
         "PR"
@@ -21687,11 +21850,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://cellmanufacturingusa.org/paid-summer-undergraduate-student-research-opportunities",
-      "summary": "NSF-funded summer REU placing undergraduates in cell manufacturing research labs at GT, UGA, UPRM, or UW-Madison, with mentoring and professional development.",
+      "summary": "Summer hands-on research in cell manufacturing labs at GT, UGA, UPRM, or UW with stipend, free housing, meal and travel allowances, mentoring, and grad school prep.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-10-31T15:58:40+00:00",
-      "last_updated": "2026-10-31T15:58:40+00:00",
+      "last_updated": "2026-11-14T16:49:23+00:00",
       "last_verified": "2026-11-14T14:11:41+00:00",
       "sources": [
         "Pathways to Science"
