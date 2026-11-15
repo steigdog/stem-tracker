@@ -154,5 +154,65 @@
     "refresh_days": 7,
     "origin": "discovered",
     "discovered_at": "2026-11-08T16:51:25+00:00"
+  },
+  {
+    "name": "Young Scholars Summer Research Program",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://colorado.edu/chbe/apply/undergraduate-students/young-scholars-summer-research-program",
+    "organization": "University of Colorado Boulder, Chemical and Biological Engineering",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-15T17:30:14+00:00"
+  },
+  {
+    "name": "KU Chemistry REU Program",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://chemreu.ku.edu/",
+    "organization": "University of Kansas",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-15T17:30:14+00:00"
+  },
+  {
+    "name": "Summer Undergraduate Research Program (SURP)",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/summer-undergraduate-research-program",
+    "organization": "NYU Grossman School of Medicine, Vilcek Institute of Graduate Biomedical Sciences",
+    "opportunity_type": "REU",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-15T17:30:16+00:00"
+  },
+  {
+    "name": "Summer Internship in Biological Sciences in Public Health",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://hsph.harvard.edu/fellowship-special-program/biological-sciences-undergraduate-summer-internship/",
+    "organization": "Harvard T.H. Chan School of Public Health",
+    "opportunity_type": "Fellowship",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-15T17:30:16+00:00"
+  },
+  {
+    "name": "INSIGHT Summer Research Training Program",
+    "enabled": true,
+    "type": "program_page",
+    "url": "https://hiprc.org/training/undergrad-grad/insight/",
+    "organization": "Harborview Injury Prevention & Research Center (University of Washington)",
+    "opportunity_type": "Fellowship",
+    "sector": "Academic Research",
+    "refresh_days": 7,
+    "origin": "discovered",
+    "discovered_at": "2026-11-15T17:30:19+00:00"
   }
 ]

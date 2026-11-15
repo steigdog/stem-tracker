@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T14:45:49+00:00",
-  "last_collect": "2026-11-14T16:49:35+00:00",
+  "generated_at": "2026-11-15T17:33:56+00:00",
+  "last_collect": "2026-11-15T17:33:56+00:00",
   "last_verify": "2026-11-15T14:45:49+00:00",
-  "sources_monitored": 21,
-  "count": 620,
+  "sources_monitored": 26,
+  "count": 625,
   "listings": [
     {
       "id": "e9a898b3beb2",
@@ -35,11 +35,11 @@
       "deadline": "2026-11-23",
       "rolling": null,
       "apply_url": "https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/",
-      "summary": "8-week hybrid summer neuroscience/physiology research training with faculty mentors, workshops, journal clubs, and a poster competition for honors research students.",
+      "summary": "Eight-week hybrid neuroscience and physiology research training with faculty mentors, workshops, journal clubs, and a poster competition, June 14 to August 6, 2027.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:19+00:00",
-      "last_updated": "2026-11-08T16:54:19+00:00",
+      "last_updated": "2026-11-15T17:33:26+00:00",
       "last_verified": "2026-11-15T14:45:49+00:00",
       "sources": [
         "Summer Programs for Undergraduate Research (SPUR)"
@@ -590,6 +590,59 @@
       ]
     },
     {
+      "id": "47e01a00ca40",
+      "organization": "Harborview Injury Prevention & Research Center (University of Washington)",
+      "title": "INSIGHT Summer Research Training Program",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "states": [
+        "WA"
+      ],
+      "remote": "Hybrid",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Public Health"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Community college"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": "$4,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": "2026-12-07",
+      "deadline": "2027-01-18",
+      "rolling": null,
+      "apply_url": "https://hiprc.org/training/undergrad-grad/insight/",
+      "summary": "Eight-week virtual summer injury and violence prevention research internship with UW health sciences faculty mentors, ending with an in-person symposium in Seattle.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-15T17:33:43+00:00",
+      "last_updated": "2026-11-15T17:33:43+00:00",
+      "last_verified": "2026-11-15T17:33:43+00:00",
+      "sources": [
+        "INSIGHT Summer Research Training Program"
+      ],
+      "links": [
+        {
+          "source": "INSIGHT Summer Research Training Program",
+          "url": "https://hiprc.org/training/undergrad-grad/insight/"
+        }
+      ]
+    },
+    {
       "id": "d7f1fafabff8",
       "organization": "University of Michigan",
       "title": "Optics in the City of Light - an international REU program from the University of Michigan in Paris, France",
@@ -719,8 +772,8 @@
       ],
       "majors": [
         "Biology",
-        "Mathematics & Statistics",
         "Engineering-Biomedical",
+        "Mathematics & Statistics",
         "Neuroscience"
       ],
       "class_years": [
@@ -739,11 +792,11 @@
       "deadline": "2027-01-25",
       "rolling": null,
       "apply_url": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/learn-earn-and-explore/admission",
-      "summary": "Ten-week summer research program where undergraduates explore how genetics and genomics shape biological systems, emphasizing laboratory discovery and scientific communication.",
+      "summary": "10-week summer research program where undergraduates explore how genetics and genomics shape biological systems, emphasizing laboratory discovery and scientific communication.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:17+00:00",
-      "last_updated": "2026-11-01T17:01:17+00:00",
+      "last_updated": "2026-11-15T17:33:49+00:00",
       "last_verified": "2026-11-15T14:45:49+00:00",
       "sources": [
         "Pathways to Science"
@@ -1221,6 +1274,60 @@
       ]
     },
     {
+      "id": "d734d1d21993",
+      "organization": "Medical College of Wisconsin",
+      "title": "SURE AHA-Funded Summer Cardiovascular Research Fellowship in Milwaukee for Undergraduates",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "states": [
+        "WI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Engineering-Biomedical",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,000 compensation",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://www.mcw.edu/departments/cardiovascular-center-heart/education/supporting-undergraduate-research-experiences-sure-program",
+      "summary": "Ten-week summer program where undergraduates conduct cardiovascular research with MCW faculty mentors, plus career preparation seminars and an oral presentation at an AHA symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-01T17:03:11+00:00",
+      "last_updated": "2026-11-15T17:33:56+00:00",
+      "last_verified": "2026-11-15T14:45:49+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.mcw.edu/departments/cardiovascular-center-heart/education/supporting-undergraduate-research-experiences-sure-program"
+        }
+      ]
+    },
+    {
       "id": "974faefdd8e5",
       "organization": "UCLA",
       "title": "Amgen Scholars Program",
@@ -1261,11 +1368,11 @@
       "deadline": "2027-02-01",
       "rolling": null,
       "apply_url": "https://sciences.ugresearch.ucla.edu/programs-and-scholarships/amgen-scholars/#application",
-      "summary": "10-week summer biomedical research program pairing undergraduates with UCLA faculty mentors, with stipend, housing, meals, conference, workshops, and poster presentations.",
+      "summary": "Ten-week summer biomedical science, chemistry, and engineering research with a UCLA faculty mentor, plus conference, workshops, seminars, and poster presentations.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:19+00:00",
-      "last_updated": "2026-11-08T16:54:19+00:00",
+      "last_updated": "2026-11-15T17:33:26+00:00",
       "last_verified": "2026-11-15T14:45:49+00:00",
       "sources": [
         "Summer Programs for Undergraduate Research (SPUR)"
@@ -1491,6 +1598,57 @@
       ]
     },
     {
+      "id": "19de0470bdb6",
+      "organization": "NYU Grossman School of Medicine, Vilcek Institute of Graduate Biomedical Sciences",
+      "title": "Summer Undergraduate Research Program (SURP)",
+      "locations": [],
+      "states": [],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Neuroscience",
+        "Pharmaceutical Sciences",
+        "Public Health",
+        "Engineering-Biomedical",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,000 payment",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-02",
+      "rolling": null,
+      "apply_url": "https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/summer-undergraduate-research-program",
+      "summary": "Undergraduates conduct hands-on biomedical research in an NYU Grossman faculty lab, attend seminars and journal clubs, and present posters at the end of summer.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-15T17:33:40+00:00",
+      "last_updated": "2026-11-15T17:33:40+00:00",
+      "last_verified": "2026-11-15T17:33:40+00:00",
+      "sources": [
+        "Summer Undergraduate Research Program (SURP)"
+      ],
+      "links": [
+        {
+          "source": "Summer Undergraduate Research Program (SURP)",
+          "url": "https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/summer-undergraduate-research-program"
+        }
+      ]
+    },
+    {
       "id": "c2cfe433ee63",
       "organization": "University of Michigan",
       "title": "Mathematics Research Experience for Undergraduates",
@@ -1537,6 +1695,55 @@
         {
           "source": "Pathways to Science",
           "url": "http://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/research/research-experience-for-undergraduates--reu-.html"
+        }
+      ]
+    },
+    {
+      "id": "fbf94cf5e9b5",
+      "organization": "Harvard T.H. Chan School of Public Health",
+      "title": "Summer Internship in Biological Sciences in Public Health (BPH-SIP)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": 2,
+      "open_date": null,
+      "deadline": "2027-02-05",
+      "rolling": false,
+      "apply_url": "https://hsph.harvard.edu/fellowship-special-program/biological-sciences-undergraduate-summer-internship/",
+      "summary": "Eight-week summer program where undergraduates conduct wet lab or computational research on biological questions with public health implications under Harvard faculty mentorship.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-15T17:33:36+00:00",
+      "last_updated": "2026-11-15T17:33:36+00:00",
+      "last_verified": "2026-11-15T17:33:36+00:00",
+      "sources": [
+        "Summer Internship in Biological Sciences in Public Health"
+      ],
+      "links": [
+        {
+          "source": "Summer Internship in Biological Sciences in Public Health",
+          "url": "https://hsph.harvard.edu/fellowship-special-program/biological-sciences-undergraduate-summer-internship/"
         }
       ]
     },
@@ -1710,7 +1917,7 @@
       "states": [
         "IL"
       ],
-      "remote": null,
+      "remote": "On-site",
       "opportunity_type": "REU",
       "seasons": [
         "Summer"
@@ -1725,7 +1932,7 @@
       "min_gpa": null,
       "citizenship": "US citizen or permanent resident",
       "export_control": null,
-      "pay": "$6,000 stipend",
+      "pay": "$6,000 stipend plus travel allowance",
       "paid": true,
       "housing": true,
       "letters_required": null,
@@ -1733,11 +1940,11 @@
       "deadline": "2027-02-12",
       "rolling": null,
       "apply_url": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html",
-      "summary": "Nine-week summer REU where students conduct nanomaterials research projects with faculty and graduate mentors, culminating in a technical paper and symposium presentation.",
+      "summary": "Nine-week summer research on multi-functional nanoscale materials with a faculty-led project, graduate mentor, technical paper, and symposium presentation.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:08+00:00",
-      "last_updated": "2026-11-08T16:54:08+00:00",
+      "last_updated": "2026-11-15T17:33:18+00:00",
       "last_verified": "2026-11-15T14:45:49+00:00",
       "sources": [
         "Summer Research Experience for Undergraduates (REU)"
@@ -1746,6 +1953,57 @@
         {
           "source": "Summer Research Experience for Undergraduates (REU)",
           "url": "https://mrsec.northwestern.edu/education/undergraduate-opportunities.html"
+        }
+      ]
+    },
+    {
+      "id": "9f80a84d33b0",
+      "organization": "University of Colorado Boulder, Chemical and Biological Engineering",
+      "title": "Young Scholars Summer Research Program (YSSRP)",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Engineering-Biomedical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": "$700/week stipend + $100/week meal allowance (plus travel and housing for non-local participants)",
+      "paid": true,
+      "housing": true,
+      "letters_required": 1,
+      "open_date": "2027-01-01",
+      "deadline": "2027-02-12",
+      "rolling": null,
+      "apply_url": "https://colorado.edu/chbe/apply/undergraduate-students/young-scholars-summer-research-program",
+      "summary": "Nine-week summer undergraduate research program in chemical and biological engineering, covering areas like biomaterials, catalysis, energy, polymers, and protein engineering, with professional development.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-15T17:33:30+00:00",
+      "last_updated": "2026-11-15T17:33:30+00:00",
+      "last_verified": "2026-11-15T17:33:30+00:00",
+      "sources": [
+        "Young Scholars Summer Research Program"
+      ],
+      "links": [
+        {
+          "source": "Young Scholars Summer Research Program",
+          "url": "https://colorado.edu/chbe/apply/undergraduate-students/young-scholars-summer-research-program"
         }
       ]
     },
@@ -11968,12 +12226,12 @@
       "open_date": null,
       "deadline": null,
       "rolling": null,
-      "apply_url": "https://www.kent.edu/chemistry/undergraduate-summer-research-experience-reu",
-      "summary": "Ten-week summer research with faculty in Chemistry & Biochemistry and Liquid Crystal Institute labs on liquid crystals, biomaterials, nanomaterials, and biological membranes.",
+      "apply_url": "https://www.kent.edu/chemistry/reu-application-summer-2026",
+      "summary": "Ten-week summer research with faculty in Chemistry & Biochemistry and the Liquid Crystal Institute on liquid crystals, biomaterials, nanomaterials, and biological membranes.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:01:53+00:00",
-      "last_updated": "2026-11-01T17:01:53+00:00",
+      "last_updated": "2026-11-15T17:33:52+00:00",
       "last_verified": "2026-11-15T14:45:49+00:00",
       "sources": [
         "Pathways to Science"
@@ -11981,7 +12239,7 @@
       "links": [
         {
           "source": "Pathways to Science",
-          "url": "https://www.kent.edu/chemistry/undergraduate-summer-research-experience-reu"
+          "url": "https://www.kent.edu/chemistry/reu-application-summer-2026"
         }
       ]
     },
@@ -13050,60 +13308,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.mcw.edu/departments/cardiovascular-center-heart/education/advancing-student-potential-for-inclusion-with-research-experiences-aspire"
-        }
-      ]
-    },
-    {
-      "id": "d734d1d21993",
-      "organization": "Medical College of Wisconsin",
-      "title": "SURE AHA-Funded Summer Cardiovascular Research Fellowship in Milwaukee for Undergraduates",
-      "locations": [
-        "Milwaukee, WI"
-      ],
-      "states": [
-        "WI"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Biochemistry",
-        "Biology",
-        "Engineering-Biomedical",
-        "Pharmaceutical Sciences"
-      ],
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior",
-        "Community college"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": "$6,000",
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://www.mcw.edu/departments/cardiovascular-center-heart/education/supporting-undergraduate-research-experiences-sure-program",
-      "summary": "Ten-week summer program where undergraduates conduct cardiovascular research with MCW faculty mentors, attend career preparation seminars, and present at a virtual AHA Research Symposium.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-01T17:03:11+00:00",
-      "last_updated": "2026-11-01T17:03:11+00:00",
-      "last_verified": "2026-11-15T14:45:49+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://www.mcw.edu/departments/cardiovascular-center-heart/education/supporting-undergraduate-research-experiences-sure-program"
         }
       ]
     },
@@ -17176,11 +17380,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://itep.nau.edu/internships/",
-      "summary": "Eight-week summer internships with EPA, tribal, and other environmental offices in air quality, climate change, and Colorado River Basin water resources and land management.",
+      "summary": "Eight-week summer internships with EPA, tribal, and other environmental offices in Air Quality, Climate Change, and Water Resources & Land Management in the Colorado River Basin.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:00:58+00:00",
-      "last_updated": "2026-11-01T17:00:58+00:00",
+      "last_updated": "2026-11-15T17:33:46+00:00",
       "last_verified": "2026-11-15T14:45:49+00:00",
       "sources": [
         "Pathways to Science"
@@ -21579,11 +21783,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/",
-      "summary": "Summer computational biology and bioinformatics program for students conducting research at UCLA and sponsored by UCLA faculty.",
+      "summary": "Summer computational biology and bioinformatics program for students conducting research at UCLA sponsored by UCLA faculty.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-08T16:54:19+00:00",
-      "last_updated": "2026-11-08T16:54:19+00:00",
+      "last_updated": "2026-11-15T17:33:26+00:00",
       "last_verified": "2026-11-15T14:45:49+00:00",
       "sources": [
         "Summer Programs for Undergraduate Research (SPUR)"
@@ -25768,6 +25972,52 @@
         {
           "source": "Pathways to Science",
           "url": "https://mb-reu.ku.edu/"
+        }
+      ]
+    },
+    {
+      "id": "3b6f000ba89a",
+      "organization": "University of Kansas",
+      "title": "KU Chemistry REU Program",
+      "locations": [
+        "Lawrence, KS"
+      ],
+      "states": [
+        "KS"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$7,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": "2026-12-14",
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://chemreu.ku.edu/",
+      "summary": "NSF-funded summer undergraduate research in chemistry areas such as synthesis, catalysis, computational chemistry, materials, spectroscopy, and chemical biology, with career development activities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-15T17:33:34+00:00",
+      "last_updated": "2026-11-15T17:33:34+00:00",
+      "last_verified": "2026-11-15T17:33:34+00:00",
+      "sources": [
+        "KU Chemistry REU Program"
+      ],
+      "links": [
+        {
+          "source": "KU Chemistry REU Program",
+          "url": "https://chemreu.ku.edu/"
         }
       ]
     },
