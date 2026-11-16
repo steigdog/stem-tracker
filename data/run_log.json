@@ -6748,5 +6748,315 @@
       "gone": 8,
       "error": 101
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-11-16T20:44:18+00:00",
+    "finished": "2026-11-16T20:44:18+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-11-16T20:44:18+00:00",
+    "finished": "2026-11-16T20:47:31+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 55,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "possibly broken",
+        "note": "HTTPError"
+      },
+      "Johnson & Johnson": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "possibly broken",
+        "note": "HTTPError"
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Summer Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Bernard S. and Sophie G. Gould MIT Summer Research Program in Biology (BSG-MSRP-Bio)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Research in Astronomy (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Research Experience for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Programs for Undergraduate Research (SPUR)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Young Scholars Summer Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "KU Chemistry REU Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program (SURP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Internship in Biological Sciences in Public Health": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "INSIGHT Summer Research Training Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pfizer": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "possibly broken",
+        "note": "HTTPError"
+      },
+      "Boeing": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "possibly broken",
+        "note": "HTTPError"
+      },
+      "Pathways to Science": {
+        "found": 540,
+        "read": 18,
+        "added": 1,
+        "updated": 17,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [
+      "Northern Illinois University - REU- Water quality and resources in Mexico"
+    ],
+    "updated": [
+      "Medical University of South Carolina - Drug Abuse Research Training (DART) Program - Summer Research Fellowship",
+      "Medical University of South Carolina - Summer Undergraduate Research Program (SURP)",
+      "Memorial Sloan-Kettering Cancer Center - Quantitative Sciences Undergraduate Research Experience (QSURE)",
+      "Michigan State University - Great Lakes Bioenergy Research Center Summer Undergraduate Research Program",
+      "Michigan State University - Plant Genomics @ MSU",
+      "Milwaukee School of Engineering - NSF REU Site: Advanced Manufacture of Novel Materials and Bio-Nano Applications",
+      "Missouri Botanical Garden - International Research Experience for Students (IRES): Understanding Pollinator-Mediated Diversification in Neotropical Plants",
+      "Montclair State University - IRES: Summer Biology Research Program in Japan",
+      "Montclair State University - PSEG Institute for Sustainability Science Green Teams Program",
+      "Mote Marine Laboratory - Mote Research Experience for Undergraduates",
+      "Mount Desert Island Biological Laboratory (MDIBL) - Comparative Regenerative Biology and Aging REU Program",
+      "Mount Sinai School of Medicine - Mount Sinai Center for Bioinformatics: Summer Research Training Program in Biomedical Big Data Science",
+      "University of California, Irvine - NASA Student Airborne Research Program (SARP)",
+      "SETI Institute - Astrobiology REU",
+      "National Institute of Standards and Technology (NIST), Boulder - NIST Summer Undergraduate Research Fellowship (SURF) Program (Virtual)",
+      "National Radio Astronomy Observatory - Summer Student Research Program at the National Radio Astronomy Observatory",
+      "Nemours/Alfred I. duPont Hospital for Children - Nemours Summer Research Scholar Award"
+    ],
+    "removed": [
+      "Montclair State University - IRES: Summer Biology Research Program in Japan (deadline passed (2026-11-06))"
+    ],
+    "failed": [
+      {
+        "where": "Moderna",
+        "error": "HTTPError('HTTP 429 for https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/jobs')\nTraceback (most recent call last):\n  File \"/home/runner/work/stem-tracker/stem-tracker/agent/run.py\", line 172, in collect\n    raws = fut.result()\n           ^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/concurrent/futures/_base.py\", line 449, in result\n    return self.__get"
+      },
+      {
+        "where": "Johnson & Johnson",
+        "error": "HTTPError('HTTP 429 for https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs')\nTraceback (most recent call last):\n  File \"/home/runner/work/stem-tracker/stem-tracker/agent/run.py\", line 172, in collect\n    raws = fut.result()\n           ^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/concurrent/futures/_base.py\", line 449, in result\n    return self.__get_result()\n      "
+      },
+      {
+        "where": "Pfizer",
+        "error": "HTTPError('HTTP 429 for https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs')\nTraceback (most recent call last):\n  File \"/home/runner/work/stem-tracker/stem-tracker/agent/run.py\", line 172, in collect\n    raws = fut.result()\n           ^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/concurrent/futures/_base.py\", line 449, in result\n    return self.__"
+      },
+      {
+        "where": "Boeing",
+        "error": "HTTPError('HTTP 429 for https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs')\nTraceback (most recent call last):\n  File \"/home/runner/work/stem-tracker/stem-tracker/agent/run.py\", line 172, in collect\n    raws = fut.result()\n           ^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/concurrent/futures/_base.py\", line 449, in result\n    return self"
+      }
+    ],
+    "warnings": [
+      "'Moderna' returned 0 results (usually ~41) - possibly broken",
+      "'Johnson & Johnson' returned 0 results (usually ~23) - possibly broken",
+      "'Pfizer' returned 0 results (usually ~7) - possibly broken",
+      "'Boeing' returned 0 results (usually ~9) - possibly broken"
+    ],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 30136,
+      "output_tokens": 6735,
+      "cache_read_input_tokens": 63512,
+      "calls": 18
+    }
   }
 ]
