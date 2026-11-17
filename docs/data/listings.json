@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T16:58:21+00:00",
-  "last_collect": "2026-11-16T20:47:31+00:00",
+  "generated_at": "2026-11-17T19:32:04+00:00",
+  "last_collect": "2026-11-17T19:32:04+00:00",
   "last_verify": "2026-11-17T16:58:21+00:00",
   "sources_monitored": 26,
-  "count": 618,
+  "count": 620,
   "listings": [
     {
       "id": "e9a898b3beb2",
@@ -341,6 +341,7 @@
       ],
       "majors": [
         "Biology",
+        "Biochemistry",
         "Public Health"
       ],
       "class_years": [
@@ -357,11 +358,11 @@
       "deadline": "2027-01-08",
       "rolling": null,
       "apply_url": "https://www.fredhutch.org/en/education-training/undergraduate-students/summer-undergraduate-research-program.html",
-      "summary": "Nine-week mentored biomedical research internship where undergraduates complete an independent project with a faculty mentor and present at a competitive poster session.",
+      "summary": "Nine-week mentored biomedical research internship where undergraduates complete an independent project with a faculty mentor, attend professional development workshops, and present at a poster session.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-09T21:14:49+00:00",
-      "last_updated": "2026-11-09T21:14:49+00:00",
+      "last_updated": "2026-11-17T19:31:25+00:00",
       "last_verified": "2026-11-17T16:58:21+00:00",
       "sources": [
         "Summer Undergraduate Research Program"
@@ -421,6 +422,60 @@
         {
           "source": "MagLab Research Experiences for Undergraduates (REU)",
           "url": "https://nationalmaglab.org/education/college-students/reu/"
+        }
+      ]
+    },
+    {
+      "id": "781c21647847",
+      "organization": "University of Idaho",
+      "title": "Summer AgBiz Fellow Program",
+      "locations": [
+        "Moscow, ID",
+        "Portland, OR"
+      ],
+      "states": [
+        "ID",
+        "OR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,200 stipend and $600 travel allowance",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-11",
+      "rolling": null,
+      "apply_url": "https://www.uidaho.edu/extension/food/idaho-agbiz/fellow",
+      "summary": "Eight-week summer research and Extension fellowship applying data analysis and economic reasoning to agricultural markets, supply chains, and economic risk management with faculty mentors.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-17T19:32:04+00:00",
+      "last_updated": "2026-11-17T19:32:04+00:00",
+      "last_verified": "2026-11-17T19:32:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.uidaho.edu/extension/food/idaho-agbiz/fellow"
         }
       ]
     },
@@ -1017,6 +1072,57 @@
       ]
     },
     {
+      "id": "a935321a76f1",
+      "organization": "University of Alaska, Fairbanks",
+      "title": "Summer Research Internships at Cooperative Institute for Climate, Ocean, and Ecosystem Studies",
+      "locations": [
+        "Fairbanks, AK"
+      ],
+      "states": [
+        "AK"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$650 per week",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-24",
+      "rolling": null,
+      "apply_url": "https://cicoes.uw.edu/education/internships/",
+      "summary": "Nine-week mentored research projects in climate, ocean, and ecosystem science with NOAA, USGS, CICOES, or UW scientists, ending with a research symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:01+00:00",
+      "last_updated": "2026-11-17T19:31:50+00:00",
+      "last_verified": "2026-11-17T16:58:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cicoes.uw.edu/education/internships/"
+        }
+      ]
+    },
+    {
       "id": "976f52fe15c1",
       "organization": "Jackson Laboratory",
       "title": "Summer Student Program",
@@ -1437,6 +1543,60 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.noaa.gov/office-education/hollings-scholarship"
+        }
+      ]
+    },
+    {
+      "id": "ad027dd3169f",
+      "organization": "Penn State College of Medicine",
+      "title": "PROMISE Program in Oncology and Medicine",
+      "locations": [
+        "Hershey, PA"
+      ],
+      "states": [
+        "PA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Mathematics & Statistics",
+        "Public Health",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-31",
+      "rolling": null,
+      "apply_url": "https://med.psu.edu/education/certificate-and-undergraduate/promise",
+      "summary": "NCI-funded summer program providing team research experiences in cancer prevention and treatment with oncology teams, plus career workshops in oncology.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:15:09+00:00",
+      "last_updated": "2026-11-17T19:31:53+00:00",
+      "last_verified": "2026-11-17T16:58:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://med.psu.edu/education/certificate-and-undergraduate/promise"
         }
       ]
     },
@@ -1908,6 +2068,58 @@
       ]
     },
     {
+      "id": "993919c4f33e",
+      "organization": "Oregon Health & Science University",
+      "title": "Vollum Institute Undergraduate Summer Research Program",
+      "locations": [
+        "Portland, OR"
+      ],
+      "states": [
+        "OR"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Neuroscience",
+        "Biochemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program/vollum-ngp-undergraduate-summer-research-program",
+      "summary": "Eight-week summer program where undergraduates conduct independent research in molecular, cellular, and behavioral neuroscience labs, attend neuroscience classes, and receive graduate school mentoring.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:14:48+00:00",
+      "last_updated": "2026-11-17T19:31:47+00:00",
+      "last_verified": "2026-11-17T16:58:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program/vollum-ngp-undergraduate-summer-research-program"
+        }
+      ]
+    },
+    {
       "id": "063f60f2abcd",
       "organization": "SETI Institute",
       "title": "Astrobiology REU",
@@ -2144,8 +2356,6 @@
         "Biochemistry"
       ],
       "class_years": [
-        "Freshman",
-        "Sophomore",
         "Junior",
         "Senior"
       ],
@@ -2160,11 +2370,11 @@
       "deadline": "2027-02-01",
       "rolling": true,
       "apply_url": "https://www.lrsm.upenn.edu/outreach/reu/",
-      "summary": "Ten-week summer research program at Penn's LRSM where undergraduates conduct graduate-level research in materials science, chemistry, physics, biochemistry, and engineering, with professional development.",
+      "summary": "10-week summer program (June 1–August 6, 2027) where undergraduates conduct graduate-level research in materials science, chemistry, physics, biochemistry, and engineering at Penn's LRSM.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-01T17:00:49+00:00",
-      "last_updated": "2026-11-01T17:00:49+00:00",
+      "last_updated": "2026-11-17T19:31:29+00:00",
       "last_verified": "2026-11-17T16:58:21+00:00",
       "sources": [
         "NSF REU at LRSM"
@@ -2487,6 +2697,63 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.unh.edu/sustainability/changemaker-collaborative/programs/sustainability-fellowships"
+        }
+      ]
+    },
+    {
+      "id": "67d372873d73",
+      "organization": "Northwestern University",
+      "title": "Summer Undergraduate Research Experience in Nanotechnology",
+      "locations": [
+        "Evanston, IL"
+      ],
+      "states": [
+        "IL"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,750 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-08",
+      "rolling": null,
+      "apply_url": "https://www.iinano.org/research-experience-for-undergraduates/",
+      "summary": "Nine-week full-time summer nanotechnology research at Northwestern with group meetings, lectures, an Argonne field trip, a research paper, and a closing symposium presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-03T18:13:58+00:00",
+      "last_updated": "2026-11-17T19:31:32+00:00",
+      "last_verified": "2026-11-17T16:58:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.iinano.org/research-experience-for-undergraduates/"
         }
       ]
     },
@@ -7674,57 +7941,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://cancerdynamics.columbia.edu/summer-research-internship"
-        }
-      ]
-    },
-    {
-      "id": "a935321a76f1",
-      "organization": "Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES)",
-      "title": "Summer Research Internships at Cooperative Institute for Climate, Ocean, and Ecosystem Studies",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "states": [
-        "WA"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Chemistry",
-        "Environmental Science"
-      ],
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Community college"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": "$650 per week",
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://cicoes.uw.edu/education/internships/",
-      "summary": "Nine-week mentored summer research projects with NOAA, USGS, CICOES, or UW scientists in climate, ocean, and ecosystem sciences, ending in a research symposium.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-03T18:15:01+00:00",
-      "last_updated": "2026-11-03T18:15:01+00:00",
-      "last_verified": "2026-11-17T16:58:21+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://cicoes.uw.edu/education/internships/"
         }
       ]
     },
@@ -17612,63 +17828,6 @@
       ]
     },
     {
-      "id": "67d372873d73",
-      "organization": "Northwestern University",
-      "title": "Summer Undergraduate Research Experience in Nanotechnology",
-      "locations": [
-        "Evanston, IL"
-      ],
-      "states": [
-        "IL"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Engineering-Biomedical",
-        "Engineering-Chemical",
-        "Physics",
-        "Chemistry",
-        "Engineering-Electrical",
-        "Materials Science",
-        "Engineering-Mechanical",
-        "Engineering-Industrial"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": "$5,750 stipend",
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://www.iinano.org/research-experience-for-undergraduates/",
-      "summary": "Nine-week full-time summer nanotechnology research at Northwestern's IIN with group meetings, lectures, an Argonne field trip, a research paper, and a closing symposium.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-03T18:13:58+00:00",
-      "last_updated": "2026-11-03T18:13:58+00:00",
-      "last_verified": "2026-11-17T16:58:21+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://www.iinano.org/research-experience-for-undergraduates/"
-        }
-      ]
-    },
-    {
       "id": "254646299af6",
       "organization": "Ocean Exploration Trust",
       "title": "At-Sea Science & Engineering Internship Program",
@@ -17898,11 +18057,11 @@
       ],
       "majors": [
         "Biochemistry",
-        "Mathematics & Statistics",
         "Biology",
         "Engineering-Biomedical",
         "Chemistry",
-        "Public Health"
+        "Public Health",
+        "Mathematics & Statistics"
       ],
       "class_years": [
         "Junior",
@@ -17920,11 +18079,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://www.ohsu.edu/school-of-medicine/cell-developmental-and-cancer-biology/biomedical-bioinformatics-research",
-      "summary": "Eight-week summer internship where upper-level undergraduates conduct mentored biological and/or quantitative cancer research in OHSU Knight Cancer Institute laboratories and present a research poster.",
+      "summary": "Eight-week summer program where undergraduates conduct mentored biological and/or quantitative cancer research in OHSU Knight Cancer Institute laboratories and present a research poster.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-03T18:14:41+00:00",
-      "last_updated": "2026-11-03T18:14:41+00:00",
+      "last_updated": "2026-11-17T19:31:41+00:00",
       "last_verified": "2026-11-17T16:58:21+00:00",
       "sources": [
         "Pathways to Science"
@@ -17985,57 +18144,6 @@
         {
           "source": "Pathways to Science",
           "url": "http://www.ohsu.edu/xd/about/vision/center-for-diversity-inclusion/academic-resources/internships/summer-equity-internship.cfm"
-        }
-      ]
-    },
-    {
-      "id": "993919c4f33e",
-      "organization": "Oregon Health & Science University",
-      "title": "Vollum Institute Undergraduate Summer Research Program",
-      "locations": [
-        "Portland, OR"
-      ],
-      "states": [
-        "OR"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Neuroscience"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "min_gpa": null,
-      "citizenship": "International students eligible",
-      "export_control": null,
-      "pay": null,
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program/vollum-ngp-undergraduate-summer-research-program",
-      "summary": "Eight-week summer program where undergraduates conduct independent research in molecular, cellular, and behavioral neuroscience labs, attend neuroscience classes, and receive graduate school mentoring.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-03T18:14:48+00:00",
-      "last_updated": "2026-11-03T18:14:48+00:00",
-      "last_verified": "2026-11-17T16:58:21+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program/vollum-ngp-undergraduate-summer-research-program"
         }
       ]
     },
@@ -18204,58 +18312,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://ceoas.oregonstate.edu/research/undergraduate/reu/"
-        }
-      ]
-    },
-    {
-      "id": "ad027dd3169f",
-      "organization": "Penn State College of Medicine",
-      "title": "PROMISE Program in Oncology and Medicine",
-      "locations": [
-        "Hershey, PA"
-      ],
-      "states": [
-        "PA"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [],
-      "majors": [
-        "Biochemistry",
-        "Biology",
-        "Public Health",
-        "Mathematics & Statistics",
-        "Materials Science"
-      ],
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": null,
-      "paid": null,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://med.psu.edu/education/certificate-and-undergraduate/promise",
-      "summary": "NCI-funded team research experience in cancer prevention and treatment with basic, clinical, and population science oncology teams, plus career workshops in oncology.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-03T18:15:09+00:00",
-      "last_updated": "2026-11-03T18:15:09+00:00",
-      "last_verified": "2026-11-17T16:58:21+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://med.psu.edu/education/certificate-and-undergraduate/promise"
         }
       ]
     },
@@ -18999,6 +19055,61 @@
         {
           "source": "Pathways to Science",
           "url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF"
+        }
+      ]
+    },
+    {
+      "id": "fb28e54f1bba",
+      "organization": "Purdue University",
+      "title": "CISTAR - Summer Research Experience for Undergraduates (REU) Program in Engineering",
+      "locations": [
+        "West Lafayette, IN"
+      ],
+      "states": [
+        "IN"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Chemical",
+        "Physics",
+        "Chemistry",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://cistar.us/ewd/undergrad_overview/copy_of_research-experience-for-undergraduates-reu-program",
+      "summary": "Summer undergraduate research at Purdue on novel catalysts and separation systems for producing chemicals and fuels from shale gas, mentored by faculty and graduate students.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-17T19:32:01+00:00",
+      "last_updated": "2026-11-17T19:32:01+00:00",
+      "last_verified": "2026-11-17T19:32:01+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cistar.us/ewd/undergrad_overview/copy_of_research-experience-for-undergraduates-reu-program"
         }
       ]
     },
