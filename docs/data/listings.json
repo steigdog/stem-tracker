@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-18T16:28:43+00:00",
-  "last_collect": "2026-11-17T19:32:04+00:00",
+  "generated_at": "2026-11-18T19:14:32+00:00",
+  "last_collect": "2026-11-18T19:14:32+00:00",
   "last_verify": "2026-11-18T16:28:43+00:00",
   "sources_monitored": 26,
-  "count": 620,
+  "count": 631,
   "listings": [
     {
       "id": "e9a898b3beb2",
@@ -159,6 +159,60 @@
         {
           "source": "Johnson & Johnson",
           "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/J-J-IM-North-America-Operations-Intern_R-099364"
+        }
+      ]
+    },
+    {
+      "id": "fad742e363c9",
+      "organization": "Roswell Park Cancer Institute",
+      "title": "College Summer Research Experience in Cancer (SURE-CAN) Program",
+      "locations": [
+        "Buffalo, NY"
+      ],
+      "states": [
+        "NY"
+      ],
+      "remote": null,
+      "opportunity_type": "Clinical/Hospital Research",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Chemistry",
+        "Public Health",
+        "Pharmaceutical Sciences",
+        "Physics",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-01",
+      "rolling": null,
+      "apply_url": "https://www.roswellpark.org/education/high-school-undergrad/college-summer-research-program",
+      "summary": "Ten-week full-time independent cancer research project under a Roswell Park scientist, with seminars, outreach, and a concluding scientific conference presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-04T18:33:35+00:00",
+      "last_updated": "2026-11-18T19:13:54+00:00",
+      "last_verified": "2026-11-18T16:28:43+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.roswellpark.org/education/high-school-undergrad/college-summer-research-program"
         }
       ]
     },
@@ -851,6 +905,63 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.nemours.org/pediatric-research/education.html"
+        }
+      ]
+    },
+    {
+      "id": "b6672c94854f",
+      "organization": "Purdue University",
+      "title": "Summer Undergraduate Research Fellowship Program",
+      "locations": [
+        "West Lafayette, IN"
+      ],
+      "states": [
+        "IN"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Engineering-Biomedical",
+        "Engineering-Chemical",
+        "Physics",
+        "Engineering-Civil/Environmental",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-15",
+      "rolling": null,
+      "apply_url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF",
+      "summary": "10-week paid summer research experience on Purdue's West Lafayette campus working with faculty and graduate mentors in science, engineering, and technology, with workshops and a symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-04T18:33:18+00:00",
+      "last_updated": "2026-11-18T19:13:47+00:00",
+      "last_verified": "2026-11-18T16:28:43+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF"
         }
       ]
     },
@@ -1601,6 +1712,58 @@
       ]
     },
     {
+      "id": "7857d22dcdf5",
+      "organization": "Princeton University",
+      "title": "Cooperative Institute for Modeling the Earth System (CIMES) Research Internship Program",
+      "locations": [
+        "Princeton, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,600 - $6,300 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-31",
+      "rolling": null,
+      "apply_url": "https://cimes.princeton.edu/education-outreach/intern-program",
+      "summary": "Undergraduates conduct 8-9 week research internships in atmospheric, oceanic and earth system science with host scientists at Princeton University and NOAA's GFDL.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-04T18:32:48+00:00",
+      "last_updated": "2026-11-18T19:13:31+00:00",
+      "last_verified": "2026-11-18T16:28:43+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://cimes.princeton.edu/education-outreach/intern-program"
+        }
+      ]
+    },
+    {
       "id": "9077d8fe1a36",
       "organization": "Rutgers University",
       "title": "DIMACS REU Program",
@@ -1750,6 +1913,58 @@
         {
           "source": "Pitt Public Health Undergraduate Scholars Program (PHUSP)",
           "url": "https://www.publichealth.pitt.edu/academics/other-undergraduate-opportunities/pitt-public-health-undergraduate-scholars-program"
+        }
+      ]
+    },
+    {
+      "id": "2685fbf49de5",
+      "organization": "West Virginia University",
+      "title": "Neuroscience Undergraduate Research Opportunity (N.U.R.O.)",
+      "locations": [
+        "Morgantown, WV"
+      ],
+      "states": [
+        "WV"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Neuroscience"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": 3.0,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-01-31",
+      "rolling": null,
+      "apply_url": "https://medicine.hsc.wvu.edu/neuroscience/about-us/training-and-internships/neuroscience-undergraduate-research-opportunity-nuro/",
+      "summary": "Nine-week summer neuroscience research internship at WVU with weekly journal clubs, a poster symposium, and activities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:01+00:00",
+      "last_updated": "2026-11-18T19:14:01+00:00",
+      "last_verified": "2026-11-18T19:14:01+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://medicine.hsc.wvu.edu/neuroscience/about-us/training-and-internships/neuroscience-undergraduate-research-opportunity-nuro/"
         }
       ]
     },
@@ -2120,6 +2335,106 @@
       ]
     },
     {
+      "id": "3bd845961b94",
+      "organization": "Princeton University",
+      "title": "Summer Undergraduate Research Program for Diversity in Chemistry (SURP-DC)",
+      "locations": [
+        "Princeton, NJ"
+      ],
+      "states": [
+        "NJ"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Biochemistry",
+        "Materials Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://surpdc.princeton.edu/",
+      "summary": "Nine-week summer chemistry research program placing undergraduates in Princeton faculty research groups, with discussion groups, safety training, an industrial lab tour, and a poster session.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-04T18:32:57+00:00",
+      "last_updated": "2026-11-18T19:13:35+00:00",
+      "last_verified": "2026-11-18T16:28:43+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://surpdc.princeton.edu/"
+        }
+      ]
+    },
+    {
+      "id": "ddb618a86c69",
+      "organization": "Purdue University",
+      "title": "Department of Physics REU Program",
+      "locations": [
+        "West Lafayette, IN"
+      ],
+      "states": [
+        "IN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Biochemistry",
+        "Environmental Science"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$450 per week",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": true,
+      "apply_url": "http://www.physics.purdue.edu/reu/",
+      "summary": "Ten-week NSF REU where undergraduates work closely with Purdue physics faculty on projects in high energy, condensed matter, nuclear physics, biophysics, geophysics, and astrophysics.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-04T18:33:00+00:00",
+      "last_updated": "2026-11-18T19:13:39+00:00",
+      "last_verified": "2026-11-18T16:28:43+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.physics.purdue.edu/reu/"
+        }
+      ]
+    },
+    {
       "id": "063f60f2abcd",
       "organization": "SETI Institute",
       "title": "Astrobiology REU",
@@ -2442,6 +2757,166 @@
       ]
     },
     {
+      "id": "fdf37eff8c56",
+      "organization": "West Virginia University",
+      "title": "Summer Program for Undergraduate Research in Biomedical Sciences",
+      "locations": [
+        "Morgantown, WV"
+      ],
+      "states": [
+        "WV"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Biochemistry",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$4,500 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://health.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/summer-program-for-undergraduate-research-in-biomedical-sciences/",
+      "summary": "Eight-week mentored summer biomedical research project in areas such as cancer biology, immunology, neuroscience, and pharmacology, with professional development and research presentation.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:08+00:00",
+      "last_updated": "2026-11-18T19:14:08+00:00",
+      "last_verified": "2026-11-18T19:14:08+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://health.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/summer-program-for-undergraduate-research-in-biomedical-sciences/"
+        }
+      ]
+    },
+    {
+      "id": "d0f7b536d643",
+      "organization": "Williams College",
+      "title": "Mathematics and Statistics (SMALL) REU",
+      "locations": [
+        "Williamstown, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://math.williams.edu/small/",
+      "summary": "Nine-week NSF-supported summer program where undergraduates work in small faculty-directed groups on open research problems in mathematics and statistics.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:17+00:00",
+      "last_updated": "2026-11-18T19:14:17+00:00",
+      "last_verified": "2026-11-18T19:14:17+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://math.williams.edu/small/"
+        }
+      ]
+    },
+    {
+      "id": "c3885516a179",
+      "organization": "Yale University",
+      "title": "Yale Summer Undergraduate Research Fellowship (SURF) Program",
+      "locations": [
+        "New Haven, CT"
+      ],
+      "states": [
+        "CT"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Chemistry",
+        "Materials Science",
+        "Biology",
+        "Neuroscience",
+        "Physics",
+        "Environmental Science",
+        "Engineering-Mechanical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://gsas.yale.edu/programs-of-study/summer-undergraduate-research-fellowship-program",
+      "summary": "Eight-week summer program where undergraduates conduct Ph.D.-level research with Yale faculty mentors, attend workshops, and present at the Leadership Alliance National Symposium.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:32+00:00",
+      "last_updated": "2026-11-18T19:14:32+00:00",
+      "last_verified": "2026-11-18T19:14:32+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://gsas.yale.edu/programs-of-study/summer-undergraduate-research-fellowship-program"
+        }
+      ]
+    },
+    {
       "id": "19de0470bdb6",
       "organization": "NYU Grossman School of Medicine, Vilcek Institute of Graduate Biomedical Sciences",
       "title": "Summer Undergraduate Research Program (SURP)",
@@ -2539,6 +3014,60 @@
         {
           "source": "Pathways to Science",
           "url": "http://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/research/research-experience-for-undergraduates--reu-.html"
+        }
+      ]
+    },
+    {
+      "id": "0efa9f22dcd0",
+      "organization": "Woods Hole Oceanographic Institution",
+      "title": "Summer Student Fellowship Program",
+      "locations": [
+        "Woods Hole, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "Fellowship",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics",
+        "Biology",
+        "Chemistry",
+        "Environmental Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial",
+        "Physics"
+      ],
+      "class_years": [
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": "International students eligible",
+      "export_control": null,
+      "pay": "$680/week",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-04",
+      "rolling": null,
+      "apply_url": "http://www.whoi.edu/main/summer-student-fellowship",
+      "summary": "Undergraduates conduct a 10-12 week research project in ocean sciences and engineering with WHOI scientists, including seminars, professional development, and a one-day sampling cruise.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:25+00:00",
+      "last_updated": "2026-11-18T19:14:25+00:00",
+      "last_verified": "2026-11-18T19:14:25+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.whoi.edu/main/summer-student-fellowship"
         }
       ]
     },
@@ -2754,6 +3283,59 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.iinano.org/research-experience-for-undergraduates/"
+        }
+      ]
+    },
+    {
+      "id": "8184efea8fa7",
+      "organization": "Purdue University",
+      "title": "Summer Research Opportunity Program (SROP)",
+      "locations": [
+        "West Lafayette, IN"
+      ],
+      "states": [
+        "IN"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Neuroscience",
+        "Engineering-Electrical",
+        "Engineering-Aerospace"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-10",
+      "rolling": null,
+      "apply_url": "https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/",
+      "summary": "Summer program preparing undergraduates for graduate study through intensive research with faculty mentors, presentations, GRE and grad school workshops, and enrichment activities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-04T18:33:15+00:00",
+      "last_updated": "2026-11-18T19:13:43+00:00",
+      "last_verified": "2026-11-18T16:28:43+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/"
         }
       ]
     },
@@ -18699,58 +19281,6 @@
       ]
     },
     {
-      "id": "7857d22dcdf5",
-      "organization": "Princeton University",
-      "title": "Cooperative Institute for Modeling the Earth System (CIMES) Research Internship Program",
-      "locations": [
-        "Princeton, NJ"
-      ],
-      "states": [
-        "NJ"
-      ],
-      "remote": "On-site",
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Environmental Science"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior",
-        "Senior",
-        "Community college"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": "$5,600 - $6,300 stipend",
-      "paid": true,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://cimes.princeton.edu/education-outreach/intern-program",
-      "summary": "Undergraduates conduct 8-9 week research internships in atmospheric, oceanic and earth system science with host scientists at Princeton University and NOAA's Geophysical Fluid Dynamics Laboratory.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-04T18:32:48+00:00",
-      "last_updated": "2026-11-04T18:32:48+00:00",
-      "last_verified": "2026-11-18T16:28:43+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://cimes.princeton.edu/education-outreach/intern-program"
-        }
-      ]
-    },
-    {
       "id": "f0ac61dfc238",
       "organization": "Princeton University",
       "title": "Princeton Neuroscience Institute Summer Internship Program",
@@ -18801,104 +19331,6 @@
       ]
     },
     {
-      "id": "3bd845961b94",
-      "organization": "Princeton University",
-      "title": "Summer Undergraduate Research Program for Diversity in Chemistry (SURP-DC)",
-      "locations": [
-        "Princeton, NJ"
-      ],
-      "states": [
-        "NJ"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Chemistry",
-        "Biochemistry",
-        "Materials Science"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior"
-      ],
-      "min_gpa": null,
-      "citizenship": "International students eligible",
-      "export_control": null,
-      "pay": null,
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://surpdc.princeton.edu/",
-      "summary": "Nine-week summer program placing undergraduates in Princeton chemistry faculty research groups, with research discussions, safety training, an industrial lab tour, and a poster session.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-04T18:32:57+00:00",
-      "last_updated": "2026-11-04T18:32:57+00:00",
-      "last_verified": "2026-11-18T16:28:43+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://surpdc.princeton.edu/"
-        }
-      ]
-    },
-    {
-      "id": "ddb618a86c69",
-      "organization": "Purdue University",
-      "title": "Department of Physics REU and RET Programs",
-      "locations": [
-        "West Lafayette, IN"
-      ],
-      "states": [
-        "IN"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Physics"
-      ],
-      "class_years": [],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": "$450 per week",
-      "paid": true,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": true,
-      "apply_url": "http://www.physics.purdue.edu/reu/",
-      "summary": "Ten-week NSF REU where undergraduates work closely with Purdue physics faculty on projects in high energy, condensed matter, nuclear, geophysics, biophysics, and astrophysics.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-04T18:33:00+00:00",
-      "last_updated": "2026-11-04T18:33:00+00:00",
-      "last_verified": "2026-11-18T16:28:43+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "http://www.physics.purdue.edu/reu/"
-        }
-      ]
-    },
-    {
       "id": "c76078920b45",
       "organization": "Purdue University",
       "title": "Research Experience for Undergraduates (REU): Molecular and Biochemical Analysis of Proteins",
@@ -18945,116 +19377,6 @@
         {
           "source": "Pathways to Science",
           "url": "http://ag.purdue.edu/biochem/Pages/REU.aspx"
-        }
-      ]
-    },
-    {
-      "id": "8184efea8fa7",
-      "organization": "Purdue University",
-      "title": "Summer Research Opportunity Program (SROP)",
-      "locations": [
-        "West Lafayette, IN"
-      ],
-      "states": [
-        "IN"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Biology",
-        "Neuroscience",
-        "Engineering-Electrical",
-        "Engineering-Aerospace"
-      ],
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": null,
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/",
-      "summary": "Summer program preparing undergraduates for graduate study through intensive research with faculty mentors, presentations, GRE and graduate school workshops, and enrichment activities.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-04T18:33:15+00:00",
-      "last_updated": "2026-11-04T18:33:15+00:00",
-      "last_verified": "2026-11-18T16:28:43+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/"
-        }
-      ]
-    },
-    {
-      "id": "b6672c94854f",
-      "organization": "Purdue University",
-      "title": "Summer Undergraduate Research Fellowship Program",
-      "locations": [
-        "West Lafayette, IN"
-      ],
-      "states": [
-        "IN"
-      ],
-      "remote": "On-site",
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Engineering-Aerospace",
-        "Engineering-Biomedical",
-        "Engineering-Chemical",
-        "Physics",
-        "Engineering-Civil/Environmental",
-        "Engineering-Mechanical",
-        "Engineering-Industrial"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior",
-        "Senior"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": null,
-      "paid": true,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF",
-      "summary": "Paid 10-week summer research experience on Purdue's West Lafayette campus working with faculty and graduate mentors in science, engineering, and technology, with workshops and a symposium.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-04T18:33:18+00:00",
-      "last_updated": "2026-11-04T18:33:18+00:00",
-      "last_verified": "2026-11-18T16:28:43+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF"
         }
       ]
     },
@@ -19216,60 +19538,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://ccrg.rit.edu/reu/introduction"
-        }
-      ]
-    },
-    {
-      "id": "fad742e363c9",
-      "organization": "Roswell Park Cancer Institute",
-      "title": "College Summer Research Experience in Cancer (SURE-CAN) Program",
-      "locations": [
-        "Buffalo, NY"
-      ],
-      "states": [
-        "NY"
-      ],
-      "remote": null,
-      "opportunity_type": "Clinical/Hospital Research",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Biochemistry",
-        "Biology",
-        "Chemistry",
-        "Public Health",
-        "Pharmaceutical Sciences",
-        "Physics",
-        "Mathematics & Statistics"
-      ],
-      "class_years": [
-        "Junior"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": null,
-      "paid": null,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://www.roswellpark.org/education/high-school-undergrad/college-summer-research-program",
-      "summary": "Ten-week full-time independent cancer research project under Roswell Park scientific staff, with seminars, outreach, a science retreat, and a concluding conference presentation.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-04T18:33:35+00:00",
-      "last_updated": "2026-11-04T18:33:35+00:00",
-      "last_verified": "2026-11-18T16:28:43+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://www.roswellpark.org/education/high-school-undergrad/college-summer-research-program"
         }
       ]
     },
@@ -32621,6 +32889,109 @@
       ]
     },
     {
+      "id": "ff7f1ebc74f2",
+      "organization": "West Virginia University",
+      "title": "Astrophysics REU",
+      "locations": [
+        "Morgantown, WV"
+      ],
+      "states": [
+        "WV"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$5,000 stipend, $300 travel expenses, meals, and lodging",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://gwac.wvu.edu/reu",
+      "summary": "Ten-week NSF-funded summer research on astrophysics topics such as pulsars, black holes, and gravitational waves with faculty mentors, including a Green Bank Observatory visit.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:13:57+00:00",
+      "last_updated": "2026-11-18T19:13:57+00:00",
+      "last_verified": "2026-11-18T19:13:57+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://gwac.wvu.edu/reu"
+        }
+      ]
+    },
+    {
+      "id": "c18ebb498d32",
+      "organization": "West Virginia University",
+      "title": "REU Sites at West Virginia University",
+      "locations": [
+        "Morgantown, WV"
+      ],
+      "states": [
+        "WV"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://undergraduateresearch.wvu.edu/research-opportunities/wvu-opportunities",
+      "summary": "NSF-funded 10-week REU sites where undergraduates conduct research projects in chemistry and biochemistry areas such as catalysis, analytical, and computational chemistry.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:04+00:00",
+      "last_updated": "2026-11-18T19:14:04+00:00",
+      "last_verified": "2026-11-18T19:14:04+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://undergraduateresearch.wvu.edu/research-opportunities/wvu-opportunities"
+        }
+      ]
+    },
+    {
       "id": "4fe59cb43967",
       "organization": "Western Kentucky University",
       "title": "IRES: Development of the Neutron Optics Parity and Time Violation Experiment in Japan",
@@ -32723,6 +33094,110 @@
         {
           "source": "Pathways to Science",
           "url": "http://www.kbs.msu.edu/index.php/education/ugrad/reu"
+        }
+      ]
+    },
+    {
+      "id": "e932bb93d109",
+      "organization": "Western Michigan University",
+      "title": "REU Program in Environmental Signal Transduction",
+      "locations": [
+        "Kalamazoo, MI"
+      ],
+      "states": [
+        "MI"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science",
+        "Biology"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": 2.75,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": "$5,000 stipend",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://www.bu.edu/urop/apply/deadlines/",
+      "summary": "NSF-funded undergraduate research program in environmental signal transduction with a research project, seminars, scientific ethics discussions, and career-oriented sessions.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:12+00:00",
+      "last_updated": "2026-11-18T19:14:12+00:00",
+      "last_verified": "2026-11-18T19:14:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://www.bu.edu/urop/apply/deadlines/"
+        }
+      ]
+    },
+    {
+      "id": "ce82af90a0bc",
+      "organization": "Western Washington University",
+      "title": "Shannon Point Marine Center Research Experiences for Undergraduates (REU) program",
+      "locations": [
+        "Bellingham, WA"
+      ],
+      "states": [
+        "WA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science",
+        "Chemistry"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$6,300 stipend plus $675 food allowance and travel allowance",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://spmc.wwu.edu/research-experiences-undergraduates-program",
+      "summary": "Nine-week guided independent marine science research with faculty mentors at Shannon Point Marine Center, plus professional development and outreach, culminating in written and oral reports.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:15+00:00",
+      "last_updated": "2026-11-18T19:14:15+00:00",
+      "last_verified": "2026-11-18T19:14:15+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://spmc.wwu.edu/research-experiences-undergraduates-program"
         }
       ]
     },
@@ -32881,6 +33356,110 @@
         {
           "source": "Pathways to Science",
           "url": "http://www.fordham.edu/REUatCalder"
+        }
+      ]
+    },
+    {
+      "id": "1e450c579aae",
+      "organization": "Woods Hole Oceanographic Institution",
+      "title": "Accessible Ichthyoliths Internship Program",
+      "locations": [
+        "Woods Hole, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology",
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$680/week stipend; travel support up to $1000",
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www2.whoi.edu/site/paleofishes/accessible-ichthyoliths-internship/",
+      "summary": "NSF-funded 8-10 week summer internship in ichthyolith micropaleontology and accessible science communication, with research and communications tracks, at WHOI's PaleoFISHES Lab.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:21+00:00",
+      "last_updated": "2026-11-18T19:14:21+00:00",
+      "last_verified": "2026-11-18T19:14:21+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www2.whoi.edu/site/paleofishes/accessible-ichthyoliths-internship/"
+        }
+      ]
+    },
+    {
+      "id": "f92ec097831d",
+      "organization": "Worcester Polytechnic Institute",
+      "title": "Summer Research Experience in Data Science",
+      "locations": [
+        "Worcester, MA"
+      ],
+      "states": [
+        "MA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://www.wpi.edu/academics/departments/data-science/reu-program",
+      "summary": "10-week NSF REU where undergraduates learn data science techniques and apply them to research on healthcare, sustainability, security, and mobility in smart and connected communities.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-18T19:14:29+00:00",
+      "last_updated": "2026-11-18T19:14:29+00:00",
+      "last_verified": "2026-11-18T19:14:29+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.wpi.edu/academics/departments/data-science/reu-program"
         }
       ]
     },
