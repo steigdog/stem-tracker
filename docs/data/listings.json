@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T16:12:45+00:00",
-  "last_collect": "2026-11-19T19:21:32+00:00",
+  "generated_at": "2026-11-20T18:57:33+00:00",
+  "last_collect": "2026-11-20T18:57:33+00:00",
   "last_verify": "2026-11-20T16:12:45+00:00",
   "sources_monitored": 26,
-  "count": 631,
+  "count": 633,
   "listings": [
     {
       "id": "e9a898b3beb2",
@@ -3235,6 +3235,63 @@
       ]
     },
     {
+      "id": "b7dc264cec81",
+      "organization": "University of California, Davis",
+      "title": "UC Davis TERC Internship for Scholars Program",
+      "locations": [
+        "Davis, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Chemistry",
+        "Environmental Science",
+        "Biology",
+        "Mathematics & Statistics"
+      ],
+      "class_years": [
+        "Freshman",
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate",
+        "Graduate student",
+        "Community college"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$3500 per student",
+      "paid": true,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://tahoe.ucdavis.edu/interns",
+      "summary": "Eight-week summer applied research internship at the Tahoe Environmental Research Center working with mentors on limnology, hydrology, ecology and related projects plus an independent project.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:18+00:00",
+      "last_updated": "2026-11-20T18:57:02+00:00",
+      "last_verified": "2026-11-20T16:12:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://tahoe.ucdavis.edu/interns"
+        }
+      ]
+    },
+    {
       "id": "c78299c1ed9a",
       "organization": "University of California, Santa Cruz",
       "title": "Conservation Leadership Immersion Experience (CLIME) Program",
@@ -3282,6 +3339,105 @@
         {
           "source": "Pathways to Science",
           "url": "https://conservationleadership.ucsc.edu/"
+        }
+      ]
+    },
+    {
+      "id": "aadcee699cbc",
+      "organization": "University of Cincinnati",
+      "title": "Summer Undergraduate Research Fellowship in Biomedical Science",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "states": [
+        "OH"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biochemistry",
+        "Biology",
+        "Public Health",
+        "Neuroscience",
+        "Pharmaceutical Sciences"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://med.uc.edu/education/graduate-education/summer-undergraduate-research-fellowships",
+      "summary": "A 9 or 10-week summer research internship doing clinical, translational, or basic biomedical research with faculty at UC College of Medicine and Cincinnati Children's.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:26+00:00",
+      "last_updated": "2026-11-20T18:57:24+00:00",
+      "last_verified": "2026-11-20T16:12:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://med.uc.edu/education/graduate-education/summer-undergraduate-research-fellowships"
+        }
+      ]
+    },
+    {
+      "id": "b1267be4400a",
+      "organization": "University of Colorado, Boulder",
+      "title": "Summer Multicultural Access to Research Training (SMART)",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "states": [
+        "CO"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Environmental Science"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior"
+      ],
+      "min_gpa": null,
+      "citizenship": "US citizen or permanent resident",
+      "export_control": null,
+      "pay": null,
+      "paid": true,
+      "housing": true,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-01",
+      "rolling": null,
+      "apply_url": "https://www.colorado.edu/smart/undergraduates",
+      "summary": "Ten-week summer program where undergraduates conduct research with a faculty mentor and attend workshops on scientific writing and oral presentation to prepare for graduate study.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:49:44+00:00",
+      "last_updated": "2026-11-20T18:57:30+00:00",
+      "last_verified": "2026-11-20T16:12:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.colorado.edu/smart/undergraduates"
         }
       ]
     },
@@ -4758,6 +4914,60 @@
         {
           "source": "Pathways to Science",
           "url": "https://reu.ecology.uga.edu/"
+        }
+      ]
+    },
+    {
+      "id": "de08377c08d5",
+      "organization": "University of Texas, El Paso",
+      "title": "REU Site: Intelligent Manufacturing, AI and Simulation",
+      "locations": [
+        "El Paso, TX"
+      ],
+      "states": [
+        "TX"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Engineering-Aerospace",
+        "Engineering-Electrical",
+        "Materials Science",
+        "Engineering-Mechanical",
+        "Engineering-Industrial"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": "2027-02-15",
+      "rolling": null,
+      "apply_url": "https://www.utep.edu/couri/imas-reu/",
+      "summary": "A 10-week faculty-mentored summer research program on advanced manufacturing, machine learning, cyber-physical systems, and digital twin technologies addressing real-world manufacturing challenges.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-20T18:57:33+00:00",
+      "last_updated": "2026-11-20T18:57:33+00:00",
+      "last_verified": "2026-11-20T18:57:33+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://www.utep.edu/couri/imas-reu/"
         }
       ]
     },
@@ -23316,59 +23526,6 @@
       ]
     },
     {
-      "id": "2bd659fdb340",
-      "organization": "University of California, Berkeley",
-      "title": "SETI Research Center Summer Research Undergraduate Internships",
-      "locations": [
-        "Berkeley, CA"
-      ],
-      "states": [
-        "CA"
-      ],
-      "remote": "On-site",
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Physics",
-        "Engineering-Electrical",
-        "Mathematics & Statistics"
-      ],
-      "class_years": [
-        "Sophomore",
-        "Junior",
-        "Senior",
-        "Recent graduate"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": "$20/hour (total up to $8000)",
-      "paid": true,
-      "housing": false,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "http://seti.berkeley.edu/Internship.html",
-      "summary": "Ten-week summer research internship with Berkeley SETI Research Center on Breakthrough Listen, developing software and data analysis and operating large radio telescopes.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-06T17:48:10+00:00",
-      "last_updated": "2026-11-06T17:48:10+00:00",
-      "last_verified": "2026-11-20T16:12:45+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "http://seti.berkeley.edu/Internship.html"
-        }
-      ]
-    },
-    {
       "id": "842d5c0ee3d8",
       "organization": "University of California, Berkeley",
       "title": "UC Berkeley Language and Cognitive Development Lab Summer Internship",
@@ -23422,6 +23579,58 @@
       ]
     },
     {
+      "id": "2bd659fdb340",
+      "organization": "University of California, Berkeley - Berkeley SETI Research Center",
+      "title": "SETI Research Center Summer Research Undergraduate Internships",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": "On-site",
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Physics",
+        "Engineering-Electrical"
+      ],
+      "class_years": [
+        "Sophomore",
+        "Junior",
+        "Senior",
+        "Recent graduate"
+      ],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": "$20/hour (up to $8,000 total)",
+      "paid": true,
+      "housing": false,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "http://seti.berkeley.edu/Internship.html",
+      "summary": "10-week summer research internship with Berkeley SETI Research Center on Breakthrough Listen, developing software and operating large radio telescopes in the search for extraterrestrial intelligence.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-06T17:48:10+00:00",
+      "last_updated": "2026-11-20T18:56:59+00:00",
+      "last_verified": "2026-11-20T16:12:45+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "http://seti.berkeley.edu/Internship.html"
+        }
+      ]
+    },
+    {
       "id": "d25e87cbba5f",
       "organization": "University of California, Davis",
       "title": "Maternal Child Health Careers/Research Initiatives for Student Enhancement-Undergraduate Program (MCHC-RISE-UP)",
@@ -23471,63 +23680,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.kennedykrieger.org/training/programs/center-for-diversity-in-public-health-leadership-training/mchc-rise-up"
-        }
-      ]
-    },
-    {
-      "id": "b7dc264cec81",
-      "organization": "University of California, Davis",
-      "title": "UC Davis TERC Internship for Scholars Program",
-      "locations": [
-        "Davis, CA"
-      ],
-      "states": [
-        "CA"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Chemistry",
-        "Environmental Science",
-        "Biology",
-        "Mathematics & Statistics"
-      ],
-      "class_years": [
-        "Freshman",
-        "Sophomore",
-        "Junior",
-        "Senior",
-        "Recent graduate",
-        "Graduate student",
-        "Community college"
-      ],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": "$3500 per student",
-      "paid": true,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://tahoe.ucdavis.edu/interns",
-      "summary": "Eight-week summer applied research internship at UC Davis Tahoe Environmental Research Center on Lake Tahoe limnology, hydrology, ecology, and data analysis, including an independent project.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-06T17:48:18+00:00",
-      "last_updated": "2026-11-06T17:48:18+00:00",
-      "last_verified": "2026-11-20T16:12:45+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://tahoe.ucdavis.edu/interns"
         }
       ]
     },
@@ -23904,11 +24056,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://mrsec.ucsd.edu/reu/",
-      "summary": "Full-time summer materials science research in UC San Diego MRSEC faculty labs focused on predictive assemblies and engineered living materials, with seminars, field trips, and professional development.",
+      "summary": "Full-time summer materials science research in UC San Diego MRSEC faculty labs focused on predictive assemblies and engineered living materials, with seminars, workshops, and field trips.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:48:36+00:00",
-      "last_updated": "2026-11-06T17:48:36+00:00",
+      "last_updated": "2026-11-20T18:57:09+00:00",
       "last_verified": "2026-11-20T16:12:45+00:00",
       "sources": [
         "Pathways to Science"
@@ -23973,6 +24125,52 @@
         {
           "source": "Pathways to Science",
           "url": "https://versa.ucsd.edu/"
+        }
+      ]
+    },
+    {
+      "id": "0e19437f38ff",
+      "organization": "University of California, San Diego",
+      "title": "Medical Scientist Traing Program Summer Undergraduate Research Fellowship Program",
+      "locations": [
+        "La Jolla, CA"
+      ],
+      "states": [
+        "CA"
+      ],
+      "remote": null,
+      "opportunity_type": "REU",
+      "seasons": [
+        "Summer"
+      ],
+      "majors": [
+        "Biology"
+      ],
+      "class_years": [],
+      "min_gpa": null,
+      "citizenship": null,
+      "export_control": null,
+      "pay": null,
+      "paid": null,
+      "housing": null,
+      "letters_required": null,
+      "open_date": null,
+      "deadline": null,
+      "rolling": null,
+      "apply_url": "https://medschool.ucsd.edu/education/mstp/program/Pages/default.aspx",
+      "summary": "Summer undergraduate research fellowship affiliated with UCSD's Medical Scientist Training Program, offering biomedical research experience for undergraduates interested in physician-scientist careers.",
+      "org_size": "Smaller lab / organization",
+      "sector": "Academic Research",
+      "first_seen": "2026-11-20T18:57:12+00:00",
+      "last_updated": "2026-11-20T18:57:12+00:00",
+      "last_verified": "2026-11-20T18:57:12+00:00",
+      "sources": [
+        "Pathways to Science"
+      ],
+      "links": [
+        {
+          "source": "Pathways to Science",
+          "url": "https://medschool.ucsd.edu/education/mstp/program/Pages/default.aspx"
         }
       ]
     },
@@ -24388,11 +24586,11 @@
       "deadline": null,
       "rolling": null,
       "apply_url": "https://ccrf.uchicago.edu/content/research-experiences-undergraduates-reus-university-chicago",
-      "summary": "Intensive 10-week NSF-funded research program in a PhD-level molecular and cell biology laboratory with workshops and seminars, for students from schools lacking such labs.",
+      "summary": "Intensive 10-week NSF-funded program where undergraduates from schools without PhD-level labs conduct molecular and cell biology research in departmental laboratories, plus workshops and seminars.",
       "org_size": "Smaller lab / organization",
       "sector": "Academic Research",
       "first_seen": "2026-11-06T17:49:14+00:00",
-      "last_updated": "2026-11-06T17:49:14+00:00",
+      "last_updated": "2026-11-20T18:57:21+00:00",
       "last_verified": "2026-11-20T16:12:45+00:00",
       "sources": [
         "Pathways to Science"
@@ -24401,56 +24599,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://ccrf.uchicago.edu/content/research-experiences-undergraduates-reus-university-chicago"
-        }
-      ]
-    },
-    {
-      "id": "aadcee699cbc",
-      "organization": "University of Cincinnati",
-      "title": "Summer Undergraduate Research Fellowship in Biomedical Science",
-      "locations": [
-        "Cincinnati, OH"
-      ],
-      "states": [
-        "OH"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Biochemistry",
-        "Biology",
-        "Public Health",
-        "Neuroscience",
-        "Pharmaceutical Sciences"
-      ],
-      "class_years": [],
-      "min_gpa": null,
-      "citizenship": null,
-      "export_control": null,
-      "pay": null,
-      "paid": null,
-      "housing": null,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://med.uc.edu/depart/bmi/surf",
-      "summary": "A 9 or 10-week summer research internship doing clinical, translational, or basic biomedical research with faculty at UC College of Medicine and Cincinnati Children's.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-06T17:49:26+00:00",
-      "last_updated": "2026-11-06T17:49:26+00:00",
-      "last_verified": "2026-11-20T16:12:45+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://med.uc.edu/depart/bmi/surf"
         }
       ]
     },
@@ -24700,55 +24848,6 @@
         {
           "source": "Pathways to Science",
           "url": "https://www.colorado.edu/physics-jila-reu/"
-        }
-      ]
-    },
-    {
-      "id": "b1267be4400a",
-      "organization": "University of Colorado, Boulder",
-      "title": "Summer Multicultural Access to Research Training (SMART)",
-      "locations": [
-        "Boulder, CO"
-      ],
-      "states": [
-        "CO"
-      ],
-      "remote": null,
-      "opportunity_type": "REU",
-      "seasons": [
-        "Summer"
-      ],
-      "majors": [
-        "Environmental Science"
-      ],
-      "class_years": [
-        "Sophomore",
-        "Junior"
-      ],
-      "min_gpa": null,
-      "citizenship": "US citizen or permanent resident",
-      "export_control": null,
-      "pay": null,
-      "paid": true,
-      "housing": true,
-      "letters_required": null,
-      "open_date": null,
-      "deadline": null,
-      "rolling": null,
-      "apply_url": "https://www.colorado.edu/smart/undergraduates",
-      "summary": "Ten-week summer program where underrepresented undergraduates conduct faculty-mentored research and attend scientific writing and presentation workshops in preparation for graduate study in science, math, and engineering.",
-      "org_size": "Smaller lab / organization",
-      "sector": "Academic Research",
-      "first_seen": "2026-11-06T17:49:44+00:00",
-      "last_updated": "2026-11-06T17:49:44+00:00",
-      "last_verified": "2026-11-20T16:12:45+00:00",
-      "sources": [
-        "Pathways to Science"
-      ],
-      "links": [
-        {
-          "source": "Pathways to Science",
-          "url": "https://www.colorado.edu/smart/undergraduates"
         }
       ]
     },
