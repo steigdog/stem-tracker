@@ -9335,5 +9335,298 @@
       "gone": 0,
       "error": 86
     }
+  },
+  {
+    "kind": "requests",
+    "started": "2026-11-21T17:49:28+00:00",
+    "finished": "2026-11-21T17:49:28+00:00",
+    "sources": {},
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [],
+    "warnings": [],
+    "llm": {}
+  },
+  {
+    "kind": "collect",
+    "started": "2026-11-21T17:49:28+00:00",
+    "finished": "2026-11-21T17:51:29+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 56,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "failed",
+        "note": "HTTPError"
+      },
+      "Moderna": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "failed",
+        "note": "HTTPError"
+      },
+      "Pfizer": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "failed",
+        "note": "HTTPError"
+      },
+      "NASA Internships": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "DOE SULI (Science Undergraduate Laboratory Internships)": {
+        "found": 1,
+        "read": 1,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Summer Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Bernard S. and Sophie G. Gould MIT Summer Research Program in Biology (BSG-MSRP-Bio)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Research in Astronomy (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Research Experience for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Programs for Undergraduate Research (SPUR)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Young Scholars Summer Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "KU Chemistry REU Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program (SURP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Internship in Biological Sciences in Public Health": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "INSIGHT Summer Research Training Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Boeing": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "failed",
+        "note": "HTTPError"
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 0,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "failed",
+        "note": "HTTPError"
+      },
+      "Pathways to Science": {
+        "found": 542,
+        "read": 3,
+        "added": 0,
+        "updated": 0,
+        "skipped": 3,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [],
+    "updated": [],
+    "removed": [],
+    "failed": [
+      {
+        "where": "Johnson & Johnson",
+        "error": "HTTPError('HTTP 429 for https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs')\nTraceback (most recent call last):\n  File \"/home/runner/work/stem-tracker/stem-tracker/agent/run.py\", line 172, in collect\n    raws = fut.result()\n           ^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/concurrent/futures/_base.py\", line 449, in result\n    return self.__get_result()\n      "
+      },
+      {
+        "where": "Moderna",
+        "error": "HTTPError('HTTP 429 for https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/jobs')\nTraceback (most recent call last):\n  File \"/home/runner/work/stem-tracker/stem-tracker/agent/run.py\", line 172, in collect\n    raws = fut.result()\n           ^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/concurrent/futures/_base.py\", line 449, in result\n    return self.__get"
+      },
+      {
+        "where": "Pfizer",
+        "error": "HTTPError('HTTP 429 for https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs')\nTraceback (most recent call last):\n  File \"/home/runner/work/stem-tracker/stem-tracker/agent/run.py\", line 172, in collect\n    raws = fut.result()\n           ^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/concurrent/futures/_base.py\", line 449, in result\n    return self.__"
+      },
+      {
+        "where": "Boeing",
+        "error": "HTTPError('HTTP 429 for https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs')\nTraceback (most recent call last):\n  File \"/home/runner/work/stem-tracker/stem-tracker/agent/run.py\", line 172, in collect\n    raws = fut.result()\n           ^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/concurrent/futures/_base.py\", line 449, in result\n    return self"
+      },
+      {
+        "where": "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate",
+        "error": "HTTPError('HTTP 429 for https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436')\nTraceback (most recent call last):\n  File \"/home/runner/work/stem-tracker/stem-tracker/agent/run.py\", line 172, in collect\n    raws = fut.result()\n           ^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/l"
+      },
+      {
+        "where": "extraction",
+        "error": "BadRequestError(\"Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011ChGVqr3FL8JXNbd7n9fRZ'}\") - stopping extraction for this run"
+      }
+    ],
+    "warnings": [
+      "10 postings waiting for the next run (max_extractions_per_run reached)"
+    ],
+    "llm": {
+      "extractor": "claude",
+      "model": "claude-opus-5-5",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "calls": 0
+    }
   }
 ]
