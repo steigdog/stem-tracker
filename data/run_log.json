@@ -12144,5 +12144,224 @@
       "cache_read_input_tokens": 0,
       "calls": 0
     }
+  },
+  {
+    "kind": "verify",
+    "started": "2026-11-27T17:13:00+00:00",
+    "finished": "2026-11-27T17:31:46+00:00",
+    "sources": {
+      "SpaceX": {
+        "found": 8,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Moderna": {
+        "found": 40,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 37,
+        "status": "ok",
+        "note": ""
+      },
+      "Johnson & Johnson": {
+        "found": 62,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 62,
+        "status": "ok",
+        "note": ""
+      },
+      "Pathways to Science": {
+        "found": 499,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Diversity Program (SURD)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "MagLab Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "CNMB Research Experiences for Undergraduates": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Pitt Public Health Undergraduate Scholars Program (PHUSP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 1,
+        "status": "ok",
+        "note": ""
+      },
+      "NSF REU at LRSM": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Summer Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Research Experiences for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Research Experience for Undergraduates (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Undergraduate Research in Astronomy (REU)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Programs for Undergraduate Research (SPUR)": {
+        "found": 2,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Young Scholars Summer Research Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "KU Chemistry REU Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Internship in Biological Sciences in Public Health": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "Summer Undergraduate Research Program (SURP)": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      },
+      "INSIGHT Summer Research Training Program": {
+        "found": 1,
+        "read": 0,
+        "added": 0,
+        "updated": 0,
+        "skipped": 0,
+        "status": "ok",
+        "note": ""
+      }
+    },
+    "added": [],
+    "updated": [],
+    "removed": [
+      "University of Georgia - Hands-on research in Genomics and Computational Biology (posting offline)",
+      "Virginia Institute of Marine Science - Coastal Critical Zone Network: Summer Undergraduate Internships (posting offline)",
+      "Pennsylvania State University - Summer Translational Cardiovascular Science Institute (STCSI) (posting offline)",
+      "University of Chicago - Materials Research Science & Engineering Center Research Experiences for Undergraduates (posting offline)",
+      "University of Kansas - Research Experiences for Undergraduates: IDEA Incubator in Porous Materials (posting offline)",
+      "University of Maryland, College Park - Physics Undergrad Summer Research - TREND (Teaching and Research Experiences in Nonlinear Dynamics) (posting offline)",
+      "University of Missouri, Columbia - REU in Material Science and Engineering (posting offline)",
+      "University of Nebraska, Lincoln - REEU: Expanding Opportunities In Agricultural Sciences: Crop-to-Food Innovation (posting offline)",
+      "University of North Carolina, Charlotte - NanoSURE - Summer Research Experience for Undergraduates (NSF-REU/DOD-ASSURE) (posting offline)",
+      "University of North Carolina, Charlotte - Summer Research Experience in Urban Science (REU) (posting offline)",
+      "University of Tennessee Health Sciences Center - Summer Research Scholars (SRS) (posting offline)"
+    ],
+    "failed": [],
+    "warnings": [],
+    "llm": {},
+    "checks": {
+      "live": 516,
+      "gone": 11,
+      "error": 100
+    }
   }
 ]
