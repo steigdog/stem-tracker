@@ -1,6 +1,5 @@
 {
   "Pfizer": [
-    10,
     7,
     7,
     7,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "SpaceX": [
-    55,
     55,
     55,
     55,
@@ -61,10 +60,10 @@
     57,
     57,
     57,
+    57,
     57
   ],
   "Moderna": [
-    39,
     40,
     40,
     40,
@@ -83,6 +82,7 @@
     41,
     42,
     42,
+    0,
     0,
     0,
     0,
@@ -160,7 +160,6 @@
     1
   ],
   "Boeing": [
-    24,
     26,
     26,
     28,
@@ -189,10 +188,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "Johnson & Johnson": [
-    74,
     78,
     68,
     63,
@@ -221,10 +220,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "Pathways to Science": [
-    555,
     555,
     555,
     555,
@@ -253,9 +252,11 @@
     542,
     542,
     537,
-    535
+    535,
+    524
   ],
   "Summer Undergraduate Research Diversity Program (SURD)": [
+    1,
     1,
     1,
     1,
@@ -309,6 +310,7 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "CNMB Research Experiences for Undergraduates": [
@@ -336,9 +338,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Pitt Public Health Undergraduate Scholars Program (PHUSP)": [
+    1,
     1,
     1,
     1,
@@ -392,6 +396,7 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate": [
@@ -420,9 +425,11 @@
     0,
     0,
     0,
-    0
+    0,
+    1
   ],
   "NSF REU at LRSM": [
+    1,
     1,
     1,
     1,
@@ -469,9 +476,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Bernard S. and Sophie G. Gould MIT Summer Research Program in Biology (BSG-MSRP-Bio)": [
+    1,
     1,
     1,
     1,
@@ -511,9 +520,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Summer Research Experience for Undergraduates (REU)": [
+    1,
     1,
     1,
     1,
@@ -553,9 +564,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Summer Programs for Undergraduate Research (SPUR)": [
+    1,
     1,
     1,
     1,
@@ -588,9 +601,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "KU Chemistry REU Program": [
+    1,
     1,
     1,
     1,
@@ -616,6 +631,7 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "Summer Undergraduate Research Program (SURP)": [
@@ -630,9 +646,11 @@
     1,
     1,
     1,
+    1,
     1
   ],
   "INSIGHT Summer Research Training Program": [
+    1,
     1,
     1,
     1,
